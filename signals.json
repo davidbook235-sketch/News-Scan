@@ -1,12 +1,12 @@
 {
- "updated": "06 Oct 2026 11:36 IST",
+ "updated": "06 Oct 2026 18:42 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 247,
  "swing": [
   {
-   "symbol": "LGEINDIA",
+   "symbol": "BHEL",
    "setup": "Breakout",
    "score": 5,
    "checks": {
@@ -16,19 +16,41 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1770.9,
-   "stop": 1684.85,
-   "risk": 86.05,
-   "t1": 1899.97,
-   "t2": 2029.04,
-   "rsi": 68.6,
-   "volx": 6.01,
-   "rs": 22.3,
-   "date": "2026-10-05",
+   "entry": 452.0,
+   "stop": 427.21,
+   "risk": 24.79,
+   "t1": 489.18,
+   "t2": 526.36,
+   "rsi": 65.4,
+   "volx": 3.66,
+   "rs": 25.5,
+   "date": "2026-10-06",
    "news": ""
   },
   {
-   "symbol": "ETERNAL",
+   "symbol": "MOTILALOFS",
+   "setup": "Breakout",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 1081.15,
+   "stop": 1021.02,
+   "risk": 60.13,
+   "t1": 1171.34,
+   "t2": 1261.53,
+   "rsi": 66.3,
+   "volx": 2.98,
+   "rs": 21.4,
+   "date": "2026-10-06",
+   "news": ""
+  },
+  {
+   "symbol": "SAIL",
    "setup": "Pullback",
    "score": 5,
    "checks": {
@@ -38,19 +60,19 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 320.8,
-   "stop": 306.49,
-   "risk": 14.31,
-   "t1": 342.27,
-   "t2": 363.74,
-   "rsi": 47.1,
-   "volx": 1.71,
-   "rs": 19.6,
-   "date": "2026-10-05",
+   "entry": 178.1,
+   "stop": 169.5,
+   "risk": 8.6,
+   "t1": 191.01,
+   "t2": 203.91,
+   "rsi": 49.5,
+   "volx": 1.43,
+   "rs": 15.4,
+   "date": "2026-10-06",
    "news": ""
   },
   {
-   "symbol": "ADANIPORTS",
+   "symbol": "LLOYDSME",
    "setup": "Pullback",
    "score": 5,
    "checks": {
@@ -60,15 +82,37 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1774.0,
-   "stop": 1707.7,
-   "risk": 66.3,
-   "t1": 1873.46,
-   "t2": 1972.91,
-   "rsi": 52.6,
-   "volx": 1.48,
-   "rs": 6.7,
-   "date": "2026-10-05",
+   "entry": 1858.2,
+   "stop": 1756.25,
+   "risk": 101.95,
+   "t1": 2011.13,
+   "t2": 2164.06,
+   "rsi": 52.1,
+   "volx": 1.46,
+   "rs": 14.3,
+   "date": "2026-10-06",
+   "news": ""
+  },
+  {
+   "symbol": "GROWW",
+   "setup": "Pullback",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 193.19,
+   "stop": 182.59,
+   "risk": 10.6,
+   "t1": 209.08,
+   "t2": 224.98,
+   "rsi": 55.4,
+   "volx": 1.47,
+   "rs": 4.0,
+   "date": "2026-10-06",
    "news": ""
   }
  ],
@@ -76,38 +120,76 @@
  "news": {
   "positive": [
    {
-    "symbol": "TCS",
-    "score": 1.6,
-    "signal": "NEUTRAL",
-    "price": 2114.4,
-    "chg": 1.9,
-    "volx": 1.8,
-    "above20": false,
+    "symbol": "MEESHO",
+    "score": 4.1,
+    "signal": "NEWS ONLY",
     "news": [
      {
-      "t": "TCS Q2 preview, dividend: Analysts see modest growth; PAT may rise by 13%",
-      "l": "https://www.business-standard.com/markets/news/tcs-q2-results-earnings-preview-expectation-dividend-announcement-record-date-2026-revenue-growth-pat-126100600110_1.html",
-      "s": 1
+      "t": "Meesho share price surges 10% in two days on heavy volume",
+      "l": "https://www.business-standard.com/markets/news/meesho-share-price-surges-10-in-two-days-on-heavy-volume-126100600589_1.html",
+      "s": 2
      },
      {
-      "t": "TCS Q2 preview, dividend: Analysts see modest growth; PAT may rise by 13% - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYjM3U1JDZmREbllqXzJ3NFNYV04tSmd6Njk1eF83WDcwR0s5UUQtcXJtTW82TG5JcVlFRExMYTNocVh6WWU2d1puLU1DcjloMms0LTJ6STRFZ3N2T0pnTzhvZkNjVXhaVUNpVEh4YXBVbm10YUI0Q2pMVUQxR2tGV3g3S0VOS0NpR29TOUpjajRxYXNGX3Jub01SdUxfNDhVU3h5NjVhQnhJY205czJRZWxISnFQT2hJNWNvb01Rb2poUkVIR2hsOVByUHNoRXdtTExmOGJERkdsY01iVnJGTXpJbXVxU0V4cW93UzczeE9KRVg2MWpHV20yd1nSAYICQVVfeXFMTXNkeHBEYkxFUS15WldNaU5sQXNKYTljM1VjR3FqbTY1b1ZzbjNwZkVRVVZNV0VLeUpFMVZ4ZC1ockdDWVRnUm9tVE5uOGJRYnlvX3E3akxyQlBQeFl2WmRyWjlucndlRU5QS0FZQWJma1hUWk5EbllCZ29KOUtqZFFSa0xlQzA2Y2xNRjhzWVpfSXNiMW9HTFpFSHNPOWw4RlJ6MXV0YXYtMFJsU3F6UGF1M1Y4ZlIxbnFkTjJlb3RhdWtQTlExM1FFbFBuOVZkeXdkLTYzMEY3MkFFd2ZLY1Babkx3Nk5fNElXVXdqS0pMdkdFSzd6TDVWeVpEc2VfQ0V3?oc=5",
-      "s": 1
+      "t": "Meesho Share Price Jumps 6%: What 152% Content Commerce Growth Really Means - NiftyTrader",
+      "l": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaU56c014aENwcTd4Zlh3Sks4Nk41SkFDTFZUVF9SYV9uczVPZW9fUzhtSmlkXzhpWEgzR20zSFFiSmFKOUoyNHlaaGV2aDZxeUhPWnVVYWZHVUpyVXZ1TERsV1VhWk1RSjlRNU1pYmllclhmYnZldTcxRzBrMHVIUkdHMWI?oc=5",
+      "s": 2
+     },
+     {
+      "t": "Meesho share price surges 10% in two days on heavy volume - business-standard.com",
+      "l": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2J5V2w0c0FzOUhzX0k0Q2xrYUNvUDM4eGI0dGVNbGJtc3hGMmF5Ym9mSHBEcjl2Y1FCc0pSWGFGR2VoSXJDZ04tWk5RZ0RLelJhdWlRSW1Pd1BEQ3NiQTJScGY1LWRQRzRublQtYzJKMWNqNjdPdktjR1dnSzFnWWpvQTRDd0l4UTNKOUVTajBJLTJybXVEQmthN3c5VWJ2SU5ZQkxSWmJTSUhzcDZpZDM1cGM0YzM4bVo4aU5CZGliQ2p2eFHSAcYBQVVfeXFMTlNieVdsNHNBczlIc19JNENsa2FDb1AzOHhiNHRlTWxibXN4RjJheWJvZkhwRHI5dmNRQnNKUlhhRkdlaElyQ2dOLVpOUWdES3pSYXVpUUltT3dQRENzYkEyUnBmNS1kUEc0bm5ULWMySjFjajY3T3ZLY0dXZ0sxZ1lqb0E0Q3dJeFEzSjlFU2owSS0ycm11REJrYTd3OVVidklOWUJMUlpiU0lIc3A2aWQzNXBjNGMzOG1aOGlOQmRpYkNqdnhR?oc=5",
+      "s": 2
      }
     ]
    },
    {
-    "symbol": "ETERNAL",
-    "score": 1.6,
+    "symbol": "BSE",
+    "score": 1.8,
     "signal": "NEUTRAL",
-    "price": 320.8,
-    "chg": 2.2,
-    "volx": 1.71,
+    "price": 3305.0,
+    "chg": 3.94,
+    "volx": 1.35,
+    "above20": true,
+    "news": [
+     {
+      "t": "Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-bse-coal-india-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134739696.cms",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "TECHM",
+    "score": 1.8,
+    "signal": "NEUTRAL",
+    "price": 1504.5,
+    "chg": -2.04,
+    "volx": 1.37,
     "above20": false,
     "news": [
      {
-      "t": "Zee Business. . Stock Of The Day \ud83d\udccc \u27a1\ufe0fBuy Eternal Futures: SL 316 Tgt 325, 328, 333 - Expect very strong results this quarter \u27a1\ufe0fBuy Paytm Futures: Support Level 1660, Higher Level 1725 - Digital platforms companies would be in first is FIIs buying list whene - facebook.com",
-      "l": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNG5iQ2NOUFNKZS1KUGM5OUFIcm1qZG5PUDg0WTZiQkJuWHRKSVcxM3haV0xYMlNic1N2OVpOZzZMVExIR0syZjhWbnRFMVl5emtrdTZuMzlJSDhFQk1oVXJ2YnJJT04tU21hWS1zdXRMRUpDUjE4aV9BWVM0Q3dHWTEwTGxHWXkzOEUxd0gxZUtLOUN3U2pOazFIZlRtbGw1RXlONU1BNnZrUXNnaDRxRUtrUmpJOXVBVjBhaWNIeHVtVUVoRzRVeUQzY2h2REhadlFuV0hsOXNDbDFjSkk4Tm1WXy1DWkV0c0w4LQ?oc=5",
+      "t": "Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-bse-coal-india-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134739696.cms",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "COALINDIA",
+    "score": 1.2,
+    "signal": "NEUTRAL",
+    "price": 411.65,
+    "chg": -3.16,
+    "volx": 0.81,
+    "above20": false,
+    "news": [
+     {
+      "t": "Stocks To Watch Next Week (July 13-17): HDFC Bank, Dabur, Tata Steel, Coal India Among Key Names to Track - Goodreturns",
+      "l": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVRkRHAxNHBaNm4yX1JOdFNWaXVUdWwtQzdXY01hdDJ0ZUNUcXBfZmlBdndGQ0FDdlBxZ3Nxa0Q1YllRcHlBUnl0eFZtNl9fZE9vczJxX0pfZGJBZnR1cExadDY4emRXd3ZhSmFxZFpodTFkWUZQelZZRndTbnhwWW9OX0lyajNtRy1RWkFHV0xVcmJNWU9sZW1lZHRMbFRKazhyT1FVR0tHRkQ0QVB2dXhJUWRHVm5ITXJKOVRfU19DaEtsNklEd0pKTk53YlhwVFRlUzdEN1FYY2hfZHFrLW9JelU?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-bse-coal-india-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134739696.cms",
       "s": 2
      }
     ]
@@ -116,12 +198,12 @@
   "negative": [
    {
     "symbol": "AXISBANK",
-    "score": -8.4,
-    "signal": "AVOID/SELL",
-    "price": 1222.2,
-    "chg": 0.42,
-    "volx": 1.59,
-    "above20": false,
+    "score": -6.4,
+    "signal": "NEG NEWS, price holding",
+    "price": 1248.0,
+    "chg": 2.11,
+    "volx": 1.51,
+    "above20": true,
     "news": [
      {
       "t": "Axis Bank shares in focus after Q2 biz update shows 23% rise in gross advances to Rs 13.8 lakh crore",
@@ -129,8 +211,8 @@
       "s": -3
      },
      {
-      "t": "Axis Bank Share Price Live Updates: Positive Momentum for Axis Bank as it Exceeds 20-Day SMA",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-06-oct-2026/liveblog/134721678.cms",
+      "t": "KMB, Axis Bank, IndusInd Bank shares gain up to 4%, IDFC First Bank falls 3%; here's why - BusinessToday - IndiaIPO",
+      "l": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT2RHbnRkRURSREZuWjkwTHBEMTJFQjFwYTc1aUZKZTJsZWVSWF9Ya0FGUHNUckRsMHVvSTYzUTlZWVFRb3FTamV5YmVzbzB1eEFnVTVtR2lKX0NRVURlb2FGUE1GdVVXVXAzVHdwUDFuMDBSU0RxOWptZXBlSGxFQVZyZEs2U1FjWFhmWkN5LVhIMGlFUEd5Nk9jQ2lnTE9rZG5oNnlkSC16T2NtUVlMd3I4cmZxR1Q2U3o0VXpIbnA5djlPVFNRcDN4NA?oc=5",
       "s": -3
      },
      {
@@ -141,12 +223,54 @@
     ]
    },
    {
-    "symbol": "KOTAKBANK",
-    "score": -6.1,
+    "symbol": "ICICIBANK",
+    "score": -2.6,
+    "signal": "AVOID/SELL",
+    "price": 1342.8,
+    "chg": 0.81,
+    "volx": 1.38,
+    "above20": false,
+    "news": [
+     {
+      "t": "ICICI Bank Q2 Results FY27: NII, NIM and Asset Quality in Focus Before Oct 17 - NiftyTrader",
+      "l": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81dzRrWkJwMHlhSG5FOWlqS05JaXYydEZlVUdoWkFWcVZwa3habnl6T2puZHktcko4WHY2REhGOVdEVFFJOVdvLVBXTkdsSWU3Yi1rZ1BCOUYwSlgweXVRbXR0MEpPeThXZ3ZyME0xWllkYkdXNm1KOQ?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "TRENT",
+    "score": -2.6,
     "signal": "NEG NEWS, price holding",
-    "price": 418.35,
-    "chg": 0.32,
-    "volx": 6.06,
+    "price": 2906.0,
+    "chg": 12.64,
+    "volx": 10.03,
+    "above20": true,
+    "news": [
+     {
+      "t": "SENSEX, NIFTY50 edge higher; Trent, Kotak Bank among top gainers after quarterly business updates - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaUZLNGNfZGFzSldLRW5vUWNVV3dXc3BEQzNPTWdKUU1zYTlzdmV3Z3RwUnhLd21FTnE5ZlpQZVJGaGVPbVJjelN4ckZMT1pETnNzSEctWUx4LVRNMnZVNUpTOEw0TkM4Wjl6amc2UGRzTHNnMDVMSzFrZmgyS2F6bk1WNjF2Z2JybFNqcFcwSUdiaWpiOS1FeF9SdDdnU2VfeWhzV2VKZk5MaXdLOGhBaGVZNmRCbm1PZnE5U0dmQ19SSWFoRXRjOFpqaWpOVmJCcUZjUm5vaVNKNUtuMG1rZ3gtejBTbWFONlE?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: Trent, Vedanta, Axis Bank, Adani Power, Marico & more - business-standard.com",
+      "l": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlFWdTdjQ29aeHlLNVl5Z2dhbGVEV0dfVTdiYi1KSkNQRldjTEY2dWtNWDhWT2VkN0xFRHV3eG1BUXNFM1ZQci1ZeU5HZzFwTHZMQXNnVUJWTTFfd1hxRWFfQjdVN3pQeHFIVEZiel9VNWxTbG1aekNFenZKSTFacGF1WTFPVVhWbVBubWU4TG8xQXBiNHdQQnc5RU5RdGFNWWFVbmlkSWlxenN2WTY1cDJob05RRHVqTlF1b1JfejlqZlJUcVVqaG9R0gHPAUFVX3lxTFBScHJtcUJQSnBXdTAzdWdHajhhNTNiclJJaWJxMDdxdExMeVhjWEJzOUZvdG82TzNwMGhlZ1dyUElmVEVYalZnd0VpWUhOUTNYN0c2Q1N2YnJMdzh4Ulp0a2Q5amtJalhGOUpLMlJldFg3Z29nZDJWYTFFeGFmR25Eb2YzTTdyQ1dKZzZ2Mkpub0JUb2tlX2xyUFdMYVlsaGFvOWllQ3BhRzljTlFaWllYN2hQVTZuQ19obktvZDQ4ZndLcmxnUHZyMEs4VnBEdw?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-bse-coal-india-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134739696.cms",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "KOTAKBANK",
+    "score": -2.3,
+    "signal": "NEG NEWS, price holding",
+    "price": 431.9,
+    "chg": 3.82,
+    "volx": 2.38,
     "above20": true,
     "news": [
      {
@@ -155,136 +279,26 @@
       "s": -3
      },
      {
-      "t": "Kotak Mahindra Bank shares jump over 4% as Q2 advances, deposits post strong growth - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSnhUbkhKQi1oekdmLWVQYzQ5ek5aczRSLV9ramg0NkVEZzhxLUZwQ004dTZlZ21DQUtSUzRXWlByaG1KLWtSVlVVSmc5aU10MTVyXzhnZDhCM3VvOHRSNlBjcVhJQzZ1Skx0VmNmbkxHNnZYTFI2Y1E2anFnb0lXazlnRWxHcTczVzFJSkhPTzBBbGhIbXN3QzFzbzAwVUgtTE9LMHN6YmpqVDB1MlR6czNiempJV0ZlUVJpdG9GMzFPcjhWZUZYSW9kcERaSUVPcXpMa3FubDNtM2l1?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Top stocks in focus tomorrow: Investors must watch Trent, Kotak Mahindra Bank, Vedanta shares on Tue, 6 Oct | Triggers - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRDZQSUFOMWtWcmRabjVuWmFPX2VTQUtmV2t0ZUpJU3JRQzVLQjBuQ0RmRWE1WUhlN2phMkVYSXRmZDFOVmM5YjNiNVpYRFpSc0V1eS1Hek82TGtQajM1Mm91b2ZJc3JSaDlqWWtkOU5jdlZaT25zQ19ydW5Vc1BQTVFOSk1ILWRSNm1wd2FmZXVtYWJ1dXAxaHVJLTZ0Rkx3dTIxUXVDdkdTa3B3M2IyTVJ2VDJyNzlVeng3VjZ6NFZKX2d6TnBOZ1NqUnlmdURoc053RkxZc3U3SlJVZVU3TWlsalZSNGRNZ1Rfc29nSVZVSWlscUlDYVZJd0Zydw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "TRENT",
-    "score": -4.2,
-    "signal": "AVOID/SELL",
-    "price": 2580.0,
-    "chg": 0.0,
-    "volx": 1.18,
-    "above20": false,
-    "news": [
-     {
-      "t": "Top stocks in focus tomorrow: Investors must watch Trent, Kotak Mahindra Bank, Vedanta shares on Tue, 6 Oct | Triggers - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRDZQSUFOMWtWcmRabjVuWmFPX2VTQUtmV2t0ZUpJU3JRQzVLQjBuQ0RmRWE1WUhlN2phMkVYSXRmZDFOVmM5YjNiNVpYRFpSc0V1eS1Hek82TGtQajM1Mm91b2ZJc3JSaDlqWWtkOU5jdlZaT25zQ19ydW5Vc1BQTVFOSk1ILWRSNm1wd2FmZXVtYWJ1dXAxaHVJLTZ0Rkx3dTIxUXVDdkdTa3B3M2IyTVJ2VDJyNzlVeng3VjZ6NFZKX2d6TnBOZ1NqUnlmdURoc053RkxZc3U3SlJVZVU3TWlsalZSNGRNZ1Rfc29nSVZVSWlscUlDYVZJd0Zydw?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Trent rallies 10% after Q2 business update, m-cap tops \u20b91.5 trillion",
-      "l": "https://www.business-standard.com/markets/news/trent-share-price-rallies-10-after-q2-business-update-m-cap-tops-1-5-trillion-126100600160_1.html",
-      "s": -2
-     },
-     {
-      "t": "Stocks to watch: Trent, Vedanta, Axis Bank, Adani Power, Marico & more",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-trent-vedanta-axis-bank-adani-power-marico-more-126100600092_1.html",
-      "s": -2
-     }
-    ]
-   },
-   {
-    "symbol": "YESBANK",
-    "score": -3.0,
-    "signal": "AVOID/SELL",
-    "price": 21.06,
-    "chg": 1.49,
-    "volx": 0.79,
-    "above20": false,
-    "news": [
-     {
-      "t": "Yes Bank Q2 FY27 Results | Bank of India Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlBPUkEwNHZxZjRMcmJaMnpmZEVUZmprSWNZWnE1MGxXS01zYkhPTUx0MnplVktkVFdMamN6Nlh2YWpBS1BwcWVSMHhTbFEySi1KX0VUREVuRE01WnBJTk9YbVE0M29WWFNQR3pEdkJBTHJIRjZPMmpGNnROQWhJYWs0RnV4RTQwYU1DWUFTYTAwczJsbGh0bDFfV1J1c25sMGFYTGQtdE9OOFRvYXEzRURnWm1jVEswTE5iOUphejZVOVFDcHozRFV4SjJ0ejJ1YnJUQTl0OUM?oc=5",
-      "s": -3
-     },
-     {
-      "t": "YES Bank Share Price - Live NSE: YESBANK Stock Price & Chart - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ENUFMY052a2RKUUtMSXZ4ZmRuQ3Nfdk8zMzlrQXJTRTgzOUotSzFVQ0dXNnB0a0doeDI4dkNscVZDNC0xZmF6cXA3bktlZEhHajRXZWdWckx1N0VCbEhQaUF6ZkZ5QQ?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Yes Bank releases Q2 FY27 results schedule: check date and time; shares jump nearly 2% - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRDFFQmpHbDdrc09wZXRFMjVXeVBQZjhzVktHSE45SGs5NTVvVV9QVVNNYWt0YjhzYUpzUV9xdzhmWFRhcjN1ZDh1eVdWUXNkUFo5czhpc2sxckl6WmluSE1xUnVqOUFCZDQzV0xvbl82MEtyYWhObWw1MXJyU1dOb2puMGMwdVJWWkhEdFlTcEtxVEo2U3pDSlJLSTRuRERUZjRqamZLZEVBTE1oNGRLZENsNVpmQnFzUkZxM2RpeUdQOU5Fd01iOHRQT1YxWDhRcy1IMjRn?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "INDUSINDBK",
-    "score": -2.7,
-    "signal": "AVOID/SELL",
-    "price": 886.6,
-    "chg": -0.03,
-    "volx": 1.2,
-    "above20": false,
-    "news": [
-     {
-      "t": "What You Could Reuse From IndusInd Bank's 20% Year - Simply Wall Street",
-      "l": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUZPWExzeS1JUVVrQmMyQVZHb096dWdEYWZLWHZvM2V4RlprM2hXczR5R0RnMTZMVHVrXzUweVl3QV9qRG1FMF8tcWc3RVBja0RTejVyMFhtaXkxUXRyZG5oYTlwZzUyT1pFNW5iSi0xVm5haVRzQTF0cnNrZkpBei1vOFh4cUp0eWVKbXpVMXE4SXM4eGRBUUphaXRUb2ZLRFRZUno1YW0tbC1xSXdXdmQ1cTJUNVZQODFmNUNmMGpiMXVKYkHSAcsBQVVfeXFMTjM0YjFvU19qLWRFeGxGelpvYW9zR29iMFAwcmhkNF94aU5Vc0JQRDZzcTg3d041Y1RMMG1HOS1tQmQ3cXZnNzZXbTNBWWVDRG1SNURFeTRlZ2g2ay01NXM3bHZMUUtLNWVqSFNUSUdpVXVxeHhUOGd1Y0hUYWdtY0tjRUpuZk5GQVEzTjZaNlhYNkNibTRQS0JLbVphY1QxZ0RRQzdlRTN2bW12T0ZidVdnTVMzdTZSaTNxaXh3N094a0twaU9xX1M3X0k?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "BANKINDIA",
-    "score": -1.9,
-    "signal": "NEUTRAL",
-    "price": 133.5,
-    "chg": 3.1,
-    "volx": 3.43,
-    "above20": false,
-    "news": [
-     {
-      "t": "Yes Bank Q2 FY27 Results | Bank of India Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlBPUkEwNHZxZjRMcmJaMnpmZEVUZmprSWNZWnE1MGxXS01zYkhPTUx0MnplVktkVFdMamN6Nlh2YWpBS1BwcWVSMHhTbFEySi1KX0VUREVuRE01WnBJTk9YbVE0M29WWFNQR3pEdkJBTHJIRjZPMmpGNnROQWhJYWs0RnV4RTQwYU1DWUFTYTAwczJsbGh0bDFfV1J1c25sMGFYTGQtdE9OOFRvYXEzRURnWm1jVEswTE5iOUphejZVOVFDcHozRFV4SjJ0ejJ1YnJUQTl0OUM?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "HDFCBANK",
-    "score": -1.9,
-    "signal": "NEUTRAL",
-    "price": 704.8,
-    "chg": -2.27,
-    "volx": 2.39,
-    "above20": false,
-    "news": [
-     {
-      "t": "Here's why HDFC Bank shares fell over 2% today despite optimism over appointment of new CEO - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOVFsbldZVnUwWWJYV1NWVlFaRU1HME9IbHFuQ05zY0xkUThtV2FuSkRvcGFCQ1BidGRIRnY5MUhoUUJETUc3bTF0cVA3d3ZaX2h1elhITjhoS1U3d2RncXNSVDlyMUxWbkZCWUdIOGJCNDl5ZEV5bmJBbkhXMkdPa0pGcVhMYjNZNFRoRUUtaWNCam91Q1FHb2hMV00tXzRNb3FlR2JwY0FWLTlSbmxoTTZtdnNFaXQzNWN0MGRzUzk1aDlicG80dlBVanYxMGJNTnZvbDNwdkswWFRkTEh6aTFXOXhld0NOTGZN0gHwAUFVX3lxTE50UlVjZWtYMHRtWFJYbEFPZktnQzN3VThNTFdxaVpGV1IxLVBCaEtWWFdRQ3g2akd5TWlJRjdTc0ljclJSeHNvYVpmX3ZKZlotZ21KN3VnZWp4elJwWkpYQXNLMHNuUDA3dkhianJUY1U2MkVRd2VuX1dPZHRXMHhPNm9RQ1M5Nm56bFpESGpoY3VmV3VMNWppZ29YeVlYUDFCRE1QdW5MRWpHRlozQnViR1NUSUFqS21jWGZvUEQ3d2FsUXlOX0hXM0ktcjZmY2duNmdrZU5xa0JjamxldGhrZVlBNk41MTVsdEU5WlF5Qg?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Stocks To Watch Next Week (July 13-17): HDFC Bank, Dabur, Tata Steel, Coal India Among Key Names to Track - Goodreturns",
-      "l": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVRkRHAxNHBaNm4yX1JOdFNWaXVUdWwtQzdXY01hdDJ0ZUNUcXBfZmlBdndGQ0FDdlBxZ3Nxa0Q1YllRcHlBUnl0eFZtNl9fZE9vczJxX0pfZGJBZnR1cExadDY4emRXd3ZhSmFxZFpodTFkWUZQelZZRndTbnhwWW9OX0lyajNtRy1RWkFHV0xVcmJNWU9sZW1lZHRMbFRKazhyT1FVR0tHRkQ0QVB2dXhJUWRHVm5ITXJKOVRfU19DaEtsNklEd0pKTk53YlhwVFRlUzdEN1FYY2hfZHFrLW9JelU?oc=5",
-      "s": -3
-     },
-     {
-      "t": "HDFC Bank slips despite Nifty Bank recovery, analysts retain buy ratings",
-      "l": "https://www.business-standard.com/markets/news/hdfc-bank-slips-despite-nifty-bank-recovery-analysts-retain-buy-ratings-126100501082_1.html",
+      "t": "Why is Kotak Mahindra Bank outperforming Nifty and Bank Nifty in last two months? Here are 3 key reasons - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSGlueXgzZTloSDNWNDJmSHFoT2YxSlBDcC1Yb3NRNDhiMEdYcDRhXy1tZENnYWhteFc4RzdqaVBhdVZYaHpNa2JoSU02MmtDWXBBU0prSFVsUy1yU1IydnduUUl4NlQxSEprVUdUYzVBbGtrNUFWcnVTYjJpUHlSZHBIcWJ6SGpQWHdMSFBfQWFLLWU5MVI4dHVsYnBsQVJHWS0xRW9tbG13WThoZW1PNkRES09YdUNIUFltcWM1cWpHWGVGT0RfWmhQWjhPSlgwangtbTI2LXViQVMtaWlrZGFqalYwcmZnQjVoQTBUU0ljQW5ENzg5RXJ3aGzSAYICQVVfeXFMUGlHQkhRUjd2Z0RlOTZFUzNBdVdURTJsQkxIQzhzb3VURUlLanJUSEhKZjd2UkxiclVUUHZfTjNWSkhoN2JMZU0wMzc3MkZyeURNdXdLVTZkQzE3dl83QldLeC1nREVIb0lKVk9zTEt6Q2lRQ1FXUUJEby10aXYxNkZMNTBYMGFSbzZUY1Z3UVpfVERTN2p5MGY2VDJFV3k1OU1VUnlKdWcxUmRaZG9xWmtBRVF0T0M0Z2x5em83UnRPZEV4YU1FODIza0ZtTFk2Ml9YTGJwdUc5T1dWZS1aeGRaZ1l6R2dPbWhOck00NFVOT2hfZ3paRnRZVC1QZzdmOFVn?oc=5",
       "s": -1
      }
     ]
    },
    {
     "symbol": "MARICO",
-    "score": -1.5,
-    "signal": "NEUTRAL",
-    "price": 781.35,
-    "chg": -0.59,
-    "volx": 1.17,
+    "score": -2.1,
+    "signal": "AVOID/SELL",
+    "price": 794.15,
+    "chg": 0.53,
+    "volx": 0.89,
     "above20": false,
     "news": [
+     {
+      "t": "Stocks to watch: Trent, Vedanta, Axis Bank, Adani Power, Marico & more - business-standard.com",
+      "l": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlFWdTdjQ29aeHlLNVl5Z2dhbGVEV0dfVTdiYi1KSkNQRldjTEY2dWtNWDhWT2VkN0xFRHV3eG1BUXNFM1ZQci1ZeU5HZzFwTHZMQXNnVUJWTTFfd1hxRWFfQjdVN3pQeHFIVEZiel9VNWxTbG1aekNFenZKSTFacGF1WTFPVVhWbVBubWU4TG8xQXBiNHdQQnc5RU5RdGFNWWFVbmlkSWlxenN2WTY1cDJob05RRHVqTlF1b1JfejlqZlJUcVVqaG9R0gHPAUFVX3lxTFBScHJtcUJQSnBXdTAzdWdHajhhNTNiclJJaWJxMDdxdExMeVhjWEJzOUZvdG82TzNwMGhlZ1dyUElmVEVYalZnd0VpWUhOUTNYN0c2Q1N2YnJMdzh4Ulp0a2Q5amtJalhGOUpLMlJldFg3Z29nZDJWYTFFeGFmR25Eb2YzTTdyQ1dKZzZ2Mkpub0JUb2tlX2xyUFdMYVlsaGFvOWllQ3BhRzljTlFaWllYN2hQVTZuQ19obktvZDQ4ZndLcmxnUHZyMEs4VnBEdw?oc=5",
+      "s": -3
+     },
      {
       "t": "Stocks to watch: Trent, Vedanta, Axis Bank, Adani Power, Marico & more",
       "l": "https://www.business-standard.com/markets/news/stocks-to-watch-trent-vedanta-axis-bank-adani-power-marico-more-126100600092_1.html",
@@ -294,13 +308,18 @@
    },
    {
     "symbol": "ADANIPOWER",
-    "score": -1.5,
-    "signal": "NEUTRAL",
-    "price": 201.0,
-    "chg": 2.44,
-    "volx": 1.18,
+    "score": -2.1,
+    "signal": "AVOID/SELL",
+    "price": 202.4,
+    "chg": 0.7,
+    "volx": 1.36,
     "above20": false,
     "news": [
+     {
+      "t": "Stocks to watch: Trent, Vedanta, Axis Bank, Adani Power, Marico & more - business-standard.com",
+      "l": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlFWdTdjQ29aeHlLNVl5Z2dhbGVEV0dfVTdiYi1KSkNQRldjTEY2dWtNWDhWT2VkN0xFRHV3eG1BUXNFM1ZQci1ZeU5HZzFwTHZMQXNnVUJWTTFfd1hxRWFfQjdVN3pQeHFIVEZiel9VNWxTbG1aekNFenZKSTFacGF1WTFPVVhWbVBubWU4TG8xQXBiNHdQQnc5RU5RdGFNWWFVbmlkSWlxenN2WTY1cDJob05RRHVqTlF1b1JfejlqZlJUcVVqaG9R0gHPAUFVX3lxTFBScHJtcUJQSnBXdTAzdWdHajhhNTNiclJJaWJxMDdxdExMeVhjWEJzOUZvdG82TzNwMGhlZ1dyUElmVEVYalZnd0VpWUhOUTNYN0c2Q1N2YnJMdzh4Ulp0a2Q5amtJalhGOUpLMlJldFg3Z29nZDJWYTFFeGFmR25Eb2YzTTdyQ1dKZzZ2Mkpub0JUb2tlX2xyUFdMYVlsaGFvOWllQ3BhRzljTlFaWllYN2hQVTZuQ19obktvZDQ4ZndLcmxnUHZyMEs4VnBEdw?oc=5",
+      "s": -3
+     },
      {
       "t": "Stocks to watch: Trent, Vedanta, Axis Bank, Adani Power, Marico & more",
       "l": "https://www.business-standard.com/markets/news/stocks-to-watch-trent-vedanta-axis-bank-adani-power-marico-more-126100600092_1.html",
@@ -309,33 +328,107 @@
     ]
    },
    {
-    "symbol": "TATASTEEL",
-    "score": -1.1,
+    "symbol": "DABUR",
+    "score": -1.9,
     "signal": "NEUTRAL",
-    "price": 178.14,
-    "chg": 0.08,
-    "volx": 0.84,
-    "above20": false,
+    "price": 388.9,
+    "chg": 2.71,
+    "volx": 1.19,
+    "above20": true,
     "news": [
      {
-      "t": "Stocks To Watch Next Week (July 13-17): HDFC Bank, Dabur, Tata Steel, Coal India Among Key Names to Track - Goodreturns",
-      "l": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVRkRHAxNHBaNm4yX1JOdFNWaXVUdWwtQzdXY01hdDJ0ZUNUcXBfZmlBdndGQ0FDdlBxZ3Nxa0Q1YllRcHlBUnl0eFZtNl9fZE9vczJxX0pfZGJBZnR1cExadDY4emRXd3ZhSmFxZFpodTFkWUZQelZZRndTbnhwWW9OX0lyajNtRy1RWkFHV0xVcmJNWU9sZW1lZHRMbFRKazhyT1FVR0tHRkQ0QVB2dXhJUWRHVm5ITXJKOVRfU19DaEtsNklEd0pKTk53YlhwVFRlUzdEN1FYY2hfZHFrLW9JelU?oc=5",
+      "t": "Dabur India shares jump 3% as FMCG growth accelerates; rural demand outpaces urban - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbV9kcHBsT012Yk16YW85YUxTTEw2S2xXd18yQVRjWEJSbXVfR0M5V25GbUpoUzNRZlBJa0s0SktDXzZxN0l1bE5LLVpscFV1Z1NzbU54cUlsbTZzVGFpWm5UNENRRlZQcGh0NGxESzAzZE9FMUlxajVlVXFtaExiRXlZUi1CODdBNlRRLU45TFlCSjNsQnVQT2pQOEhtb2hRTGVwbDlVTXVkWEhLaTRzXzFqSEdhZ21fX3hGUjVpWUxqNXAwbXd1aElLbFpscF9rck1WOWRhOWFiVG1J0gHiAUFVX3lxTFBrNGc5Zk8ybjd1X1FIV1A1cEFuMFZxOHdxMmpCYThiRERaRUFiNEpiYTNvdXcyRUltVGVqZ3FPSnQ4X0RPTUpEd25tSWRua1hYS3czZHRWOHVOb05xdlR3SC1SenhXOGE1bDUyNjNzaE16S2huY3o1UjJQZ0M3azk5dm1nSzcwaUl4eEZWVjFEYzI0OFllTHNYcW9hZHBhdzFlM2JVNzhyS0NYVktQWjFrNzZQV1paRDgyckFXQ0piUkl3c3Uxb0UwdTVSUlRqMjliYWpoeTg0dXVaeWF0M1VfVUE?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "COALINDIA",
-    "score": -1.1,
+    "symbol": "INDUSINDBK",
+    "score": -1.8,
     "signal": "NEUTRAL",
-    "price": 425.1,
-    "chg": 1.12,
-    "volx": 1.09,
+    "price": 906.1,
+    "chg": 2.2,
+    "volx": 1.14,
+    "above20": false,
+    "news": [
+     {
+      "t": "KMB, Axis Bank, IndusInd Bank shares gain up to 4%, IDFC First Bank falls 3%; here's why - BusinessToday - IndiaIPO",
+      "l": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT2RHbnRkRURSREZuWjkwTHBEMTJFQjFwYTc1aUZKZTJsZWVSWF9Ya0FGUHNUckRsMHVvSTYzUTlZWVFRb3FTamV5YmVzbzB1eEFnVTVtR2lKX0NRVURlb2FGUE1GdVVXVXAzVHdwUDFuMDBSU0RxOWptZXBlSGxFQVZyZEs2U1FjWFhmWkN5LVhIMGlFUEd5Nk9jQ2lnTE9rZG5oNnlkSC16T2NtUVlMd3I4cmZxR1Q2U3o0VXpIbnA5djlPVFNRcDN4NA?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "IDFCFIRSTB",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 81.56,
+    "chg": -0.8,
+    "volx": 1.38,
+    "above20": false,
+    "news": [
+     {
+      "t": "KMB, Axis Bank, IndusInd Bank shares gain up to 4%, IDFC First Bank falls 3%; here's why - BusinessToday - IndiaIPO",
+      "l": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT2RHbnRkRURSREZuWjkwTHBEMTJFQjFwYTc1aUZKZTJsZWVSWF9Ya0FGUHNUckRsMHVvSTYzUTlZWVFRb3FTamV5YmVzbzB1eEFnVTVtR2lKX0NRVURlb2FGUE1GdVVXVXAzVHdwUDFuMDBSU0RxOWptZXBlSGxFQVZyZEs2U1FjWFhmWkN5LVhIMGlFUEd5Nk9jQ2lnTE9rZG5oNnlkSC16T2NtUVlMd3I4cmZxR1Q2U3o0VXpIbnA5djlPVFNRcDN4NA?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "VEDL",
+    "score": -1.2,
+    "signal": "NEUTRAL",
+    "price": 265.6,
+    "chg": 4.14,
+    "volx": 2.22,
     "above20": true,
     "news": [
      {
-      "t": "Stocks To Watch Next Week (July 13-17): HDFC Bank, Dabur, Tata Steel, Coal India Among Key Names to Track - Goodreturns",
-      "l": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVRkRHAxNHBaNm4yX1JOdFNWaXVUdWwtQzdXY01hdDJ0ZUNUcXBfZmlBdndGQ0FDdlBxZ3Nxa0Q1YllRcHlBUnl0eFZtNl9fZE9vczJxX0pfZGJBZnR1cExadDY4emRXd3ZhSmFxZFpodTFkWUZQelZZRndTbnhwWW9OX0lyajNtRy1RWkFHV0xVcmJNWU9sZW1lZHRMbFRKazhyT1FVR0tHRkQ0QVB2dXhJUWRHVm5ITXJKOVRfU19DaEtsNklEd0pKTk53YlhwVFRlUzdEN1FYY2hfZHFrLW9JelU?oc=5",
+      "t": "Vedanta shares jump 3% as firm fixes record date for first dividend after demerger. What to expect?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-3-as-firm-fixes-record-date-for-first-dividend-after-demerger-what-to-expect/articleshow/134723226.cms",
+      "s": 3
+     },
+     {
+      "t": "Top stocks to watch today: Vedanta, Axis Bank, IREDA, Kotak Mahindra shares in focus on Tuesday, 6 Oct | Full list - Livemint",
+      "l": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc0RmUU8tWGtMNzRUSGVudnNKd1cwUUlZejF1NEcwOHZSMzZBVXpxOGZja3pqbWlRa0Z4TkFScFFfeFNJNVRiZ1JKSzE1VEhnMGFCWVZkWWczQ3FIek80cU4xX0JWQkVYemZnb3laYmE0UFgzSC1rWUlZY2hYa0tkeGtjZzFFRk5FU1RPekhHckhFQTlwZUk0WGxpdDVMaGpSS0VHTXpRdjJUNVM1VVRpLTJDOXExekFpcTdGOWpzTzlQSEZiT25kazEycjRnd1Qya0F2Mlh5SDFQa3l4bkdKc1BleGJyVmpFYTBWUGFkamp6bFFMQVVuTmxTVHFoZklyN0J1TnpxSFnSAY4CQVVfeXFMTnNmelJpXzY2Z3dLTE11R01pZmEySjFZMHh5WWhidzFiVy16cTYybjI2b0Y5bjl4dGd6X1YzYmhIejhaZFV5aEtiQlFaRTdEbkdnVFdEeEtRNF9DbXVtbXFoSnhGM0lLa3JJeXlybEd2VS1RcE1UTzdxQ05YMjJFMlQ0Y19fSXZ1Vm9aV0xWeU13WXNDME84MmN1a09nanhlZm5Ob3JzbDZjeGpUMHhvTEJUYlpQYzlVczRVNEJyOWpJLTVETXN3UnJTM0RwT2dFX3R5NWFQaE9vSW43ZUdUT3dnd0k4U3lSalY1dVdoMUtBaUN5ZE83Y3U2RTd5T05OcVlOTExaMlZ2TDlTWThn?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: Trent, Vedanta, Axis Bank, Adani Power, Marico & more - business-standard.com",
+      "l": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlFWdTdjQ29aeHlLNVl5Z2dhbGVEV0dfVTdiYi1KSkNQRldjTEY2dWtNWDhWT2VkN0xFRHV3eG1BUXNFM1ZQci1ZeU5HZzFwTHZMQXNnVUJWTTFfd1hxRWFfQjdVN3pQeHFIVEZiel9VNWxTbG1aekNFenZKSTFacGF1WTFPVVhWbVBubWU4TG8xQXBiNHdQQnc5RU5RdGFNWWFVbmlkSWlxenN2WTY1cDJob05RRHVqTlF1b1JfejlqZlJUcVVqaG9R0gHPAUFVX3lxTFBScHJtcUJQSnBXdTAzdWdHajhhNTNiclJJaWJxMDdxdExMeVhjWEJzOUZvdG82TzNwMGhlZ1dyUElmVEVYalZnd0VpWUhOUTNYN0c2Q1N2YnJMdzh4Ulp0a2Q5amtJalhGOUpLMlJldFg3Z29nZDJWYTFFeGFmR25Eb2YzTTdyQ1dKZzZ2Mkpub0JUb2tlX2xyUFdMYVlsaGFvOWllQ3BhRzljTlFaWllYN2hQVTZuQ19obktvZDQ4ZndLcmxnUHZyMEs4VnBEdw?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "YESBANK",
+    "score": -1.0,
+    "signal": "NEUTRAL",
+    "price": 20.86,
+    "chg": -0.95,
+    "volx": 0.62,
+    "above20": false,
+    "news": [
+     {
+      "t": "Yes Bank Q2 FY27 Results | Bank of India Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlBPUkEwNHZxZjRMcmJaMnpmZEVUZmprSWNZWnE1MGxXS01zYkhPTUx0MnplVktkVFdMamN6Nlh2YWpBS1BwcWVSMHhTbFEySi1KX0VUREVuRE01WnBJTk9YbVE0M29WWFNQR3pEdkJBTHJIRjZPMmpGNnROQWhJYWs0RnV4RTQwYU1DWUFTYTAwczJsbGh0bDFfV1J1c25sMGFYTGQtdE9OOFRvYXEzRURnWm1jVEswTE5iOUphejZVOVFDcHozRFV4SjJ0ejJ1YnJUQTl0OUM?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BANKINDIA",
+    "score": -1.0,
+    "signal": "NEUTRAL",
+    "price": 132.16,
+    "chg": -1.0,
+    "volx": 0.63,
+    "above20": false,
+    "news": [
+     {
+      "t": "Yes Bank Q2 FY27 Results | Bank of India Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlBPUkEwNHZxZjRMcmJaMnpmZEVUZmprSWNZWnE1MGxXS01zYkhPTUx0MnplVktkVFdMamN6Nlh2YWpBS1BwcWVSMHhTbFEySi1KX0VUREVuRE01WnBJTk9YbVE0M29WWFNQR3pEdkJBTHJIRjZPMmpGNnROQWhJYWs0RnV4RTQwYU1DWUFTYTAwczJsbGh0bDFfV1J1c25sMGFYTGQtdE9OOFRvYXEzRURnWm1jVEswTE5iOUphejZVOVFDcHozRFV4SjJ0ejJ1YnJUQTl0OUM?oc=5",
       "s": -3
      }
     ]
