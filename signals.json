@@ -1,5 +1,5 @@
 {
- "updated": "09 Oct 2026 16:45 IST",
+ "updated": "12 Oct 2026 17:21 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
@@ -9,43 +9,45 @@
  "news": {
   "positive": [
    {
-    "symbol": "TCS",
-    "score": 5.1,
-    "signal": "BUY WATCH",
-    "price": 2156.0,
-    "chg": 3.85,
-    "volx": 3.47,
-    "above20": true,
+    "symbol": "LT",
+    "score": 1.9,
+    "signal": "NEUTRAL",
+    "price": 3627.5,
+    "chg": -2.05,
+    "volx": 0.71,
+    "above20": false,
     "news": [
      {
-      "t": "TCS stock jumps over 5 per cent; market valuation rises to 7.88 lakh crore post Q2 FY27 result - Mid-Day",
-      "l": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZGJyeU9lblRMTGJPaG5rdF9teE1EaDNRSHA1enNrR3haSnp3bVg4bkE4UEEwMWNEX2psUHRhZmN1ZmNVVjM0aTJLX2V6UG51NmxvTncyMUxSVnFzR0NlWjR4MlBUZzR4Y0Znd2RNa01rM3d5MXc2WFJrS0gxbWtZSXlIdzJqRC1Jdl85SVlMVFB4d3lOeXpjYTh2OVNEMm9GZjZ4SWllSVh5ejZpZUFBMHhuMGE4cnBxdERCYy0zTkgzbkNIcjFITmxhWHJlS0s5UnBnX1RobXAtMmxkeGJ1bzc3NXA0ZDBrXzg2SHotRW4tWk1UVU1UZ0VRc9IBggJBVV95cUxQdmZmcnRPN1RFeVBCMzFEZVFYa2wxMnhYSU5fVDJwRUY4dndwbzZ6dC00dEM4b1JUVnBRSTF1UXl3TUJNVk54QlNRakdCcW1iZHN4NjQ2MVdOYUxzYnQzYlJNN2huRGdnSmYyUEZhOWhZWDczUkVPRHFoUndoN3NSMXR0MXl5NTJRZ2FMMkNWM2syNTRQOVVkcXZuS3pHYVJmR2I0dThHUUtDRU5qWmxwbVh1YkM2cVRUYWttbmlvNkxwU0lUUnE5UjdNc2YxR1dUQmVrejVXR2o1V1J2dlU0eUMyLVEtTkxaS2NwSUpfRllnRk9SVzBGN3IzZVRZZHh3Wmc?oc=5",
-      "s": 2
-     },
-     {
-      "t": "Stock Market Today: Sensex, Nifty Gain; TCS Jumps 3.8% - HDFC Sky",
-      "l": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYmdPVkdMZTFENklhX3NGU25RcWF1eENoSkcwT0hZTHJKakxFUkgtUU9UbFJiM2VPSjlKNVhWSzZJSVFMcUlSN29fWVZUNmhXaE1lN1BFS0taQUU3ajNZelh5NjI4bVdIRVpldHpmOHFaaEpEcnhHUUl2TnVoUkxxdEtBa1ZNTFBPS2pISlp0d2I0UjhuUmJQaVJSZ3NxTWpLUFQxMXVuQlQ1TVJ0OTdPU1M1Rzd3WkpCbFpFV1hYYUpNaXY2LVoxYzA3Wm0wY3VrR3hqVnMxUkhWVnduQVNneEc4RExEWVlISDlWelBPamRtOS1DZlRkTlBtbWZmVlIyV1MwYndyRDA?oc=5",
-      "s": 2
-     },
-     {
-      "t": "IT leads rebound in Indian shares; TCS jumps on quarterly results - Reuters",
-      "l": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUlMb1g5cjVaX2pyT0FWTUJ1N2xGTXV0OVN2WkFRQ2R2RS1Fdkc4cmloUC1yNzRlR2pYcW1KOVNjTW1kbmVZbWRhal9WS0dwcU9IeUVvcmRXcTlNZ3V2d0pFYUZndExqNXpNdWltSEhSUjBYRGdmcFpjWVpHT0VUQ3FIV0Q0SUxVdG9mT2lMZzY5bWVhcE92TkR2aEVmajNPVWN1SjZidFlsX1hjM0xVQzJTdHQ?oc=5",
+      "t": "Avantel bags \u20b912.04 Cr annual maintenance contract from Larsen & Toubro for satcom equipment - Trade Brains",
+      "l": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmI4WkVKLWhaaWt1ZGdnWF96TW9keDZ1WTg3a3UwMFlQLXA3UWRXUkVtcWJSM09Ub3ZSZ200bFlONGh3cmJhckZGcnpOWGxkcHMyWTNiUC1lZlZSa3B1c1dJLTJNNHZsME5VZDRWSXA5YldLX0p2V3paMWlFd1dVOVlGSmlXTTE3ekVtamZkRW00ZENYQjVTajZGSF9US0lkNkV6WmpyTUNzWmZiTjZETDEwN3N1NWlBcENjek1lbkdLMm5nSnc0VXFtUHdVeGhj?oc=5",
       "s": 2
      }
     ]
    },
    {
-    "symbol": "THERMAX",
-    "score": 1.3,
+    "symbol": "MEESHO",
+    "score": 1.7,
+    "signal": "NEWS ONLY",
+    "news": [
+     {
+      "t": "Meesho share price rallies 5%, nears record high in weak market; here's why",
+      "l": "https://www.business-standard.com/markets/news/meesho-share-price-rallies-5-nears-record-high-in-weak-market-here-s-why-126101200198_1.html",
+      "s": 3
+     }
+    ]
+   },
+   {
+    "symbol": "SUZLON",
+    "score": 1.1,
     "signal": "NEUTRAL",
-    "price": 3256.3,
-    "chg": 3.77,
-    "volx": 3.48,
+    "price": 39.57,
+    "chg": 5.24,
+    "volx": 2.38,
     "above20": false,
     "news": [
      {
-      "t": "Thermax, Info Edge rise up to 4% as Kotak Equities upgrades both stocks to 'Buy' - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdFNWXy0yZjJRT1puMWlsNXBVMWxxREU5ZlB6MUh2Q3k0QTctV3BTVEw3aDhpV3FXM1JLU2puNGdCc21WdjI2dDNjeVVmbUVfZC1DeW5JUEhKdE9KWjNDUmdKTjZfZ2lOMU5RUjhCUE1MZ2dsTFVUMk1QX1dzQjVXblotR1E5VEtkSERhQmRZOEQ3RTE0ODA3SWYxMER5dHVuWV8yUWlHUl9UeDZzSm1qM1lHQklzUVVHVjNpNnFFaEFnN19rekJwMG1pWndQZHVJYndmNUZUOVrSAd4BQVVfeXFMT2dFWHc0WjU5UTJodENFekVKQVc0RjJTaVhvcXJCQlBEajItVHA2c0xwQkRaUm5NNHV3T213aDl6VWF5YmZ1ZENJeXFnd2xNdXJJbjlRNWFiM1JQb1ZyVFp6dGwwZFhFU1pkTmhTLXYtUmhGeGJpX0cwZFExbG43ZTZUcXRBMTU2SmxnMnBGQ2J2RXA3eF9zZ2RvYVFoNnJ4LUVxTzFXTk5ZVkFzY0pMcGNlRUpWUThQVVR6Y0EtY2hOM0RfQlZHamtsLVBCOTJ1RzlpQVhlSHZNRm12R0Rn?oc=5",
+      "t": "Suzlon Energy shares drop 30% in a year, but Motilal Oswal screams Buy. Here's why it sees 73% upside",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-drop-30-in-a-year-but-motilal-oswal-screams-buy-heres-why-it-sees-73-upside/articleshow/134883115.cms",
       "s": 2
      }
     ]
@@ -53,55 +55,55 @@
   ],
   "negative": [
    {
-    "symbol": "HDFCBANK",
-    "score": -4.4,
-    "signal": "AVOID/SELL",
-    "price": 707.25,
-    "chg": 2.17,
-    "volx": 0.55,
+    "symbol": "M&M",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 2813.0,
+    "chg": 0.6,
+    "volx": 0.78,
     "above20": false,
     "news": [
      {
-      "t": "HDFC Bank, SBI, Federal, Canara Bank up 2%; what's driving banking stocks?",
-      "l": "https://www.business-standard.com/markets/news/hdfc-bank-sbi-federal-canara-bank-up-2-what-s-driving-banking-stocks-126100900389_1.html",
+      "t": "Stocks to watch: HCLTech, DMart, M&M, Adani Green, KEC Int'l, ICICI Pru",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-hcltech-dmart-m-m-adani-green-kec-int-l-icici-pru-126101200059_1.html",
       "s": -3
      },
      {
-      "t": "HDFC Bank shares bounce back after rate hike blow; YTD loss tops 29% - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGlob0JYNG1GclBNUjdoVUtsSFo4TTJaVlF0cEx2UUs5SlViaE5CUlZKUkpzbXdvS0hOcWMza19DM3V1X2F5ZUgtSWNxdEtXdG9FazZmOE04YnVuWndiYnBWSTF5dktwWnVEYUg0cUNMNkpRT1hsN2l4Smhtd0M4Z3o3QkhPRGtrZkMxUkd6T1lSUkgyNTdYSG11dzVETFRZXzRpWlF2LVBla1pEN1RabTB0a3R5blN5OEJ1OFJfRUk?oc=5",
+      "t": "Indian Stocks To Watch Tomorrow (October 12): TCS, Trent, Sun Pharma, Tata Steel, M&M & HDFC Bank in Focus; Check Key News, Corporate Updates; Here\u2019s What Investors Should Know - The Sunday Guardian",
+      "l": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOSmRzNlRpX3VKWXNVT2JTbGxadG8zS0xSa0x0eEFsTkJiLVQyNU9fV2czODFJSG5RTlJGZ3hNUDdtajQzbUJmZ2V0QjZVSmpJcjQ4X19fTi1CY0ZKbE5XUjZUZmhXem9jSWVOWnZSdXVnS21WclpHV2VoTE5zTVBNNWlUSTVUWnpsT0t4eGRqLVlWSzQ1dDZVMVBXTXVfQ1lrUWtjRHJoUW1TQlc2U3p4QUdQbGhDeTBFT0k2c2FIOEpZekFubWdvU1l1dWtpVFM2b3l1ZVFtcnRKRm1hb1M5bmxvc3ZDZHVKUVg0ZEJ1SXlhcktiZjM3UUVkcmhMRlZRc2NhSUpzSGZ4WTV4NWx5djZtYnloZTQybkdLS3NxaFlsekpuS0JzNlpFdS1yYTEzWlRVN9IBugJBVV95cUxNZVoySjlLcTFJWFVTNDFxY3IxWldRd2duTTEwYWNwRTZhLVR1eW1WS2xJRDBYcHJ5UGZ1VWpZUWdwOW04N1h6eGVsakFfbnlQRVZ1dTJOVmdUaVk1M196b21iRHNJM1duUFBtdkpJSkdWYllab3VRckstZTBxNFZlLTRKSzVYMS14LVE5VW9RbFFrX3djZl9sN25oV3dtTHdpSW5HRDExbl9haUlTclBNREJuSTZJM0ZEcUtWM2k1ZVJzdVhfUjhsUi0wR2RZTUVhUS1IZWJlem5yMDdXUDF5SHlNb2RTendhamIzMk1JNnVNV21fWmVHMWxXNGVQSDc4ZTFiWEJGVWF1cFVmUnVqOWVqeWRVM2t0MFJjTHpDRkIyaGRHVzY5c0ZSR1ltajVENjNLaVdfT05vZw?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "SBIN",
-    "score": -2.0,
-    "signal": "AVOID/SELL",
-    "price": 959.1,
-    "chg": 2.03,
-    "volx": 0.7,
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 941.0,
+    "chg": -1.89,
+    "volx": 1.08,
     "above20": false,
     "news": [
      {
-      "t": "HDFC Bank, SBI, Federal, Canara Bank up 2%; what's driving banking stocks?",
-      "l": "https://www.business-standard.com/markets/news/hdfc-bank-sbi-federal-canara-bank-up-2-what-s-driving-banking-stocks-126100900389_1.html",
+      "t": "Will RBI\u2019s CRR hike to 99% hit HDFC, SBI and other bank stocks? Here\u2019s what Jefferies says",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbis-crr-hike-to-99-hit-hdfc-sbi-and-other-bank-stocks-heres-what-jefferies-says/articleshow/134882357.cms",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "CANBK",
-    "score": -2.0,
-    "signal": "AVOID/SELL",
-    "price": 119.59,
-    "chg": 1.91,
-    "volx": 0.73,
+    "symbol": "LENSKART",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 648.3,
+    "chg": -4.33,
+    "volx": 2.64,
     "above20": false,
     "news": [
      {
-      "t": "HDFC Bank, SBI, Federal, Canara Bank up 2%; what's driving banking stocks?",
-      "l": "https://www.business-standard.com/markets/news/hdfc-bank-sbi-federal-canara-bank-up-2-what-s-driving-banking-stocks-126100900389_1.html",
-      "s": -3
+      "t": "Lenskart Solutions share price tumbles 5% today despite 47% returns in 2026 | What should investors do? - Livemint",
+      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUzh2VlN2bkdjdUxTVnFZcFdDUk9IWWlBWWxCN0k5ZFV6MVgwQzNDY3QxU2R5RWVTYlJDMFV6TU1TYmh4cTU1NEtJdzM5ZGxlOTNHMHk2SVV1dVZTVzVyZjdFTEdUWTJhV0M2VjdhVVFQZUpJbnRCYktzUWprT2x5Y2VkMWdTNTFNZFFfUFJyVFdOOFpJV3N3MWd5Ty00MmJtYU1hSkdZdkpwd2FremRqZm55SjZwMlVuQ0FiNXZiRjYwSHdkS1RVMnJmd2N6MzdqRFN2YkIwODh2SVMxZjBCb3dPZFI0RFU2bUFVN2FoU2QxVjFzU0FGeXBITC3SAYICQVVfeXFMT21YWWgtRjBaQXZ4WXNmYjNXR25adUpZQTBNVU1zNWZOMENDZmVWcVd0c3MwUFRaVFdPRzRoaE1VYVRlWkRYYnF3dm9aQUxMc19OUlJGbTBOTktlc1ZfT0l1OTNRQ0o4YlhxNm9KOEFRRXpLWkd4VlFBVC1ScmVmekdyUEpqbWpfZzlibVJLS1BOcjFlR3NRbFhVYXlRbDQxYUlrNFR1YlRHLVBoeWd1cy00cWhqMmVZTDl4aUFzTFZTa3d6VVBCbVlFMndwQnJFYkgyT0hkWFFWN1BOZ1FPLWFQc3FabWV0bFhpQTRZRjF5MERUVlRjanIyclM3d3hhanN3?oc=5",
+      "s": -2
      }
     ]
    }
