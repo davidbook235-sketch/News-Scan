@@ -1,13 +1,13 @@
 {
- "updated": "14 Oct 2026 14:56 IST",
+ "updated": "14 Oct 2026 20:09 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 247,
  "swing": [
   {
-   "symbol": "IPCALAB",
-   "setup": "Pullback",
+   "symbol": "BHEL",
+   "setup": "Breakout",
    "score": 5,
    "checks": {
     "Trend": true,
@@ -16,15 +16,15 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1919.2,
-   "stop": 1850.31,
-   "risk": 68.89,
-   "t1": 2022.54,
-   "t2": 2125.88,
-   "rsi": 46.7,
-   "volx": 1.33,
-   "rs": 10.2,
-   "date": "2026-10-13",
+   "entry": 464.0,
+   "stop": 434.77,
+   "risk": 29.23,
+   "t1": 507.85,
+   "t2": 551.7,
+   "rsi": 65.3,
+   "volx": 4.0,
+   "rs": 17.4,
+   "date": "2026-10-14",
    "news": ""
   },
   {
@@ -38,15 +38,15 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 841.55,
-   "stop": 800.08,
-   "risk": 41.47,
-   "t1": 903.75,
-   "t2": 965.95,
-   "rsi": 52.9,
-   "volx": 2.4,
-   "rs": 6.5,
-   "date": "2026-10-13",
+   "entry": 849.45,
+   "stop": 807.8,
+   "risk": 41.65,
+   "t1": 911.93,
+   "t2": 974.41,
+   "rsi": 55.2,
+   "volx": 1.42,
+   "rs": 8.3,
+   "date": "2026-10-14",
    "news": ""
   }
  ],
@@ -54,12 +54,28 @@
  "news": {
   "positive": [
    {
+    "symbol": "HDBFS",
+    "score": 3.7,
+    "signal": "TRAP? (price falling)",
+    "price": 583.75,
+    "chg": -4.15,
+    "volx": 2.22,
+    "above20": false,
+    "news": [
+     {
+      "t": "HDB Financial Services Q2 Results: Net profit jumps 34% YoY to Rs 780 crore, revenue up 10%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-services-q2-results-net-profit-jumps-34-yoy-to-rs-780-crore-revenue-up-10/articleshow/134939587.cms",
+      "s": 5
+     }
+    ]
+   },
+   {
     "symbol": "SBIN",
-    "score": 4.8,
+    "score": 3.5,
     "signal": "WATCH",
-    "price": 957.0,
-    "chg": 1.7,
-    "volx": 0.81,
+    "price": 954.9,
+    "chg": -0.22,
+    "volx": 1.3,
     "above20": false,
     "news": [
      {
@@ -68,8 +84,8 @@
       "s": 2
      },
      {
-      "t": "RailTel Corporation of India shares rise over 2% as firm bags second order of the week worth \u20b9197 crore from SBI - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOS1I1a2pEek9IUlFZMUUyTzR1ZzIwbDlOLU14aUt5Q00ySGREcjctTkVlbHJ6dHM2b0ZSSTJRbzJTT2c0bndxVi1aZUJsT1JGVy1GVTFwWVNHeEg5WVhIeVBWTlNsY1kwckd1RTRuQk5BYW5FOXctMFBOZDNrMFFEcVJsU2JCT2U5UERHRXU0UVhTM28tbEE2TWI5bl8wQ2xBRC1yeEFVQVBvWXhzTVRoTGl6Q1o3aG81Umw5c2N0UEJFOGs0aEswbmtibWVzOTBDYUZfbEJCUGNtRmhTekt5Y1RtTldXaTFwbGxhbnN3c3JXQnJqWWZUbjNJRXZlSEZycG1Z?oc=5",
+      "t": "RailTel Bags Rs 197 Cr SBI Order for Telecom Links - Equitypandit",
+      "l": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMkxjNG9NY1U2ZU40QmtSbXd2d0ZZejRHeUdWNEotUE5XWkNIYXdHSi1CNTNTVlBJZ1ZhOWFwMFhjWGpDU0NxLVZhMHk2UjI0Zm9LSTA0UXZFZG10R0poMFNYQ250MGV1MDgzdGpxaWZqUzZSNHJuMHRPd1lXZ3h5Rm1TQi1MMW8?oc=5",
       "s": 2
      },
      {
@@ -78,49 +94,17 @@
       "s": 2
      }
     ]
-   },
-   {
-    "symbol": "GROWW",
-    "score": 1.7,
-    "signal": "NEUTRAL",
-    "price": 193.81,
-    "chg": 0.62,
-    "volx": 0.5,
-    "above20": true,
-    "news": [
-     {
-      "t": "Billionbrains Garage Ventures Q2 results: Groww operator's profit rises 54% YoY to \u20b9726 crore, revenue up 47% - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSzFkTG9YTEE5QUlpajliS2ZKX3FPTWFBS1JsaVNLTUM2ZUNUYTQwREpVMW5oYXdmaXFNZkZXU3J6N0JNX0FvZlFpV09IOVhzSnhQeXdHbXlUWDJVb05nN1Vucjlzekt2RjMtSlJiRWxjaU1BUFlMWHg0V3ZjSmdFc0JaNlhpZGdXS1hQNUk4MzlOTnlUQjZSWEtUOFRyQ19xM251dWFId2Z3djJMSlFyM2pLS25EVUtOZUtHd0g4RlFZMldDa2p5X3E5WWVISlQ5R0hoZGZjY1FmR1BkazFMSWRQS3BuVmpVbkJaRjNYU09mMXA1TFZoeFpn?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "TECHM",
-    "score": 1.4,
-    "signal": "NEUTRAL",
-    "price": 1543.5,
-    "chg": 4.93,
-    "volx": 1.54,
-    "above20": true,
-    "news": [
-     {
-      "t": "Tech Mahindra Q2 preview: PAT may jump 30-40% YoY; firm to mull bonus issue",
-      "l": "https://www.business-standard.com/markets/news/tech-mahindra-q2-preview-pat-may-jump-30-40-yoy-firm-to-mull-bonus-issue-126101400282_1.html",
-      "s": 2
-     }
-    ]
    }
   ],
   "negative": [
    {
     "symbol": "BANKBARODA",
-    "score": -9.3,
-    "signal": "NEG NEWS, price holding",
-    "price": 238.43,
-    "chg": 1.29,
-    "volx": 0.6,
-    "above20": true,
+    "score": -8.6,
+    "signal": "AVOID/SELL",
+    "price": 229.0,
+    "chg": -3.96,
+    "volx": 2.83,
+    "above20": false,
     "news": [
      {
       "t": "Bank of Baroda shares drop 3% after NMC Healthcare founder BR Shetty files $15 bn lawsuit; lender issues clarification",
@@ -133,20 +117,20 @@
       "s": -5
      },
      {
-      "t": "Bank of Baroda down 3%, top loser among PSU Banks; why is stock falling? - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnlndXl3UDc2WnY5VVNwamZHWWtVVEwtWnpQMUplcTEtQ05HdW5JZURHYVB0RXVUTlZESDgxNkMtWERoazRubVhJTzQ2YWZDMHh1MEVaRWpZaG90R3ozVENXQXhwajZHWndmcE1LaXdmVURYdWJibEhsTTZJNTBGSFJrNWhpaVJrWEV5Y3FxdzJReEhIR1pvWEZCYWt0WVZXZ1haU2J0akQySjdocHZvN2J2UnQ3dU1ETGhlQS1QZEZjbVhpeDA3UHJZX0ZhRHpGN3fSAdcBQVVfeXFMT3RtbzdxY3R5NjA0X2RJa3dMY29TbVFmcmRlVWtlY0ZrSlljVTBqaFNybWlvTkJESTAtR2tOWTlmTUdvN29HT1lDbE5lTzVUeXhfTk1yVFZjX1NTdVlZa0EzdzNKOWVOSjdSbjRlUVRVcEtRZFpLVXAwX3RwNXpNLTZLenV2UWw3X2xSSmViN0dnTWh4aDllektDOXl1LTFXbEFXTlhEd2Y0Wl90aUtjNnBuX1NWZUpvMUQ5TEhleVk4MGd3RlhneDB4eTNrajBRbmJrd0ttN1k?oc=5",
-      "s": -3
+      "t": "Bank of Baroda shares drop 3% after NMC Healthcare founder BR Shetty files $15 bn lawsuit; lender issues clarification - IndiaIPO",
+      "l": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVUxTZDJaUTR6dEkzbWxLdWsxMnlaRmZ3X3BmZS1TclRaNWVnbGgtQTlsVWtJUU9DQkRaWmlwYjFTOHZpSjBVcVY3cHZQcTZ1bWRkRDl2ZVZadGU4M2ZUZ2JCaXJXVDFoc0IwRWl1bWtLQVBsU1pJSE9IUWRQbFoxZFRVaV8ydVdMQS1BWWdsNHptX3RteFJIOERja0d6SlQ1bmlKRXlDZ3FWaW9Ub2FrM2xpRi1jYjZBbm9GM2tpUzFmNlpUZ2NNRGhQLW02VTB1UGd0ZkhTN21vd2xZbmNPVTE3bFhVZw?oc=5",
+      "s": -5
      }
     ]
    },
    {
     "symbol": "HDFCBANK",
-    "score": -5.8,
-    "signal": "NEG NEWS, price holding",
-    "price": 714.0,
-    "chg": 1.29,
-    "volx": 0.59,
-    "above20": true,
+    "score": -8.2,
+    "signal": "AVOID/SELL",
+    "price": 710.7,
+    "chg": -0.46,
+    "volx": 0.76,
+    "above20": false,
     "news": [
      {
       "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
@@ -154,35 +138,35 @@
       "s": -3
      },
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Latest Price Movement",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-14-oct-2026/liveblog/134930775.cms",
+      "t": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5",
       "s": -3
      },
      {
-      "t": "Stock Market Today: Markets Recover Early Losses Amid Buying In IT stocks, HDFC Bank - ETV Bharat",
-      "l": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRG13UTBuT0JEMFllZ3ZDLTZVX19ZNEtTMS1NbXVvTFNYVXRLUmk3RjhRVU8zYjRKeFVWZFB6VVFsTUZlY0ZMU0tna1JMbi11YjFjcTdqNFJJenpCZmxkRmVDUGd0RnpKWi01VGJOVEFLMVQ5VmxScm9yYkpqY3pDYnZxajRjLVlBcVhhbW9fZE5IZjJHaExqS2s1ZG9vSlpvX0JQUTFPUU1tbERGeW1kUXF2T3R1alkyWE4w0gHAAUFVX3lxTE1hWE5tVEdFc3JCY1NDZFE4bVdSOGZNOU1qQmxIdmNuemdKckdGT2RNMXA0Z1BhSTIyRTVWdmxtOGp0elktVVVFUFIzaEg1cThWbE5zb2dycnJpUFZRcG9mT2xvWlNUMjhIRVBHNF83bi1JbFVvZjBnMVA4dnYzUE82anZya3FkazZkNk1oM3ZuUmVQenlpeGZRZjFtWWtHNEFsVnlzRmpyZENGMnczMFBpYmNnZ1l3VVZNMGQ2SHV1bw?oc=5",
+      "t": "HDFC Bank Limited (HDFCBANK.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTzhGSUFMZ1NyVWthWVk2cEZ3RHZQc0VuT3BxQTBWM3B2V2hIQTBBOENtV0loTTBwXy0tczFvQXEwZlRLTlVhS2hmSkdJb3hFX3JlSlJBTU1weTg?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "CANBK",
-    "score": -4.6,
-    "signal": "AVOID/SELL",
-    "price": 120.44,
-    "chg": 1.74,
-    "volx": 1.04,
-    "above20": false,
+    "score": -3.1,
+    "signal": "NEG NEWS, price holding",
+    "price": 124.76,
+    "chg": 3.59,
+    "volx": 4.11,
+    "above20": true,
     "news": [
-     {
-      "t": "Q2 2026 quarterly results today LIVE updates: BHEL, Groww, Canara Bank, CEAT, RIIL, MRPL, Tata Tech, HDB Fin, others - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa283NUNmbHBSMFFYdmZXYW5lRlZJOXR2WG1KdWJTSUFieUUxZ2FkZVp4N2ZuOS1hSXJrcnNBeWNiUzlpc1lQbEd6aDZsVEM3WTVLRWR6UXNFS2NMZDFnd0hfOGRFdHRiOU5JWm9SWVlrY2ExR19VWkJvLWtoVTEwU294NzhIUnlYeUFuMnNyTkk2MW9RbEQ5X3Uwc0dEdkpqTUZxMWpWVmFkWmtkY1lLR2hlT1BfTGJUdF9JQzY3bXlxZG5VRDF2cUlaZFF4WmcwN2YwMEdBckhVZ2FDUlhCUTdOQnlBcldpamNYRG1ybXrSAfYBQVVfeXFMUHlhWVNScFVqYUhaRFhiYm10MlFPcG9qRDk5M1ozSVNDaFRRZlNMcnRMR002R2pKZGRBem1GdzFYajB6eGsxVmR6MTFfZjBnQkJ3NlhqMGpOejN4VW9LZlRheDRIb0diSjRGZnUyM3RPYktrYUdOQWt6UEVLZV9NMlQ4cmN6bDg4TzY4Q18wLTFJbER6VWw1aG9qWEYtcURaSTZGMzNIMGY5WmJfaHhqWndpS3VQTS16VUc5UTB6TEdhYzZCMUFXYnVRbXc2SzllVU9heGZnbmVyaUpodllSeU5LQTZweGNsQ0lwbG12WVA5Um1FU2Jn?oc=5",
-      "s": -3
-     },
      {
       "t": "Q2 results, Oct 14: BHEL, Groww, Canara Bank, HDB Financial, Tata Tech, Leela Palaces, Ceat, Bajaj Consumer Care, others to post earnings - Upstox",
       "l": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbjFiLWN4NllCTnJmaV9pY2hRRkx3OWJTV0d1Sk5BLXFzMmM3SFFNRF9JN3pad0VGNklOUmc0QWVRWFphRUpzVHJMb3NaYnlDVW9yQm5UMUhXeUhpRkcya0otMFpsNUFmdzhPS2gzSmV1enMxV1g4YXZ6X3NLZEFEeDhNeWxNcG5KbGhMZHRsdzZmXzBkYXB3Z3BvZEJidUhCTFNlYXlod2x6Rl81UFVWVE9GblVtUmtFU202M0ZDLUhvQWktLXFfWXZOV2ZTd21qVW5iT2RLUng3YUx4LU9oTnE5R3I3Wlk3VTRTOGd2MDB6TGxHTkJSZ2g0X29teDhjRFhaVDdZOFh2WHo2MnZDZFNIRldRZFk?oc=5",
       "s": -3
+     },
+     {
+      "t": "Canara Bank Q2 profit rises 8% YoY to Rs 5,175 crore",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-profit-rises-8-yoy-to-rs-5175-crore/articleshow/134945099.cms",
+      "s": -1
      },
      {
       "t": "Canara Bank Q2 Results: Standalone net profit rises 8% YoY to Rs 5,175 crore, NII jumps 20%",
@@ -192,29 +176,76 @@
     ]
    },
    {
-    "symbol": "TCS",
-    "score": -2.8,
-    "signal": "NEG NEWS, price holding",
-    "price": 2257.3,
-    "chg": 6.79,
-    "volx": 2.88,
+    "symbol": "YESBANK",
+    "score": -2.5,
+    "signal": "AVOID/SELL",
+    "price": 21.2,
+    "chg": 1.68,
+    "volx": 1.24,
+    "above20": false,
+    "news": [
+     {
+      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms",
+      "s": -3
+     },
+     {
+      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank? - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdUtXSTZkOG5mSTJBRUZDSm1ucEhqY0hIMUZiaUlFajBkbm5PcmtRMC1hVExscXV2YXFyNG5MUE9OY1d6NlJ4RGhSQXVIenZJelM0UUZMQXNyUmU4NnItUXdyMjdRNnJ3SU5HR2twRFhWZVVqa0Z4Q3ZpS1NYU3l1b09md093eFJQaHVIM29Uc2ZpeVhSLWkwNlFTcUJsb1o5d3poeVQwZUFSVUw5b0oxYW1XbDJQc1NBYXI0T1o3Z2k1ZHp3dnphbkVrWHJDUy1PV05ReUNMdzMtZVpaaWd6ejlPVk9WSUVTZkNXWU9yRkgzSFBXc0Fzbk16djPSAYICQVVfeXFMTVBablRYeUEtVXRxQml5M0VacnJIczlmQk1RYjN3cXJHSTlWb2Rtci1qaTVxbkF4aTk3akVtY2l0RHhuWVlSaWxDTVFqZTBCZEQtekRjaHpyNGlqajB4WnZWWGdyQ2pvQVN3S2pSdnpPQm9UbDFWVDVLY3hVbEFIUjRpNy1CSUVua1o2d0hSVjcybzZuSmxQcUYzd3dfQ1k5S3VESkZrcFBpRXFIbjc0emh0S3VDRmtXcXgyMVlKVE5tUFRHX1FTSkVEMGc5UWZRTmk2S0hlX25hRW56V01wWDhRb3A2Si1OME12dGxDNEZmRHBkRmItNVo3WkVBdG5YeEpR?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ICICIBANK",
+    "score": -2.5,
+    "signal": "AVOID/SELL",
+    "price": 1338.6,
+    "chg": -1.59,
+    "volx": 0.86,
+    "above20": false,
+    "news": [
+     {
+      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms",
+      "s": -3
+     },
+     {
+      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank? - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdUtXSTZkOG5mSTJBRUZDSm1ucEhqY0hIMUZiaUlFajBkbm5PcmtRMC1hVExscXV2YXFyNG5MUE9OY1d6NlJ4RGhSQXVIenZJelM0UUZMQXNyUmU4NnItUXdyMjdRNnJ3SU5HR2twRFhWZVVqa0Z4Q3ZpS1NYU3l1b09md093eFJQaHVIM29Uc2ZpeVhSLWkwNlFTcUJsb1o5d3poeVQwZUFSVUw5b0oxYW1XbDJQc1NBYXI0T1o3Z2k1ZHp3dnphbkVrWHJDUy1PV05ReUNMdzMtZVpaaWd6ejlPVk9WSUVTZkNXWU9yRkgzSFBXc0Fzbk16djPSAYICQVVfeXFMTVBablRYeUEtVXRxQml5M0VacnJIczlmQk1RYjN3cXJHSTlWb2Rtci1qaTVxbkF4aTk3akVtY2l0RHhuWVlSaWxDTVFqZTBCZEQtekRjaHpyNGlqajB4WnZWWGdyQ2pvQVN3S2pSdnpPQm9UbDFWVDVLY3hVbEFIUjRpNy1CSUVua1o2d0hSVjcybzZuSmxQcUYzd3dfQ1k5S3VESkZrcFBpRXFIbjc0emh0S3VDRmtXcXgyMVlKVE5tUFRHX1FTSkVEMGc5UWZRTmk2S0hlX25hRW56V01wWDhRb3A2Si1OME12dGxDNEZmRHBkRmItNVo3WkVBdG5YeEpR?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "AXISBANK",
+    "score": -2.5,
+    "signal": "AVOID/SELL",
+    "price": 1264.6,
+    "chg": -0.3,
+    "volx": 1.89,
     "above20": true,
     "news": [
      {
-      "t": "TCS Wins MyState Banking Deal; Shares Rise 1.94% - HDFC Sky",
-      "l": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjg5Ujd5RTdyMXUwM1JNVDc2aHMxdjZ0aVZxQ09fNlZTa25qYlgzMFBISzJudlBUVVRpeEJUd3Jzd2htZGdBVU15eVA2dWpJTlVzRDhGajF3T3gyY3N4aGVXRWs2amRMU1AzZmN2bm45NXVaS3lHc2NHTGs2MEhxYjRQNFdRUQ?oc=5",
+      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms",
+      "s": -3
+     },
+     {
+      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank? - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdUtXSTZkOG5mSTJBRUZDSm1ucEhqY0hIMUZiaUlFajBkbm5PcmtRMC1hVExscXV2YXFyNG5MUE9OY1d6NlJ4RGhSQXVIenZJelM0UUZMQXNyUmU4NnItUXdyMjdRNnJ3SU5HR2twRFhWZVVqa0Z4Q3ZpS1NYU3l1b09md093eFJQaHVIM29Uc2ZpeVhSLWkwNlFTcUJsb1o5d3poeVQwZUFSVUw5b0oxYW1XbDJQc1NBYXI0T1o3Z2k1ZHp3dnphbkVrWHJDUy1PV05ReUNMdzMtZVpaaWd6ejlPVk9WSUVTZkNXWU9yRkgzSFBXc0Fzbk16djPSAYICQVVfeXFMTVBablRYeUEtVXRxQml5M0VacnJIczlmQk1RYjN3cXJHSTlWb2Rtci1qaTVxbkF4aTk3akVtY2l0RHhuWVlSaWxDTVFqZTBCZEQtekRjaHpyNGlqajB4WnZWWGdyQ2pvQVN3S2pSdnpPQm9UbDFWVDVLY3hVbEFIUjRpNy1CSUVua1o2d0hSVjcybzZuSmxQcUYzd3dfQ1k5S3VESkZrcFBpRXFIbjc0emh0S3VDRmtXcXgyMVlKVE5tUFRHX1FTSkVEMGc5UWZRTmk2S0hlX25hRW56V01wWDhRb3A2Si1OME12dGxDNEZmRHBkRmItNVo3WkVBdG5YeEpR?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "POLYCAB",
-    "score": -2.8,
-    "signal": "AVOID/SELL",
-    "price": 8290.0,
-    "chg": -1.37,
-    "volx": 1.97,
-    "above20": false,
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 8335.0,
+    "chg": 0.54,
+    "volx": 2.69,
+    "above20": true,
     "news": [
      {
       "t": "Polycab India shares fall 6% in two sessions. What\u2019s triggering the selloff?",
@@ -224,33 +255,12 @@
     ]
    },
    {
-    "symbol": "BSE",
-    "score": -2.7,
-    "signal": "NEG NEWS, price holding",
-    "price": 3375.4,
-    "chg": 1.36,
-    "volx": 0.71,
-    "above20": true,
-    "news": [
-     {
-      "t": "UJJIVANSFB Share Price Today - Ujjivan Small Finance Bank on NSE/BSE - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETlRfcXpzR0h0aVluRXFPUWdhenV0WWNEN3pSdlotX1RRZjVTaldFaTZIZkpFZVNva2w4aFp3N2ZsVnItcDlQeEk0Q0RYdFBXY0x6NFdCNVdWRzBHN3pxQjhpZy1WX2QyVFE?oc=5",
-      "s": -3
-     },
-     {
-      "t": "KTKBANK Share Price Today - Karnataka Bank on NSE/BSE - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ETTdfQk9pRHhQQ2xjVFJuRFhpZGJNTGhidGlSUHRiaDhsaEtTNW12akViVTZhTXJoa0NZQ040dnpTSVI0Zzl3U2tmYUthSWxTZHBIR0FZclBYQQ?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
     "symbol": "IDEA",
-    "score": -2.5,
-    "signal": "AVOID/SELL",
-    "price": 12.8,
-    "chg": 1.03,
-    "volx": 0.65,
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 12.67,
+    "chg": -1.02,
+    "volx": 0.56,
     "above20": false,
     "news": [
      {
@@ -262,11 +272,11 @@
    },
    {
     "symbol": "VEDL",
-    "score": -2.5,
-    "signal": "AVOID/SELL",
-    "price": 251.3,
-    "chg": -3.25,
-    "volx": 2.2,
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 250.0,
+    "chg": -0.52,
+    "volx": 1.53,
     "above20": false,
     "news": [
      {
@@ -277,49 +287,17 @@
     ]
    },
    {
-    "symbol": "YESBANK",
-    "score": -2.0,
+    "symbol": "BSE",
+    "score": -1.4,
     "signal": "NEUTRAL",
-    "price": 20.85,
-    "chg": 2.01,
-    "volx": 0.74,
-    "above20": false,
-    "news": [
-     {
-      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "ICICIBANK",
-    "score": -2.0,
-    "signal": "NEUTRAL",
-    "price": 1360.2,
-    "chg": 1.51,
-    "volx": 0.6,
+    "price": 3338.0,
+    "chg": -1.11,
+    "volx": 0.52,
     "above20": true,
     "news": [
      {
-      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "AXISBANK",
-    "score": -2.0,
-    "signal": "NEUTRAL",
-    "price": 1268.4,
-    "chg": 1.23,
-    "volx": 0.92,
-    "above20": true,
-    "news": [
-     {
-      "t": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms",
+      "t": "UJJIVANSFB Share Price Today - Ujjivan Small Finance Bank on NSE/BSE - scanx.trade",
+      "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETlRfcXpzR0h0aVluRXFPUWdhenV0WWNEN3pSdlotX1RRZjVTaldFaTZIZkpFZVNva2w4aFp3N2ZsVnItcDlQeEk0Q0RYdFBXY0x6NFdCNVdWRzBHN3pxQjhpZy1WX2QyVFE?oc=5",
       "s": -3
      }
     ]
