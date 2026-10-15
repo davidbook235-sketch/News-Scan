@@ -1,12 +1,12 @@
 {
- "updated": "15 Oct 2026 14:35 IST",
+ "updated": "15 Oct 2026 19:52 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
- "scanned": 247,
+ "scanned": 248,
  "swing": [
   {
-   "symbol": "BHEL",
+   "symbol": "ICICIBANK",
    "setup": "Breakout",
    "score": 5,
    "checks": {
@@ -16,15 +16,15 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 464.0,
-   "stop": 434.77,
-   "risk": 29.23,
-   "t1": 507.85,
-   "t2": 551.7,
-   "rsi": 65.3,
-   "volx": 4.0,
-   "rs": 17.4,
-   "date": "2026-10-14",
+   "entry": 1389.4,
+   "stop": 1339.2,
+   "risk": 50.2,
+   "t1": 1464.7,
+   "t2": 1540.0,
+   "rsi": 57.8,
+   "volx": 1.81,
+   "rs": 3.3,
+   "date": "2026-10-15",
    "news": ""
   }
  ],
@@ -33,12 +33,12 @@
   "positive": [
    {
     "symbol": "NESTLEIND",
-    "score": 7.9,
-    "signal": "BUY WATCH",
-    "price": 1383.2,
-    "chg": 3.69,
-    "volx": 2.97,
-    "above20": true,
+    "score": 10.3,
+    "signal": "TRAP? (price falling)",
+    "price": 1275.8,
+    "chg": -7.76,
+    "volx": 5.0,
+    "above20": false,
     "news": [
      {
       "t": "Nestle India Q2 Results: Standalone profit jumps 36% YoY to Rs 1,027 crore, revenue rises 20%",
@@ -58,49 +58,96 @@
     ]
    },
    {
-    "symbol": "BHARTIARTL",
-    "score": 1.7,
-    "signal": "NEUTRAL",
-    "price": 1794.6,
-    "chg": -0.66,
-    "volx": 0.81,
+    "symbol": "TECHM",
+    "score": 7.7,
+    "signal": "BUY WATCH",
+    "price": 1650.0,
+    "chg": 4.75,
+    "volx": 3.89,
+    "above20": true,
+    "news": [
+     {
+      "t": "Tech Mahindra Q2 Results: Net profit jumps 33% YoY to Rs 1,586 crore; co declares Rs 15/share dividend, 1:1 bonus issue",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q2-results-net-profit-jumps-33-yoy-to-rs-1586-crore-co-declares-rs-15/share-dividend-11-bonus-issue/articleshow/134966850.cms",
+      "s": 7
+     },
+     {
+      "t": "Stocks to Watch Today (Oct 15): Tech Mahindra, Hyundai Motor India, IDBI Bank, Nestle India and more - Zee Business",
+      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeS12NTdwOWNjb29QOENQelBaWHVfZ0E1bnRZZEt6NHNYY1Fia0xWTmIxUmN0cmtMbnBfbldDRU1vQXBUbG9CWTFNZ3I2aUg5WFFTNTlzclJxVE9YS2ZwOFRFOGRUdkZzX3l4WmtPSV9POGFnR3NBT0VyMTBMV3Q0ZGdtSDJFdFpTN3pEeEZsM0lyT1prbmtyWHUyM0lZUzhhanBOc3gzYTJPVWpFV2FVdmtlSm1JR2o4eVFveGstbWl2NENxQmRVaEczblpHSDdfblI5Qm9WWjU?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Tech Mahindra announces 1:1 bonus issue, Rs 15 interim dividend; check record date",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-announces-11-bonus-issue-rs-15-interim-dividend-check-record-date/articleshow/134968892.cms",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "POLYCAB",
+    "score": 4.8,
+    "signal": "TRAP? (price falling)",
+    "price": 8207.0,
+    "chg": -1.54,
+    "volx": 1.82,
     "above20": false,
+    "news": [
+     {
+      "t": "Polycab India Q2 Results: Profit Rises 43% To Rs 977 Crore, Revenue Jumps 53% - NDTV Profit",
+      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSHFEb3FkdExZRFk5bEYxbGFJVmFPaGgzWVFjYW1zTnp0eXhSM0xvdlNFeE5kLWRGQ1MyVll4eEhRWk5rcFIwb09neXY5NnBXRTFtUDJtMkRYaXJTTnhtSFFQTXoxSkp6T3Q4Nk9mMFJFck9JY2pTWktoVnp2NGdkVkNJbWE0bnQzZzF5eENfMTVLX2xUbzdzenc3NC1mbVJMUTZKWkVLTTdqUDRSSERldWp4RnZybHFITk94TXV4dS01b0FfcmpNcm00bl83QdIB1gFBVV95cUxQVjl0WDJiVk1hdTJrQWt3djVraTdtNUZ5a2stZGhLTFJmWGtqZzhLSmVkSkVwS1NTX0RpM2JoMXRVQzY1ejNFamRhYW9nYzNLSld1UE5EX2hDMXk0MzVxQTNhZ0JzR0dLS3JYT1NxYzBNa244MEJWa3MzV3UtYUwyMlptSWNIMkNyWExvaFIzanNkMTZYREpCbnhYVS1JQlpYRHNmUTlNRXo0WXVxMjgxMVJOWDhpYURpM0pId2pCRWdHemk0VHVka2Jnc3pLVWN2Qml6eVJn?oc=5",
+      "s": 4
+     },
+     {
+      "t": "Polycab India Q2 Results: Profit rises 43% to Rs 990 crore, revenue jumps 53% - Zee Business",
+      "l": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0czM3NlQU0tMndFckVoaE9JenNwOHR2WnVsSzVnTlFBVmk0VDJORUVqbERfaHppWE1sVW5UdzFudW5Fc3huZktNenE0V1N2akg5U3d2V1cwM3FMSTN1ZXdHLVhjbVByQ3Q4cm1EMHZteDUtaHQyYXNCN2xMQ0VGNGVUZjktRmx6UEx5dXBaMVMzeUl1TUlBOGV1b3hUWDZqT1kxbFVwdWp2a3d4dnR2RFhzcDY5dWJQWGc?oc=5",
+      "s": 4
+     }
+    ]
+   },
+   {
+    "symbol": "TATACOMM",
+    "score": 3.6,
+    "signal": "BUY WATCH",
+    "price": 1763.7,
+    "chg": 6.32,
+    "volx": 21.48,
+    "above20": true,
+    "news": [
+     {
+      "t": "Tata Communications Q2 results: Net profit jumps 86% YoY to Rs 341 crore; revenue rises 10%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-communications-q2-results-net-profit-jumps-86-yoy-to-rs-341-crore-revenue-rises-10/articleshow/134964408.cms",
+      "s": 5
+     }
+    ]
+   },
+   {
+    "symbol": "BSE",
+    "score": 1.8,
+    "signal": "NEUTRAL",
+    "price": 3428.0,
+    "chg": 2.7,
+    "volx": 0.9,
+    "above20": true,
+    "news": [
+     {
+      "t": "Viji Finance receives trading approval from BSE and NSE for 1 crore shares - scanx.trade",
+      "l": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbURUUW1YLVFuNU40aGQzcTVkTXNDc003eUVnNlQ0THZZR2JWQ0ZKaV9IMGpTYzdiTW10aW5qTmNBZmVnRGs2Z3V3U1BSeG5uYkxhaGg5Snk2Q2ZWM2tOSDJKM21UdTJKLWNUT194OEtLTGlYU1RNd09KTXY5VnFZRzgwSmpTek5NSllpUVhSbEFfci1TUWM5LVNlaDVpb3NnWFIySVA4N0xlZlRFWnFmSHpaRHE2anpBbnc?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "BHARTIARTL",
+    "score": 1.1,
+    "signal": "NEUTRAL",
+    "price": 1854.0,
+    "chg": 3.31,
+    "volx": 1.75,
+    "above20": true,
     "news": [
      {
       "t": "Bharti Airtel jumps 4%, sees sharpest intraday gain in 3 months; here's why",
       "l": "https://www.business-standard.com/markets/news/bharti-airtel-jumps-4-sees-sharpest-intraday-gain-in-3-months-here-s-why-126101500422_1.html",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "INFY",
-    "score": 1.5,
-    "signal": "NEUTRAL",
-    "price": 1088.0,
-    "chg": 2.44,
-    "volx": 1.98,
-    "above20": true,
-    "news": [
-     {
-      "t": "TCS, Infosys, HCLTech, Wipro, TechM: IT stocks gain up to 3.5% today; Nifty IT jumps 9% in 3 days; what's driving rally? - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdFVkczZxX3QzSVRKU3k5VmowOTM4aG13SVBFS1RFb3ZBdVFDVnRKRmJnTGxOSncyVjVVUHdOSjVrSjVxcHRkd1pOSDh0UUh5SFQ2X2hyLUl5UlRtSUVocGtueVhEOENpZDNmRkI1ZzJvRV9fTmJySzdsVUMzRDgxRklxdUNmdXp4UHlURDJqUzNQQWo5VzUzNDhZNmVUMWo1MmVBSC0tZTNQOEJEamhTT1UtTDhtNWRlYnpTNnY4Y1FzdHMybTlzODF3OC05VUwwSXEtdktXSURnRTc5YVdOckswR2hrZy15MGpVNXNuWmo1RDBEakZHNEI1TVV3WnkwN2NVTVNteXBjSHPSAZACQVVfeXFMTU1JSGx3X3g2OTZCVWEzdzB0cm9pQ3QwNVlYcERDcGpkYWJoYXFSTm9OZGYwb1REcG9JOTJoMnRVSlpyNGowNVpYbzVmdk1EUDEwREYzdTczVFNHZkxsNm5tM3pQMHFDNmhuZlBnODBQMUlUQ1h1R2VHWXFTMnprcUo2YjFUMUx1UXNpUld2d3JJelVzUjBVaXJ6SXZCTVZPbUtmR016VHY0SGZiV19yMl9vaGRDQVNLZE9TbGdRcTJ0bGFBR1pOeElRYnM2ZWVLWE5ESjlEVzlrVGJkM1EyRm0tQ2xzMTd2R0J0MHhJUWtHV0ZoQTUxaEtnQmUwYThwX25WVml2YU9IM3BNWWt1SUM?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "TCS",
-    "score": 1.5,
-    "signal": "NEUTRAL",
-    "price": 2304.9,
-    "chg": 2.11,
-    "volx": 2.85,
-    "above20": true,
-    "news": [
-     {
-      "t": "TCS, Infosys, HCLTech, Wipro, TechM: IT stocks gain up to 3.5% today; Nifty IT jumps 9% in 3 days; what's driving rally? - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdFVkczZxX3QzSVRKU3k5VmowOTM4aG13SVBFS1RFb3ZBdVFDVnRKRmJnTGxOSncyVjVVUHdOSjVrSjVxcHRkd1pOSDh0UUh5SFQ2X2hyLUl5UlRtSUVocGtueVhEOENpZDNmRkI1ZzJvRV9fTmJySzdsVUMzRDgxRklxdUNmdXp4UHlURDJqUzNQQWo5VzUzNDhZNmVUMWo1MmVBSC0tZTNQOEJEamhTT1UtTDhtNWRlYnpTNnY4Y1FzdHMybTlzODF3OC05VUwwSXEtdktXSURnRTc5YVdOckswR2hrZy15MGpVNXNuWmo1RDBEakZHNEI1TVV3WnkwN2NVTVNteXBjSHPSAZACQVVfeXFMTU1JSGx3X3g2OTZCVWEzdzB0cm9pQ3QwNVlYcERDcGpkYWJoYXFSTm9OZGYwb1REcG9JOTJoMnRVSlpyNGowNVpYbzVmdk1EUDEwREYzdTczVFNHZkxsNm5tM3pQMHFDNmhuZlBnODBQMUlUQ1h1R2VHWXFTMnprcUo2YjFUMUx1UXNpUld2d3JJelVzUjBVaXJ6SXZCTVZPbUtmR016VHY0SGZiV19yMl9vaGRDQVNLZE9TbGdRcTJ0bGFBR1pOeElRYnM2ZWVLWE5ESjlEVzlrVGJkM1EyRm0tQ2xzMTd2R0J0MHhJUWtHV0ZoQTUxaEtnQmUwYThwX25WVml2YU9IM3BNWWt1SUM?oc=5",
       "s": 2
      }
     ]
@@ -109,12 +156,12 @@
   "negative": [
    {
     "symbol": "RELIANCE",
-    "score": -17.5,
-    "signal": "AVOID/SELL",
-    "price": 1174.6,
-    "chg": 0.68,
-    "volx": 0.82,
-    "above20": false,
+    "score": -10.0,
+    "signal": "NEG NEWS, price holding",
+    "price": 1215.0,
+    "chg": 3.44,
+    "volx": 1.77,
+    "above20": true,
     "news": [
      {
       "t": "Reliance Industries shares rise 3% as Jio sets price band for possibly biggest-ever issue. What shareholders must know",
@@ -127,23 +174,70 @@
       "s": -3
      },
      {
-      "t": "Stocks to watch: IDBI Bank, Reliance, Wipro, TechM, Nestle, Jio Financial",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-idbi-bank-reliance-wipro-techm-nestle-jio-financial-126101500090_1.html",
+      "t": "Reliance Jio IPO skyrockets RIL share price; should investors buy more shares of Mukesh Ambani firm for big returns? - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc2hjdjNzU2gyWUFYdlZNQjA4amF6NUV5UGdwaHZBRlN6S1dySENlaFVZVVNFN09XTlNISzlqei02V3FaUGVOOTlFc2NEQ2lyTUNzQmVNOUJyQnlDR19GTWVHanNRekQxMWVjSFJBNXVteWc2V0szWndYclh1dWJUSWZaUDlTMFlxZ3R6QUkzQWZiYnBhQUM5c2NESURQcGNBWGJITmZITFFEOFFKd0psQnlyVzNxNFRhRU5QQlh6M01lNUtoZkhGTmlqRUVzQ3B4ZXFkbTNxbDUzdTFuS0hTc09DTEltVXJvYlpuTmUzTEZ6RTJfbVFpQWpqUXdjeDVK?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "YESBANK",
+    "score": -8.9,
+    "signal": "AVOID/SELL",
+    "price": 18.12,
+    "chg": -14.53,
+    "volx": 8.54,
+    "above20": false,
+    "news": [
+     {
+      "t": "In freefall! Yes Bank crashes 20% after SC ruling on AT-1 bond write-off",
+      "l": "https://www.business-standard.com/markets/news/in-freefall-yes-bank-crashes-20-after-sc-ruling-on-at-1-bond-write-off-126101500759_1.html",
+      "s": -6
+     },
+     {
+      "t": "Yes Bank Shares Crash 15% After Supreme Court AT1 Ruling - Equitypandit",
+      "l": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTV0cDZ0cy1Va0dEeTBRNURYZlp0SDgwLVlvWFJZNm5rWEQtX1Z6NTN1bGhoRHBNZlk4VE9oOVJjWnRVUzQtTU9mZVJlZjNON1pRdDJsWFpZemJFcGprYTJXc09uN1lwZTIyNU5PQmU0ZDVBbXYzd2Fhc0YydmdIMUFCWTlWMEJpaHhrd1F3?oc=5",
+      "s": -6
+     }
+    ]
+   },
+   {
+    "symbol": "WIPRO",
+    "score": -6.1,
+    "signal": "NEG NEWS, price holding",
+    "price": 174.05,
+    "chg": 1.83,
+    "volx": 0.54,
+    "above20": true,
+    "news": [
+     {
+      "t": "Top Stocks to Watch Today: Reliance Industries, IDBI Bank, Wipro Shares in Focus on Thursday, 15 Oct | Full List - Univest",
+      "l": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0x4VHJOSEZLZUpmTHBZOFpWQVZ1djNxNkpKaGRRZ05xZmRhUlg4eUlnNmhsdHp4Q3pjblc2V3dvOU5Qdi1mQ09jMFpGT1BBRk1TVE52dmZnUFhPTG9qbkhNc2Z6OExYSWRvenViX05CR3lNVk9Fa0pzM3hKTzlYRlJ5OEJwZkxlREFWWndIOXh2SkNWb3piTVBYeExMUldIV1Y2T0JIQjBnTTRTWHVZR1FBaG92S1ZuSDREaUV3cHZHUVZFenluQnFGOA?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Wipro Q2 Results: Net profit falls 4.5% QoQ to Rs 3,201 crore, revenue grows marginally - Zee Business",
+      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcTNCNTEyWU5sZFdULXNfZ0w1R3RkcW5DY3huQUh4TlNXNlUyN0dRZjhqYWoyOGtkRG1EWFpuTzhhdk5KTFNHUzBBSWpvOGxfdWMxMEZiVTl0b0FucDcxa1NKSF9YTzZMS1AzenZOWEdJYmN3WFV1QTVsTEZ5YURDckhodTBlNmxUZzN0WHFjaVh2S1B5ZHM4WDZ5WnNLWHJxeFlUQklyb3AtNWRDZHFSMTdEOUlWNkpMUnRUYXlLZkJhaXNQbEZ6ZlExb1pndw?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: IDBI Bank, Reliance, Wipro, TechM, Nestle, Jio Financial - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0xUMlFOdXk1WG5UcHhlblhFaEptYUdoYzl3TEJBSWN3dGQ2NU90eE15amhfWjVqSVJoVWhISjhtdmoya3lMeWJlaktFdnRJLWJLaW53NlN5Vnh2Ry13Wll3MGZSNlhoSFpWX3Azd3ppMzd3bVhLUEpsUGFBVVJ0aUxUM3FSNmllWHFWNDVVSTY2RzBMbkNFa19oa3kyTTR2VEFEMjh2aHpQc1drQTNxLVVzZmxyYmhiWkN4TmVOZE1xMXNUS1NfNGRmOG9FdDjSAdQBQVVfeXFMTWJkQmVnUFZQa29TSjhRWldvZWV1alhRdWpMMl9ZYkZtcXJQOTE1VHM3SDVJRmdjQzcxa0hoMzFTZVc5dUNoOC1tUVIwOFZqMExVQ2tfN1VlTnJmb0lBWUMyV05qM2wzR2xMZno5S3E3T3hBSkthZ2E4OTRhQjdvMW0yVDZnT3lIdF9yOUJid0JER3Y4MUhIcUdVdUdGeXpSR1lIdGNSYzNCSWE5Wng3THZ4dVlyUTVDT3JaY0lJbzRCSFJ1MTBfaHRPWUMtTDVKUUozbHU?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "HDFCBANK",
-    "score": -6.8,
-    "signal": "AVOID/SELL",
-    "price": 710.7,
-    "chg": -0.46,
-    "volx": 0.76,
-    "above20": false,
+    "score": -3.4,
+    "signal": "NEG NEWS, price holding",
+    "price": 726.85,
+    "chg": 2.27,
+    "volx": 1.23,
+    "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank Surpasses Key Resistance Level",
+      "t": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
       "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-15-oct-2026/liveblog/134956082.cms",
       "s": -3
      },
@@ -161,12 +255,12 @@
    },
    {
     "symbol": "CANBK",
-    "score": -4.2,
-    "signal": "NEG NEWS, price holding",
-    "price": 124.76,
-    "chg": 3.59,
-    "volx": 4.12,
-    "above20": true,
+    "score": -3.1,
+    "signal": "AVOID/SELL",
+    "price": 117.12,
+    "chg": -6.12,
+    "volx": 4.75,
+    "above20": false,
     "news": [
      {
       "t": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender?",
@@ -174,72 +268,62 @@
       "s": -3
      },
      {
-      "t": "Why are Canara Bank shares down 7% in trade today after Q2 results? - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQV9jb0hLZ0hxcWdyUERHdXJSei00VGxaNkdSb056WFpnai1RNERpTU1LUDF6TEZLRUV1bGZDcGN2QkVkSjhMM3pGazdTaVpFOGQxSlRZRTFFaVpzT21UZjhjbm1jQTZRYXJBREJMck9TeFJlQnA0UmZXWHp4Ql9WcXVOV2o1QTU1a2VLMWdMSXpHR2hsTU9WTnptYXJtZk5aQ3d1WVJSVThYcnJrRmFscGZ0eHQwcWxNTF93ZUpZaDgzajRVeG9Cb3E4Mm3SAdIBQVVfeXFMT2xuN1Y5TEVBa3I3YWdtMXRLLUpwYXcydWw5YkVMbnpxbEljSEhmWEd0VWUwczc0TU9tNUJJSnk0eTVMTjRQREgxLU01Z2FHX0llMVc1MkZET1BUZFRMaDJmYXZ3b2NySWJoaDROeFRTT19EMDZQb2N1RGxrNklSa21VSzk3c0pkQU50MWh3c181bmVQakNHNEhzNmlNbF9Na0xPTEtMSzViUFZld1pkUGNWcF9Qd1RJTVJlWnZFUTRDZjYyVzlCRnZhQUFNVUdJbDVR?oc=5",
-      "s": -3
-     },
-     {
       "t": "Canara Bank Share Price - Live NSE: CANBK Stock Price & Chart - Upstox",
       "l": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WRFh4d2VXcmV1N083elQyNWo0Zllrd1FYZFZ5M0R5bVJXc2dscTJ1MUxZLWJxXzBnUmRaZEc2TTV2YS1HME9Sby02cXBKcHFURWNkV1BiQjFNWE56TTZN?oc=5",
       "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "WIPRO",
-    "score": -4.1,
-    "signal": "NEG NEWS, price holding",
-    "price": 170.92,
-    "chg": 1.14,
-    "volx": 0.57,
-    "above20": true,
-    "news": [
-     {
-      "t": "Stocks to watch: IDBI Bank, Reliance, Wipro, TechM, Nestle, Jio Financial",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-idbi-bank-reliance-wipro-techm-nestle-jio-financial-126101500090_1.html",
-      "s": -3
      },
      {
-      "t": "Top stocks to watch today: Reliance Industries, IDBI Bank, Wipro shares in focus on Thursday, 15 Oct | Full list - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYThtR1NtM1JHWkI5QkU5emdUX2d4MU5rck4zb1lXSzI4Y0I2ajZlUG1ZWmFMVW9KNWpXOFlIT2JEMk5qRU1JU21VMHh4dURvalMyemtJbjU3cDgwaGlrZFFEVnRoZEMwTmtxM0hHWjY0RTMxUDgtTmhRVTNpTHV5NGZoSVBBTlBLVFkwQkxsMEs4WVhuTlo4LWxNVkw0UlNZYzVKV0JwZjY1cDY3eHNhY1ozd2dzbTdIaUtQSjBMTU9OdmFzR3Nsa0FVVy02ay1UYTFpbFJJYV90aEo1aU91U05RRmxlWXFPRFVqRHdNVzUyRnRnaUE?oc=5",
-      "s": -3
-     },
-     {
-      "t": "India Stock Market Prediction Today, October 15, 2026: Can Nifty 50 Reclaim 22,700? Check Sensex, Bank Nifty Levels, Wipro Results, Stocks in Focus and Key Market Triggers - The Sunday Guardian",
-      "l": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOWC11MGNNekdjNnRMQmRHT3ltYThfUGtURWE5cldHQ0hXUlk2RjlGaFhaOWJ1NnJLNnRvbUhwdEdUclB1cjNIZmZpdnYwNjlEaUZfRjVBc19CeXdiejZEZkVvUDFQTER4dFdTTlRjNlhZbFVOeXIwdHZLSnNOTDhhd2llUmtfc05OWXAzZmJjWm5lNUJxN2lnV0o0WHhaVjhTSnZ5ZFRweGs2NHRhazFPRHFGMXpNbGluZ0tQbHhZSGw0RHFicFM1QmZDTk1GanQ4a29Ua2Z1dGJvZzFpYXNYTFc5Q19oOWJ6dWhRVXptVEhIY1RaX0loTHhkSjYtTzBUMzRIUnZaclRPVnhzVmZrREl2TWlzSm1aajFoM2lMdzlOcWU0djFqY0REdktDZ1RHRVMxSmd30gG7AkFVX3lxTFBReTMwb21PZWJWU3k0RnRJbFJwc2t6UEozd1paNndZTXdMWVpZTG4wSmZ3MXc3YWVJNEROdnhUWndDMV9rWFlySDVnZFRaTXVob0NaQkUxZjR3ejlVMHVxWmpycEl4cEVLMjhGbVAyeU8xd0VaTTlYTVZGMmt4V0YtX0tKVmxCeWF2NU81X3RRTXFoZF84a2tUUmdZLXhqbE44dDFJSjBndHNJRFprLTQzOUUwbi00c1lsOTl3ajZoNXlJQ25lOU5TVlhyTTI4X25uaHhJWF9ESWVzMWJRa2VlWVZ2bmZJaTA5ZjNNVi1zWnF1Qk5KdlRBM1drbU8tLXJxYmVoX0pkR2lGbTdwV2pKc0VSVmF1ZTBNOFowblJrWlpLOW1LWE5CUGNoeFl3a2JNRzlUOFVael81NA?oc=5",
+      "t": "Why are Canara Bank shares down 7% in trade today after Q2 results? - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQV9jb0hLZ0hxcWdyUERHdXJSei00VGxaNkdSb056WFpnai1RNERpTU1LUDF6TEZLRUV1bGZDcGN2QkVkSjhMM3pGazdTaVpFOGQxSlRZRTFFaVpzT21UZjhjbm1jQTZRYXJBREJMck9TeFJlQnA0UmZXWHp4Ql9WcXVOV2o1QTU1a2VLMWdMSXpHR2hsTU9WTnptYXJtZk5aQ3d1WVJSVThYcnJrRmFscGZ0eHQwcWxNTF93ZUpZaDgzajRVeG9Cb3E4Mm3SAdIBQVVfeXFMT2xuN1Y5TEVBa3I3YWdtMXRLLUpwYXcydWw5YkVMbnpxbEljSEhmWEd0VWUwczc0TU9tNUJJSnk0eTVMTjRQREgxLU01Z2FHX0llMVc1MkZET1BUZFRMaDJmYXZ3b2NySWJoaDROeFRTT19EMDZQb2N1RGxrNklSa21VSzk3c0pkQU50MWh3c181bmVQakNHNEhzNmlNbF9Na0xPTEtMSzViUFZld1pkUGNWcF9Qd1RJTVJlWnZFUTRDZjYyVzlCRnZhQUFNVUdJbDVR?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "INDIANB",
-    "score": -2.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 849.45,
-    "chg": 0.94,
-    "volx": 1.42,
-    "above20": true,
+    "symbol": "HINDZINC",
+    "score": -2.8,
+    "signal": "AVOID/SELL",
+    "price": 531.0,
+    "chg": -1.67,
+    "volx": 1.09,
+    "above20": false,
     "news": [
      {
-      "t": "Indian Bank, South Indian Bank gain up to 5% from day's low post Q2 results",
-      "l": "https://www.business-standard.com/markets/news/indian-bank-south-indian-bank-gain-up-to-5-from-day-s-low-post-q2-results-126101500635_1.html",
+      "t": "Nilesh Shah on PSU privatisation: How Hindustan Zinc offers a lesson for IDBI Bank",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/nilesh-shah-on-psu-privatisation-how-hindustan-zinc-offers-a-lesson-for-idbi-bank/articleshow/134969215.cms",
       "s": -3
      }
     ]
    },
    {
     "symbol": "HYUNDAI",
-    "score": -1.8,
+    "score": -1.1,
     "signal": "NEUTRAL",
-    "price": 1965.6,
-    "chg": 0.04,
-    "volx": 1.47,
+    "price": 1985.0,
+    "chg": 0.99,
+    "volx": 0.93,
     "above20": false,
     "news": [
      {
       "t": "Stocks to Watch Today (Oct 15): Tech Mahindra, Hyundai Motor India, IDBI Bank, Nestle India and more - Zee Business",
       "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeS12NTdwOWNjb29QOENQelBaWHVfZ0E1bnRZZEt6NHNYY1Fia0xWTmIxUmN0cmtMbnBfbldDRU1vQXBUbG9CWTFNZ3I2aUg5WFFTNTlzclJxVE9YS2ZwOFRFOGRUdkZzX3l4WmtPSV9POGFnR3NBT0VyMTBMV3Q0ZGdtSDJFdFpTN3pEeEZsM0lyT1prbmtyWHUyM0lZUzhhanBOc3gzYTJPVWpFV2FVdmtlSm1JR2o4eVFveGstbWl2NENxQmRVaEczblpHSDdfblI5Qm9WWjU?oc=5",
       "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "IDEA",
+    "score": -1.1,
+    "signal": "NEUTRAL",
+    "price": 12.52,
+    "chg": -1.18,
+    "volx": 0.85,
+    "above20": false,
+    "news": [
+     {
+      "t": "Vodafone Idea Gains, IDBI Slumps; Silver ETF Drops 3% - HDFC Sky",
+      "l": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVgwOXUyV0lhR3F1MDN4OTg4RkxpUW1YTzAwN01RRTd5VVVLeE5BdEoyOV9DcTFDNnBNb3VLOWxUZEEtUkxBWmFvOWw1MXlNVlFJXzN4andlNDZjX0FoemFFQWMzNmpNd3hSTWk3RDhobUtOTWRzZnpiU3ZtZUtSc1Eyc3huYm1ZNDFHanFkMGZ6bmZIcVktaXJwVFdfQ3NnYV9VZ2ZKNDRmbjRsS0xLMENkcDVyM2lwMzdrY1hUY0NxVHgybE1WMl91UzV4UTVPN3NSb0xrNA?oc=5",
+      "s": -2
      }
     ]
    }
