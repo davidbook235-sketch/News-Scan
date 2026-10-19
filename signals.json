@@ -1,34 +1,12 @@
 {
- "updated": "19 Oct 2026 15:18 IST",
+ "updated": "19 Oct 2026 22:25 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 248,
  "swing": [
   {
-   "symbol": "DIVISLAB",
-   "setup": "Pullback",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 9144.5,
-   "stop": 8892.95,
-   "risk": 251.55,
-   "t1": 9521.83,
-   "t2": 9899.15,
-   "rsi": 46.9,
-   "volx": 1.53,
-   "rs": 31.6,
-   "date": "2026-10-16",
-   "news": ""
-  },
-  {
-   "symbol": "INDHOTEL",
+   "symbol": "PNB",
    "setup": "Breakout",
    "score": 5,
    "checks": {
@@ -38,59 +16,15 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 772.1,
-   "stop": 736.35,
-   "risk": 35.75,
-   "t1": 825.72,
-   "t2": 879.34,
-   "rsi": 66.5,
-   "volx": 2.55,
-   "rs": 11.0,
-   "date": "2026-10-16",
-   "news": ""
-  },
-  {
-   "symbol": "LLOYDSME",
-   "setup": "Pullback",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 1851.7,
-   "stop": 1779.79,
-   "risk": 71.91,
-   "t1": 1959.56,
-   "t2": 2067.42,
-   "rsi": 52.3,
-   "volx": 1.75,
-   "rs": 4.1,
-   "date": "2026-10-16",
-   "news": ""
-  },
-  {
-   "symbol": "GROWW",
-   "setup": "Breakout",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 200.85,
-   "stop": 189.4,
-   "risk": 11.45,
-   "t1": 218.02,
-   "t2": 235.19,
-   "rsi": 61.9,
-   "volx": 1.85,
-   "rs": 1.3,
-   "date": "2026-10-16",
+   "entry": 121.9,
+   "stop": 115.25,
+   "risk": 6.65,
+   "t1": 131.87,
+   "t2": 141.84,
+   "rsi": 63.1,
+   "volx": 5.6,
+   "rs": 14.6,
+   "date": "2026-10-19",
    "news": ""
   }
  ],
@@ -98,33 +32,80 @@
  "news": {
   "positive": [
    {
+    "symbol": "BAJFINANCE",
+    "score": 8.5,
+    "signal": "TRAP? (price falling)",
+    "price": 957.35,
+    "chg": -2.52,
+    "volx": 1.06,
+    "above20": false,
+    "news": [
+     {
+      "t": "Bajaj Finance Q2 Results: Net profit jumps 29% YoY to Rs 6,367 crore, NII up 24%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-results-net-profit-jumps-29-yoy-to-rs-6367-crore-nii-up-24/articleshow/135048431.cms",
+      "s": 5
+     },
+     {
+      "t": "Bajaj Finance Q2 Results: Net profit jumps 29% YoY to Rs 6,367 crore, NII up 24% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ1hzQ3dUOHdud0kzWUU1RkdlMVBtSlRCV1pNS0R5VGJLY3NrcnY0LUhOQUJMNmZRRzYtQzkxdmY0X09PS0c4eDUzVUx1MGNjZkxyYWp3TXB2WG5zSmdudXgxSENzNzB1aE1SN0tfZG8tb2NiTmNhdE1zMlQ3aFVCazFlMXVwd1pGMURncjU5UUotdXN2TmUxTlFONWkwMzlYSEpfQVhFV3dPNmFxMG1uWGpHWS1Vdl9ORlpibzA2ZWJRd21wSm1UY055SlZFTk95a2Z4U0dYTDhBZmZueS16ZVExalVtZlN5QTNyMkVR0gHuAUFVX3lxTE5nWHNDd1Q4d253STNZRTVGR2UxUG1KVEJXWk1LRHlUYktjc2tydjQtSE5BQkw2ZlFHNi1DOTF2ZjRfT09LRzh4NTNVTHUwY2NmTHJhandNcHZYbnNKZ251eDFIQ3M3MHVoTVI3S19kby1vY2JOY2F0TXMyVDdoVUJrMWUxdXB3WkYxRGdyNTlRSi11c3ZOZTFOUU41aTAzOVhISl9BWEVXd082YXEwbW5YakdZLVV2X05GWmJvMDZlYlF3bXBKbVRjTnlKVkVOT3lrZnhTR1hMOEFmZm55LXplUTFqVW1mU3lBM3IyRVE?oc=5",
+      "s": 5
+     },
+     {
+      "t": "Bajaj Finance Q2 consolidated net profit rises 29% to Rs 6,367 crore",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-consolidated-net-profit-rises-29-to-rs-6367-crore/articleshow/135051459.cms",
+      "s": 2
+     }
+    ]
+   },
+   {
     "symbol": "ULTRACEMCO",
-    "score": 4.5,
-    "signal": "WATCH",
-    "price": 10907.0,
-    "chg": 0.41,
-    "volx": 0.63,
-    "above20": true,
+    "score": 3.5,
+    "signal": "TRAP? (price falling)",
+    "price": 10650.0,
+    "chg": -2.36,
+    "volx": 2.09,
+    "above20": false,
     "news": [
      {
       "t": "UltraTech Cement Q2 Results: Net profit jumps 21% YoY to Rs 1,494 crore; revenue up 19%",
       "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms",
       "s": 5
+     },
+     {
+      "t": "UltraTech Cement Q2 results: Net profit rises 21% to Rs 1,494 crore, revenue up 19%; stock falls 2% - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXZ1ZS1pcmlqS0FOR3R6WEhqOTVXdDJ6NC14MTRkV3VqRGp6R2FiQ2IzejNKRk9QNTk2czVhTFdzSTg4cnhaZUhIMTN6Rm0xNXFneFRBMXQzU0tqNlJtenJDeHJmd0t2Y1hvU0V2dGJDbFZSbnFWU1F5WmRFQnh2ZmFvSE9zdlRERW1jeHV4N2VWOWRMN0g2dmNGWkxPMEFubDk1eUp4NERENk0tWWpwT1h3WlZyczkweGtvSWRlRVlhbzFsdGdPTXVQb3k2M0lOYU1PaDlGMUtmSTVvWWVHWFV30gHnAUFVX3lxTE5FMjBtNjBWMmkwZnhMWXdZbkRJQUpSbmo1YTBJU3AzbGpCa0d5UlFhUmI1ZUhQdk1EX0NNX0NmamtWaksxLTNTMlUwRkJTdGZNdFh3T09nOVZFVUJXU01pV1VWWkMxZ0MwaENBejNQeUs2WFFhdk9Yek9xRkNaclI4cUlzZVl0Z0lzRUlPSHpEX2pDZndOc2RqNG5Nb3V3V0tHT2FROVItV2NPa1dJY192TjN4WV9BS01jRElsdnlEU3pGZVNNM1d0Y2tsSk5Wdnl0UHhzTE5VVDlFWjVBem5CNHFXOUlBcw?oc=5",
+      "s": 2
      }
     ]
    },
    {
-    "symbol": "LAURUSLABS",
+    "symbol": "PIRAMALFIN",
+    "score": 3.5,
+    "signal": "WATCH",
+    "price": 1948.7,
+    "chg": -0.08,
+    "volx": 0.54,
+    "above20": false,
+    "news": [
+     {
+      "t": "Piramal Finance Q2 Profit Jumps 67% to Rs 545 Cr - Equitypandit",
+      "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHhMTEJFcVpCZVFfblFYZlFJM29kV0kwTm9Wd1ZxMG14b251QVJhbmk2a1NCWk9fbUVaSkVHOEI3UDkwRHpKWDljN3RkZmZjeHdzNVA5cmc5Rl9PVE82YUNjYXV5ODRId1BpTkFjVW5IZjdXNG9WVUZXY094VXdYLXF1cw?oc=5",
+      "s": 5
+     }
+    ]
+   },
+   {
+    "symbol": "BSE",
     "score": 1.6,
     "signal": "NEUTRAL",
-    "price": 2060.1,
-    "chg": 2.06,
-    "volx": 1.04,
+    "price": 3336.0,
+    "chg": -0.8,
+    "volx": 0.28,
     "above20": true,
     "news": [
      {
-      "t": "Laurus Labs zooms 128% from March low; hits new high in weak market",
-      "l": "https://www.business-standard.com/markets/news/laurus-labs-share-price-zooms-128-from-march-low-hits-new-high-in-weak-market-126101900354_1.html",
+      "t": "Kaya gets BSE, NSE approval for \u20b950 crore preferential issue - scanx.trade",
+      "l": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1plVzhWZDFwY01NYmtPV053cUNDd2FPdjZ1QkZ0bUZRVU5RR05tbmlQZ3dHcHJnRklDallSMUlWU2FWNlhCbG5ZMXRXUjAwODBUUnNEM1NyVHRvRDFRWG5DWW1RUGxoR0g4RC1YVFpwLTltaGJhLU14OUx5a2dneWpyUk1zT0pEUW5QR0hGRzZOUW5FdW1kdWlnby1XY3dIWVhuNHhiNkpEY18yNjBSUHJwTndqRVdsT21WVGQtM3VBa3M?oc=5",
       "s": 2
      }
     ]
@@ -133,12 +114,12 @@
   "negative": [
    {
     "symbol": "HDFCBANK",
-    "score": -29.7,
-    "signal": "NEG NEWS, price holding",
-    "price": 728.85,
-    "chg": 0.28,
-    "volx": 0.95,
-    "above20": true,
+    "score": -12.2,
+    "signal": "AVOID/SELL",
+    "price": 712.0,
+    "chg": -2.31,
+    "volx": 1.08,
+    "above20": false,
     "news": [
      {
       "t": "Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do? - Livemint",
@@ -151,20 +132,20 @@
       "s": -3
      },
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Market Activity and Price Update",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-19-oct-2026/liveblog/135038428.cms",
+      "t": "HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO",
+      "l": "https://www.business-standard.com/markets/news/hdfc-bank-share-price-falls-1-5-post-q2-show-analysts-say-worst-over-eyes-on-new-ceo-126101900140_1.html",
       "s": -3
      }
     ]
    },
    {
     "symbol": "AXISBANK",
-    "score": -22.3,
-    "signal": "NEG NEWS, price holding",
-    "price": 1290.0,
-    "chg": 0.16,
-    "volx": 1.34,
-    "above20": true,
+    "score": -10.1,
+    "signal": "AVOID/SELL",
+    "price": 1236.0,
+    "chg": -4.19,
+    "volx": 1.89,
+    "above20": false,
     "news": [
      {
       "t": "Axis Bank stock tumbles 4%, tops Nifty losers after Q2 results; brokerages bullish, check target prices,... - Moneycontrol.com",
@@ -177,7 +158,7 @@
       "s": -4
      },
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank  Reports Significant Daily Change",
+      "t": "Axis Bank Share Price Highlights: Axis Bank Stock Price History",
       "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038578.cms",
       "s": -3
      }
@@ -185,11 +166,11 @@
    },
    {
     "symbol": "ICICIBANK",
-    "score": -18.0,
-    "signal": "NEG NEWS, price holding",
-    "price": 1397.0,
-    "chg": 0.55,
-    "volx": 1.51,
+    "score": -10.0,
+    "signal": "AVOID/SELL",
+    "price": 1381.0,
+    "chg": -1.15,
+    "volx": 2.46,
     "above20": true,
     "news": [
      {
@@ -198,7 +179,7 @@
       "s": -3
      },
      {
-      "t": "ICICI Bank Share Price Live Updates: Market Update: ICICI Bank's Trading Activity",
+      "t": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
       "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-19-oct-2026/liveblog/135038693.cms",
       "s": -3
      },
@@ -210,12 +191,85 @@
     ]
    },
    {
-    "symbol": "DLF",
-    "score": -3.2,
+    "symbol": "BANKINDIA",
+    "score": -6.3,
     "signal": "NEG NEWS, price holding",
-    "price": 675.0,
-    "chg": 0.67,
-    "volx": 0.55,
+    "price": 136.78,
+    "chg": 3.34,
+    "volx": 2.27,
+    "above20": true,
+    "news": [
+     {
+      "t": "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
+      "l": "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html",
+      "s": -3
+     },
+     {
+      "t": "Union Bank of India posts 30% jump in Q2 profit, shares surge 4.7% - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFh2Ym1OWHk2c0dFeF92WjRMdGNUeVZ4b2JsUXpVMl9oOHNNbWdhd3YzSGZFVGlfRjhTQVlOTkZ3NTZ1SGVsS2dmaVhUZTNmbkdqazdhVk53QzVRUVRZVkdwZ20zTXVVai1xMFFMWEdXaTJud3daZjFLcTRiM2Vidy0zRWFKZEU5YU5lakdVSlpjaU9YVzVKM0MweHF0V1pmcWlpdnNRem83Ul9wWVRJUWM3R29GMHZ4SExVYw?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Union Bank of India Q2 Results: PSU lender shares jump 5% after slippages decline, NPAs improve - CNBC TV18",
+      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2tUcUY5YS10blhmSk5qZGVzZDl3dHVTc1Y5RDZwdGMtZGt2dUZJVTNrRGt0RUlpMUptU3JZWTltcmVLS3o1Vm1fUFpfS1NjakVJcmF0RXRYMTljOU5JMXNleWJUbl9CcWdkdlJSZEJYZ0FqT1ZVUGdkUktCUnhQMDlJWVUxQWxIWUJrUXUwNFV6NWJrUHJsNllTeFI3RUNBU1ROZFpybHUwRDc5Q2kyTFhLaHdZamlqdmNkSmM0YWM3U25CRmlZRjhveDdSd9IB0wFBVV95cUxQSWtHc0liRDB3bi1HZW5ZSjFIQWVzSko3QzFRb0EwTEZhWElqTzJ2dGVPMy1NMnVOSmRGVWZaZE1OakJVWHNkMEMxd29BTUZSenBGNlVNSVhMSzd5RmZmU1VfZEc1OVpiQUJkaHRzNDRGaU4wNmY3YUpDSUZOcGU0S1p4cmZjTXJERUtaQUtaNDM2N2xSMVRfUGttc0JtdVBVVFhJd1JDMVloS3I1b1p2b1VpTEtVbU9oaGh4NjQtUEkteXQzMEhuSDlDYVdDNk5aLWxn?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "FEDERALBNK",
+    "score": -3.5,
+    "signal": "NEG NEWS, price holding",
+    "price": 348.85,
+    "chg": 3.21,
+    "volx": 3.91,
+    "above20": true,
+    "news": [
+     {
+      "t": "Volume shockers: Jana Small Finance tumbles 14%; Federal Bank soars 5%",
+      "l": "https://www.business-standard.com/markets/news/volume-shockers-jana-small-finance-tumbles-14-federal-bank-soars-5-126101900531_1.html",
+      "s": -3
+     },
+     {
+      "t": "Jana SFB shares fall 13% to hit 6-month low as Federal Bank says no plan to buy stake - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdkRZdG15QllmVWNPTHhLWjdJUDV4XzB3SV9FdXAzYWlXN3ZOQ0t2SUhLQi1HN0FlWXdjeWh0d1ZxRWx2elBXb2JvYnpwcGUtb0tzbmVYQnpWQzJyNWpTbV9xWlllVE91bW1nS3dSYW1IZ0RDdGd3WGNxei1jOHc3bU50SnBBTDhXTy1IX3NPbE5YcnVfN1JkOFhqekxkRkEydlRlV29nSnFjc2Q5RTNOdXFucmZHc1l5SmZCMDN2enktUUd6bTdpSkVqc1ZKbVMzR19SMjNzek9JRFBOYloyWmxoMNIB6AFBVV95cUxPQThrVjJsSHR1d18tNGc5SzE5MEx1REhVWmo0cGxPb19jTnFFUXo0TlpiSkFQdlF2c2RKY19STXU0VHdmN0lGYUt6TkdkeHo2NjdSejMwQy1UOXFEbnhUMUdrYmRDNGxBeWRkTHR0U1hCVTdpeXpCUXlncElRNXd4Q1ZOa2hDWGRkYm1TRGxnWlZ3cU9uYWE5ZERHSnZ0M2NoWWRoZDZGMzdxVWNwVGdfS1BzVlh3Vm1IMEN1cE1fZkJxekNLS1ZYOVFIZXBhVklzXzNEZkx1bjV4LWxlOTRZVXcwZGFRcFJ5?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "UNIONBANK",
+    "score": -2.1,
+    "signal": "NEG NEWS, price holding",
+    "price": 180.7,
+    "chg": 5.25,
+    "volx": 4.43,
+    "above20": true,
+    "news": [
+     {
+      "t": "Union Bank of India posts 30% jump in Q2 profit, shares surge 4.7% - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFh2Ym1OWHk2c0dFeF92WjRMdGNUeVZ4b2JsUXpVMl9oOHNNbWdhd3YzSGZFVGlfRjhTQVlOTkZ3NTZ1SGVsS2dmaVhUZTNmbkdqazdhVk53QzVRUVRZVkdwZ20zTXVVai1xMFFMWEdXaTJud3daZjFLcTRiM2Vidy0zRWFKZEU5YU5lakdVSlpjaU9YVzVKM0MweHF0V1pmcWlpdnNRem83Ul9wWVRJUWM3R29GMHZ4SExVYw?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Union Bank of India Q2 Results: PSU lender shares jump 5% after slippages decline, NPAs improve - CNBC TV18",
+      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2tUcUY5YS10blhmSk5qZGVzZDl3dHVTc1Y5RDZwdGMtZGt2dUZJVTNrRGt0RUlpMUptU3JZWTltcmVLS3o1Vm1fUFpfS1NjakVJcmF0RXRYMTljOU5JMXNleWJUbl9CcWdkdlJSZEJYZ0FqT1ZVUGdkUktCUnhQMDlJWVUxQWxIWUJrUXUwNFV6NWJrUHJsNllTeFI3RUNBU1ROZFpybHUwRDc5Q2kyTFhLaHdZamlqdmNkSmM0YWM3U25CRmlZRjhveDdSd9IB0wFBVV95cUxQSWtHc0liRDB3bi1HZW5ZSjFIQWVzSko3QzFRb0EwTEZhWElqTzJ2dGVPMy1NMnVOSmRGVWZaZE1OakJVWHNkMEMxd29BTUZSenBGNlVNSVhMSzd5RmZmU1VfZEc1OVpiQUJkaHRzNDRGaU4wNmY3YUpDSUZOcGU0S1p4cmZjTXJERUtaQUtaNDM2N2xSMVRfUGttc0JtdVBVVFhJd1JDMVloS3I1b1p2b1VpTEtVbU9oaGh4NjQtUEkteXQzMEhuSDlDYVdDNk5aLWxn?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Union Bank of India Q2 Results: Profit Jumps 30% to \u20b95,537 Crore as Gross NPA Eases to 2.42% - Trade Brains",
+      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXdZTG1ZVENLRGVoYzBCY2hmTGFVRER1RVNIZEJDSEVYQXYxd2lqYXN0ZXI2dlh6YTVyY2hTdF9FLXN0Z2FqQ1FEdEVUU3djV2pyY0g3OE5oODd1amdmSm9UUU1CZ2RRQ0t1Q3ZLU0FOc0VtQjllTjJ4YjJJckcxUE5vMmR1OUc5eW95TDRsZ1VXa2RKV1ROd3R1M2dDcmdCR3I2OEZCQS13V2U4Wk52MW5CYlJYYWlJLWtlU3ZYX3Q2QlhMSEYwMEhtb0loUQ?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "DLF",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 672.85,
+    "chg": -0.32,
+    "volx": 0.72,
     "above20": true,
     "news": [
      {
@@ -231,80 +285,44 @@
     ]
    },
    {
-    "symbol": "UNIONBANK",
-    "score": -3.0,
-    "signal": "AVOID/SELL",
-    "price": 171.68,
-    "chg": -0.58,
-    "volx": 1.97,
-    "above20": false,
-    "news": [
-     {
-      "t": "Union Bank of India posts 30% jump in Q2 profit, shares surge 4.7% - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFh2Ym1OWHk2c0dFeF92WjRMdGNUeVZ4b2JsUXpVMl9oOHNNbWdhd3YzSGZFVGlfRjhTQVlOTkZ3NTZ1SGVsS2dmaVhUZTNmbkdqazdhVk53QzVRUVRZVkdwZ20zTXVVai1xMFFMWEdXaTJud3daZjFLcTRiM2Vidy0zRWFKZEU5YU5lakdVSlpjaU9YVzVKM0MweHF0V1pmcWlpdnNRem83Ul9wWVRJUWM3R29GMHZ4SExVYw?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Union Bank of India Q2 Results: PSU lender shares jump 5% after slippages decline, NPAs improve - CNBC TV18",
-      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2tUcUY5YS10blhmSk5qZGVzZDl3dHVTc1Y5RDZwdGMtZGt2dUZJVTNrRGt0RUlpMUptU3JZWTltcmVLS3o1Vm1fUFpfS1NjakVJcmF0RXRYMTljOU5JMXNleWJUbl9CcWdkdlJSZEJYZ0FqT1ZVUGdkUktCUnhQMDlJWVUxQWxIWUJrUXUwNFV6NWJrUHJsNllTeFI3RUNBU1ROZFpybHUwRDc5Q2kyTFhLaHdZamlqdmNkSmM0YWM3U25CRmlZRjhveDdSd9IB0wFBVV95cUxQSWtHc0liRDB3bi1HZW5ZSjFIQWVzSko3QzFRb0EwTEZhWElqTzJ2dGVPMy1NMnVOSmRGVWZaZE1OakJVWHNkMEMxd29BTUZSenBGNlVNSVhMSzd5RmZmU1VfZEc1OVpiQUJkaHRzNDRGaU4wNmY3YUpDSUZOcGU0S1p4cmZjTXJERUtaQUtaNDM2N2xSMVRfUGttc0JtdVBVVFhJd1JDMVloS3I1b1p2b1VpTEtVbU9oaGh4NjQtUEkteXQzMEhuSDlDYVdDNk5aLWxn?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Union Bank of India Q2 Results: Profit Jumps 30% to \u20b95,537 Crore as Gross NPA Eases to 2.42% - Trade Brains",
-      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXdZTG1ZVENLRGVoYzBCY2hmTGFVRER1RVNIZEJDSEVYQXYxd2lqYXN0ZXI2dlh6YTVyY2hTdF9FLXN0Z2FqQ1FEdEVUU3djV2pyY0g3OE5oODd1amdmSm9UUU1CZ2RRQ0t1Q3ZLU0FOc0VtQjllTjJ4YjJJckcxUE5vMmR1OUc5eW95TDRsZ1VXa2RKV1ROd3R1M2dDcmdCR3I2OEZCQS13V2U4Wk52MW5CYlJYYWlJLWtlU3ZYX3Q2QlhMSEYwMEhtb0loUQ?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "BANKINDIA",
-    "score": -3.0,
-    "signal": "AVOID/SELL",
-    "price": 132.36,
-    "chg": 1.5,
-    "volx": 0.68,
-    "above20": false,
-    "news": [
-     {
-      "t": "Union Bank of India posts 30% jump in Q2 profit, shares surge 4.7% - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFh2Ym1OWHk2c0dFeF92WjRMdGNUeVZ4b2JsUXpVMl9oOHNNbWdhd3YzSGZFVGlfRjhTQVlOTkZ3NTZ1SGVsS2dmaVhUZTNmbkdqazdhVk53QzVRUVRZVkdwZ20zTXVVai1xMFFMWEdXaTJud3daZjFLcTRiM2Vidy0zRWFKZEU5YU5lakdVSlpjaU9YVzVKM0MweHF0V1pmcWlpdnNRem83Ul9wWVRJUWM3R29GMHZ4SExVYw?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Union Bank of India Q2 Results: PSU lender shares jump 5% after slippages decline, NPAs improve - CNBC TV18",
-      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2tUcUY5YS10blhmSk5qZGVzZDl3dHVTc1Y5RDZwdGMtZGt2dUZJVTNrRGt0RUlpMUptU3JZWTltcmVLS3o1Vm1fUFpfS1NjakVJcmF0RXRYMTljOU5JMXNleWJUbl9CcWdkdlJSZEJYZ0FqT1ZVUGdkUktCUnhQMDlJWVUxQWxIWUJrUXUwNFV6NWJrUHJsNllTeFI3RUNBU1ROZFpybHUwRDc5Q2kyTFhLaHdZamlqdmNkSmM0YWM3U25CRmlZRjhveDdSd9IB0wFBVV95cUxQSWtHc0liRDB3bi1HZW5ZSjFIQWVzSko3QzFRb0EwTEZhWElqTzJ2dGVPMy1NMnVOSmRGVWZaZE1OakJVWHNkMEMxd29BTUZSenBGNlVNSVhMSzd5RmZmU1VfZEc1OVpiQUJkaHRzNDRGaU4wNmY3YUpDSUZOcGU0S1p4cmZjTXJERUtaQUtaNDM2N2xSMVRfUGttc0JtdVBVVFhJd1JDMVloS3I1b1p2b1VpTEtVbU9oaGh4NjQtUEkteXQzMEhuSDlDYVdDNk5aLWxn?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Union Bank of India Q2 Results: Profit Jumps 30% to \u20b95,537 Crore as Gross NPA Eases to 2.42% - Trade Brains",
-      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXdZTG1ZVENLRGVoYzBCY2hmTGFVRER1RVNIZEJDSEVYQXYxd2lqYXN0ZXI2dlh6YTVyY2hTdF9FLXN0Z2FqQ1FEdEVUU3djV2pyY0g3OE5oODd1amdmSm9UUU1CZ2RRQ0t1Q3ZLU0FOc0VtQjllTjJ4YjJJckcxUE5vMmR1OUc5eW95TDRsZ1VXa2RKV1ROd3R1M2dDcmdCR3I2OEZCQS13V2U4Wk52MW5CYlJYYWlJLWtlU3ZYX3Q2QlhMSEYwMEhtb0loUQ?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "FEDERALBNK",
-    "score": -2.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 338.0,
-    "chg": 0.9,
-    "volx": 4.21,
+    "symbol": "SBIN",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 973.7,
+    "chg": 1.15,
+    "volx": 1.71,
     "above20": true,
     "news": [
      {
-      "t": "Volume shockers: Jana Small Finance tumbles 14%; Federal Bank soars 5%",
-      "l": "https://www.business-standard.com/markets/news/volume-shockers-jana-small-finance-tumbles-14-federal-bank-soars-5-126101900531_1.html",
+      "t": "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
+      "l": "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html",
       "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "TCS",
+    "score": -1.7,
+    "signal": "NEUTRAL",
+    "price": 2460.9,
+    "chg": -0.17,
+    "volx": 1.62,
+    "above20": true,
+    "news": [
+     {
+      "t": "TCS stock: Prabhudas Lilladher cuts target to INR 2,390.00 for TCS stock - ad-hoc-news.de",
+      "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlI3RGUtcG90SkRESEJLSVU1cGQ3WUFPNkRINkcxWHo2Tkkya2dZQ050dnUzRlU0Qmt2a2J0ZWkyeXFIWnlGZjJoSGFyUThQaC1NanJXX2ZDUlc2MkFwelpvaE50TUlyeUFsYk9VazRkeEhwSmV3YjlNOEEtSDhFQXZJQkVtcTZWdFlXLU9BXy1pSGdUa09valVXWWRnSXVDVmVPTkViempGTl9VUzlGM2FWS3E3bTlRcHNFazVlRmt5U19PaHZuNnF4U0xiR0E?oc=5",
+      "s": -2
      }
     ]
    },
    {
     "symbol": "LT",
-    "score": -2.7,
-    "signal": "AVOID/SELL",
-    "price": 3627.1,
-    "chg": -0.13,
-    "volx": 1.1,
+    "score": -1.5,
+    "signal": "NEUTRAL",
+    "price": 3661.9,
+    "chg": 0.96,
+    "volx": 1.34,
     "above20": false,
     "news": [
      {
@@ -321,96 +339,16 @@
    },
    {
     "symbol": "YESBANK",
-    "score": -2.1,
-    "signal": "AVOID/SELL",
-    "price": 17.5,
-    "chg": -3.42,
-    "volx": 3.69,
+    "score": -1.2,
+    "signal": "NEUTRAL",
+    "price": 16.88,
+    "chg": -3.54,
+    "volx": 1.77,
     "above20": false,
     "news": [
      {
       "t": "ICICI Bank, HDFC Bank, Yes Bank, Axis Bank shares fall after Q2 results; here\u2019s why - Fortune India",
       "l": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2sydGZicFRKTTBxN2xLNTY0X1BULXZBWktxRGhaV3c3UjI5YTF4WEtGNE8tN3NvS3A5YlRaeldtaW9GNTR6d1NHb0JjZlJkZVJ3ZmkxOGVrU0ROdnllQ2JTTlc2Nm9YRmVIdWtpRk1KX3VDLUlBUEZPc1Z0TnV0UTBpWUIzLW9oakhDZ2hQOUhlRlFpeDRkbl9jWWJlU3hzMnBjNnJVckJ3SWg5US1aWEpNNUYtZHZJN0lVNlVPY9IBzAFBVV95cUxNckRXQTUtMmY0cHJkOU9IU01QLUYySUpRZGtBUHNKLXRxWUlOTElEMFg1MUZGNEZpeE1sQzItNm9GRFJCYVF5d3FBNl9fVW9FMXhia1FENnMyOTVib1dZVnFfWmZFLVBTLTR5UnowUGpyNXVCSnQ4TDNGQlZKcmU5NXJqSmJOVXpCdUF6TDdFRnI5ZHpnTzN4VjRLWmZsWVZsMWhrYlZLbnhKUG5jZVVPOW5KdTdiZzZlbkFFdzFIVDlhS3dtWjVGMmxud2k?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "INDUSINDBK",
-    "score": -1.7,
-    "signal": "NEUTRAL",
-    "price": 877.0,
-    "chg": -0.95,
-    "volx": 0.6,
-    "above20": false,
-    "news": [
-     {
-      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Current Price Update",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038459.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "IDEA",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 12.59,
-    "chg": 0.56,
-    "volx": 0.8,
-    "above20": false,
-    "news": [
-     {
-      "t": "Stocks to Watch Today (Oct 19): HDFC Bank, ICICI Bank, Axis Bank, DLF, Vodafone Idea, L&T Finance and more - Zee Business",
-      "l": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZl9HQWhrTkhjSGxwdkpHeVR3aTJiUXhXM0FmcnF4dEJDVHJ2TWt6V05QMVpyMTZGWGxyMFNNcjVJb1U0WjZiT05SaVVGQ1IzR3VIazFZR3gwaklMYnp6WHJkVDVFVGVvRjhsbkcwSFV3dUIwTDFGcnZwMEF0dkRweEJzU2hLeGQtWGxTSEtKVkhfUjhTdkFpN01IQnJpR1Nza1BfNzhhcE1JWUwzLUVXaElzcXBXajBSN0YxWEhZbUNiM016S0hMekF6VlZVbGdXeEJ3WnN5WHExQkE3?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "LTF",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 253.85,
-    "chg": -3.11,
-    "volx": 3.5,
-    "above20": false,
-    "news": [
-     {
-      "t": "Stocks to Watch Today (Oct 19): HDFC Bank, ICICI Bank, Axis Bank, DLF, Vodafone Idea, L&T Finance and more - Zee Business",
-      "l": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZl9HQWhrTkhjSGxwdkpHeVR3aTJiUXhXM0FmcnF4dEJDVHJ2TWt6V05QMVpyMTZGWGxyMFNNcjVJb1U0WjZiT05SaVVGQ1IzR3VIazFZR3gwaklMYnp6WHJkVDVFVGVvRjhsbkcwSFV3dUIwTDFGcnZwMEF0dkRweEJzU2hLeGQtWGxTSEtKVkhfUjhTdkFpN01IQnJpR1Nza1BfNzhhcE1JWUwzLUVXaElzcXBXajBSN0YxWEhZbUNiM016S0hMekF6VlZVbGdXeEJ3WnN5WHExQkE3?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "NTPC",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 315.15,
-    "chg": 0.16,
-    "volx": 1.15,
-    "above20": false,
-    "news": [
-     {
-      "t": "Stocks to watch: HDFC Bank, ICICI Bank, Bajaj Fin, DLF, OMCs, NTPC & more",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "HINDZINC",
-    "score": -1.2,
-    "signal": "NEUTRAL",
-    "price": 540.0,
-    "chg": 1.69,
-    "volx": 0.78,
-    "above20": false,
-    "news": [
-     {
-      "t": "Q2 results 2026 today Oct 19 Monday: Hindustan Zinc, IREDA, L&T Tech, Union Bank among 35 firms to announce earnings - IndiaIPO",
-      "l": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMlFsTjU5MWpJb0pyRTVlZ0QwTE5rLU40V2lLS0stRmVtcXExLVlfQkVSOHNreGZBYlVaWlJvRHVuT1oyMlo5b0p5QkoxS1dhbUV2Qko1UERhSHd1QUl4T1pBelFkTlBjZzk1dm1uUWQ0X0ZKVDhjdFVOVzRQZ1VJdFktNDhFemRKUTRqN29Eam84STZKU1JlakhDbVUtZEM0WXZwQkdPM2RoaVFmSWEyX2ZfZkRXaXBsOVFscDNiTVE2M3FiUzh0TFFDcHlSSVpYWFVXdU1WcExEVy1BdEFhdg?oc=5",
       "s": -3
      }
     ]
