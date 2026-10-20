@@ -1,5 +1,5 @@
 {
- "updated": "20 Oct 2026 14:50 IST",
+ "updated": "20 Oct 2026 19:58 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
@@ -30,64 +30,11 @@
  ],
  "exits": [],
  "news": {
-  "positive": [
-   {
-    "symbol": "BAJFINANCE",
-    "score": 2.2,
-    "signal": "TRAP? (price falling)",
-    "price": 957.35,
-    "chg": -2.52,
-    "volx": 1.06,
-    "above20": false,
-    "news": [
-     {
-      "t": "Bajaj Finance Q2 Results: Net profit jumps 29% YoY to Rs 6,367 crore, NII up 24%",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-results-net-profit-jumps-29-yoy-to-rs-6367-crore-nii-up-24/articleshow/135048431.cms",
-      "s": 5
-     },
-     {
-      "t": "Bajaj Finance Q2 Results: Net profit jumps 29% YoY to Rs 6,367 crore, NII up 24% - The Economic Times",
-      "l": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ1hzQ3dUOHdud0kzWUU1RkdlMVBtSlRCV1pNS0R5VGJLY3NrcnY0LUhOQUJMNmZRRzYtQzkxdmY0X09PS0c4eDUzVUx1MGNjZkxyYWp3TXB2WG5zSmdudXgxSENzNzB1aE1SN0tfZG8tb2NiTmNhdE1zMlQ3aFVCazFlMXVwd1pGMURncjU5UUotdXN2TmUxTlFONWkwMzlYSEpfQVhFV3dPNmFxMG1uWGpHWS1Vdl9ORlpibzA2ZWJRd21wSm1UY055SlZFTk95a2Z4U0dYTDhBZmZueS16ZVExalVtZlN5QTNyMkVR0gHuAUFVX3lxTE5nWHNDd1Q4d253STNZRTVGR2UxUG1KVEJXWk1LRHlUYktjc2tydjQtSE5BQkw2ZlFHNi1DOTF2ZjRfT09LRzh4NTNVTHUwY2NmTHJhandNcHZYbnNKZ251eDFIQ3M3MHVoTVI3S19kby1vY2JOY2F0TXMyVDdoVUJrMWUxdXB3WkYxRGdyNTlRSi11c3ZOZTFOUU41aTAzOVhISl9BWEVXd082YXEwbW5YakdZLVV2X05GWmJvMDZlYlF3bXBKbVRjTnlKVkVOT3lrZnhTR1hMOEFmZm55LXplUTFqVW1mU3lBM3IyRVE?oc=5",
-      "s": 5
-     },
-     {
-      "t": "Bajaj Finance Q2 consolidated net profit rises 29% to Rs 6,367 crore",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-consolidated-net-profit-rises-29-to-rs-6367-crore/articleshow/135051459.cms",
-      "s": 2
-     }
-    ]
-   }
-  ],
+  "positive": [],
   "negative": [
    {
-    "symbol": "ICICIBANK",
-    "score": -5.0,
-    "signal": "AVOID/SELL",
-    "price": 1381.0,
-    "chg": -1.15,
-    "volx": 2.46,
-    "above20": true,
-    "news": [
-     {
-      "t": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
-      "s": -3
-     },
-     {
-      "t": "Dussehra 2026 special: Top 3 stocks to buy; ICICI Bank, Adani Ports, Reliance Industries | Target price by Mahesh M Ojha - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaTkxcWpJallkZG52anVFcTFzSVEwX2VyZ1lTN01UNmNTNFQ5MmRuLURRdldFWTZEYXhoNHpUT0lOVnhSNURZQ0RzSXNSUUM3dTJWNTRTZUh2YmF2dmFCYjRJYk4xeFliMlM1UXk5TEM0TFVJQmxCSnFWdXZKUDRnaS10ZGZqclRXOWFLNWo3dS1mZnE0TDJkR0xaLXByV29WRHJPQzBQMGZjRUFDSTcyVFFTSXJFbEYtbmk5ck5Ocjc2czBCLTFMZ0xSZTNqV3d5TlZKMG5SVk1JWVpqTEtXWFRuNkFEeGpMakJwUkhiRWlySUlnMzVrMkN2cjZFakV2X3RoX21pYjBnZmE5QTNKQmZ3?oc=5",
-      "s": -3
-     },
-     {
-      "t": "ICICI Bank Q2FY27 Results: Net profit up 20.1% YoY to \u20b914,843 crore - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXoya1VYSTBPXzRzVGZFNzF1OUlQd3VzandWcFlsa285TmVPOTNjM04ydDMzQWJCWXBhSlZoVHp3N1BPdTRTSnZsQk9lOTk4RE9uNmwxWDhGejNmTmxYcXhJQU9weXJnQ3VVcXpnMHFyUFdmY1htZ3U2VlVkeWwxSGszUThGMTk4aDhlWnYtY2VETnltc1VKYmhfc3RSSWpDQ3huOGhnNVZhaXNfcFItbmRTY3ZaRllfdWRKUFhB?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
     "symbol": "BANKINDIA",
-    "score": -4.9,
+    "score": -3.6,
     "signal": "NEG NEWS, price holding",
     "price": 136.78,
     "chg": 3.34,
@@ -100,68 +47,84 @@
       "s": -3
      },
      {
-      "t": "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
-      "l": "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html",
+      "t": "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say - Livemint",
+      "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLVk5aklMT0Riai1SanpHV1pUYVRkNG9fVW92ckI0aUhoeGVrclo2QXJobjY1OUZ6MVNqYzBUQXpPTm5RaEd5d0tsZEJFV29nNHROdTZrQkVkM3lmZDcycWF2X0QwUlU5dlVSNUdtYWxtWDJHb3VsR0U1U3kzeS0yNzk1TTRwNzRyenJaNVl1TGMyYU5EQ2hJVjFkTDlHLXJlbEdMWXRoT21BcjUtOW16X3VPRmh3VjJlZTBpeWdKOEFJeXJlWDFQOElmTjhHMS1EN2wyWHJjTEhVOU5FSUNlN2pJR25VRVFsODNGaG1leUpIZHBGWUxrMEh30gH_AUFVX3lxTE00QTdEY0dHc2djc0oyNVdWaGZsdFF1dlBaVWtHbWNlWUY5VjJGckJnMTdHT3N6aGM5OVVCN2d4bnJIeWZIRjNYVXVfUVB2b1BRdVBpNkR1MjJ3a2ZtWnlmcEtWT0UyMFlvRXlzcXotS1lVQlVZS2U4MUFQd054b1lfT2NTU2RvSi1sWVF4SzlaUTRtZXNBaVU0ektVcng1QlZfZDhTTEd4ZGNwdVk3NWhUQTlpOTRra2JQYkMwMnBETXJWVzdpTEtXcm1KWFpQcVMtbDBVMTRsaEg1dTNXaWpQOVprVGdZS2czT1J6QkFoTGx5eUNPV05PcS1pUTMwOA?oc=5",
       "s": -3
      },
      {
-      "t": "Central Bank of India Q2FY27 Results: Net profit up 21% YoY to \u20b91,469 crore - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWdXSlpwUzVxdjJkcnlReXdEX3ZvMjBIdTN5LUoxMFBVSDJVdUdab1lDcUV4TkxEWHdIdDZlOUMwSTJlTmEyNG1BV2ktV2dFaGRxSVNuY1JpMDdpUmNZMHpkN0h5MGwtOWxLVW00VjEtN3JOOXhnSkhYdE1ZZTRjX3I5UkNKWjVvdWRGRG90YXJRV3BWVDVvUUs2VWNtazB0ZFkxbDlNVE0zOXRwSEtmcExKbkxvQVpNaTFxdHd4cVQ?oc=5",
+      "t": "Bank of India sets Q2 date. Bank of India stock is 8.66 percent below fair value - ad-hoc-news.de",
+      "l": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFVVNmxQRDNsRlEwdHJNaTlOVWZLa1h0ajNmYzJ4U2lFV1NNNl9YelcyRGVXQm9STTE5c2Q0aWtLc182YXhrS1h0a01sMWd6VWJvdXdsbjdlMGFYUUtzOXpxVnlpS3VSRWh0bHRXeXdYTGZtRlY4T0xhVjdZeGlodEhxaGdmaWJUXzFfM29XS0ZwaHpNb2RpSGVBbnltTDBIaDZFUlMwMTRCbFhpeHlHdDI3bzF2X1duRTcxYmlpdlYwTXpHY2lTRU5FZHJNa1I2ZWhaeQ?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "RELIANCE",
-    "score": -2.9,
-    "signal": "AVOID/SELL",
-    "price": 1202.0,
-    "chg": -0.76,
-    "volx": 1.09,
-    "above20": false,
-    "news": [
-     {
-      "t": "Dussehra 2026 special: Top 3 stocks to buy; ICICI Bank, Adani Ports, Reliance Industries | Target price by Mahesh M Ojha - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaTkxcWpJallkZG52anVFcTFzSVEwX2VyZ1lTN01UNmNTNFQ5MmRuLURRdldFWTZEYXhoNHpUT0lOVnhSNURZQ0RzSXNSUUM3dTJWNTRTZUh2YmF2dmFCYjRJYk4xeFliMlM1UXk5TEM0TFVJQmxCSnFWdXZKUDRnaS10ZGZqclRXOWFLNWo3dS1mZnE0TDJkR0xaLXByV29WRHJPQzBQMGZjRUFDSTcyVFFTSXJFbEYtbmk5ck5Ocjc2czBCLTFMZ0xSZTNqV3d5TlZKMG5SVk1JWVpqTEtXWFRuNkFEeGpMakJwUkhiRWlySUlnMzVrMkN2cjZFakV2X3RoX21pYjBnZmE5QTNKQmZ3?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "ADANIPORTS",
-    "score": -2.9,
+    "symbol": "UNIONBANK",
+    "score": -2.1,
     "signal": "NEG NEWS, price holding",
-    "price": 1766.0,
-    "chg": 0.87,
-    "volx": 0.84,
+    "price": 180.7,
+    "chg": 5.25,
+    "volx": 4.43,
     "above20": true,
     "news": [
      {
-      "t": "Dussehra 2026 special: Top 3 stocks to buy; ICICI Bank, Adani Ports, Reliance Industries | Target price by Mahesh M Ojha - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaTkxcWpJallkZG52anVFcTFzSVEwX2VyZ1lTN01UNmNTNFQ5MmRuLURRdldFWTZEYXhoNHpUT0lOVnhSNURZQ0RzSXNSUUM3dTJWNTRTZUh2YmF2dmFCYjRJYk4xeFliMlM1UXk5TEM0TFVJQmxCSnFWdXZKUDRnaS10ZGZqclRXOWFLNWo3dS1mZnE0TDJkR0xaLXByV29WRHJPQzBQMGZjRUFDSTcyVFFTSXJFbEYtbmk5ck5Ocjc2czBCLTFMZ0xSZTNqV3d5TlZKMG5SVk1JWVpqTEtXWFRuNkFEeGpMakJwUkhiRWlySUlnMzVrMkN2cjZFakV2X3RoX21pYjBnZmE5QTNKQmZ3?oc=5",
+      "t": "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say - Livemint",
+      "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLVk5aklMT0Riai1SanpHV1pUYVRkNG9fVW92ckI0aUhoeGVrclo2QXJobjY1OUZ6MVNqYzBUQXpPTm5RaEd5d0tsZEJFV29nNHROdTZrQkVkM3lmZDcycWF2X0QwUlU5dlVSNUdtYWxtWDJHb3VsR0U1U3kzeS0yNzk1TTRwNzRyenJaNVl1TGMyYU5EQ2hJVjFkTDlHLXJlbEdMWXRoT21BcjUtOW16X3VPRmh3VjJlZTBpeWdKOEFJeXJlWDFQOElmTjhHMS1EN2wyWHJjTEhVOU5FSUNlN2pJR25VRVFsODNGaG1leUpIZHBGWUxrMEh30gH_AUFVX3lxTE00QTdEY0dHc2djc0oyNVdWaGZsdFF1dlBaVWtHbWNlWUY5VjJGckJnMTdHT3N6aGM5OVVCN2d4bnJIeWZIRjNYVXVfUVB2b1BRdVBpNkR1MjJ3a2ZtWnlmcEtWT0UyMFlvRXlzcXotS1lVQlVZS2U4MUFQd054b1lfT2NTU2RvSi1sWVF4SzlaUTRtZXNBaVU0ektVcng1QlZfZDhTTEd4ZGNwdVk3NWhUQTlpOTRra2JQYkMwMnBETXJWVzdpTEtXcm1KWFpQcVMtbDBVMTRsaEg1dTNXaWpQOVprVGdZS2czT1J6QkFoTGx5eUNPV05PcS1pUTMwOA?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "HDFCBANK",
-    "score": -1.4,
+    "symbol": "FEDERALBNK",
+    "score": -2.1,
+    "signal": "NEG NEWS, price holding",
+    "price": 348.85,
+    "chg": 3.21,
+    "volx": 3.91,
+    "above20": true,
+    "news": [
+     {
+      "t": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "NESTLEIND",
+    "score": -1.8,
     "signal": "NEUTRAL",
-    "price": 712.0,
-    "chg": -2.31,
-    "volx": 1.08,
+    "price": 1242.7,
+    "chg": -1.8,
+    "volx": 0.62,
     "above20": false,
     "news": [
      {
-      "t": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
+      "t": "Nestle India stock: InCred cuts target for Nestle India stock to INR 1,375 - ad-hoc-news.de",
+      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQlVSYkJJZV9Xc1ZsVzU3Wk83WnJPbVpDNUk2VDQ0T2lrQzB4MGtQU2R5eGx2VGNFd1haZTRocm9LMi1lMF8teDFXQ2NXZXNRUUJGdWhtWGVLVFpGTlY0NDVFSlozREVpVmZsN2N1V01IMFRiZzB3Q3NqTUhLWTJQU0dPUnY4bllvMW5wUGwxN2dOX2R2OUtCemdkaHd4Tnk4ekcwMGpaMEdxWi1hMmQ2bjlTMTB6b3ZLbXZka3lFaldxOWRreU1fdFFGZVctTHJQS1E?oc=5",
+      "s": -2
+     }
+    ]
+   },
+   {
+    "symbol": "IOB",
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 30.71,
+    "chg": -0.9,
+    "volx": 0.8,
+    "above20": false,
+    "news": [
+     {
+      "t": "Indian Overseas Bank to issue 10 crore equity shares to employees under SEPS - Business Upturn",
+      "l": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXV6bzJucTl4Nmd5Y0VFelpTM0w0ZldJcFAyYWJ3cUZaeXR6TE9OUnhFS1l4X1FhYkZYbWxBbE5yZlM1WlI3YTl0eER6Q2UtbmVwWHJQUDFiU3hKVS1KWXNTN3NuSksyTEhjdDRiNng2VmI5dHdOdWY4VHZWYnhTUUlnUXV6SjFheEFyTGIyX3pGTU1rTHh1NzYwR2QzSWo4aXkyZll4cFpPdWZKZGhsM3Q4Zw?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "YESBANK",
-    "score": -1.2,
+    "score": -1.3,
     "signal": "NEUTRAL",
     "price": 16.88,
     "chg": -3.54,
@@ -174,30 +137,14 @@
       "s": -3
      },
      {
-      "t": "Yes Bank Q2FY27 results: Net profit rises 65% YoY to \u20b91,080 crore - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3VaTkUwWGxCYjJhWUxQRFVtcmFSdVdEcmk1Q3RiSnZhQzVzdDdEMUJjMzFhUkNQS3I4RlFhRkxSeVMxU1VWdGUtVElzX0NCcVJxRVFtM2t4UlVjQ3RBS3c2ZkZWUVRkeDRJMmJqWHl2d3BFV1otX1hqc29tc2xSTVU2OGh5T0lTZ0dhLWlrQU9HeXNnbEszLUhoaGNWZUJPeThJVDdzM3gwN2FxZkdDV3V6Mkx5VHM?oc=5",
-      "s": -1
-     }
-    ]
-   },
-   {
-    "symbol": "SBIN",
-    "score": -1.1,
-    "signal": "NEUTRAL",
-    "price": 973.7,
-    "chg": 1.15,
-    "volx": 1.71,
-    "above20": true,
-    "news": [
-     {
-      "t": "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
-      "l": "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html",
+      "t": "YES Bank Share Price - Live NSE: YESBANK Stock Price & Chart - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ENUFMY052a2RKUUtMSXZ4ZmRuQ3Nfdk8zMzlrQXJTRTgzOUotSzFVQ0dXNnB0a0doeDI4dkNscVZDNC0xZmF6cXA3bktlZEhHajRXZWdWckx1N0VCbEhQaUF6ZkZ5QQ?oc=5",
       "s": -3
      },
      {
-      "t": "State Bank of India stock: Results are due November 5 for State Bank of India stock - ad-hoc-news.de",
-      "l": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaWxJYTF4Q1hXSU1xbGw3Q2ZET3lqRWJpNWZxRzVMeUFJdUV2UDJwSk9vWTcwT3JrdVJTYkY4NWJZdllDQ3ZpYXZ1am1XRGxLLXRJS2JCUllKTmRTRUQ2WjI2UlpOVTVGWHFrWEhPZW1VeVh1Q2ZTUU1BTnViRjhvVGFocEJudktvUzIwOS1GVUN5WXBoZWtObVZOZVRLeUFNT3lXbVNuS1pjeVdFTGdwbjd5WWRLSVFjQ2JudXdRUXdKYlFZckpfelVFRW5JVWRrLTJzQnpOMEpkWlFMclE?oc=5",
-      "s": -3
+      "t": "Yes Bank Q2FY27 results: Net profit rises 65% YoY to \u20b91,080 crore - scanx.trade",
+      "l": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3VaTkUwWGxCYjJhWUxQRFVtcmFSdVdEcmk1Q3RiSnZhQzVzdDdEMUJjMzFhUkNQS3I4RlFhRkxSeVMxU1VWdGUtVElzX0NCcVJxRVFtM2t4UlVjQ3RBS3c2ZkZWUVRkeDRJMmJqWHl2d3BFV1otX1hqc29tc2xSTVU2OGh5T0lTZ0dhLWlrQU9HeXNnbEszLUhoaGNWZUJPeThJVDdzM3gwN2FxZkdDV3V6Mkx5VHM?oc=5",
+      "s": -1
      }
     ]
    }
