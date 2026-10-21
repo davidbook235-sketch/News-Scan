@@ -1,9 +1,9 @@
 {
- "updated": "20 Oct 2026 19:58 IST",
+ "updated": "21 Oct 2026 14:47 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
- "scanned": 248,
+ "scanned": 247,
  "swing": [
   {
    "symbol": "PNB",
@@ -30,37 +30,144 @@
  ],
  "exits": [],
  "news": {
-  "positive": [],
-  "negative": [
+  "positive": [
    {
-    "symbol": "BANKINDIA",
-    "score": -3.6,
-    "signal": "NEG NEWS, price holding",
-    "price": 136.78,
-    "chg": 3.34,
-    "volx": 2.27,
+    "symbol": "PIRAMALFIN",
+    "score": 6.4,
+    "signal": "WATCH",
+    "price": 1948.7,
+    "chg": -0.08,
+    "volx": 0.55,
+    "above20": false,
+    "news": [
+     {
+      "t": "Piramal Finance shares jump 4% as Q2 profit rises 67% YoY to Rs 545 crore, NII jumps 35% YoY",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/piramal-finance-shares-jump-4-as-q2-profit-rises-67-yoy-to-rs-545-crore-nii-jumps-35-yoy/articleshow/135084284.cms",
+      "s": 4
+     },
+     {
+      "t": "Piramal Finance shares jump 4% as Q2 profit rises 67% YoY to Rs 545 crore, NII jumps 35% YoY - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWF81Z1lmV2RCWEVoZ1BJaGZNU2t3Qk40YW1tWkNhX0hKYU13NmJnaDg1RW5DazFVV1kxRXR1UGtBLWxQRF90ZG1ESmoyVjdmUXQ4MENNUm5tdDBVeDUyR3dGVHhXSXI1bTJvS01rUnFUeVVqNW1pR3lLR1RheF8wWm5NMUxTYXAtOEt3ZzBxUDRZSEUtVmJXTlhaSEtMemV0MllpSmFGcndKZk5OOExJY3ZCYjA0SW4zQndmblBFdEhGRmlvUVQ2cDlGRlBNT185bWZ2UzlvM1o0SWJ1dGNOYW9FQjdmX2MyTDIwWkZSUUVzWGl10gH6AUFVX3lxTE1ISkd1LU1GcWc2Qy0yd1BwS3o1RDVLclJuSXVxTTZuMVdXbDYteXM1LXQ0TExBVkh1N29MZDdmbElRT2VTcF9qd2ZMV3FRcTZzNHV0V1UwaklZcTV3QzlWMjIwS1I1M3FiSGk0U0Ytc0ppZkpPY0NaTWp3RlY4S0diQ0ZTZmM3ajQtbThiNkRTYzBtdXFjUTBDRWpKd2xNLUU4SGg5UmxXQmx2QVNBTzJWaHUzeTVpUzJWQVFxQlFJSjJBUWgxLTFuVWhyelZUczJiN1lkYmVrbzVONXVPWm5hX1RUTm1wbWxEUHZLSGRRX0c4V180ZFBWM2c?oc=5",
+      "s": 4
+     }
+    ]
+   },
+   {
+    "symbol": "VEDL",
+    "score": 1.9,
+    "signal": "NEUTRAL",
+    "price": 243.2,
+    "chg": -1.18,
+    "volx": 0.55,
+    "above20": false,
+    "news": [
+     {
+      "t": "Hindustan Zinc share jumps 4% after strong Q2 results 2026 | Should you buy Vedanta Group stock? Target, stop loss - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnVtd2ZhckhPeU45TEJxQ2NGaTNZc1pObWRRamxNNi1kWHE2WHhuczNxRERpeExoRkZMaFhabkNzZ3B2VGtJaExpajM3c3J0LVo2NWl0LVI0dEJzelhsUzZrYW5VME9KRDFwR1ZnWXp3WjVMZ2lhZlZVVmhtWnJrOGIzaTBzVHhZNnlGTXNhaXc3X2VxRDk0NW9FX2FycE5SSDEwMEVkSnNQQzZxZmIxZ1BRVTFfOWgyM3ZuTFNuTW9JNTg2Nm5OM2RTb3ljWTdVSGdOTDlhdFZZZzQ4R1hwbk9DdE9uNjEtVHBrRm9ZVFFaVkdUaTc1bnh3?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "BSE",
+    "score": 1.9,
+    "signal": "NEUTRAL",
+    "price": 3336.0,
+    "chg": -0.8,
+    "volx": 0.28,
     "above20": true,
     "news": [
      {
-      "t": "Central Bank of India reports technical glitch in RTGS outward system",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/central-bank-of-india-reports-technical-glitch-in-rtgs-outward-system/articleshow/135059072.cms",
+      "t": "Kissht parent OnEMI gets BSE, NSE In-principle approval for Rs 832 crore share issue - Indian Startup News",
+      "l": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnNHck5tS2dEXzdTSGJHaFN5dU95dnM5RjRmRjFlalBjaEY1MGZlRU5NRmpGS2daNkZ1eWhxM0I4Q1dIX1Nsc1pDQnZMZDltckV5ekM4X0k5WkF5UWhBMkxDaHgzbGlPcjNlMHl3dEpzSW1qNVpSeTRWM0tSQndLd2hlU004VkhpNlp3WTBCa1hHekd3S2I4eGxDNjc5WlJfOVVQQjUtR0c0V1NiVHpaQkU4Z2ttT2hoZnA1R3FCd9IBvwFBVV95cUxQVnNHck5tS2dEXzdTSGJHaFN5dU95dnM5RjRmRjFlalBjaEY1MGZlRU5NRmpGS2daNkZ1eWhxM0I4Q1dIX1Nsc1pDQnZMZDltckV5ekM4X0k5WkF5UWhBMkxDaHgzbGlPcjNlMHl3dEpzSW1qNVpSeTRWM0tSQndLd2hlU004VkhpNlp3WTBCa1hHekd3S2I4eGxDNjc5WlJfOVVQQjUtR0c0V1NiVHpaQkU4Z2ttT2hoZnA1R3FCdw?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "BAJFINANCE",
+    "score": 1.4,
+    "signal": "NEUTRAL",
+    "price": 957.35,
+    "chg": -2.52,
+    "volx": 1.06,
+    "above20": false,
+    "news": [
+     {
+      "t": "Bajaj Finance shares fall 3% after Q2 results. What Jefferies, Nomura, other brokerages now expect?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-fall-3-after-q2-results-what-jefferies-nomura-other-brokerages-now-expect/articleshow/135082829.cms",
+      "s": 2
+     }
+    ]
+   }
+  ],
+  "negative": [
+   {
+    "symbol": "HDFCBANK",
+    "score": -4.6,
+    "signal": "AVOID/SELL",
+    "price": 712.0,
+    "chg": -2.31,
+    "volx": 1.08,
+    "above20": false,
+    "news": [
+     {
+      "t": "HDFC Bank (HDFCBANK) Share Price Today, Live Chart & News - TechGraph",
+      "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTTZEM0d6dExZRVlWUF8tV2VmOFk5aGpqdC1nX0YxRVFOMWZ4UFNpd3YtT3drTUJua2RVZUl5QXN2OFJUY3lRcWhRLW1saHEtUTh2NVRzdnBRcjF2ZFhNdmpR?oc=5",
       "s": -3
      },
      {
-      "t": "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLVk5aklMT0Riai1SanpHV1pUYVRkNG9fVW92ckI0aUhoeGVrclo2QXJobjY1OUZ6MVNqYzBUQXpPTm5RaEd5d0tsZEJFV29nNHROdTZrQkVkM3lmZDcycWF2X0QwUlU5dlVSNUdtYWxtWDJHb3VsR0U1U3kzeS0yNzk1TTRwNzRyenJaNVl1TGMyYU5EQ2hJVjFkTDlHLXJlbEdMWXRoT21BcjUtOW16X3VPRmh3VjJlZTBpeWdKOEFJeXJlWDFQOElmTjhHMS1EN2wyWHJjTEhVOU5FSUNlN2pJR25VRVFsODNGaG1leUpIZHBGWUxrMEh30gH_AUFVX3lxTE00QTdEY0dHc2djc0oyNVdWaGZsdFF1dlBaVWtHbWNlWUY5VjJGckJnMTdHT3N6aGM5OVVCN2d4bnJIeWZIRjNYVXVfUVB2b1BRdVBpNkR1MjJ3a2ZtWnlmcEtWT0UyMFlvRXlzcXotS1lVQlVZS2U4MUFQd054b1lfT2NTU2RvSi1sWVF4SzlaUTRtZXNBaVU0ektVcng1QlZfZDhTTEd4ZGNwdVk3NWhUQTlpOTRra2JQYkMwMnBETXJWVzdpTEtXcm1KWFpQcVMtbDBVMTRsaEg1dTNXaWpQOVprVGdZS2czT1J6QkFoTGx5eUNPV05PcS1pUTMwOA?oc=5",
+      "t": "HDFC Bank shares stock fall despite profit growth as street stays unimpressed - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUxZUHpBMHZxdkFiVzUwNXkyOF80a2lYdjJhckFxdXdTLU5mYmZnLWJMV2UzRmxkQ2d2d2wwNXRQVThtSGNDeE9tUlJJUUI2elFwQlFuU1JIQ2lNbVFydExKbEI5aFpMRDBUWTlHdXU5MGQ2enplczNvRjc5Q2g3UW5CYVEtMUozQTkyTnRpNUFxaWFiRG96a1pBb3Z3RUJLdFh0RExwdUp2bWpzbHkzQTRJVE56T3dkNmJ1M3Q3Q0NtYTRUSmVDbXR4WktCM19Vb0HSAdgBQVVfeXFMUFhDdHBhR19QR3NuOXdnXzhUYUh5UG02c3RwWUZzMDdxWVdFOWotRHZzU01Vdk1yWjA0V2tfUGVWZjJPZW9senhqblkzRjMxMTc1MmVEeTlvX01yMVo3QnBsNjBocUF6QXhXekJJNGxOdTlEWWluMXVSUDdUeGEyZnR2ZUktV1FQRnVaTDdTSDlHV0lRRDFld3lINFZIeUcxNVZVclBhTWZkQmxwWXNvRDNLV3lZay13T3Jidzl6NDA3RDg4Vzk4YWx1RDVJSGZ3c2FFS2c0aTBy?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "YESBANK",
+    "score": -3.2,
+    "signal": "AVOID/SELL",
+    "price": 16.88,
+    "chg": -3.54,
+    "volx": 1.78,
+    "above20": false,
+    "news": [
+     {
+      "t": "Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html",
       "s": -3
      },
      {
-      "t": "Bank of India sets Q2 date. Bank of India stock is 8.66 percent below fair value - ad-hoc-news.de",
-      "l": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFVVNmxQRDNsRlEwdHJNaTlOVWZLa1h0ajNmYzJ4U2lFV1NNNl9YelcyRGVXQm9STTE5c2Q0aWtLc182YXhrS1h0a01sMWd6VWJvdXdsbjdlMGFYUUtzOXpxVnlpS3VSRWh0bHRXeXdYTGZtRlY4T0xhVjdZeGlodEhxaGdmaWJUXzFfM29XS0ZwaHpNb2RpSGVBbnltTDBIaDZFUlMwMTRCbFhpeHlHdDI3bzF2X1duRTcxYmlpdlYwTXpHY2lTRU5FZHJNa1I2ZWhaeQ?oc=5",
+      "t": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOG9LWThRRVlPYWRudE9Id0l3YlYyUld6WjJSYnJwT2RaclVHQ3dDXzBNLUZDMUM3MDVLX1piV0dzQ0ttU1BaTmlIOEZKUVlJOHlYR1dTX19BQlhEa0xIVXZtSnNkOU1KdlhGSVNfVGFXeGJvQnJCU1lJWVRaQUFzS05LNVlFX2Rhb3NkNlQtUnNjVTVWZGtRQVA2cWlLY0VjY0ExVHdRclExdldYQUtIckY1cmJ6MlNaUVl1OGlIVDVsVV9sTVFiVHdUZVM0VTczcXBpT3Nzb2drcklkYlQtdjlKSG85X1Y0d24xWtIB8gFBVV95cUxNd0RDUElTdm5mcEU1SEtibEhFelRaNmgtcHM0UmRoY0tfT3F4ZmRuWmQyQUNaaGpSQWJYcGNJOHdzampCSnJtSTZvb0M3Z1NERGpKb2JjMHExYk1tcHRBa21rcWVZbW94RXY4UmljdVNoWWxUd0lPWUtGTzZ6dXRZamZaZjVUbmNPNGZfZ3NGRzlQSEdVUmtTX3VsZnF1TlYybnBtSmRsMWZlVGpIUGdWV0lCTFFwRmRZd0FHTHgtR2d1TjVGcXc3S0pBWFRpXzFpZDNscnRDSVMwaUZiY1o0TUhKdll1RU9WUFg4ODFndktodw?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ETERNAL",
+    "score": -3.2,
+    "signal": "AVOID/SELL",
+    "price": 320.2,
+    "chg": -1.57,
+    "volx": 0.84,
+    "above20": false,
+    "news": [
+     {
+      "t": "Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html",
+      "s": -3
+     },
+     {
+      "t": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOG9LWThRRVlPYWRudE9Id0l3YlYyUld6WjJSYnJwT2RaclVHQ3dDXzBNLUZDMUM3MDVLX1piV0dzQ0ttU1BaTmlIOEZKUVlJOHlYR1dTX19BQlhEa0xIVXZtSnNkOU1KdlhGSVNfVGFXeGJvQnJCU1lJWVRaQUFzS05LNVlFX2Rhb3NkNlQtUnNjVTVWZGtRQVA2cWlLY0VjY0ExVHdRclExdldYQUtIckY1cmJ6MlNaUVl1OGlIVDVsVV9sTVFiVHdUZVM0VTczcXBpT3Nzb2drcklkYlQtdjlKSG85X1Y0d24xWtIB8gFBVV95cUxNd0RDUElTdm5mcEU1SEtibEhFelRaNmgtcHM0UmRoY0tfT3F4ZmRuWmQyQUNaaGpSQWJYcGNJOHdzampCSnJtSTZvb0M3Z1NERGpKb2JjMHExYk1tcHRBa21rcWVZbW94RXY4UmljdVNoWWxUd0lPWUtGTzZ6dXRZamZaZjVUbmNPNGZfZ3NGRzlQSEdVUmtTX3VsZnF1TlYybnBtSmRsMWZlVGpIUGdWV0lCTFFwRmRZd0FHTHgtR2d1TjVGcXc3S0pBWFRpXzFpZDNscnRDSVMwaUZiY1o0TUhKdll1RU9WUFg4ODFndktodw?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "UNIONBANK",
-    "score": -2.1,
+    "score": -2.3,
     "signal": "NEG NEWS, price holding",
     "price": 180.7,
     "chg": 5.25,
@@ -68,6 +175,11 @@
     "above20": true,
     "news": [
      {
+      "t": "Union Bank Of India among 4 stocks showing RSI trending up",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-4-stocks-showing-rsi-trending-up/slideshow/135081189.cms",
+      "s": -3
+     },
+     {
       "t": "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say - Livemint",
       "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLVk5aklMT0Riai1SanpHV1pUYVRkNG9fVW92ckI0aUhoeGVrclo2QXJobjY1OUZ6MVNqYzBUQXpPTm5RaEd5d0tsZEJFV29nNHROdTZrQkVkM3lmZDcycWF2X0QwUlU5dlVSNUdtYWxtWDJHb3VsR0U1U3kzeS0yNzk1TTRwNzRyenJaNVl1TGMyYU5EQ2hJVjFkTDlHLXJlbEdMWXRoT21BcjUtOW16X3VPRmh3VjJlZTBpeWdKOEFJeXJlWDFQOElmTjhHMS1EN2wyWHJjTEhVOU5FSUNlN2pJR25VRVFsODNGaG1leUpIZHBGWUxrMEh30gH_AUFVX3lxTE00QTdEY0dHc2djc0oyNVdWaGZsdFF1dlBaVWtHbWNlWUY5VjJGckJnMTdHT3N6aGM5OVVCN2d4bnJIeWZIRjNYVXVfUVB2b1BRdVBpNkR1MjJ3a2ZtWnlmcEtWT0UyMFlvRXlzcXotS1lVQlVZS2U4MUFQd054b1lfT2NTU2RvSi1sWVF4SzlaUTRtZXNBaVU0ektVcng1QlZfZDhTTEd4ZGNwdVk3NWhUQTlpOTRra2JQYkMwMnBETXJWVzdpTEtXcm1KWFpQcVMtbDBVMTRsaEg1dTNXaWpQOVprVGdZS2czT1J6QkFoTGx5eUNPV05PcS1pUTMwOA?oc=5",
       "s": -3
@@ -75,76 +187,103 @@
     ]
    },
    {
-    "symbol": "FEDERALBNK",
-    "score": -2.1,
+    "symbol": "BANKINDIA",
+    "score": -2.3,
     "signal": "NEG NEWS, price holding",
-    "price": 348.85,
-    "chg": 3.21,
-    "volx": 3.91,
+    "price": 136.78,
+    "chg": 3.34,
+    "volx": 2.27,
     "above20": true,
     "news": [
      {
-      "t": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+      "t": "Union Bank Of India among 4 stocks showing RSI trending up",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-4-stocks-showing-rsi-trending-up/slideshow/135081189.cms",
+      "s": -3
+     },
+     {
+      "t": "Multibagger: Union Bank of India shares up 300% in 5 years; can rally accelerate after Q2 results? What Systematix say - Livemint",
+      "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLVk5aklMT0Riai1SanpHV1pUYVRkNG9fVW92ckI0aUhoeGVrclo2QXJobjY1OUZ6MVNqYzBUQXpPTm5RaEd5d0tsZEJFV29nNHROdTZrQkVkM3lmZDcycWF2X0QwUlU5dlVSNUdtYWxtWDJHb3VsR0U1U3kzeS0yNzk1TTRwNzRyenJaNVl1TGMyYU5EQ2hJVjFkTDlHLXJlbEdMWXRoT21BcjUtOW16X3VPRmh3VjJlZTBpeWdKOEFJeXJlWDFQOElmTjhHMS1EN2wyWHJjTEhVOU5FSUNlN2pJR25VRVFsODNGaG1leUpIZHBGWUxrMEh30gH_AUFVX3lxTE00QTdEY0dHc2djc0oyNVdWaGZsdFF1dlBaVWtHbWNlWUY5VjJGckJnMTdHT3N6aGM5OVVCN2d4bnJIeWZIRjNYVXVfUVB2b1BRdVBpNkR1MjJ3a2ZtWnlmcEtWT0UyMFlvRXlzcXotS1lVQlVZS2U4MUFQd054b1lfT2NTU2RvSi1sWVF4SzlaUTRtZXNBaVU0ektVcng1QlZfZDhTTEd4ZGNwdVk3NWhUQTlpOTRra2JQYkMwMnBETXJWVzdpTEtXcm1KWFpQcVMtbDBVMTRsaEg1dTNXaWpQOVprVGdZS2czT1J6QkFoTGx5eUNPV05PcS1pUTMwOA?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "NESTLEIND",
-    "score": -1.8,
-    "signal": "NEUTRAL",
-    "price": 1242.7,
-    "chg": -1.8,
-    "volx": 0.62,
+    "symbol": "SWIGGY",
+    "score": -2.2,
+    "signal": "AVOID/SELL",
+    "price": 229.0,
+    "chg": -2.26,
+    "volx": 0.38,
     "above20": false,
     "news": [
      {
-      "t": "Nestle India stock: InCred cuts target for Nestle India stock to INR 1,375 - ad-hoc-news.de",
-      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQlVSYkJJZV9Xc1ZsVzU3Wk83WnJPbVpDNUk2VDQ0T2lrQzB4MGtQU2R5eGx2VGNFd1haZTRocm9LMi1lMF8teDFXQ2NXZXNRUUJGdWhtWGVLVFpGTlY0NDVFSlozREVpVmZsN2N1V01IMFRiZzB3Q3NqTUhLWTJQU0dPUnY4bllvMW5wUGwxN2dOX2R2OUtCemdkaHd4Tnk4ekcwMGpaMEdxWi1hMmQ2bjlTMTB6b3ZLbXZka3lFaldxOWRreU1fdFFGZVctTHJQS1E?oc=5",
-      "s": -2
+      "t": "Midcap 100, Smallcap 100 index down 1%; MRF, Biocon, Swiggy at 52-week lows",
+      "l": "https://www.business-standard.com/markets/news/midcap-100-smallcap-100-index-down-1-mrf-biocon-swiggy-at-52-week-lows-126102100269_1.html",
+      "s": -3
      }
     ]
    },
    {
-    "symbol": "IOB",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 30.71,
-    "chg": -0.9,
+    "symbol": "MRF",
+    "score": -2.2,
+    "signal": "AVOID/SELL",
+    "price": 121905.0,
+    "chg": -0.72,
     "volx": 0.8,
     "above20": false,
     "news": [
      {
-      "t": "Indian Overseas Bank to issue 10 crore equity shares to employees under SEPS - Business Upturn",
-      "l": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXV6bzJucTl4Nmd5Y0VFelpTM0w0ZldJcFAyYWJ3cUZaeXR6TE9OUnhFS1l4X1FhYkZYbWxBbE5yZlM1WlI3YTl0eER6Q2UtbmVwWHJQUDFiU3hKVS1KWXNTN3NuSksyTEhjdDRiNng2VmI5dHdOdWY4VHZWYnhTUUlnUXV6SjFheEFyTGIyX3pGTU1rTHh1NzYwR2QzSWo4aXkyZll4cFpPdWZKZGhsM3Q4Zw?oc=5",
+      "t": "Midcap 100, Smallcap 100 index down 1%; MRF, Biocon, Swiggy at 52-week lows",
+      "l": "https://www.business-standard.com/markets/news/midcap-100-smallcap-100-index-down-1-mrf-biocon-swiggy-at-52-week-lows-126102100269_1.html",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "YESBANK",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 16.88,
-    "chg": -3.54,
-    "volx": 1.78,
+    "symbol": "BIOCON",
+    "score": -2.2,
+    "signal": "AVOID/SELL",
+    "price": 340.0,
+    "chg": -2.63,
+    "volx": 1.12,
     "above20": false,
     "news": [
      {
-      "t": "Yes Bank's evaluating capital actions to back growth plans",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/yes-banks-evaluating-capital-actions-to-back-growth-plans/articleshow/135059065.cms",
+      "t": "Midcap 100, Smallcap 100 index down 1%; MRF, Biocon, Swiggy at 52-week lows",
+      "l": "https://www.business-standard.com/markets/news/midcap-100-smallcap-100-index-down-1-mrf-biocon-swiggy-at-52-week-lows-126102100269_1.html",
       "s": -3
-     },
+     }
+    ]
+   },
+   {
+    "symbol": "AXISBANK",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 1236.0,
+    "chg": -4.19,
+    "volx": 1.89,
+    "above20": false,
+    "news": [
      {
-      "t": "YES Bank Share Price - Live NSE: YESBANK Stock Price & Chart - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ENUFMY052a2RKUUtMSXZ4ZmRuQ3Nfdk8zMzlrQXJTRTgzOUotSzFVQ0dXNnB0a0doeDI4dkNscVZDNC0xZmF6cXA3bktlZEhHajRXZWdWckx1N0VCbEhQaUF6ZkZ5QQ?oc=5",
+      "t": "Axis Bank Share Price Live Updates: Axis Bank's Market Position Today",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-21-oct-2026/liveblog/135080527.cms",
       "s": -3
-     },
+     }
+    ]
+   },
+   {
+    "symbol": "TRENT",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 2891.6,
+    "chg": -2.27,
+    "volx": 0.71,
+    "above20": true,
+    "news": [
      {
-      "t": "Yes Bank Q2FY27 results: Net profit rises 65% YoY to \u20b91,080 crore - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3VaTkUwWGxCYjJhWUxQRFVtcmFSdVdEcmk1Q3RiSnZhQzVzdDdEMUJjMzFhUkNQS3I4RlFhRkxSeVMxU1VWdGUtVElzX0NCcVJxRVFtM2t4UlVjQ3RBS3c2ZkZWUVRkeDRJMmJqWHl2d3BFV1otX1hqc29tc2xSTVU2OGh5T0lTZ0dhLWlrQU9HeXNnbEszLUhoaGNWZUJPeThJVDdzM3gwN2FxZkdDV3V6Mkx5VHM?oc=5",
-      "s": -1
+      "t": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOG9LWThRRVlPYWRudE9Id0l3YlYyUld6WjJSYnJwT2RaclVHQ3dDXzBNLUZDMUM3MDVLX1piV0dzQ0ttU1BaTmlIOEZKUVlJOHlYR1dTX19BQlhEa0xIVXZtSnNkOU1KdlhGSVNfVGFXeGJvQnJCU1lJWVRaQUFzS05LNVlFX2Rhb3NkNlQtUnNjVTVWZGtRQVA2cWlLY0VjY0ExVHdRclExdldYQUtIckY1cmJ6MlNaUVl1OGlIVDVsVV9sTVFiVHdUZVM0VTczcXBpT3Nzb2drcklkYlQtdjlKSG85X1Y0d24xWtIB8gFBVV95cUxNd0RDUElTdm5mcEU1SEtibEhFelRaNmgtcHM0UmRoY0tfT3F4ZmRuWmQyQUNaaGpSQWJYcGNJOHdzampCSnJtSTZvb0M3Z1NERGpKb2JjMHExYk1tcHRBa21rcWVZbW94RXY4UmljdVNoWWxUd0lPWUtGTzZ6dXRZamZaZjVUbmNPNGZfZ3NGRzlQSEdVUmtTX3VsZnF1TlYybnBtSmRsMWZlVGpIUGdWV0lCTFFwRmRZd0FHTHgtR2d1TjVGcXc3S0pBWFRpXzFpZDNscnRDSVMwaUZiY1o0TUhKdll1RU9WUFg4ODFndktodw?oc=5",
+      "s": -3
      }
     ]
    }
