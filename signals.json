@@ -1,52 +1,102 @@
 {
- "updated": "22 Oct 2026 14:50 IST",
+ "updated": "22 Oct 2026 20:07 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 248,
- "swing": [],
+ "swing": [
+  {
+   "symbol": "INDHOTEL",
+   "setup": "Breakout",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 782.3,
+   "stop": 741.5,
+   "risk": 40.8,
+   "t1": 843.5,
+   "t2": 904.7,
+   "rsi": 65.6,
+   "volx": 5.06,
+   "rs": 13.4,
+   "date": "2026-10-22",
+   "news": ""
+  },
+  {
+   "symbol": "HAL",
+   "setup": "Pullback",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 4875.0,
+   "stop": 4742.49,
+   "risk": 132.51,
+   "t1": 5073.77,
+   "t2": 5272.53,
+   "rsi": 53.3,
+   "volx": 1.35,
+   "rs": 12.2,
+   "date": "2026-10-22",
+   "news": ""
+  }
+ ],
  "exits": [],
  "news": {
   "positive": [
    {
-    "symbol": "BALKRISIND",
-    "score": 1.7,
-    "signal": "NEUTRAL",
-    "price": 2039.6,
-    "chg": -1.53,
-    "volx": 1.3,
+    "symbol": "ATGL",
+    "score": 5.8,
+    "signal": "WATCH",
+    "price": 552.85,
+    "chg": -1.17,
+    "volx": 0.78,
     "above20": false,
     "news": [
      {
-      "t": "Balkrishna Industries jumps 4% on inking deal with Italy-based Pirelli",
-      "l": "https://www.business-standard.com/markets/news/balkrishna-industries-jumps-4-on-inking-deal-with-italy-based-pirelli-126102200528_1.html",
-      "s": 2
+      "t": "Adani Total Gas Q2 Results: Net profit rises 6% YoY to Rs 173 crore, revenue jumps 34%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q2-results-net-profit-rises-6-yoy-to-rs-173-crore-revenue-jumps-34/articleshow/135115540.cms",
+      "s": 4
+     },
+     {
+      "t": "Adani Total Gas Q2 Results: Net profit rises 6% YoY to Rs 173 crore, revenue jumps 34% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORWY1U1BaRWJWd0NvLTk1MEFpd05iaVEtYVV1OG5fNjhFZ2c5TG5xTXRPUU9qQUc4U2MxeGpyMF9hY0xTckhlOEdmUzFhVl9KcC1td0R5d0ZkZ05OWHQtQnVuWmdPV3N6WXNwRU9zaTJJOTl0Q0xsRFN3bVZvTnBBUVFWamxnQkV2T0dLVU10Rk9YUWlfX3RELTU2eUhUWjNCNzZFQ3Z2OXp5UG41M25nYnF0YVlPSDFFXzNpc29ITEkzSm16S0tqZkM1X0loVmNadnpoYkp1WDB5WTM2NkFydmtSRmFDVjhZbWVUb25DWkpIVHV0YWN30gH3AUFVX3lxTE5FZjVTUFpFYlZ3Q28tOTUwQWl3TmJpUS1hVXU4bl82OEVnZzlMbnFNdE9RT2pBRzhTYzF4anIwX2FjTFNySGU4R2ZTMWFWX0pwLW13RHl3RmRnTk5YdC1CdW5aZ09Xc3pZc3BFT3NpMkk5OXRDTGxEU3dtVm9OcEFRUVZqbGdCRXZPR0tVTXRGT1hRaV9fdEQtNTZ5SFRaM0I3NkVDdnY5enlQbjUzbmdicXRhWU9IMUVfM2lzb0hMSTNKbXpLS2pmQzVfSWhWY1p2emhiSnVYMHlZMzY2QXJ2a1JGYUNWOFltZVRvbkNaSkhUdXRhY3c?oc=5",
+      "s": 4
      }
     ]
    },
    {
-    "symbol": "BEL",
-    "score": 1.3,
-    "signal": "NEUTRAL",
-    "price": 371.2,
-    "chg": -1.59,
-    "volx": 0.85,
+    "symbol": "ADANIENSOL",
+    "score": 3.7,
+    "signal": "TRAP? (price falling)",
+    "price": 1295.4,
+    "chg": -2.16,
+    "volx": 1.22,
     "above20": false,
     "news": [
      {
-      "t": "Bharat Electronics bags fresh orders worth \u20b91,011 crore; \u20b9770 crore Army radar deal adds to the spotlight - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNVRnR3lsV2l3dkozbFA0bXV6Mk9yckFlMG1lQUx0UUxwNWRoQXlnNS1VdXNDV1BDYU1WNjhrdkx3bFpFbjlKcFdqMFg3R0l5bHBWcWNyT25CN29fMVVNU1FjVmIzNDdHbmNBbXV5YW9vaHRUX1FpdVNpQUZBazJ6RFpnX3ZIXzJnQTd0T0NPb0EwYUhOZHBIUVYwS1hISEJ3dHFKZ3JUc3hzRGVYS3dGSXB2cVVOMXgzSm1vbU8teTU5b3diNWRGNlJ0Ni1yeWlMWm5rdm9nTFNhbWFEZ21zSXlTX3VEM1B4NldYVlJGeXBzT3c?oc=5",
-      "s": 2
+      "t": "Adani Energy Solutions Q2 Profit Surges 148% - Equitypandit",
+      "l": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2aVEwOU5OMFJ2TmxMY203Z1g3MjRyUThCVWo1SVZTUHBXR3BtOTVLY3hkQWl2d2R0aUVFSTUxZldtbi0zYnJoaVlQYW45M0Z3UDRBRnJRUm16bUJKaGdNRzNfNjV4OWlFRjVhaFg1RkZMZmwtbDJKdUIwd1VQQQ?oc=5",
+      "s": 5
      }
     ]
    },
    {
     "symbol": "SWIGGY",
-    "score": 1.1,
+    "score": 1.4,
     "signal": "NEUTRAL",
-    "price": 223.65,
-    "chg": -2.34,
-    "volx": 0.92,
+    "price": 211.4,
+    "chg": -5.48,
+    "volx": 2.41,
     "above20": false,
     "news": [
      {
@@ -58,6 +108,27 @@
       "t": "Stocks to watch: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF",
       "l": "https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html",
       "s": -3
+     },
+     {
+      "t": "Swiggy Q2FY27 results: Net loss narrows to \u20b9922 cr, revenue rises 36% - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeS05akN4UmxmSURjMjJaUzIwSnk5cmV3RjRpQVVDaUp1S1FJT3NYdnpwR0thYWxrYlJZSmt6RXRxLTVDeXVfWk9zTUZMYzFEWkVVVFp2aWVLVFFlRTJ2OVBlUG1DRENfR2pCVmt4VnhiYzRRRnVfSTJiMDdEVEN2LWEzblBBenVPYkd5SFBXSVlwaFhsN0h6cWh0bmVuNWE5MzJndUxTRWh3MmlmcEo5blhYcjRIYUxZUDZ3SmJBMUJkWTl3V0pLODNfc3dSMXBBUS12LTVHSU1PdjlGRzBmMU5EQXpFQdIB5gFBVV95cUxQeS05akN4UmxmSURjMjJaUzIwSnk5cmV3RjRpQVVDaUp1S1FJT3NYdnpwR0thYWxrYlJZSmt6RXRxLTVDeXVfWk9zTUZMYzFEWkVVVFp2aWVLVFFlRTJ2OVBlUG1DRENfR2pCVmt4VnhiYzRRRnVfSTJiMDdEVEN2LWEzblBBenVPYkd5SFBXSVlwaFhsN0h6cWh0bmVuNWE5MzJndUxTRWh3MmlmcEo5blhYcjRIYUxZUDZ3SmJBMUJkWTl3V0pLODNfc3dSMXBBUS12LTVHSU1PdjlGRzBmMU5EQXpFQQ?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BALKRISIND",
+    "score": 1.1,
+    "signal": "NEUTRAL",
+    "price": 2110.2,
+    "chg": 3.46,
+    "volx": 4.82,
+    "above20": true,
+    "news": [
+     {
+      "t": "Balkrishna Industries jumps 4% on inking deal with Italy-based Pirelli",
+      "l": "https://www.business-standard.com/markets/news/balkrishna-industries-jumps-4-on-inking-deal-with-italy-based-pirelli-126102200528_1.html",
+      "s": 2
      }
     ]
    }
@@ -65,39 +136,65 @@
   "negative": [
    {
     "symbol": "HDFCBANK",
-    "score": -7.8,
+    "score": -6.3,
     "signal": "AVOID/SELL",
-    "price": 706.95,
-    "chg": -0.71,
-    "volx": 0.87,
+    "price": 694.05,
+    "chg": -1.82,
+    "volx": 1.99,
     "above20": false,
     "news": [
      {
-      "t": "HDFC Bank shares near 52-week low as insider leak probe rattles investors - BusinessLine",
-      "l": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSElKR0xUT0tTT0N5dks3MzQ0TWZzN0psbkRmUHBNMUlWTTh0bExPaDVMb0pOSG5XVGk0c3BLeVBDRnJxX0txajJTM3VQQnRCLXdhekk0b1NWdVlGN19VYW95ZVB1QThYUlpwS1gtajJwdG5kc3hadFVQNFVBY3NIMUpaT2x3ckUxVENmRHRIMEZYUzhYNGgzUWhjN0ZvLUVhLXNDREE2YmQ5andRUWhKNDY3dENwLVJ5Z2dTODNCalVwLVYzZjF5bHNEdmhXQi1BMXdkb3NvQzB3aUVVOFB4OFhtSjl3cUHSAe4BQVVfeXFMTTNRTVdTU2tXYlJlemNuMWl4c2l0UFN4Z1B6VkFPQ2ZSSHItX0Y0ZDc1RjU3NlBROVFUMG5wT2tkc29FX0lWTkEwSVFodjdOQmdtenJvOFZ6S2dodk1Sc3dmZVVkdTh5aFAycVM3Y2hYU1dyMjdmOTVZMDFWc3V2YjB0bXh4Nkc2SzF5NXNaeEk2SV9xQzI5UEgyRzNuajg1QzVtcHZNeFdhYUo5QlBHMnFmODhjQ3dHWXRyNnRKMU9keXRISnhDWWl3blREZXFoV1FhczRVcnlEZ3BSZ1Bhc2g2ZG03a0RjV1d4NUUyQQ?oc=5",
-      "s": -5
-     },
-     {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank Price and Performance Overview",
+      "t": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
       "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-22-oct-2026/liveblog/135106002.cms",
       "s": -3
      },
      {
-      "t": "HDFC Bank (HDFCBANK) Share Price Today, Live Chart & News - TechGraph",
-      "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTTZEM0d6dExZRVlWUF8tV2VmOFk5aGpqdC1nX0YxRVFOMWZ4UFNpd3YtT3drTUJua2RVZUl5QXN2OFJUY3lRcWhRLW1saHEtUTh2NVRzdnBRcjF2ZFhNdmpR?oc=5",
+      "t": "HDFC Bank stock dips 2% on huge volume; trades lower for third straight day",
+      "l": "https://www.business-standard.com/markets/news/hdfc-bank-stock-dips-2-on-huge-volume-trades-lower-for-third-straight-day-126102200723_1.html",
+      "s": -3
+     },
+     {
+      "t": "Stock Market Close: Sensex falls 460 pts, Nifty ends at 22,688; RIL, Eternal, HDFC Bank top losers",
+      "l": "https://www.business-standard.com/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "BSE",
-    "score": -2.7,
+    "symbol": "YESBANK",
+    "score": -3.0,
     "signal": "AVOID/SELL",
-    "price": 3248.3,
-    "chg": -2.63,
-    "volx": 0.39,
+    "price": 16.05,
+    "chg": -2.19,
+    "volx": 1.02,
     "above20": false,
     "news": [
+     {
+      "t": "Nippon Life India AMC gets Sebi nod to settle Yes Bank AT-1 bond case - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONDE0QWRlNE5nRGtXaXdiRC1xNDkzS1dOVUdZSmhUZFBCUFdvMkdpc3NYajZOdkFmbmc1Rl9QYmZia2tWbTREU0FBOXhtS0xrcEhtTy1kMlNHLW9vc1AxWERNMkx6R1Z4NmVjR0laZU01S2lIR3FJTnZHdU9icEhWb2xjVzBKZ3pObmZvT1lmQXpIbVF4dEpHX3NPV2dEWWJoM1BOX0QtV21TVmxEWkZSelJaQ0tvQmpnZEowUVJHYTR3WmMwdi16N09Qajc2NnJyeGfSAdcBQVVfeXFMUGMtODVOYVAxckRUeWtLRUN3clJrUWxhWUtPbzNZSXl2ekNmOU1yd05VNEloUm52MG11QVNGR0tVUzhsUVozaG53RTZtTmMtc1MxTW9uWmVMdDRaYk1uejZ2RnUwOGdteVVZaV9NTHZRM3VnMzNNcEFNdDc4TjgzWE1GVUJkVFJVVmhpU2ZJWlQyUTlfTlh5WnpBajlWN3NMQkFSVmxnRDRoWlh3TTh4eTZvRVRaUVhST1l5V1RnakhHT3kzT0JCenlWSkk4TzI2NEdPbDh0OWs?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Nippon Life India AMC gets Sebi nod to settle Yes Bank AT-1 bond case",
+      "l": "https://www.business-standard.com/markets/news/nippon-life-india-amc-gets-sebi-nod-to-settle-yes-bank-at-1-bond-case-126102201003_1.html",
+      "s": -1
+     }
+    ]
+   },
+   {
+    "symbol": "BSE",
+    "score": -2.3,
+    "signal": "AVOID/SELL",
+    "price": 3265.0,
+    "chg": 0.51,
+    "volx": 0.31,
+    "above20": false,
+    "news": [
+     {
+      "t": "Indian Bank Share Price Today, Indian Bank Stock Price Live NSE/BSE Updates - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BaXJoOEoyWW1ZR1NhX0FGOGFhYXB6TU9PUmhERndROHNoZk43em9IUzJvb1RUdzVZeUdsT2o2UjZCQ3FlZGRpUjJkLUQ2VGh0ZHU4bnNiUVFPcXFjOVpfTWpJdXVPYVI1b21MV2NQeDJ5MFFwaEhGQm92elJDb1E?oc=5",
+      "s": -3
+     },
      {
       "t": "RBLBANK Share Price Today - RBL Bank on NSE/BSE - scanx.trade",
       "l": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0TlRoNmR2ODJrWnlrcWxtdmt1WHZpZ282QS1Ua2c3NEFuSkxIQXdqVnNMV0tHM2dRQzJXQ0d4MndlazhqVUhXeWNlSWhpQXBOUXc?oc=5",
@@ -107,11 +204,11 @@
    },
    {
     "symbol": "M&M",
-    "score": -2.1,
-    "signal": "AVOID/SELL",
-    "price": 2889.0,
-    "chg": -0.62,
-    "volx": 0.95,
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 2864.1,
+    "chg": -0.86,
+    "volx": 0.67,
     "above20": false,
     "news": [
      {
@@ -122,49 +219,91 @@
     ]
    },
    {
-    "symbol": "AXISBANK",
-    "score": -1.8,
+    "symbol": "KEI",
+    "score": -1.4,
     "signal": "NEUTRAL",
-    "price": 1210.0,
-    "chg": -2.1,
-    "volx": 0.74,
+    "price": 3873.0,
+    "chg": -8.45,
+    "volx": 11.6,
     "above20": false,
     "news": [
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank  Current Trading Status",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-22-oct-2026/liveblog/135105522.cms",
+      "t": "KEI Industries share price plunges 10%, nears 52-week low; here's why",
+      "l": "https://www.business-standard.com/markets/news/kei-industries-share-price-plunges-10-nears-52-week-low-here-s-why-126102200355_1.html",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "INDUSINDBK",
-    "score": -1.8,
+    "symbol": "ETERNAL",
+    "score": -1.3,
     "signal": "NEUTRAL",
-    "price": 849.55,
-    "chg": -1.58,
-    "volx": 0.8,
+    "price": 304.45,
+    "chg": -2.53,
+    "volx": 3.91,
     "above20": false,
     "news": [
      {
-      "t": "IndusInd Bank Share Price Live Updates: Grant Of Stock Options Under The Employee Stock Option Scheme Of The Bank (ESOP Scheme)",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-22-oct-2026/liveblog/135105702.cms",
+      "t": "Stocks to watch: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html",
+      "s": -3
+     },
+     {
+      "t": "Stock Market Close: Sensex falls 460 pts, Nifty ends at 22,688; RIL, Eternal, HDFC Bank top losers",
+      "l": "https://www.business-standard.com/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html",
+      "s": -3
+     },
+     {
+      "t": "Eternal shares jump 2% after strong Q2 show, brokerages see up to 34% upside",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-shares-jump-2-after-strong-q2-show-brokerages-see-up-to-34-upside/articleshow/135106738.cms",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "RELIANCE",
+    "score": -1.1,
+    "signal": "NEUTRAL",
+    "price": 1184.5,
+    "chg": -2.03,
+    "volx": 1.01,
+    "above20": false,
+    "news": [
+     {
+      "t": "Stock Market Close: Sensex falls 460 pts, Nifty ends at 22,688; RIL, Eternal, HDFC Bank top losers",
+      "l": "https://www.business-standard.com/markets/news/stock-market-live-october-22-nse-bse-sensex-today-nifty50-gift-nifty-jio-ipo-today-126102200085_1.html",
       "s": -3
      }
     ]
    },
    {
     "symbol": "SRF",
-    "score": -1.7,
+    "score": -1.1,
     "signal": "NEUTRAL",
-    "price": 2305.0,
-    "chg": -5.22,
-    "volx": 3.85,
+    "price": 2330.6,
+    "chg": 1.11,
+    "volx": 8.74,
     "above20": false,
     "news": [
      {
       "t": "Stocks to watch: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF",
       "l": "https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "INDUSINDBK",
+    "score": -1.1,
+    "signal": "NEUTRAL",
+    "price": 850.5,
+    "chg": 0.11,
+    "volx": 0.5,
+    "above20": false,
+    "news": [
+     {
+      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-22-oct-2026/liveblog/135105702.cms",
       "s": -3
      }
     ]
