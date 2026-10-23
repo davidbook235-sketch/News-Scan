@@ -1,86 +1,115 @@
 {
- "updated": "23 Oct 2026 14:45 IST",
+ "updated": "23 Oct 2026 19:52 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 248,
- "swing": [
-  {
-   "symbol": "INDHOTEL",
-   "setup": "Breakout",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 782.3,
-   "stop": 741.5,
-   "risk": 40.8,
-   "t1": 843.5,
-   "t2": 904.7,
-   "rsi": 65.6,
-   "volx": 5.06,
-   "rs": 13.4,
-   "date": "2026-10-22",
-   "news": ""
-  },
-  {
-   "symbol": "HAL",
-   "setup": "Pullback",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 4875.0,
-   "stop": 4742.49,
-   "risk": 132.51,
-   "t1": 5073.77,
-   "t2": 5272.53,
-   "rsi": 53.3,
-   "volx": 1.35,
-   "rs": 12.2,
-   "date": "2026-10-22",
-   "news": ""
-  }
- ],
+ "swing": [],
  "exits": [],
  "news": {
   "positive": [
    {
-    "symbol": "INFY",
-    "score": 2.6,
+    "symbol": "SBIN",
+    "score": 4.7,
     "signal": "WATCH",
-    "price": 1153.35,
-    "chg": -1.25,
-    "volx": 1.29,
+    "price": 958.6,
+    "chg": -1.18,
+    "volx": 1.01,
+    "above20": false,
+    "news": [
+     {
+      "t": "SBI Cards Q2 profit jumps 75% YoY to Rs 778 crore as bad loan costs fall sharply",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-cards-q2-profit-jumps-75-yoy-to-rs-778-crore-as-bad-loan-costs-fall-sharply/articleshow/135147815.cms",
+      "s": 5
+     }
+    ]
+   },
+   {
+    "symbol": "INFY",
+    "score": 3.4,
+    "signal": "BUY WATCH",
+    "price": 1153.8,
+    "chg": 0.04,
+    "volx": 2.43,
     "above20": true,
     "news": [
      {
-      "t": "Infosys share price: IT major jumps 4% ahead of its Q2 results, dividend 2026 announcement today: What to expect? - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbHFVUTZ6X2VBbTYydVk5dk84X3I2S2ZQOVdJdnZUODF3Ui1VaHBWWmZHNHRlZmtqZ1NMVzNXUFlpRHR6Qkt1Z3hsbm5VTWIxdlBFb3k2WFRaU21Id3FwYy1MN01CVXB1blQtdC1TQ2xsRVFqbEd2b0xFMkRxV0NzU1hUd3hTWnNUY29IZ0FQakJhMXZqbGc2QnhFd0ZWd2NFM0I5ajRxd0UyeE9EN1l1M0pHeC1Jd2EzRDFJZmxCajUwQ0l2RkF0R1d1V2pmWUE0QjBHdW16NW5QMXlud1dOTlVqRFR6aEV4WHpPS1NmM3E0dkotY0t1aTk3SWxrY1I3bnU2clM0c2RtQdIBjwJBVV95cUxOd1d4UG9CUFdaM3l4UkdWVUVKXzhITWNpUEMwZTBUbGoxNGhtLTM3X21GOXROSXpTVkZ1S3Qwdm14YmdoMmJaY0ZTeXNlUWFiWUN5elktM1otZ2t4ZWVCSGd2VHNFNUhRUDJwQ0VzQzN6VkxSQmNVSXJYX05DSVNuWU1KeldGTWtDVzEzWjV0Q2diNHdGdThtcmxlSEZvMS1uelk2ejR0ZG4yRS1RY0lJbElQXzRsXzNLV1ZjNWFJRC03Y3lid2pMdmlReS1SZUZDemVHTG1Xd2JNTXZaU3M0bFlKTlZyUVlSTDRrcWtOaFZXTkhxZ0Y0b2ZJWnQ4WmhkSzRnSDBrY0RYLWx6T0dz?oc=5",
-      "s": 3
+      "t": "Infosys Q2 Results Live Updates: Infosys Q2 net profit jumps 6% YoY to Rs 7,823 crore, revenue rises 11%; co declares interim dividend of Rs 26/sh",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-infosys-tata-motors-quarter-2-fy27-earnings-result-dividend-share-price-updates-23-october-2026/liveblog/135137994.cms",
+      "s": 6
      },
      {
-      "t": "Infosys dividend, Q2 results preview: Profit, sales, deal wins, FY27 guidance, AI-led deflation - Business Today",
-      "l": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVms0azJKYy15UENjeV9uQUZRTnQwZV90VUpjaUJMVWhmd3hheER2RGJONVFYVlR3aGxSSmRYZ296YjE4cFhSMjFSWE9hWmJybkFHeUJXWmpoV1VnVHBBdEMwS3dTbjRTU1FsdHZfT3NiT1lJTkNDX2Q0SEltQndQQ042OXlNbDA0VVZLYm1nSm53aEZ0QWtOR3U2LW5RNDQ5dGN0alZhc2tmdmdjMUNEekJDUW1wMndQcWgybTk5dEJLSmI4Y2xFamx5c3VsUHVNS1pOTjAwRmlMVnV4Tng3QlNDX1d4MldReWdtamZn0gHzAUFVX3lxTE5uUTJwYU5xd1Z0ZGpXTFdaVjhvOThpaWJ6ZUYxU2xoZEhOYmdpSlVpdnBWVmpkTDk4WFRQRVdFbzFfVWNITUd4Wjl4TFhwRlpsY195YnFsQldRQzBaRzQ4Ykx2R0JmQzYyUjNSVk9OUDllbDQ1NEV6YUZQTnJHNTZrN1Y2VFNVWm02anhwS0czOTdjazFjVW5TUVdTN0Q0Tk5PREdwV19fZFp1c1pvaGdxTXp0andtWEEwUzc4LXpRVktMcWtRbExtemdFTUd5WTZfd0JUSmtvSkswTml0dmpiLWhxYTI2eTBuM1RPdFNvLWhrQQ?oc=5",
-      "s": 1
+      "t": "Infosys Plunges 10% in One Minute, Then Snaps Back: Inside the 10:38 AM Flash Crash - Equitypandit",
+      "l": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2tIVUgyOE5lS0d1bXRra3IxcllHNE5PZGVMNmh6azAtRGtNak93UDBOQmhaZjg3blllSEczcDBqb1NsRmdYYW1yQW11Nm1yTC1WLVB2UW5TYlR6NXVZbGJwVU80MEIxdEpQM1E2QWhjUnRDRmlabTA2dzcyQWtRcjRPVmZMaEJ0MmRFVzltaWdrUW1XVDhqd2x6RTl3UGFqQ3RwdEh6ZnJZYUNqOHc?oc=5",
+      "s": -6
+     },
+     {
+      "t": "Infosys Declares Rs 26 Dividend as Q2 Profit Rises 6.2% - Equitypandit",
+      "l": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd3hvNmdCMDJKaWpac0tkc2tqSC1leFNYYkhxNkdRSTJWVFAySkdzM1dtUkJ0bnZYdkgtOXFuZ2o0WGlhMGJubVZ0LXhxZ3NkXzd6TUd4Yl9paDZYZHlERjRVNFdRUTJ5enZOUi1XYTQ4M05VUktwbGUwc3liQlhGcnRuLXRsWmxpUVkxVA?oc=5",
+      "s": 3
+     }
+    ]
+   },
+   {
+    "symbol": "ADANIPOWER",
+    "score": 2.6,
+    "signal": "TRAP? (price falling)",
+    "price": 182.04,
+    "chg": -1.74,
+    "volx": 2.14,
+    "above20": false,
+    "news": [
+     {
+      "t": "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms",
+      "s": 2
+     },
+     {
+      "t": "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcFBxNjFjU3FZbGkyM1VmemR0Z0RVYXNoQmFDNTU1X3N6Qk1EeDBaWkk0bXpTcmgtcTBxSTFzQmtSTnotTjdGODZxS09vMUZ0Rk1Cd09hb1hZUGtzWWM5QzdEb3BkT1BQcjllUnZ3aU8xaUgzOXRFUWZmNFJyV3YxUkwwWXZkRThRZ3h1MHhMZUtmZ1NNTDFFYWNWeGt5OExYRXJOeldSNEhDQmRVT0hSaDI4aXZBbU9PLXVLb01pU1Jmdk5oRUJyeDc2SzNuZTg5NzdFTS1UWkJ4cFYtWHZjU0I0eE85Sl93c2FzOHJBR0EwQlkzMVU00gH3AUFVX3lxTFBwUHE2MWNTcVlsaTIzVWZ6ZHRnRFVhc2hCYUM1NTVfc3pCTUR4MFpaSTRtelNyaC1xMHFJMXNCa1JOei1ON0Y4NnFLT28xRnRGTUJ3T2FvWFlQa3NZYzlDN0RvcGRPUFByOWVSdndpTzFpSDM5dEVRZmY0UnJXdjFSTDBZdmRFOFFneHUweExlS2ZnU01MMUVhY1Z4a3k4TFhFck56V1I0SENCZFVPSFJoMjhpdkFtT08tdUtvTWlTUmZ2TmhFQnJ4NzZLM25lODk3N0VNLVRaQnhwVi1YdmNTQjR4TzlKX3dzYXM4ckFHQTBCWTMxVTQ?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "BANKINDIA",
+    "score": 1.7,
+    "signal": "NEUTRAL",
+    "price": 131.0,
+    "chg": -3.82,
+    "volx": 1.09,
+    "above20": false,
+    "news": [
+     {
+      "t": "Bank of India Q2 profit jumps 25% on stronger core income, better asset quality - CNBC TV18",
+      "l": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0NDanc4RG5BMVVPQlhSTGI0Y1lZcW1UV1d0LTdyRW43ODhuVUtMSDc1bUlVVnJIQ2dMRzlNWkgyQ3FZRnVLXzZSU0hnQU0tSFFxZHBRMHlNaER6RzZBcHhGcFRtUlNQOG5MZmZHZXByUTVPWW8xTkdaTENNRXJXcTlEN3JKNjgwc1pWUFVtM3J6VDBTWlZ0aHNiVW9nSG1yNjU1a0VDeWRvdWNyb20wM1JrQWd4UjZGTFZMcGk5bmN0NVpWSm9CUkthVU7SAdIBQVVfeXFMTWY4dlgwUGljNEo3RElibHdQSTdmRGhDUG4wVlgtN2NlSEFFaFZvdVRqMmxoZEprRi1COGh1cGJTTFE3YnFfMDBYVm9hdEdnZ05oUzhqT2s4OTBWU2ZZbjk0N2Vfbm4tanJOUnRFR2tfcmtlYW1DemgyeTN0TFo0VjFiZWFBcFJFOUJyWnhHb2V0S0Y2RDZ4am4xUThOTmZaaXVWZEFTQlRXN2IzcnZKQ0NGWXl2UlUxM0NGSmZzWkJHTkJXNTh1eF9QM3FTNk5qUThB?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "TMCV",
+    "score": 1.5,
+    "signal": "NEUTRAL",
+    "price": 396.0,
+    "chg": -4.41,
+    "volx": 1.36,
+    "above20": false,
+    "news": [
+     {
+      "t": "Tata Motors CV Q2 Results: Co swings to black with  Rs 1,254 crore profit; revenue jumps 37% YoY",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-automaker-swings-to-black-with-rs-1254-crore-profit-revenue-jumps-37-yoy/articleshow/135142700.cms",
+      "s": 2
      }
     ]
    },
    {
     "symbol": "TCS",
-    "score": 1.7,
+    "score": 1.1,
     "signal": "NEUTRAL",
-    "price": 2506.9,
-    "chg": -0.87,
-    "volx": 0.74,
+    "price": 2530.0,
+    "chg": 0.92,
+    "volx": 1.21,
     "above20": true,
     "news": [
      {
@@ -94,11 +123,11 @@
   "negative": [
    {
     "symbol": "SWIGGY",
-    "score": -5.0,
+    "score": -4.2,
     "signal": "AVOID/SELL",
-    "price": 211.4,
-    "chg": -5.48,
-    "volx": 2.41,
+    "price": 176.0,
+    "chg": -16.75,
+    "volx": 12.54,
     "above20": false,
     "news": [
      {
@@ -119,33 +148,28 @@
     ]
    },
    {
-    "symbol": "HDFCBANK",
-    "score": -2.6,
+    "symbol": "YESBANK",
+    "score": -3.8,
     "signal": "AVOID/SELL",
-    "price": 694.05,
-    "chg": -1.82,
-    "volx": 1.99,
+    "price": 15.8,
+    "chg": -1.56,
+    "volx": 1.06,
     "above20": false,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Latest Price Update",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-23-oct-2026/liveblog/135132947.cms",
-      "s": -3
-     },
-     {
-      "t": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5",
-      "s": -3
+      "t": "Nippon Life AMC shares crash 9%, down 19% in 5 days - Why? Dividend, record date, Q2 results, Yes Bank bond settlement - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdlk3a3MzalhzT3RLUjhKQjB6Nk53UVZlVTFjWDd1Nm44Q1hlTGpfNF83dUk4YnFRTFl0V29VNUhiRy1Kb04yb2J0MkNjOE8tMllzM2I1eTNxaVdEb3NreUE3c2FPOFRKUm8xcHdHM3h6WFdyNDVSM08zZmlaTDV1SUEtQWJtNEtkaWFPQWE1QTBsYjd6U1RBd1hFLTFEckhYSjRWX2tSaWE4eEdvRHR0X3MzcFlqSkFnSExsam45bUk1alVObHRwS29zUmVDcXJDWVFnSktPQVFHWUszX2VLcjBjVlJBbGNldEVjcHpqTEVuaVpKVTA0Q2h3?oc=5",
+      "s": -5
      }
     ]
    },
    {
     "symbol": "KEI",
-    "score": -2.1,
-    "signal": "AVOID/SELL",
-    "price": 3873.0,
-    "chg": -8.45,
-    "volx": 11.6,
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 3725.0,
+    "chg": -3.82,
+    "volx": 1.81,
     "above20": false,
     "news": [
      {
@@ -157,12 +181,12 @@
    },
    {
     "symbol": "KOTAKBANK",
-    "score": -2.0,
-    "signal": "AVOID/SELL",
-    "price": 437.0,
-    "chg": -0.18,
-    "volx": 0.67,
-    "above20": true,
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 430.5,
+    "chg": -1.49,
+    "volx": 0.62,
+    "above20": false,
     "news": [
      {
       "t": "Kotak Mahindra Bank Q2 results preview: PAT may rise up to 32% YoY; margins, loan growth in focus",
