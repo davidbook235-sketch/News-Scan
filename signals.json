@@ -1,5 +1,5 @@
 {
- "updated": "26 Oct 2026 15:30 IST",
+ "updated": "26 Oct 2026 22:15 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
@@ -10,12 +10,12 @@
   "positive": [
    {
     "symbol": "BSE",
-    "score": 18.3,
-    "signal": "WATCH",
-    "price": 3230.8,
-    "chg": -1.05,
-    "volx": 0.35,
-    "above20": false,
+    "score": 3.7,
+    "signal": "BUY WATCH",
+    "price": 3359.0,
+    "chg": 3.97,
+    "volx": 0.75,
+    "above20": true,
     "news": [
      {
       "t": "BSE share price rallies 4%; Motilal Oswal upgrades stock to 'Buy'",
@@ -26,49 +26,50 @@
       "t": "BSE shares jump over 4% as Motilal Oswal upgrades stock to Buy. 4 reasons behind bullish call",
       "l": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-jump-over-4-as-motilal-oswal-upgrades-stock-to-buy-4-reasons-behind-bullish-call/articleshow/135205458.cms",
       "s": 4
-     },
+     }
+    ]
+   },
+   {
+    "symbol": "IOB",
+    "score": 1.8,
+    "signal": "NEUTRAL",
+    "price": 30.38,
+    "chg": 5.93,
+    "volx": 5.2,
+    "above20": false,
+    "news": [
      {
-      "t": "'Benefit of NSE listing': BSE shares jump 4% as MOFSL upgrades stock to Buy, raises target - Business Today",
-      "l": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2JZNElMV2wwVjFQd0I2aDQ0RzUtWk1KaGpCblM1aF8zQnEwelhSSkY0cTNfOFowMmFfLXhGVEx0SkZ2YUFON2pDdDlRN213MTYtUmFMVlVtNElMTzdZanUtSlpRQ0U2TXdNVFQ0UVplQXRlekMxaHJKVzFQSnRwaVZtVVR1bGdFQ1BPZm4xTlQwX2x1Qms1ZWtIMWhrLW1UbE13aGVwUm81eFJpUnZFQm83R2Itbk4xd3A4TjZxVXM4bkJtT2pDb3h30gHPAUFVX3lxTE5wenNvS3VyYVpvczRYd0dBZkZLcDBnZlFrSTgyRkc1TnQtVm1velpvQ3RDdTRxYkEwMURld2l3WGg4aks3RHhaSEt6RHFqeFhJMlZ5YnRxUFVzSURrYUc3RlBvbm44Ny1STnRwb2w5Q1Q2bzF5dS1UbGZhWWNidVFuNXJxZm9HSFFpNmxfc3JBZTMtbUpNN2hjeTIySUhUMVBNeTRyYy1CYmZSMFBncFk1T1VLVXlYQThtcjBONGFIUXpyeWxndVFxVVQ4cFNWTQ?oc=5",
-      "s": 4
+      "t": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "MAHABANK",
+    "score": 1.7,
+    "signal": "NEUTRAL",
+    "price": 76.12,
+    "chg": 1.06,
+    "volx": 0.99,
+    "above20": false,
+    "news": [
+     {
+      "t": "Bank of Maharashtra Q2 profit jumps 41.5% as bad loans decline",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-maharashtra-q2-profit-jumps-41-5-as-bad-loans-decline/articleshow/135214440.cms",
+      "s": 2
      }
     ]
    }
   ],
   "negative": [
    {
-    "symbol": "AUBANK",
-    "score": -7.0,
-    "signal": "AVOID/SELL",
-    "price": 932.9,
-    "chg": -2.2,
-    "volx": 1.06,
-    "above20": false,
-    "news": [
-     {
-      "t": "AU SMALL FINANCE BANK Share Price Today Down 7% - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPS0toVUtTcFZBTXVrajBsS01ZT0VCenBTMURHTm9aYUlyNUV4QXJuUGcwQl9FVDVoWjIxRU0xWkJLbExwX3R6dlNZaXhwb2w1dnJjNVlySUxtYm80VzFvU3I5ejA0bmJ0cFNaa1R5TzhjMkd3RnR5S2tITGwtWVRsTmhhOXFua2dUUmk2SXZYeUo5aHNaTlN2NDRLR3lIcVNHWmJ1bEFvX2FJN2IwWlctX2lYdnliZE5CSHlUUE5hRGpzcTYyYjFOTUpZblRNWEZ1MHlkVVFJZ3UtX1Y2SHpXMVFsVGtWWUpoVW1vZnBxeFl4SUhKNlFGb3hNMF9ScVJlUHlCMklueHkwWGszTzhWcGpOaTFZQUFfN0NwTTFYNmpqS2laQUVpeF9yLW1IUQ?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank \u2014 Jefferies sees up to 62% upside | Target - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVU1BQWlvZGdTUnMxWlR6UGZraXhzSkNtcTh2Ykppek5QaEp0TGppRDNGd0p6dHRhNVQwUFExRUtoc0dGSjBhdUh0MlZVMkNqR2c1ang5WHo2ZHRydF9aRnQ5YkxiUWJXWVJwU0VXV0U0TFdSaUUxQWR0ZkNVdThDUlpaZURhekJkdm43QUg1VDNqNnRtOWdBSGNMSlZSNWtCWmR6ckJuTFlvQ1dMRnRNV21kOEhzSW9KQmtBSi11Z1BUZzNtdHE2eWc5TDB6eWNuQWV6Y2U3N1FaekdZcV9fMEx3Vk40RldxQVZhcVNNdExJX0trWGplYTdyOE9MU1hndTFCMjMtejFXRFhoVFHSAZMCQVVfeXFMUGxWem5Jc2gwLVV6eU5zVmpKUmM2N2xJX25rOU1FQ3dSVm5GNkJ6cW5PeUVDUFJrNURiRUZ3b3AxaXM4b1QzcXlnV0FibzdMdFdBWGh2Ym91d2oxVklTQkJwaUliZUhuZWFDME02UWlSdWxYV2w1SU5POURadERZbElOWVN6VkdzYURWT2R2dGVYclB0bUNtYjBLOUZTMFJkU213czNoM1VKQVhMUGVSNXFyb0xENDAyRnhTNlRQcHJmaFdrTWt4VHAtSWpmbDJVLUlidGk3Mzk0ZlRTQm1rWU9NV2stYnlCY1M4aTVVOUFHNE5LWEsxWmlpa1lxcnlvRncyTllkcXloZWNzRmhOaU52MUE?oc=5",
-      "s": -3
-     },
-     {
-      "t": "AU Small Finance Bank shares tumble 10% after Q2 results, but Jefferies and Motilal see up to 37% upside - The Economic Times",
-      "l": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZHVDTW1fSTktRk1RLUt0dURVbFpOZzZUNThJQ1dmYkxMLXJnM0lVNkNxZlItazgxWXpjWXAxSEd0VWtOXzlMV0JJWEhiZXIzdHQ5ZjljYnhJZkZWelBodTJtdGdhN045a3R1d0xkUy1Gc3I1RFNtblBTcmJtTEpVZkRzV3JMckRvQ0NoOWZ6a3dQV3d0NjVFVmF5b2V0MFZOTW5DZFhpcGdqQzJvLXVrZXA2ZndzN1hLclZ4NHZ6cW05TFhiRDFLQVVLemtmalozNlByUXpqb0FIWTZ1YU1KOVFqeHRPMjgwREg2djNiVkljMmxNMGoxdnYtZHhxajBRejdZMmdseGlFRTjSAYsCQVVfeXFMUGR1Q01tX0k5LUZNUS1LdHVEVWxaTmc2VDU4SUNXZmJMTC1yZzNJVTZDcWZSLWs4MVl6Y1lwMUhHdFVrTl85TFdCSVhIYmVyM3R0OWY5Y2J4SWZGVnpQaHUybXRnYTdOOWt0dXdMZFMtRnNyNURTbW5QU3JibUxKVWZEc1dyTHJEb0NDaDlmemt3UFd3dDY1RVZheW9ldDBWTk1uQ2RYaXBnakMyby11a2VwNmZ3czdYS3JWeDR2enFtOUxYYkQxS0FVS3prZmpaMzZQclF6am9BSFk2dWFNSjlRanh0TzI4MERINnYzYlZJYzJsTTBqMXZ2LWR4cWowUXo3WTJnbHhpRUU4?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
     "symbol": "INDUSINDBK",
-    "score": -6.9,
+    "score": -2.9,
     "signal": "AVOID/SELL",
-    "price": 835.0,
-    "chg": -1.82,
-    "volx": 0.78,
+    "price": 844.5,
+    "chg": 1.14,
+    "volx": 0.93,
     "above20": false,
     "news": [
      {
@@ -77,7 +78,7 @@
       "s": -3
      },
      {
-      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Price Movement and Returns Overview",
+      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
       "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-26-oct-2026/liveblog/135201878.cms",
       "s": -3
      },
@@ -89,175 +90,49 @@
     ]
    },
    {
-    "symbol": "SWIGGY",
-    "score": -4.8,
+    "symbol": "YESBANK",
+    "score": -2.1,
     "signal": "AVOID/SELL",
-    "price": 176.0,
-    "chg": -16.75,
-    "volx": 12.54,
+    "price": 15.86,
+    "chg": 0.38,
+    "volx": 0.64,
+    "above20": false,
+    "news": [
+     {
+      "t": "Yes Bank among 6 stocks to hit 52-week lows and fall up to 32% in a month",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-6-stocks-to-hit-52-week-lows-and-fall-up-to-32-in-a-month/slideshow/135212417.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "SWIGGY",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 185.75,
+    "chg": 5.54,
+    "volx": 3.34,
     "above20": false,
     "news": [
      {
       "t": "Swiggy shares jump 5% a day after Q2 results sparked a 17% crash. Why brokerages remain bullish despite target price cuts",
       "l": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms",
       "s": -3
-     },
-     {
-      "t": "Swiggy shares jump 5% a day after Q2 results sparked a 17% crash. Why brokerages remain bullish despite ta - The Economic Times",
-      "l": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNc2FjYlNETml5UW1IVWY3YUh3Mm95Z1pWMHNMYXIxX3ZHSkx5cUduWkJORmFfTG5GNEh5VnBLdlZJc25OZ1plUDZTUlNlaWFacWhYVzFVSDNEdU02MTl3SjlwM1E1OG9YTDhqY2pBNDdENlFlMld4Qm9NWnVId1UzaFF2X3NSTTAyYjZuZnpIT25vR01GMHM5Y2wxVVlWZVhyMEk5blgyNldzazZjRTlnX3FEVzJOaEF2ZnZqcnJ6MWZHaDhGNER0MjB1WjVCY0pfcnF1V2Z3Y3pJdnlqcm1zVk1lc1lHdl93MHB0amJMQkxJUUVWamY4RHljSmJsZ2lYNzVndDhGRUw0SnFpNHotYTE5bmJSN3hKTXMxUWt6OS1tN0xhWUNKeNIBogJBVV95cUxNRTJyX0duZXdyV2hhbFJtN3JPTW1uNGpobTR6WGJrVU5GR3JFbGV2ekxycWx3U0VfR19JSnoyUWFBVkVSd2FST2Z4TWIzMDJ2UHR3dFVHajFaOEtteTRLa0h5MDdDMFRiSkhmTDNkM1N1elk5WWY1QVlFYTI2clQyVkM1U285NWhmMmJ2SUloUmV4aDVIQ1JSc3pEYjY3TzNFMzBtZU1DZ2g1MHM1Wmg3VnNvMV9GMzdXSDFhbUY1TmZpTTE1UXY2b3I5YUJhT09rZFM2SlVZcmdUZnRVc3hib011TW5COFI5bmtoQ2xNeXdpTEVUaFcxUUhfTEFDeEJEdHZGM2MxcUJDcUR3eWdta1VzeTVXOUYxeGtLQW95alBNdw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "BANKINDIA",
-    "score": -3.5,
-    "signal": "AVOID/SELL",
-    "price": 131.0,
-    "chg": -3.82,
-    "volx": 1.09,
-    "above20": false,
-    "news": [
-     {
-      "t": "Stocks to Watch Today: Infosys, Kotak Bank, Lupin, KEC International, Bank of India, Coforge, Bharat... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcUdENFh1VUFFYXlqZVBvYUlIQXE1aEZuOHNoZjFnN0Z4TzExOXJLbkk1Qy0zSUpja3lBM2J4Tk8xSHNlVm80cE1MandLWU81dkVvdkhZVy1jWWN5elpXT3pUVS1ZaGVFbGpjbFFnR0RLZWxNSURzOHhzblllWnkzQmVkZ0FOZjlCOGRzWTlIdWJCRVpWQzk0S2FMU19TcnRjQlM1V09vQVNEbDlqMVlmWXpYT3JiMjFQYkVCUlFIOERPX3BuUWtwRVV5bmpremItc1FMaTRuN09LM1E3Ul9sM0FoOHN2N2ZHeTU4cG9NOWZ0NEFucGxyQWxJSXNqODI3SExPYlVXdlZfZENXbVgzLWV4QkRvaEhfc0k5U1FnT0VsYzkwdTIwRzdIMUxvZlBhQXkxUUp0bEVBVl9wRHY5d1AyWi3SAcoCQVVfeXFMUGhWdUNoOU9jT2s3VlM2OFRwNEkxVXo2X2tXbjdWbzM4TXpEZHctbUlFYzlOYmVGcGtJUklKcm8wMVV2Y3d5MGtlYWVPdGZDcFpfZVZ6OU41alFnNGxabjA0UGE3eTRzUmlnY2dBZGFFYkJOS2FCb2wzSnE1cDdNLVd3ck10UVhLblIzUnpndnZxVkFDOV9YcWpQTmNkWEhZMk4wMWo1NlpZaXJCTXBpWHhNMzFrU01OcmxFbDAzMlluWGVONG9sVzRDMDNZQlZEbk9BNXhhbmVZQ1JlSnhWVm15Q2dQNXB3MGQ1MnJocF9kV0h0Q1Y3UnNNX3d3Z1ZMVWpMeUpCbjNlUEZWQ2VtY2M2aTA0a2NDVGJGRzlBRkdyeGlSMVhsZmJQN1lpQVN5eUxtR3FBaXVIR0hOWlZiTzhWanZCQ09pb2NB?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Bank of India shares fall up to 5.5% post-Q2 results as global NIM falls to 2.47% QoQ - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGlUaU9kcW5meXRzWmVpdGh3OGszdEVONkJqc0c3SGhyeXJZMGdaZ3VhS2dhYVR1bGhDRHVyWXkwQ0FSbDU4ZzhjSVNKb2xLMTM1SzhCYlFqYUJ0N3ExRThHa29nQWJNNkR6RTMwNmhzZ2E2N2Q4SGhHRk5mdkhnVjlXc1dxb1BJUERUaGxMTzhkWGMtUnVSMGVnYXJlcmM4b2NkSUpCSUR0UVQ1Z2wwYXNfck5VUUdDX0RIYUgxeGlRUHROdDhqYURiRzZKdlFOdWIwaDNEdnY2LW9rQVF2LXFn0gHnAUFVX3lxTFBEY01jUnRqVHd1dHpOdzlUN0t3dm5jQmhUVGlDakFubTVGTDF3RTZhenZCbDJGVXJDcDhORGNxMFlFQUw4cGV4am5sMWpELWh1dUQzS1FkbkNOUW96X05xVmRsRl91ODV0bDE3U2Z4RlFzMnNxbmpmQkJzcXZYWVgwSGlJUHlFV2VVOEdCOGJZOUxqbWlxM05TMVJ3X1I5VFlYOFRsZ1RTaFZzQl8tNjNyclRMT2JMRmZYaWpIaXU2TVdlZFBzRWJkdlhrV0VSVGhkY202eDh2NDNKM3VfSF93YWFha1U5Zw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "INFY",
-    "score": -2.3,
-    "signal": "NEG NEWS, price holding",
-    "price": 1153.8,
-    "chg": 0.04,
-    "volx": 2.43,
-    "above20": true,
-    "news": [
-     {
-      "t": "Stocks to watch: Infosys, Tata Motors, Paytm, IndusInd Bank, Senco Gold",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-october-26-infosys-tata-motors-paytm-indusind-bank-senco-gold-126102600062_1.html",
-      "s": -3
-     },
-     {
-      "t": "Stocks to Watch Today: Infosys, Kotak Bank, Lupin, KEC International, Bank of India, Coforge, Bharat... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcUdENFh1VUFFYXlqZVBvYUlIQXE1aEZuOHNoZjFnN0Z4TzExOXJLbkk1Qy0zSUpja3lBM2J4Tk8xSHNlVm80cE1MandLWU81dkVvdkhZVy1jWWN5elpXT3pUVS1ZaGVFbGpjbFFnR0RLZWxNSURzOHhzblllWnkzQmVkZ0FOZjlCOGRzWTlIdWJCRVpWQzk0S2FMU19TcnRjQlM1V09vQVNEbDlqMVlmWXpYT3JiMjFQYkVCUlFIOERPX3BuUWtwRVV5bmpremItc1FMaTRuN09LM1E3Ul9sM0FoOHN2N2ZHeTU4cG9NOWZ0NEFucGxyQWxJSXNqODI3SExPYlVXdlZfZENXbVgzLWV4QkRvaEhfc0k5U1FnT0VsYzkwdTIwRzdIMUxvZlBhQXkxUUp0bEVBVl9wRHY5d1AyWi3SAcoCQVVfeXFMUGhWdUNoOU9jT2s3VlM2OFRwNEkxVXo2X2tXbjdWbzM4TXpEZHctbUlFYzlOYmVGcGtJUklKcm8wMVV2Y3d5MGtlYWVPdGZDcFpfZVZ6OU41alFnNGxabjA0UGE3eTRzUmlnY2dBZGFFYkJOS2FCb2wzSnE1cDdNLVd3ck10UVhLblIzUnpndnZxVkFDOV9YcWpQTmNkWEhZMk4wMWo1NlpZaXJCTXBpWHhNMzFrU01OcmxFbDAzMlluWGVONG9sVzRDMDNZQlZEbk9BNXhhbmVZQ1JlSnhWVm15Q2dQNXB3MGQ1MnJocF9kV0h0Q1Y3UnNNX3d3Z1ZMVWpMeUpCbjNlUEZWQ2VtY2M2aTA0a2NDVGJGRzlBRkdyeGlSMVhsZmJQN1lpQVN5eUxtR3FBaXVIR0hOWlZiTzhWanZCQ09pb2NB?oc=5",
-      "s": -3
-     },
-     {
-      "t": "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns",
-      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWUdTTWs3X1ZIWEpOMHFsTktxcHA3cFFYc2J2TGk0Q0RHZDU5R3c5cWt4dzExb0YxUUhOVmhoZXNrb2kyRjBZLU9nMDluTklIUURlU0dkeE5VWkpDM1FnazZzY1Z0V0ZMRlM5Z1QxZWtIZHFrb1poVnpDOERBVG9SYTlDbDRRWDR6d0JEMEVtWS1RdFJWVlc4VUszLVdraUtlZWtXaDFCVlJ0VWl2WE1HekhyWm03bjBudENKWkMxNlQ1aXlDTjF2RkhQWFVva1JZTmNrRHkyMEE?oc=5",
-      "s": 1
-     }
-    ]
-   },
-   {
-    "symbol": "FEDERALBNK",
-    "score": -2.0,
-    "signal": "NEUTRAL",
-    "price": 340.9,
-    "chg": -1.98,
-    "volx": 1.19,
-    "above20": true,
-    "news": [
-     {
-      "t": "Federal Bank (NSE:FEDERALBNK) Allots Shares Under Three Employee Schemes - Kalkine India",
-      "l": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnVhcjBWSFZPdExiZmVQaXRuTzZkZlhKdXN5XzJfWGx0b2hLanRLV3Zhd0ZSNnR4MWplSVpnSGJrOHFMYXRnVGJoQnlrcUU1UWlpMEh3emtYWE1nQWg5YUhmNF8xR1hWUC1uanVlS1RPaVRnTW5BUXM1RkM1dlV2eEtOU05kMjlRaHlkb2VmTklnY2FZdlZLbWo0SGFOUEdJWTlTU3Fvd0w3SXRlYUxoTkZwYlFHRko1ZFEwei1lZ2x0QjF3Ul9wTWdtMA?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "KOTAKBANK",
-    "score": -1.9,
-    "signal": "NEUTRAL",
-    "price": 430.5,
-    "chg": -1.49,
-    "volx": 0.62,
-    "above20": false,
-    "news": [
-     {
-      "t": "Kotak Mahindra Bank shares lead Nifty 50 gainers after Q2 results, brokerages lift targets - BusinessLine",
-      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeHpfczJlT00taVc2ZnRQT09GTHpkbTdpUHdIbkJrckhrZ2hmZk5QazgxajdVTHZXUVlCczZ1OWFweWFYMjR4YWo5WkR2cUVuNHd4NjgyVUdiU3FXaVFfRW5GNVMyWFJ0ektNdGh3ZHhvRlVRalZpb2ZXYzFDY2xYdk9EWXFSZXg3aTM4b1ctUzRmZ0l0NEFLS0F3NnVKaWhEZEFhejZaUmZ5ZTBrclN4TDN5OXdNNWdwV1ZmQkcyc0NQc25HX1NReWE0NllTMjhJaUZNdzdqMXJEOWFQTmlzWmtta1RVbU1DZXREMFBaVFloRFdqVFduX3ZQTlnSAYMCQVVfeXFMUGhFeHdPcjU0THNxdm9EZDhUMW56UmxTc2lsdW9zVDBYa0RydUJVZ0xNRkpvSm9GcTZJdy12MlRoYVEyQUNUVUtMSDNpYmxPY2FWTkpaRWZQZXYzYmQzLURCeEMtdFRqLTFDVG9pcTZYSkJ2UlpvSVB3a2N6ZFRFcno4VWxaVV9hRE1qcnlJajJST1loZGdXdFBaQld5X0pCMWI1aFlJTWd2cTdtYzZ0aUNfeDJzZ0lZTjF5WURxcXREZlpkV3FRc1REMnZ5Wk1WMXRRQjdka1JFLWdQZE5CbENaMnF6NTJyUURSLWotVk1oTkVmUG0zZGo4anNIenh3QjJZRQ?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Kotak Mahindra Bank shares climb 4% after Q2 results. What are Jefferies, Goldman Sachs saying?",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-climb-4-after-q2-results-what-are-jefferies-goldman-sachs-saying/articleshow/135202411.cms",
-      "s": -1
-     },
-     {
-      "t": "Kotak Mahindra Bank stock jumps 2%, among top Nifty gainers after Q2 results; JPMorgan raises target price - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONWRyOXZubWx4SVZGNms3T1R3Xy1DS0JkN0QtN1Y5NnJGUERNRHhWbFZIdTNOSUpjcjhRb3Z6cVc2bkpORWdZRnZSTFJVd2RDMTM1VkhRSExMLVZsRm1ZYU1jSmQ2aGxJWWFpWWdra3duMXlyMy1MTE5ORWZTakZxVzNDczI5b2luOFh5dTF3TWRNR0xyZ2NtUWgzNkZxY1cxVEFBLUwyRUpTc3Z6MWpKSGFsVnRtXzAwRDM0Nm1mYU03WVg3ZWNoT3NEckI5UzZCSFR6MEE4UjhLd2FsRDRvWkIzZDRQbXI2SUlTZm4wVzVLZ0FIUVhhcXl0TmLSAYICQVVfeXFMTnRVQnpiMkYwVXA5c0YtSlNac1poMXU1emh0eTFuOEkzdEFOX3Y4SFZvNy10RC1kdkxBa29UcWhENkxKb3lVM1RtUzhjeWJkZUpKek1vbFNOM3l1dWpqejNXRTYzTWhvTGV5N0hRNkR4TWdxeF9IZDhVMzVZX2NmZk9GZ09ZdnRUWXhPYUtycXRpNVFiR3ZlYUM1a01qLXJWenRWcEpuS0VWMVlZMjI1V0N4dnY2Qm12S2hxMXNIdlFac1o4OElKTDBTVXdsOUJNSWVjZ3JSRFpobjdRVWxYZ2RjZ01pQ0xuTFNVTTRnU0t3OXVXWkozNk1FT2J4elprZVZR?oc=5",
-      "s": 1
      }
     ]
    },
    {
     "symbol": "SHRIRAMFIN",
-    "score": -1.9,
+    "score": -1.1,
     "signal": "NEUTRAL",
-    "price": 865.0,
-    "chg": -3.98,
-    "volx": 1.51,
+    "price": 825.0,
+    "chg": -4.62,
+    "volx": 2.4,
     "above20": false,
     "news": [
      {
       "t": "Shriram Finance shares crash 6% as Jefferies, Citi, and other brokerages slash target prices after Q2 results. Why do they still say \u2018Buy\u2019?",
       "l": "https://economictimes.indiatimes.com/markets/stocks/news/shriram-finance-shares-crash-6-as-jefferies-citi-and-other-brokerages-slash-target-prices-after-q2-results-why-do-they-still-say-buy/articleshow/135202853.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "IDFCFIRSTB",
-    "score": -1.7,
-    "signal": "NEUTRAL",
-    "price": 72.3,
-    "chg": -3.46,
-    "volx": 0.85,
-    "above20": false,
-    "news": [
-     {
-      "t": "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank \u2014 Jefferies sees up to 62% upside | Target - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVU1BQWlvZGdTUnMxWlR6UGZraXhzSkNtcTh2Ykppek5QaEp0TGppRDNGd0p6dHRhNVQwUFExRUtoc0dGSjBhdUh0MlZVMkNqR2c1ang5WHo2ZHRydF9aRnQ5YkxiUWJXWVJwU0VXV0U0TFdSaUUxQWR0ZkNVdThDUlpaZURhekJkdm43QUg1VDNqNnRtOWdBSGNMSlZSNWtCWmR6ckJuTFlvQ1dMRnRNV21kOEhzSW9KQmtBSi11Z1BUZzNtdHE2eWc5TDB6eWNuQWV6Y2U3N1FaekdZcV9fMEx3Vk40RldxQVZhcVNNdExJX0trWGplYTdyOE9MU1hndTFCMjMtejFXRFhoVFHSAZMCQVVfeXFMUGxWem5Jc2gwLVV6eU5zVmpKUmM2N2xJX25rOU1FQ3dSVm5GNkJ6cW5PeUVDUFJrNURiRUZ3b3AxaXM4b1QzcXlnV0FibzdMdFdBWGh2Ym91d2oxVklTQkJwaUliZUhuZWFDME02UWlSdWxYV2w1SU5POURadERZbElOWVN6VkdzYURWT2R2dGVYclB0bUNtYjBLOUZTMFJkU213czNoM1VKQVhMUGVSNXFyb0xENDAyRnhTNlRQcHJmaFdrTWt4VHAtSWpmbDJVLUlidGk3Mzk0ZlRTQm1rWU9NV2stYnlCY1M4aTVVOUFHNE5LWEsxWmlpa1lxcnlvRncyTllkcXloZWNzRmhOaU52MUE?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "ICICIBANK",
-    "score": -1.7,
-    "signal": "NEUTRAL",
-    "price": 1394.2,
-    "chg": -0.31,
-    "volx": 0.95,
-    "above20": true,
-    "news": [
-     {
-      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Today",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-26-oct-2026/liveblog/135201707.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "TMCV",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 396.0,
-    "chg": -4.41,
-    "volx": 1.37,
-    "above20": false,
-    "news": [
-     {
-      "t": "Stocks to watch: Infosys, Tata Motors, Paytm, IndusInd Bank, Senco Gold",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-october-26-infosys-tata-motors-paytm-indusind-bank-senco-gold-126102600062_1.html",
       "s": -3
      }
     ]
