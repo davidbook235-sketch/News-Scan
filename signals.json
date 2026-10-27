@@ -1,5 +1,5 @@
 {
- "updated": "26 Oct 2026 22:15 IST",
+ "updated": "27 Oct 2026 15:14 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
@@ -9,54 +9,65 @@
  "news": {
   "positive": [
    {
-    "symbol": "BSE",
-    "score": 3.7,
+    "symbol": "BHARTIARTL",
+    "score": 2.5,
     "signal": "BUY WATCH",
-    "price": 3359.0,
-    "chg": 3.97,
-    "volx": 0.75,
+    "price": 1917.5,
+    "chg": 1.34,
+    "volx": 0.36,
     "above20": true,
     "news": [
      {
-      "t": "BSE share price rallies 4%; Motilal Oswal upgrades stock to 'Buy'",
-      "l": "https://www.business-standard.com/markets/news/bse-share-price-rallies-4-motilal-oswal-upgrades-stock-to-buy-126102600254_1.html",
-      "s": 5
-     },
-     {
-      "t": "BSE shares jump over 4% as Motilal Oswal upgrades stock to Buy. 4 reasons behind bullish call",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-jump-over-4-as-motilal-oswal-upgrades-stock-to-buy-4-reasons-behind-bullish-call/articleshow/135205458.cms",
-      "s": 4
+      "t": "Bharti Airtel share price up 3%; rallies 12% in October, outperforms market",
+      "l": "https://www.business-standard.com/markets/news/bharti-airtel-share-price-up-3-rallies-12-in-october-outperforms-market-126102700623_1.html",
+      "s": 3
      }
     ]
    },
    {
-    "symbol": "IOB",
-    "score": 1.8,
+    "symbol": "LT",
+    "score": 1.5,
     "signal": "NEUTRAL",
-    "price": 30.38,
-    "chg": 5.93,
-    "volx": 5.2,
+    "price": 3680.0,
+    "chg": 0.9,
+    "volx": 0.59,
     "above20": false,
     "news": [
      {
-      "t": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
+      "t": "L&T bags Dhaka Metro order worth up to \u20b910,000 crore; here\u2019s how stock is faring ahead of Q2 earnings - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWW1LcGNzcHZScURmMzhkLU50Nmg5UmFmbkhiYl9fdngta05SZnVvOHA4R05TdXZLcFVKdE1FM1dBRFV4bWVmc1NlbUdrRlluLW11MVAtRDZkTXhIc0pfTHZHWDVGa0lkcFVJLUd0T2ptbFQ0M25GcFpCTjRIeWZwcEljSmJHTWxlVFotcG9HWmlidWVmVFM1Ml9qZ3h3b0JURTdwSjN4NlNmY1A0UmJNaFpyVmlNRE9Zb3gwR2lNQzFVRWZBRmE5MzBRT3EzbXNkbE40NGppbzlCeWdYRjYybG14UlRodUxnanVCR21vcEwzT1lx?oc=5",
       "s": 2
      }
     ]
    },
    {
-    "symbol": "MAHABANK",
-    "score": 1.7,
+    "symbol": "ITCHOTELS",
+    "score": 1.3,
     "signal": "NEUTRAL",
-    "price": 76.12,
-    "chg": 1.06,
-    "volx": 0.99,
+    "price": 164.31,
+    "chg": 5.16,
+    "volx": 11.09,
+    "above20": true,
+    "news": [
+     {
+      "t": "ITC Hotels Share Price Jumps 6% After Q2 Results: Is It the Right Time to Buy? Profit, Margin, Valuation and Key Levels - Univest",
+      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2h4UWFoTTFVaGVEd0U2ckFnMElkODlJT2xvc2tld0ZBVC1YQUNuTi03aFNScS05QVJMaHVSZHJ5WS1sTC1rQXEwVFc5bWRRUmFBcVg0d2UtYW10bTJiY3JabERrdVZZTEp3RFJMMFRYVTFlbWRrbkhxbXlISUVkSjgybmZLb3ozRGtZcmpWakdpNWhyVlhid25yZkRtbUZ5bTZ1LW5DZ3JWb0pPQ1RySWZBMnN4TVh6ZXh2eGFvaEo4Z1NURS0tS0M5dTJpajhkeUJ1djBxWDRSUUU?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "ITC",
+    "score": 1.3,
+    "signal": "NEUTRAL",
+    "price": 260.5,
+    "chg": 1.01,
+    "volx": 0.72,
     "above20": false,
     "news": [
      {
-      "t": "Bank of Maharashtra Q2 profit jumps 41.5% as bad loans decline",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-maharashtra-q2-profit-jumps-41-5-as-bad-loans-decline/articleshow/135214440.cms",
+      "t": "ITC Hotels Share Price Jumps 6% After Q2 Results: Is It the Right Time to Buy? Profit, Margin, Valuation and Key Levels - Univest",
+      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2h4UWFoTTFVaGVEd0U2ckFnMElkODlJT2xvc2tld0ZBVC1YQUNuTi03aFNScS05QVJMaHVSZHJ5WS1sTC1rQXEwVFc5bWRRUmFBcVg0d2UtYW10bTJiY3JabERrdVZZTEp3RFJMMFRYVTFlbWRrbkhxbXlISUVkSjgybmZLb3ozRGtZcmpWakdpNWhyVlhid25yZkRtbUZ5bTZ1LW5DZ3JWb0pPQ1RySWZBMnN4TVh6ZXh2eGFvaEo4Z1NURS0tS0M5dTJpajhkeUJ1djBxWDRSUUU?oc=5",
       "s": 2
      }
     ]
@@ -64,75 +75,112 @@
   ],
   "negative": [
    {
-    "symbol": "INDUSINDBK",
-    "score": -2.9,
+    "symbol": "HDFCBANK",
+    "score": -5.9,
     "signal": "AVOID/SELL",
-    "price": 844.5,
-    "chg": 1.14,
-    "volx": 0.93,
+    "price": 688.05,
+    "chg": -0.69,
+    "volx": 0.75,
     "above20": false,
     "news": [
      {
-      "t": "IndusInd Bank shares rise 2% after Q2 results. Why Jefferies cut target price despite lender swinging to profit",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-q2-results-why-jefferies-cut-target-despite-lender-swinging-to-profit/articleshow/135202240.cms",
+      "t": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-done-for-hdfc-bank-icici-other-private-lenders-whats-next/articleshow/135224155.cms",
       "s": -3
      },
      {
-      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-26-oct-2026/liveblog/135201878.cms",
+      "t": "HDFC Bank shares steady as Bagchi takes charge as MD & CEO - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMW9zeGxSc0E1ZFB1YlJFQkl5d1Bmb0JmbHNJUnhDVXdvcDFWdkR3V2d5VEtGN2xrdmY4NFRaY0FnUzhJY000WmZvQ3NnX3RNcWlBZ3JJVHRkcnRWRXpWWXhTZ0NOSVNieHJOWUNpQkNFZGVBWC1PRlR3WlJDMUNqajhZMWlCTWVPRjAyUkhMaGZTYW9wU3ZNdVZYTzNiRnZydkc4WldvMXZsSTFqdC12U0JpbTFHQk9ZakVFSGs5Nk0tcnZfb2ZQR1Y3N0Nmand6bHlTQzJuRUw2TGNaT050OHdHZzhra3Y0elHSAfABQVVfeXFMTnlaR1JjWFlOQ2pHdXB1WmFtcnRKallwZlJhMVVjTWFmYnJhNWJjZVZvb1N1WmhwdXhjTU5TTTk5c2Q4OXpySklaSHNGSjBPNDZJVVBhbWZJQjVyZ1JtZ1lsUTJENnptRF8wUXZ5OXRvVDh4aFNndUxfZWJjM0FUUEJqbGNBUVR0XzRKOC1oOFZsOU94TWowMEN3c1dkOV9jbFdsci14NkVvZDh0ZW5zMGpGcFQwaUlNRDZXczRYRE9vUW5PODhwZFhhMW9WUnM2c2c2U0R2WWM4d0JMWjZxaDhmaDFKOGJyOXNlaERoVWVQ?oc=5",
       "s": -3
      },
      {
-      "t": "Stocks to watch: Infosys, Tata Motors, Paytm, IndusInd Bank, Senco Gold",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-october-26-infosys-tata-motors-paytm-indusind-bank-senco-gold-126102600062_1.html",
+      "t": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjhkdmRYMzZUSEo4REM1RXo0TWcwVjR2dEFrQW9pbjRyUUpUVEZueXZNUERnSzhkQ3AxX1h5Z3MzQWxscnFkMURTQnFvVTVjcldHX3h4aVNlZzc4cUxFaFozX2ZoRkJzeWZfX3JNNnFTU000b3J4SjBFbm1JTVczd21kZXlWNWNsZlFnX2I5U2FPZGV2YkJBYTVzQVIwWFQyUEd3TFJsWVE2NXZsdG1RSGZCbC1NUTFoc2lEWThGSTdKLWFqcUhLTV9NUkE?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "YESBANK",
-    "score": -2.1,
+    "symbol": "CIPLA",
+    "score": -5.2,
+    "signal": "NEG NEWS, price holding",
+    "price": 1355.0,
+    "chg": 1.27,
+    "volx": 1.58,
+    "above20": true,
+    "news": [
+     {
+      "t": "Cipla Q2 Results: Profit falls 35% YoY to Rs 878 crore; revenue slips 2%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-results-profit-falls-35-yoy-to-rs-878-crore-revenue-slips-2/articleshow/135228386.cms",
+      "s": -3
+     },
+     {
+      "t": "Cipla Q2 results: Net profit plunges 35% to Rs 878 crore, revenue down 2.4% YoY; stock falls - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPajFDbHpDaFdYRy04Q0VXdkFoUWV2SHRZRW5sNHRFZlFpT3VNMUM3VDRVTlZ4SGo4THpBUjFmbXlVM2RJSDJvajBrRFlCV1NRU3A1WlFZeTNmQ2ZwS2Fzbl9HQzd5aTZLcjBmZzRSSUQzTTlpZ25ua01OWjVrdlBmY1ZkUGo5OEhTZ0RTd3dremdRWkVNOXpiV21GSXlfZkhWNF9meWF1VEVnRm50VHptQUx6cG5HVHlzdkw2T2lsb0I2LVJUb2JvbzFoR3VlMFhfMlRuazRlWEhMQdIB3wFBVV95cUxNY2VITmV2QU1RYnU3TEVJNDgzc3RoU0xXbGZDR1I4SEs1d2dIeGd6c2dVbzBBQkd1Z2s3MWhRZDZfb0ZPOXFuakFrTVpOOVZxWGEwX0ZXV3NTam5sd0E0djMyMW10RDRyeHk2QXhfWFlLalhmNWl5NG13N3VvN3Flek1mWHJzZlc2RGdLSzBVamVPenJLVXBmeEVieUhlWHU2VjVrZGhoNzNuZjVlQ1JWYmVsbE05eVRSY0xlNlJFeFdKOUNWM1ctb2oyVGVSMlZPaHAwSlZSOEFyWElJSmVj?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ETERNAL",
+    "score": -2.5,
+    "signal": "NEG NEWS, price holding",
+    "price": 325.55,
+    "chg": 2.57,
+    "volx": 1.2,
+    "above20": true,
+    "news": [
+     {
+      "t": "Diwali stock picks! Axis picks Eternal, Hindalco, 7 other stocks with upside potential of up to 20%. See full list",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-axis-picks-eternal-hindalco-7-other-stocks-with-upside-potential-of-up-to-20-see-full-list/slideshow/135228028.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "RELIANCE",
+    "score": -2.4,
     "signal": "AVOID/SELL",
-    "price": 15.86,
-    "chg": 0.38,
-    "volx": 0.64,
+    "price": 1201.8,
+    "chg": 0.99,
+    "volx": 0.49,
     "above20": false,
     "news": [
      {
-      "t": "Yes Bank among 6 stocks to hit 52-week lows and fall up to 32% in a month",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-6-stocks-to-hit-52-week-lows-and-fall-up-to-32-in-a-month/slideshow/135212417.cms",
+      "t": "Jio\u2019s big-bang listing may give it stock market\u2019s No.2 crown after Reliance Industries",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/jios-big-bang-listing-may-give-it-stock-markets-no-2-crown-after-reliance-industries/articleshow/135227418.cms",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "SWIGGY",
-    "score": -1.4,
+    "symbol": "AXISBANK",
+    "score": -1.7,
     "signal": "NEUTRAL",
-    "price": 185.75,
-    "chg": 5.54,
-    "volx": 3.34,
+    "price": 1220.0,
+    "chg": 0.21,
+    "volx": 1.0,
     "above20": false,
     "news": [
      {
-      "t": "Swiggy shares jump 5% a day after Q2 results sparked a 17% crash. Why brokerages remain bullish despite target price cuts",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms",
+      "t": "Axis Bank Share Price Live Updates: Axis Bank  Market Performance",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-27-oct-2026/liveblog/135223178.cms",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "SHRIRAMFIN",
-    "score": -1.1,
+    "symbol": "ICICIBANK",
+    "score": -1.6,
     "signal": "NEUTRAL",
-    "price": 825.0,
-    "chg": -4.62,
-    "volx": 2.4,
-    "above20": false,
+    "price": 1403.0,
+    "chg": 0.63,
+    "volx": 0.63,
+    "above20": true,
     "news": [
      {
-      "t": "Shriram Finance shares crash 6% as Jefferies, Citi, and other brokerages slash target prices after Q2 results. Why do they still say \u2018Buy\u2019?",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/shriram-finance-shares-crash-6-as-jefferies-citi-and-other-brokerages-slash-target-prices-after-q2-results-why-do-they-still-say-buy/articleshow/135202853.cms",
+      "t": "Here's why Kotak Neo recommends 'Buy' rating on ICICI Bank; 'Add' Nykaa",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-buy-today-here-s-why-kotak-neo-recommends-buy-rating-on-icici-bank-add-nykaa-126102700085_1.html",
       "s": -3
      }
     ]
