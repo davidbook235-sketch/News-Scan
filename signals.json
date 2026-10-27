@@ -1,38 +1,72 @@
 {
- "updated": "27 Oct 2026 15:14 IST",
+ "updated": "27 Oct 2026 21:20 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 248,
- "swing": [],
+ "swing": [
+  {
+   "symbol": "LAURUSLABS",
+   "setup": "Breakout",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 2142.0,
+   "stop": 2021.68,
+   "risk": 120.32,
+   "t1": 2322.48,
+   "t2": 2502.96,
+   "rsi": 64.8,
+   "volx": 2.11,
+   "rs": 30.2,
+   "date": "2026-10-27",
+   "news": ""
+  },
+  {
+   "symbol": "INDHOTEL",
+   "setup": "Breakout",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 812.85,
+   "stop": 769.15,
+   "risk": 43.7,
+   "t1": 878.39,
+   "t2": 943.94,
+   "rsi": 71.9,
+   "volx": 1.54,
+   "rs": 16.0,
+   "date": "2026-10-27",
+   "news": ""
+  }
+ ],
  "exits": [],
  "news": {
   "positive": [
    {
-    "symbol": "BHARTIARTL",
-    "score": 2.5,
-    "signal": "BUY WATCH",
-    "price": 1917.5,
-    "chg": 1.34,
-    "volx": 0.36,
-    "above20": true,
-    "news": [
-     {
-      "t": "Bharti Airtel share price up 3%; rallies 12% in October, outperforms market",
-      "l": "https://www.business-standard.com/markets/news/bharti-airtel-share-price-up-3-rallies-12-in-october-outperforms-market-126102700623_1.html",
-      "s": 3
-     }
-    ]
-   },
-   {
     "symbol": "LT",
-    "score": 1.5,
-    "signal": "NEUTRAL",
-    "price": 3680.0,
-    "chg": 0.9,
-    "volx": 0.59,
+    "score": 4.6,
+    "signal": "WATCH",
+    "price": 3665.1,
+    "chg": -0.4,
+    "volx": 0.77,
     "above20": false,
     "news": [
+     {
+      "t": "Larsen & Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORlFRb0Y4M2NDX1pPLUNTTldlVlZnLUNxNUJzNVlPWWY4eG1YRWU1NTB6YWhNWi14N1lsWkI5a0ZScXVnWnZfbVV6X1VFWjE4S2Z3UWExVl92eGtUMUo3b3N0WmtUYzdEbWEtbVFTa3VUTWU4bUpjV2VlSmRhczZLOHlld1NFb0d4QWdpWTctYkZRSkdIS0FnalZ5MXMzZGJYTXZHYTBBOURZVlNNN1N6OHAta2ktT0RZQzV1RWRaZmo4VDJwRkN1bWpDXzJicmRHVXFlamdMRVNLS1hiVkFFX2VrMmlGQjg4NzNCXzdn0gHzAUFVX3lxTFBmOWhXS2d0XzB0OFpFY3NLZWZkZWlsLV95dkx0YlVQS0JBbUtQU3hWTmNOeVhCQWtieEszQW9abjYyUUp5UWxYUnlaUDBmVE5NV25CYU1wdFA4YThkNEJKTGxsZDk2dWRuOVRMRVFDczdMSkw5X29VZmtmOGx6czlFT2t4VzZoSDR2NHE4a0gzYmNYOUhBQ2NHTUJ0ZHVBVmZNYUJ0Zm5CYVFXVVBRNzZ6SmJTOFlJSUcxclVzbVNVcmRmbTV0UTB6RG9PZE80N0JZU2FVTkF5MHhiUmpEN2ZCd1BsVG1PWnJNRkhsSDhraFVMUQ?oc=5",
+      "s": 5
+     },
      {
       "t": "L&T bags Dhaka Metro order worth up to \u20b910,000 crore; here\u2019s how stock is faring ahead of Q2 earnings - Upstox",
       "l": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWW1LcGNzcHZScURmMzhkLU50Nmg5UmFmbkhiYl9fdngta05SZnVvOHA4R05TdXZLcFVKdE1FM1dBRFV4bWVmc1NlbUdrRlluLW11MVAtRDZkTXhIc0pfTHZHWDVGa0lkcFVJLUd0T2ptbFQ0M25GcFpCTjRIeWZwcEljSmJHTWxlVFotcG9HWmlidWVmVFM1Ml9qZ3h3b0JURTdwSjN4NlNmY1A0UmJNaFpyVmlNRE9Zb3gwR2lNQzFVRWZBRmE5MzBRT3EzbXNkbE40NGppbzlCeWdYRjYybG14UlRodUxnanVCR21vcEwzT1lx?oc=5",
@@ -41,74 +75,69 @@
     ]
    },
    {
-    "symbol": "ITCHOTELS",
-    "score": 1.3,
-    "signal": "NEUTRAL",
-    "price": 164.31,
-    "chg": 5.16,
-    "volx": 11.09,
-    "above20": true,
+    "symbol": "TATACAP",
+    "score": 3.7,
+    "signal": "WATCH",
+    "price": 300.45,
+    "chg": 0.3,
+    "volx": 1.36,
+    "above20": false,
     "news": [
      {
-      "t": "ITC Hotels Share Price Jumps 6% After Q2 Results: Is It the Right Time to Buy? Profit, Margin, Valuation and Key Levels - Univest",
-      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2h4UWFoTTFVaGVEd0U2ckFnMElkODlJT2xvc2tld0ZBVC1YQUNuTi03aFNScS05QVJMaHVSZHJ5WS1sTC1rQXEwVFc5bWRRUmFBcVg0d2UtYW10bTJiY3JabERrdVZZTEp3RFJMMFRYVTFlbWRrbkhxbXlISUVkSjgybmZLb3ozRGtZcmpWakdpNWhyVlhid25yZkRtbUZ5bTZ1LW5DZ3JWb0pPQ1RySWZBMnN4TVh6ZXh2eGFvaEo4Z1NURS0tS0M5dTJpajhkeUJ1djBxWDRSUUU?oc=5",
-      "s": 2
+      "t": "Tata Capital Q2 Results: Profit jumps 51% to Rs 1,660 crore; NII up 23%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q2-results-profit-jumps-51-to-rs-1660-crore-nii-up-23/articleshow/135234003.cms",
+      "s": 5
      }
     ]
    },
    {
-    "symbol": "ITC",
-    "score": 1.3,
-    "signal": "NEUTRAL",
-    "price": 260.5,
-    "chg": 1.01,
-    "volx": 0.72,
-    "above20": false,
+    "symbol": "BAJAJ-AUTO",
+    "score": 3.1,
+    "signal": "BUY WATCH",
+    "price": 10390.0,
+    "chg": 3.17,
+    "volx": 1.08,
+    "above20": true,
     "news": [
      {
-      "t": "ITC Hotels Share Price Jumps 6% After Q2 Results: Is It the Right Time to Buy? Profit, Margin, Valuation and Key Levels - Univest",
-      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2h4UWFoTTFVaGVEd0U2ckFnMElkODlJT2xvc2tld0ZBVC1YQUNuTi03aFNScS05QVJMaHVSZHJ5WS1sTC1rQXEwVFc5bWRRUmFBcVg0d2UtYW10bTJiY3JabERrdVZZTEp3RFJMMFRYVTFlbWRrbkhxbXlISUVkSjgybmZLb3ozRGtZcmpWakdpNWhyVlhid25yZkRtbUZ5bTZ1LW5DZ3JWb0pPQ1RySWZBMnN4TVh6ZXh2eGFvaEo4Z1NURS0tS0M5dTJpajhkeUJ1djBxWDRSUUU?oc=5",
-      "s": 2
+      "t": "Bajaj Auto Q2 Results: Profit jumps 35% YoY to Rs 3,354 crore; revenue up 34%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q2-results-profit-jumps-35-yoy-to-rs-3354-crore-revenue-up-34/articleshow/135230311.cms",
+      "s": 5
+     }
+    ]
+   },
+   {
+    "symbol": "BHARTIARTL",
+    "score": 1.5,
+    "signal": "NEUTRAL",
+    "price": 1978.8,
+    "chg": 3.2,
+    "volx": 1.58,
+    "above20": true,
+    "news": [
+     {
+      "t": "Bharti Airtel share price up 3%; rallies 12% in October, outperforms market",
+      "l": "https://www.business-standard.com/markets/news/bharti-airtel-share-price-up-3-rallies-12-in-october-outperforms-market-126102700623_1.html",
+      "s": 3
      }
     ]
    }
   ],
   "negative": [
    {
-    "symbol": "HDFCBANK",
-    "score": -5.9,
-    "signal": "AVOID/SELL",
-    "price": 688.05,
-    "chg": -0.69,
-    "volx": 0.75,
-    "above20": false,
-    "news": [
-     {
-      "t": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-done-for-hdfc-bank-icici-other-private-lenders-whats-next/articleshow/135224155.cms",
-      "s": -3
-     },
-     {
-      "t": "HDFC Bank shares steady as Bagchi takes charge as MD & CEO - BusinessLine",
-      "l": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMW9zeGxSc0E1ZFB1YlJFQkl5d1Bmb0JmbHNJUnhDVXdvcDFWdkR3V2d5VEtGN2xrdmY4NFRaY0FnUzhJY000WmZvQ3NnX3RNcWlBZ3JJVHRkcnRWRXpWWXhTZ0NOSVNieHJOWUNpQkNFZGVBWC1PRlR3WlJDMUNqajhZMWlCTWVPRjAyUkhMaGZTYW9wU3ZNdVZYTzNiRnZydkc4WldvMXZsSTFqdC12U0JpbTFHQk9ZakVFSGs5Nk0tcnZfb2ZQR1Y3N0Nmand6bHlTQzJuRUw2TGNaT050OHdHZzhra3Y0elHSAfABQVVfeXFMTnlaR1JjWFlOQ2pHdXB1WmFtcnRKallwZlJhMVVjTWFmYnJhNWJjZVZvb1N1WmhwdXhjTU5TTTk5c2Q4OXpySklaSHNGSjBPNDZJVVBhbWZJQjVyZ1JtZ1lsUTJENnptRF8wUXZ5OXRvVDh4aFNndUxfZWJjM0FUUEJqbGNBUVR0XzRKOC1oOFZsOU94TWowMEN3c1dkOV9jbFdsci14NkVvZDh0ZW5zMGpGcFQwaUlNRDZXczRYRE9vUW5PODhwZFhhMW9WUnM2c2c2U0R2WWM4d0JMWjZxaDhmaDFKOGJyOXNlaERoVWVQ?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjhkdmRYMzZUSEo4REM1RXo0TWcwVjR2dEFrQW9pbjRyUUpUVEZueXZNUERnSzhkQ3AxX1h5Z3MzQWxscnFkMURTQnFvVTVjcldHX3h4aVNlZzc4cUxFaFozX2ZoRkJzeWZfX3JNNnFTU000b3J4SjBFbm1JTVczd21kZXlWNWNsZlFnX2I5U2FPZGV2YkJBYTVzQVIwWFQyUEd3TFJsWVE2NXZsdG1RSGZCbC1NUTFoc2lEWThGSTdKLWFqcUhLTV9NUkE?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
     "symbol": "CIPLA",
-    "score": -5.2,
-    "signal": "NEG NEWS, price holding",
-    "price": 1355.0,
-    "chg": 1.27,
-    "volx": 1.58,
+    "score": -5.0,
+    "signal": "AVOID/SELL",
+    "price": 1350.0,
+    "chg": -0.37,
+    "volx": 4.17,
     "above20": true,
     "news": [
+     {
+      "t": "Cipla Q2 net profit falls 35% to Rs 878 crore, revenue dips 2%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-net-profit-falls-35-to-rs-878-crore-revenue-dips-2/articleshow/135230643.cms",
+      "s": -3
+     },
      {
       "t": "Cipla Q2 Results: Profit falls 35% YoY to Rs 878 crore; revenue slips 2%",
       "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-results-profit-falls-35-yoy-to-rs-878-crore-revenue-slips-2/articleshow/135228386.cms",
@@ -122,28 +151,70 @@
     ]
    },
    {
-    "symbol": "ETERNAL",
-    "score": -2.5,
-    "signal": "NEG NEWS, price holding",
-    "price": 325.55,
-    "chg": 2.57,
-    "volx": 1.2,
-    "above20": true,
+    "symbol": "HDFCBANK",
+    "score": -3.6,
+    "signal": "AVOID/SELL",
+    "price": 680.2,
+    "chg": -1.14,
+    "volx": 1.3,
+    "above20": false,
     "news": [
      {
-      "t": "Diwali stock picks! Axis picks Eternal, Hindalco, 7 other stocks with upside potential of up to 20%. See full list",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-axis-picks-eternal-hindalco-7-other-stocks-with-upside-potential-of-up-to-20-see-full-list/slideshow/135228028.cms",
+      "t": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-done-for-hdfc-bank-icici-other-private-lenders-whats-next/articleshow/135224155.cms",
+      "s": -3
+     },
+     {
+      "t": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjhkdmRYMzZUSEo4REM1RXo0TWcwVjR2dEFrQW9pbjRyUUpUVEZueXZNUERnSzhkQ3AxX1h5Z3MzQWxscnFkMURTQnFvVTVjcldHX3h4aVNlZzc4cUxFaFozX2ZoRkJzeWZfX3JNNnFTU000b3J4SjBFbm1JTVczd21kZXlWNWNsZlFnX2I5U2FPZGV2YkJBYTVzQVIwWFQyUEd3TFJsWVE2NXZsdG1RSGZCbC1NUTFoc2lEWThGSTdKLWFqcUhLTV9NUkE?oc=5",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank shares steady as Bagchi takes charge as MD & CEO - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMW9zeGxSc0E1ZFB1YlJFQkl5d1Bmb0JmbHNJUnhDVXdvcDFWdkR3V2d5VEtGN2xrdmY4NFRaY0FnUzhJY000WmZvQ3NnX3RNcWlBZ3JJVHRkcnRWRXpWWXhTZ0NOSVNieHJOWUNpQkNFZGVBWC1PRlR3WlJDMUNqajhZMWlCTWVPRjAyUkhMaGZTYW9wU3ZNdVZYTzNiRnZydkc4WldvMXZsSTFqdC12U0JpbTFHQk9ZakVFSGs5Nk0tcnZfb2ZQR1Y3N0Nmand6bHlTQzJuRUw2TGNaT050OHdHZzhra3Y0elHSAfABQVVfeXFMTnlaR1JjWFlOQ2pHdXB1WmFtcnRKallwZlJhMVVjTWFmYnJhNWJjZVZvb1N1WmhwdXhjTU5TTTk5c2Q4OXpySklaSHNGSjBPNDZJVVBhbWZJQjVyZ1JtZ1lsUTJENnptRF8wUXZ5OXRvVDh4aFNndUxfZWJjM0FUUEJqbGNBUVR0XzRKOC1oOFZsOU94TWowMEN3c1dkOV9jbFdsci14NkVvZDh0ZW5zMGpGcFQwaUlNRDZXczRYRE9vUW5PODhwZFhhMW9WUnM2c2c2U0R2WWM4d0JMWjZxaDhmaDFKOGJyOXNlaERoVWVQ?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "JSWINFRA",
+    "score": -2.5,
+    "signal": "AVOID/SELL",
+    "price": 317.25,
+    "chg": -0.06,
+    "volx": 0.33,
+    "above20": false,
+    "news": [
+     {
+      "t": "JSW Infrastructure Q2 Results: Net profit falls 11% to Rs 328 crore",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "MARUTI",
+    "score": -1.9,
+    "signal": "NEUTRAL",
+    "price": 11450.0,
+    "chg": 2.05,
+    "volx": 0.91,
+    "above20": false,
+    "news": [
+     {
+      "t": "Maruti Suzuki Q2 Results: Profit falls 26% YoY to Rs 2,466 crore, but revenue rises 26%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-suzuki-q2-results-profit-falls-26-yoy-to-rs-2466-crore-but-revenue-rises-26/articleshow/135230515.cms",
       "s": -3
      }
     ]
    },
    {
     "symbol": "RELIANCE",
-    "score": -2.4,
-    "signal": "AVOID/SELL",
-    "price": 1201.8,
-    "chg": 0.99,
-    "volx": 0.49,
+    "score": -1.5,
+    "signal": "NEUTRAL",
+    "price": 1196.2,
+    "chg": -0.47,
+    "volx": 0.87,
     "above20": false,
     "news": [
      {
@@ -154,33 +225,17 @@
     ]
    },
    {
-    "symbol": "AXISBANK",
-    "score": -1.7,
+    "symbol": "ETERNAL",
+    "score": -1.5,
     "signal": "NEUTRAL",
-    "price": 1220.0,
-    "chg": 0.21,
-    "volx": 1.0,
-    "above20": false,
-    "news": [
-     {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank  Market Performance",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-27-oct-2026/liveblog/135223178.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "ICICIBANK",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 1403.0,
-    "chg": 0.63,
-    "volx": 0.63,
+    "price": 331.0,
+    "chg": 1.67,
+    "volx": 1.03,
     "above20": true,
     "news": [
      {
-      "t": "Here's why Kotak Neo recommends 'Buy' rating on ICICI Bank; 'Add' Nykaa",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-buy-today-here-s-why-kotak-neo-recommends-buy-rating-on-icici-bank-add-nykaa-126102700085_1.html",
+      "t": "Diwali stock picks! Axis picks Eternal, Hindalco, 7 other stocks with upside potential of up to 20%. See full list",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-axis-picks-eternal-hindalco-7-other-stocks-with-upside-potential-of-up-to-20-see-full-list/slideshow/135228028.cms",
       "s": -3
      }
     ]
