@@ -1,12 +1,12 @@
 {
- "updated": "29 Oct 2026 16:20 IST",
+ "updated": "30 Oct 2026 16:18 IST",
  "market_ok": false,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 248,
  "swing": [
   {
-   "symbol": "KOTAKBANK",
+   "symbol": "DIVISLAB",
    "setup": "Breakout",
    "score": 5,
    "checks": {
@@ -16,15 +16,59 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 459.0,
-   "stop": 438.62,
-   "risk": 20.38,
-   "t1": 489.57,
-   "t2": 520.15,
-   "rsi": 68.0,
-   "volx": 1.68,
-   "rs": 23.0,
-   "date": "2026-10-29",
+   "entry": 9780.0,
+   "stop": 9287.1,
+   "risk": 492.9,
+   "t1": 10519.35,
+   "t2": 11258.7,
+   "rsi": 64.4,
+   "volx": 1.74,
+   "rs": 30.0,
+   "date": "2026-10-30",
+   "news": ""
+  },
+  {
+   "symbol": "COFORGE",
+   "setup": "Breakout",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 2045.0,
+   "stop": 1900.97,
+   "risk": 144.03,
+   "t1": 2261.04,
+   "t2": 2477.08,
+   "rsi": 66.7,
+   "volx": 2.33,
+   "rs": 22.5,
+   "date": "2026-10-30",
+   "news": ""
+  },
+  {
+   "symbol": "ZYDUSLIFE",
+   "setup": "Breakout",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 1245.5,
+   "stop": 1177.84,
+   "risk": 67.66,
+   "t1": 1346.99,
+   "t2": 1448.47,
+   "rsi": 70.9,
+   "volx": 2.74,
+   "rs": 16.9,
+   "date": "2026-10-30",
    "news": ""
   }
  ],
@@ -32,86 +76,91 @@
  "news": {
   "positive": [
    {
-    "symbol": "ASIANPAINT",
-    "score": 5.0,
-    "signal": "WATCH",
-    "price": 2302.0,
-    "chg": 0.76,
-    "volx": 3.7,
-    "above20": false,
+    "symbol": "ETERNAL",
+    "score": 4.5,
+    "signal": "BUY WATCH",
+    "price": 343.65,
+    "chg": 1.72,
+    "volx": 1.38,
+    "above20": true,
     "news": [
      {
-      "t": "Asian Paints Q2 Results: Net profit rises 7% YoY to Rs 1,068 crore; firm announces Rs 5.75/share dividend",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/asian-paints-q2-results-net-profit-rises-7-yoy-to-rs-1068-crore-firm-announces-rs-5-75/share-dividend/articleshow/135297927.cms",
+      "t": "Eternal rallies 6% in two days, stock nears record high; here's why",
+      "l": "https://www.business-standard.com/markets/news/eternal-share-price-rallies-6-in-two-days-stock-nears-record-high-here-s-why-126103000553_1.html",
       "s": 3
      },
      {
-      "t": "Asian Paints Q2 Results: Net profit rises 7% YoY to Rs 1,068 crore; firm announces Rs 5.75/share dividend - The Economic Times",
-      "l": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYldrQ2Flb1J5TmRlYUUwOTVhdE1Ubk1FUHEyUHB0UDV6b1FEaVFSRVRwLTN2VU94UEJvaHdfNHd5eEJGdVlPNHp1SHMwN2tPNUJZd3N0RndtczlNd1JFZlNldXk1ZEZGamVGT0ZrNDV1Q2NtblduVm1fdmEwaEZkMUh3ZUd5M0RydWZHMEo4T2lKamlqWXhKZk9aMVE3a3lrX0pZOTBvQlZfQzZTWnQzVFk1Nkg2blRrM1h3enAyRTN3eU1BdkpqVTN0NC12dmZiejdtaE5FR0gya0pPM19rVFFkQTVIMzJNSkRWbm9IWmVra3FCanMwa2prZjY2UWQtaDN3Tm1vX3pKcWVSczhBetIBkAJBVV95cUxNYldrQ2Flb1J5TmRlYUUwOTVhdE1Ubk1FUHEyUHB0UDV6b1FEaVFSRVRwLTN2VU94UEJvaHdfNHd5eEJGdVlPNHp1SHMwN2tPNUJZd3N0RndtczlNd1JFZlNldXk1ZEZGamVGT0ZrNDV1Q2NtblduVm1fdmEwaEZkMUh3ZUd5M0RydWZHMEo4T2lKamlqWXhKZk9aMVE3a3lrX0pZOTBvQlZfQzZTWnQzVFk1Nkg2blRrM1h3enAyRTN3eU1BdkpqVTN0NC12dmZiejdtaE5FR0gya0pPM19rVFFkQTVIMzJNSkRWbm9IWmVra3FCanMwa2prZjY2UWQtaDN3Tm1vX3pKcWVSczhBeg?oc=5",
+      "t": "Eternal rallies 6% in two days, stock nears record high; here's why - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNVpNQmNBR1FpRWJxYktFTU1IeF9TcUhORzFVRjlSdm1SLTVKTFNfMmRNZXc1SWp2U1ZBMUh3am10aGREMk9fVW9pY3JuTERKeUFpeVo4WVBRcUlCTkVvV0lIajRZcmxKenpTUTJQLUQyeHJ4NUs5VDVrYzVNYWwzdDNwcFBfb3MxWHlGdU9FWTl0TmY3TlBHRzVncjVEb0pUQ1cwYzFYaUdBS28ycHFPWlpaOHUyZUEzT21DWmlPMTlZVmJQZVltbjNnMDlNUFNRN1Y3d3VpNFdKbVHSAeABQVVfeXFMTmpwa3M4S2lDY0ptaloxbWFVNE5UR281Q2E4TDJYTGg4dWhKVXEyZ0VfclY2VlZGektoUUVvd182SHlPOGFKNzRYWkdsZzVHSTR6ZWpxclQySHV3Yl8tZzhMTVdGZUk2NXFxTVI2Z2pvcVFHYjJLcHp1WnNVaEExb0JVNFlFR2JmSUJ2OVhwemkxZS1fN2YtamNmMUtzT3pObGxnX0pUT3ZNNWoyMXlqOUZ2Y1A0d1FEQ1hONEVNSmpOZkJLNno1WWlpX2hpdEdWUHcwb2l2RG44OTR0ZzROSHI?oc=5",
       "s": 3
      }
     ]
    },
    {
-    "symbol": "NTPC",
-    "score": 4.1,
+    "symbol": "LAURUSLABS",
+    "score": 3.6,
     "signal": "BUY WATCH",
-    "price": 310.5,
-    "chg": 2.22,
-    "volx": 0.85,
+    "price": 2405.5,
+    "chg": 7.2,
+    "volx": 4.8,
     "above20": true,
     "news": [
      {
-      "t": "ACME Solar shares rally 5% after Q2 profit jumps over 100%, signs 400MV agreement with NTPC",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/acme-solar-shares-rally-5-after-q2-profit-jumps-over-100-signs-400mv-agreement-with-ntpc/articleshow/135297383.cms",
+      "t": "Laurus Labs Shares Rise 5% After Q2 FY27 Net Profit Jumps 126% - India Infoline",
+      "l": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTJFVGJJaEgxVWxDVF9nLUMzQWhqdENXUHZNdk1uT2lFQ2NqcXE5Z3FVd3plMlljVmNUOVRZQlRNUldkclNjLXYwT2UyZGtFeUlBUE1MZXFTUENFVW53cnZMTTdFeEptMV81am1hNnNrMFdoVk4tSXA3V2RRa1FkQkFmOHBwdFJreHJKOXNPekVZQm8tXzlYUnhVTF9UTTU0aDd4ZjYyLXU?oc=5",
       "s": 5
      }
     ]
    },
    {
-    "symbol": "JSWENERGY",
-    "score": 2.7,
-    "signal": "BUY WATCH",
-    "price": 510.0,
-    "chg": 5.59,
-    "volx": 6.96,
-    "above20": true,
-    "news": [
-     {
-      "t": "JSW Energy Q2 profit jumps 50%; 3 gigawatt target on track",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-energy-q2-profit-jumps-50-3-gigawatt-target-on-track/articleshow/135288014.cms",
-      "s": 5
-     }
-    ]
-   },
-   {
-    "symbol": "UNITDSPR",
-    "score": 2.0,
+    "symbol": "VEDL",
+    "score": 3.0,
     "signal": "WATCH",
-    "price": 1289.5,
-    "chg": 5.06,
-    "volx": 1.81,
+    "price": 237.9,
+    "chg": 1.43,
+    "volx": 1.09,
     "above20": false,
     "news": [
      {
-      "t": "United Spirits shares jump 4% as gross margin beats estimates in Q2; here\u2019s what analysts said - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3VtSmZuVDEwRWNrY09DYmlzVU5lc3FJWlhoVkR1NHRRSE1ta0VFWU4xSkxCdjNnVF8zY01ySWEzTG9HakY0ZnJJbHZtMEN6VThNc3ZBTW1KSWpIMDJ2cnprZFpTUDBjNTlSSU5xeS1wMzJfRUNtQy1zdkZBTTExZW9SdFoxREVkTk5jdUdkMzRJdTZCQWJHN2V1U0J1S0szdVVKUlBmQXBpcDBxdWgzS3hWV2RBT0xVOHoyRHFrN0wwS3Y1WWxBTjM4RURPQmxlS1o4RlM2b3BsY0g3QkFoc0RBY25EUQ?oc=5",
-      "s": 3
+      "t": "Vedanta Oil and Gas shares zoom 18% as Q2 profit rises manifold to \u20b9746 cr",
+      "l": "https://www.business-standard.com/markets/news/vedanta-oil-and-gas-shares-zoom-18-as-q2-profit-rises-manifold-to-746-cr-126103000595_1.html",
+      "s": 2
+     },
+     {
+      "t": "Vedanta Oil and Gas shares zoom 18% as Q2 profit rises manifold to \u20b9746 cr - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXEtMGNlM19Jcm5FYm1HcklrcWZoOTVLa2QzeFVHOXlPY0M3TWhHZVItWkpsX3FFeFBzTDZWLTdCWWZZR3loMlBfNEpYT3RVendVQUJpdkxPeWVJa3hoNHpsT2lCUzI2NDAtc291N2V2UXNid2duMGNMUlhEMjJ5OURyTHVQXzhDTUhESmc1dnZpb29QUjl4SEplRVlBWnlWLTJjSE82OXUwWlZmNUVyeFhZaUdhekxOQ054bnpkQzRETWYxRnlNMDEtZkt0RmwtSHk2ZG530gHbAUFVX3lxTFB1aVVyX1k3Q0k4WnVJek5DbXZIOE5nUnBFQmtYenNSY1EwamJHMzhlYnUxRFJ1VmpQZ2d2WVhNX0tfNGt3QmRtTk82cEVTeUxQcEFhbkU0TTJPbVRFZndmQ2FFTjFHMVNMcXNERldjOXFSUmxjVTJCektsNXNEeW5QUDQxbklhX2gzZ2pBNnJpTEpIZVFrNUUxbUQzM29na2VlNFBGSVl1V1U1VXA2VktiYTJWS3I5ZXVxRnAtTkI3NmQxZTdGUGxWRjk4c0hsc2pGbk5LdEh1ZUN0UQ?oc=5",
+      "s": 2
      }
     ]
    },
    {
-    "symbol": "APARINDS",
-    "score": 1.6,
-    "signal": "NEUTRAL",
-    "price": 15846.0,
-    "chg": 2.77,
-    "volx": 2.37,
-    "above20": false,
+    "symbol": "TRENT",
+    "score": 2.3,
+    "signal": "BUY WATCH",
+    "price": 3017.3,
+    "chg": 5.44,
+    "volx": 3.86,
+    "above20": true,
     "news": [
      {
-      "t": "APAR Industries Q2FY27 PAT jumps 77.8% YoY to \u20b9447 crore - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0pyOHF5VFAtTkVQd0FSMk1wNVF0eGNITkJqUmxaMnh3TWdDb0FkZFE4Z2VyN3hGZ0I0a3JtWE5LUHh2cmliUzduSllXRTk4aENic1hrVGdKX3hkOV9Ia2NTMXgzdEpvaEtGUzdtb0hBU1hxeWt3OGRidEVldTVGNTVaTkNzYmY5Rl80cGJZZWc4NXJCamlPNWZITU5pOXpCR09KXzRPU1JaeWJlTFJTbUhqSnJLQkk?oc=5",
+      "t": "Trent shares soar 7% after Q2 results. Here\u2019s why Elara Capital, Nuvama remain bullish on the Tata stock",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-soar-7-after-q2-results-heres-why-elara-capital-nuvama-remain-bullish-on-the-tata-stock/articleshow/135342724.cms",
+      "s": 4
+     }
+    ]
+   },
+   {
+    "symbol": "INDIGO",
+    "score": 1.3,
+    "signal": "NEUTRAL",
+    "price": 4877.6,
+    "chg": 4.33,
+    "volx": 2.44,
+    "above20": true,
+    "news": [
+     {
+      "t": "IndiGo jumps 4% as Q2 loss narrows; analysts say earnings outlook weak",
+      "l": "https://www.business-standard.com/markets/news/indigo-share-price-jumps-4-as-q2-loss-narrows-analysts-say-earnings-outlook-weak-126103000492_1.html",
       "s": 2
      }
     ]
@@ -119,76 +168,145 @@
   ],
   "negative": [
    {
-    "symbol": "MEESHO",
-    "score": -2.3,
+    "symbol": "SUZLON",
+    "score": -5.6,
     "signal": "AVOID/SELL",
-    "price": 224.78,
-    "chg": -1.34,
-    "volx": 0.72,
-    "above20": true,
+    "price": 33.9,
+    "chg": -7.86,
+    "volx": 4.46,
+    "above20": false,
     "news": [
      {
-      "t": "Meesho shares fall 3% even as Q2 loss narrows to Rs 132 cr. Why Jefferies raised target price but Nomura remains cautious",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-fall-3-even-as-q2-loss-narrows-to-rs-132-cr-why-jefferies-raised-target-price-but-nomura-remains-cautious/articleshow/135289362.cms",
+      "t": "Suzlon Energy shares crash 10% after Q2 results; JM Financial downgrades stock to add, revises target... - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTTJTbjkxV3J5em5tQjdNaGRJNmFrNkxRQzVMSkswQkJrZ29KOWlGbk1ITlN6OVdTZE01WGdPbGNQaGJmeGM2WFE3UVFzRExlX2w2djdGQjhYdTRVRDI1Sm15Xzk2djNBbnNzYVM2U2ZVV3FRcGdDVlotSlhQS0ZlVy04XzRIbHFYMzVUazdUSGJtMEJFd3dQWE5DTnp0Zm5Ma1Y5V19hbXpIUFpSTHNoVFJ4WWU4ZmNMXzNBRjZld2tEc244M0lUZEI5aVQxTmg5VVdBZG9IaEJ1VXVCRmFPYS1mY0RDaENXdkI3Rmp3OXVsUlk2M042MWo3eEZ5Z9IBgwJBVV95cUxNU2ZHMEpqaGlaUFFRak1aQTVESzgtNFNiRjViWnZJMllGQ3M4dWJSSm5BcGxHNVVaUE9jWE9DZnhVazU4TGZ4TXVmdjhZdjNXLWJPejQ0Mmtmb0xsMzZKY0Vta2xDd25jdmVYaFdMb0NCYnJPaGlYbFZzSjlqcGtFY3d5a05zUGtySXdUejVGdlZCRjM2UEtRWlpkSlBuVk1YRWJWQWhtb0ZFR0k4SzdsYWM2SlR1bHVCXzNuX3dDRzdadlhMc3JoNnRWSkNXNTNSMzNsRmhyTnZ3Nm0xSDZROTZyU2lkUllrTzRhUXByR2dSQXNqZzlkMnlwb2UtN1ZrUHZZ?oc=5",
+      "s": -5
+     },
+     {
+      "t": "Suzlon Energy shares crash 10% as Nuvama, others slash target prices after Q2 margins disappoint. What lies ahead?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-fall-4-as-nuvama-others-slash-target-prices-after-q2-margins-disappoint-what-lies-ahead/articleshow/135342553.cms",
       "s": -3
      },
      {
-      "t": "Meesho Q2 net loss narrows 68% to \u20b9132 crore as revenue rises 34% - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd2pOdUJFV1lmU2JWdE1hc1kwM0VSQWlkUXhLQzhFV09LR1FJRnM3S2ZFb3RMZlNCQkdZZk9aNzdmcnNPOGVkVldHSi1KNDNxM2I2QUhWWHU0T19TRXpzSVNVYXJoa2RyVVZmN0I1QVhEVXRaM0xfOEV1ZnNoSVJCZHpwVmV4Q1ZIdjdEVFk1MFlRckFKdGFuSnFDeFRZUC1PQ0E5OU1ZcVdZRms0VWhyVzBla090NmRrUjNxY1lBU253QmNRRzA5VUdCaVhlN0piODRsLVRzYllxekdo0gHiAUFVX3lxTFBCelZ5WmVyVzZ3eFA4cVpUSkJTMzk0SUtwaUdhaTZEdVhuU3VDcDJLRUNJLWxuMzZBMmtXZ1E1SFhDbFlCbFpOdTliVDhiYUstT0RKcXlKTUNvNjdFWUtJSTJjYkRveXN1a1JWaFBGWWp6MnlUV3EwQnlMb0ZvS2wxSUVJanhEUGlDMEY1djRjS1FOVXM2RHZvcTdSLTBtY3p2WWR1dGxVb080N05LMm1ORk1Mdm1EMGVvRXJFWEdxN1FQd3lObVVCSDJLNkxtMk5yOGdlTk1OMlJpZkx1NElXaWc?oc=5",
+      "t": "Suzlon Energy Q2 FY27 results: Net profit drops 69% YoY; order book exceeds 6 GW - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemw5M0hUQ0tGMjNHTkVkRVdSMlJUM2F3aU82Uld5RDhoYU5NR0txZF9HQkFOOWdmM3hqVkRiQkNqbEhhem5GYk9PdUxxWFpNVnBpMk9iSEhfYU5EZGo4NlVPNE9nVmxSVDNsb1dfZkgtSFpQaDY2MzBBUXRrdmtWVWVyMVhzNkpNZTE3ZmJBalFSZ3lWZXR1c3d6dGE0dVhuOV91ejYtRkh2TzNFR0tzVGpRRWEtWk44TTRqM2RVdm5IR3EwQ0FVVnBCNzc1bk0xUjczMksxMA?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "HDFCBANK",
-    "score": -2.2,
+    "score": -3.5,
     "signal": "AVOID/SELL",
-    "price": 683.3,
-    "chg": -0.29,
+    "price": 692.8,
+    "chg": 1.39,
+    "volx": 0.67,
+    "above20": false,
+    "news": [
+     {
+      "t": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Price Movement Today",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-30-oct-2026/liveblog/135340952.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "POLYCAB",
+    "score": -2.6,
+    "signal": "AVOID/SELL",
+    "price": 7787.0,
+    "chg": 0.54,
+    "volx": 0.75,
+    "above20": false,
+    "news": [
+     {
+      "t": "Polycab India shares rise 2% as NCLAT sets aside insolvency proceedings - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeWNkMGtRVkpTaXZoUUdrUHdmRERGMVhLZElSTHE1R0FyQmxJY1l2M1JnTWpyT3RVQXozRHVZTmNPVW96WkdKSzFXaVMzRnMwMDhkREN5b3hfalJsUGxaX1VaTnJpWFNTUThLb2RmN1V3Smw0aUpVVkhkcjBvd0FYak40b2kwanl1QUQtT0w0RDBVcFpTV1VmMTRnZWRDaExueDdzV1c3YlFESmRDUE5TRkl0V21id1FUaHJjVVlGWjM4V0tsZExObEE1VldjZUXSAdQBQVVfeXFMUFlwUVUyWmo2U0oySU1nbnQ2dmZONmlBYm1fQUJRZXZVN3FIVE91a2tzRG5PTkF3V1dQczlzVlhFUktzQVpkRGpsWm1TMXUtQ0h0aU5uX19KZ2hERGxiV2pKYm1pa05kNk42b3h4Z0xHX2tJWGhhYVFSdElBai13MVQ5VkdXR0tJRl8xbkE3SnRPcGdjUERoNUFXRzA4RTRzeUJVMk9lWFczSVpoZXFYNEszbkpuaGgyRWtVLXZrazlacTB5U0JBaUxOMWxuVmNRc1BwbEU?oc=5",
+      "s": -4
+     }
+    ]
+   },
+   {
+    "symbol": "RELIANCE",
+    "score": -1.9,
+    "signal": "NEUTRAL",
+    "price": 1164.9,
+    "chg": -0.21,
     "volx": 0.97,
     "above20": false,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Overview",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-29-oct-2026/liveblog/135288700.cms",
-      "s": -3
-     },
-     {
-      "t": "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history - Yahoo Finance Singapore",
-      "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdkJlRjNJZE9HNjlMcXd2U25qbnUtMFhSRXRscVA3UW9nRElrZ0oxTWdEaENMS1J1YWNsU2xUTG9uMV9GZkhaeU0zcmtoV1B1RjA1bExTNE1sNDA?oc=5",
+      "t": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "HEROMOTOCO",
-    "score": -2.1,
-    "signal": "AVOID/SELL",
-    "price": 5105.0,
-    "chg": -4.09,
-    "volx": 2.03,
-    "above20": false,
-    "news": [
-     {
-      "t": "Hero MotoCorp shares decline 3% as PAT misses estimates; key factors to know from Q2 FY27 earnings - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUXY5Y0pONjlDRTk5M3R6b3FoallOTWNKZUk1bktmaVlsZ3dkMGY4ZFpHblU4dmYtTU9rZHZvOWYwZk16YUZTaFVUbkwtWFhmOVhmRHdadUprRVJOVnNfNUVMYjRzcVNvNkxjNmNNNXh4NGdTTnBMQmw0b0xNN09fZW9oNnViSXQzS0FrMC1faUZuT3UyQ05laEZsWFN3V2h2dnRGZXNFc1RaWmxuOWpHdkJXOFptTm1zcGVlSzVYdHV4UkJzYlZDa0N1NFNKOG5lVlZNNzhacW0wUWdwdG9rNmdtMFdGTDA1UE1OTlJB?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "WAAREEENER",
-    "score": -1.3,
+    "symbol": "ITC",
+    "score": -1.9,
     "signal": "NEUTRAL",
-    "price": 2318.0,
-    "chg": 3.57,
-    "volx": 1.18,
+    "price": 265.6,
+    "chg": 0.23,
+    "volx": 0.7,
+    "above20": true,
+    "news": [
+     {
+      "t": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "YESBANK",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 15.15,
+    "chg": -1.81,
+    "volx": 0.71,
     "above20": false,
     "news": [
      {
-      "t": "Waaree Energies share price: Analysts see upto 55% upside despite target cuts after Q2 results - Business Today",
-      "l": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSFdIalZ2TkFDSXJUN3VKWG05MFBjV1FyMGJZd2R3WFdBcThNejNjdWdocEtBV2tOdi10OHpPcGJUUzdvZXJ1WHpwR2NLSTV5Q2dZdDNDaGxfMmlpazUwU1NOUzVBNXMzR0wyZTMzRVRKU0VxUmFqYlRIdng3MUNfZlhDYjNHQ2ZZTDhSVWo4Rm9KRmJNSDVuX0wwV1IxNnVyQU1ZbGx0M05Na2JGbUlncUh5WjQzUXM0Z3BqaVNFRVB5N3pQUjJEQkNvUko5YjAxWlBXREpndjRkeGVCdnllNzZCS0lkQkFZOWxaVkpkYnp0UdIB9wFBVV95cUxNTkFRS0x5akMzWEhGclFtVWtJaWlsSko1V0FBZ0xNeWRNUHJaX3E5bEd2R0dCcTZEczlfSWJXWTUzcXQyQXJtc2s3V1Y0UHltQnV4N20zdWI4Mi0yb09LejlMN3ZKeG1ERTF5eE1nNTJSVF9PUVJhVWhuWVgzSTQzYVZIZWRDU3g4aW9QeHc5U3dERkVDZ3JjRGZMOWx5ZVJmbko5Y0RfVzYtamVSLXE3elk0WlptckJuaEdDU3RmbXVIR2h1U05fOEJPOXVIX3VQNl9LZFA3d1RTXzhLb01MWURDNVVWdFJJMFYtbXJvSnBZcEdIYkp3?oc=5",
-      "s": -2
+      "t": "Yes Bank Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
+      "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xZXQzeFRxb2xQcExCRi1Wenl3cEdPN1UxNjdlWGlUTFo5bi0zQjdJejgtRWFzbDMyZ21DS0kteXZhcHBTUnAtYzdDLVNXZlowTjl0Rkx3a3ZTRXZHTEZNb2lZWk1FdXRkVDRnaVhzOA?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BSE",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 3510.4,
+    "chg": 0.24,
+    "volx": 0.67,
+    "above20": true,
+    "news": [
+     {
+      "t": "Yes Bank Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
+      "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xZXQzeFRxb2xQcExCRi1Wenl3cEdPN1UxNjdlWGlUTFo5bi0zQjdJejgtRWFzbDMyZ21DS0kteXZhcHBTUnAtYzdDLVNXZlowTjl0Rkx3a3ZTRXZHTEZNb2lZWk1FdXRkVDRnaVhzOA?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "INDUSINDBK",
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 838.0,
+    "chg": -3.46,
+    "volx": 0.82,
+    "above20": false,
+    "news": [
+     {
+      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Reports Significant Price Drop",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-today-live-30-oct-2026/liveblog/135340665.cms",
+      "s": -3
      }
     ]
    }
