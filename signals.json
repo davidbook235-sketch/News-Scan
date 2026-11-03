@@ -1,5 +1,5 @@
 {
- "updated": "02 Nov 2026 17:44 IST",
+ "updated": "03 Nov 2026 17:19 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
@@ -16,19 +16,19 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 300.95,
-   "stop": 286.42,
-   "risk": 14.53,
-   "t1": 322.75,
-   "t2": 344.54,
-   "rsi": 59.4,
-   "volx": 1.93,
-   "rs": 11.1,
-   "date": "2026-11-02",
+   "entry": 303.0,
+   "stop": 287.78,
+   "risk": 15.22,
+   "t1": 325.83,
+   "t2": 348.67,
+   "rsi": 60.9,
+   "volx": 2.46,
+   "rs": 10.3,
+   "date": "2026-11-03",
    "news": ""
   },
   {
-   "symbol": "OIL",
+   "symbol": "DLF",
    "setup": "Breakout",
    "score": 5,
    "checks": {
@@ -38,59 +38,103 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 461.9,
-   "stop": 443.11,
-   "risk": 18.79,
-   "t1": 490.09,
-   "t2": 518.27,
-   "rsi": 54.4,
-   "volx": 2.29,
-   "rs": 4.8,
-   "date": "2026-11-02",
+   "entry": 709.0,
+   "stop": 675.94,
+   "risk": 33.06,
+   "t1": 758.59,
+   "t2": 808.18,
+   "rsi": 65.9,
+   "volx": 1.62,
+   "rs": 9.9,
+   "date": "2026-11-03",
    "news": ""
   },
   {
-   "symbol": "GRASIM",
-   "setup": "Breakout",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 3057.1,
-   "stop": 2927.88,
-   "risk": 129.22,
-   "t1": 3250.94,
-   "t2": 3444.77,
-   "rsi": 57.8,
-   "volx": 1.57,
-   "rs": 2.8,
-   "date": "2026-11-02",
-   "news": ""
-  },
-  {
-   "symbol": "PAYTM",
+   "symbol": "SOLARINDS",
    "setup": "Pullback",
-   "score": 4,
+   "score": 5,
    "checks": {
     "Trend": true,
     "RelStrength": true,
-    "Volume": false,
+    "Volume": true,
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1650.0,
-   "stop": 1585.07,
-   "risk": 64.93,
-   "t1": 1747.39,
-   "t2": 1844.78,
-   "rsi": 48.0,
-   "volx": 0.57,
-   "rs": 26.7,
-   "date": "2026-11-02",
+   "entry": 19654.0,
+   "stop": 18669.3,
+   "risk": 984.7,
+   "t1": 21131.04,
+   "t2": 22608.09,
+   "rsi": 51.5,
+   "volx": 4.46,
+   "rs": 9.2,
+   "date": "2026-11-03",
+   "news": ""
+  },
+  {
+   "symbol": "MOTHERSON",
+   "setup": "Pullback",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 160.0,
+   "stop": 154.3,
+   "risk": 5.7,
+   "t1": 168.54,
+   "t2": 177.09,
+   "rsi": 52.4,
+   "volx": 1.45,
+   "rs": 7.1,
+   "date": "2026-11-03",
+   "news": ""
+  },
+  {
+   "symbol": "BSE",
+   "setup": "Breakout",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 3665.7,
+   "stop": 3452.89,
+   "risk": 212.81,
+   "t1": 3984.92,
+   "t2": 4304.13,
+   "rsi": 67.8,
+   "volx": 1.61,
+   "rs": 6.4,
+   "date": "2026-11-03",
+   "news": ""
+  },
+  {
+   "symbol": "FLUOROCHEM",
+   "setup": "Pullback",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 4463.9,
+   "stop": 4158.14,
+   "risk": 305.76,
+   "t1": 4922.54,
+   "t2": 5381.18,
+   "rsi": 53.7,
+   "volx": 3.16,
+   "rs": 3.5,
+   "date": "2026-11-03",
    "news": ""
   },
   {
@@ -104,19 +148,19 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1682.0,
-   "stop": 1607.06,
-   "risk": 74.94,
-   "t1": 1794.41,
-   "t2": 1906.82,
-   "rsi": 49.0,
-   "volx": 0.28,
-   "rs": 16.7,
-   "date": "2026-11-02",
+   "entry": 1690.3,
+   "stop": 1637.34,
+   "risk": 52.96,
+   "t1": 1769.74,
+   "t2": 1849.18,
+   "rsi": 50.5,
+   "volx": 0.92,
+   "rs": 11.6,
+   "date": "2026-11-03",
    "news": ""
   },
   {
-   "symbol": "MOTHERSON",
+   "symbol": "ANTHEM",
    "setup": "Pullback",
    "score": 4,
    "checks": {
@@ -126,81 +170,37 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 159.0,
-   "stop": 152.23,
-   "risk": 6.77,
-   "t1": 169.16,
-   "t2": 179.32,
-   "rsi": 50.8,
-   "volx": 0.99,
-   "rs": 9.3,
-   "date": "2026-11-02",
-   "news": ""
-  },
-  {
-   "symbol": "CRISIL",
-   "setup": "Pullback",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": false,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 4548.4,
-   "stop": 4390.84,
-   "risk": 157.56,
-   "t1": 4784.74,
-   "t2": 5021.08,
-   "rsi": 48.7,
-   "volx": 0.55,
-   "rs": 8.6,
-   "date": "2026-11-02",
-   "news": ""
-  },
-  {
-   "symbol": "HAL",
-   "setup": "Pullback",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": false,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 4855.0,
-   "stop": 4724.97,
-   "risk": 130.03,
-   "t1": 5050.04,
-   "t2": 5245.08,
+   "entry": 854.45,
+   "stop": 814.03,
+   "risk": 40.42,
+   "t1": 915.09,
+   "t2": 975.72,
    "rsi": 52.2,
-   "volx": 0.85,
-   "rs": 8.6,
-   "date": "2026-11-02",
+   "volx": 0.86,
+   "rs": 6.9,
+   "date": "2026-11-03",
    "news": ""
   },
   {
-   "symbol": "GROWW",
-   "setup": "Pullback",
+   "symbol": "GRASIM",
+   "setup": "Breakout",
    "score": 4,
    "checks": {
     "Trend": true,
-    "RelStrength": true,
-    "Volume": false,
+    "RelStrength": false,
+    "Volume": true,
     "Momentum": true,
     "Setup": true
    },
-   "entry": 196.31,
-   "stop": 183.71,
-   "risk": 12.6,
-   "t1": 215.21,
-   "t2": 234.1,
-   "rsi": 56.7,
-   "volx": 1.12,
-   "rs": 4.9,
-   "date": "2026-11-02",
+   "entry": 3090.0,
+   "stop": 2958.12,
+   "risk": 131.88,
+   "t1": 3287.82,
+   "t2": 3485.64,
+   "rsi": 60.6,
+   "volx": 2.01,
+   "rs": -1.0,
+   "date": "2026-11-03",
    "news": ""
   }
  ],
@@ -208,210 +208,230 @@
  "news": {
   "positive": [
    {
-    "symbol": "MARICO",
-    "score": 4.7,
+    "symbol": "BAJAJFINSV",
+    "score": 8.4,
     "signal": "BUY WATCH",
-    "price": 798.55,
-    "chg": -0.18,
-    "volx": 1.3,
+    "price": 1718.1,
+    "chg": 1.57,
+    "volx": 1.16,
     "above20": true,
     "news": [
      {
-      "t": "Marico Q2 Results: Net profit jumps 31% YoY to Rs 550 crore, revenue rises 12%",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/marico-q2-results-net-profit-jumps-31-yoy-to-rs-550-crore-revenue-rises-12/articleshow/135460226.cms",
+      "t": "Bajaj Finserv Q2 Results: Net profit jumps 23% YoY to Rs 2,758 crore, shares rise 2%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finserv-q2-results-net-profit-jumps-23-yoy-to-rs-2758-crore-shares-rise-2/articleshow/135487692.cms",
       "s": 5
+     },
+     {
+      "t": "Bajaj Finserv Q2 Results: Net profit jumps 23% YoY to Rs 2,758 crore, shares rise 2% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ0s1YTdyX0pUeTFudFQ4RmhRcnZ3WWFpN0UySEFvcGlySmN4TnVSSUkzMGhlSGZsbi04YUJWcFYzcDhWVWIzN1dhSmkxQUw5UWsybUQ3QmtUd3lmb1BaMlI0a3loRFJ2a0NZZVFzQW9HM0VLR0dreWNFVFhpUVVmbkVZQmVVU3RhZ0ZqOGJHTTZfNlBKSzBxNFVrakNMZmZ5ZXB2aF9NS0pCZEhxNjZGSy1GTGJyX2FDeDRoVmp1V3BMU01SbFVKdXMzeFZlOXJTWnkzNXVQQVprbDBESXN0bnBUSEYtNWVpMENoYkM5bE1EZDjSAfMBQVVfeXFMT0NLNWE3cl9KVHkxbnRUOEZoUXJ2d1lhaTdFMkhBb3BpckpjeE51UklJMzBoZUhmbG4tOGFCVnBWM3A4VlViMzdXYUppMUFMOVFrMm1EN0JrVHd5Zm9QWjJSNGt5aERSdmtDWWVRc0FvRzNFS0dHa3ljRVRYaVFVZm5FWUJlVVN0YWdGajhiR002XzZQSkswcTRVa2pDTGZmeWVwdmhfTUtKQmRIcTY2RkstRkxicl9hQ3g0aFZqdVdwTFNNUmxVSnVzM3hWZTlyU1p5MzV1UEFaa2wwRElzdG5wVEhGLTVlaTBDaGJDOWxNRGQ4?oc=5",
+      "s": 5
+     },
+     {
+      "t": "Bajaj Finserv Q2 profit rises 23% to \u20b92,758 crore, revenue climbs 17% - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU19iTV96VHpXNGhhQ3N0UFBjVnJ4eWdaRzlxb01yZkVkdmtuc0NVTDJ3UlpYdm1zQk5teGVfUVhTbTZ5elR2a1ptTWFNdG1OR241NG10QUk3UGFaYmZMN0pqX0Zfb0dBZjFDeGIzYlZvT1lUbE5tU2l0VGl5bHVsSEU5N2MwZzZFb0owRHh3RzlxWHppQkE2ME5oNUJhTTg3RnpzSTJ1X2lpNXZJTURzSTREYms5bm5FNXl6aFkzXzI0R1Rz?oc=5",
+      "s": 2
      }
     ]
    },
    {
-    "symbol": "RELIANCE",
-    "score": 2.3,
-    "signal": "BUY WATCH",
-    "price": 1300.0,
-    "chg": 11.6,
-    "volx": 5.83,
+    "symbol": "SBIN",
+    "score": 3.4,
+    "signal": "TRAP? (price falling)",
+    "price": 970.25,
+    "chg": -1.7,
+    "volx": 3.08,
     "above20": true,
     "news": [
      {
-      "t": "Diwali cheer! Mukesh Ambani gets $8.5 billion richer in a day as RIL shares soar",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-cheer-mukesh-ambani-gets-8-5-billion-richer-in-a-day-as-ril-shares-soar/articleshow/135460617.cms",
-      "s": -3
+      "t": "SBI Q2 Results: Standalone profit rises 14% YoY to Rs 23,038 crore, NII jumps 15%",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-standalone-profit-rises-14-yoy-to-rs-23038-crore-nii-jumps-15/articleshow/135489000.cms",
+      "s": 4
      },
      {
-      "t": "Stocks to watch: RIL, Jio Platforms, NTPC, Muthoot Finance, Bank of Baroda",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-ril-jio-platforms-ntpc-muthoot-finance-bank-of-baroda-126110200060_1.html",
-      "s": -3
+      "t": "SBI Q2 Results: Standalone profit rises 14% YoY to Rs 23,038 crore, NII jumps 15% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ0dBS3I0elpfMTdSU3gzVkxGVmptUkNMcFc3aFlmZ0NmWGJsNmpRam81T2dkbXpNd0EwUGRkM25HdFJhdTVteG90QTA2emp6QklTSlBfTzV3b09NbjFFcktmX0V1QnlvUEFQeHdjSnVoNWNuWGdicTRQWkZWNFMzbEFBVDNwUFNDR1lOc3Jia0s2RXU4UXpSSEtweXlmSU9zUHp6bWxqXzVuSU9EUkpTbWdaOGV1SHVNQ0Znd3E3NEdpdUN6T0RBbXpwOHlzeWtSaEpoVmtpQzdjVE5HR216VnpoQ3czSnVLc3cxMUVHZ9IB7wFBVV95cUxQZ0dBS3I0elpfMTdSU3gzVkxGVmptUkNMcFc3aFlmZ0NmWGJsNmpRam81T2dkbXpNd0EwUGRkM25HdFJhdTVteG90QTA2emp6QklTSlBfTzV3b09NbjFFcktmX0V1QnlvUEFQeHdjSnVoNWNuWGdicTRQWkZWNFMzbEFBVDNwUFNDR1lOc3Jia0s2RXU4UXpSSEtweXlmSU9zUHp6bWxqXzVuSU9EUkpTbWdaOGV1SHVNQ0Znd3E3NEdpdUN6T0RBbXpwOHlzeWtSaEpoVmtpQzdjVE5HR216VnpoQ3czSnVLc3cxMUVHZw?oc=5",
+      "s": 4
      },
      {
-      "t": "Indian Markets Set for Gap-Up Open as Reliance Beats Estimates - HDFC Sky",
-      "l": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVgyRzJuLS1HUDk2TTAxcVpicVllQmtSa0NveVlUTnRha2RTRkRFbThibEUzRVZZTzBNYkJzaXBNdUhNRS0wcVVWMjZXNV96cmJ3MTZHNm9HN1pDS2pLb2JEM2p3a3l0dGhwaU45NVpuNGhTMzFlczQ0M3p5Wmtvd3h1ZlFOcU1BaE5iLVYxbWp3UV9paHRnSHF6RnFJN3ptUkVGY21mSEpjbWhob09XaFNXZDViNWZJb0c2TEVYZFo?oc=5",
-      "s": 3
+      "t": "Stocks to watch: ITC, Lupin, NBCC, SBI, Dr Reddy's, Bosch, Ola Electric",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-itc-lupin-nbcc-sbi-dr-reddy-s-bosch-ola-electric-126110300104_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BOSCHLTD",
+    "score": 1.9,
+    "signal": "NEUTRAL",
+    "price": 49645.0,
+    "chg": 3.21,
+    "volx": 3.42,
+    "above20": true,
+    "news": [
+     {
+      "t": "Bosch jumps 5%, hits new high on bonus, stock split plan; up 76% since Apr",
+      "l": "https://www.business-standard.com/markets/news/bosch-share-price-jumps-5-hits-new-high-on-bonus-stock-split-plan-up-76-since-april-126110300574_1.html",
+      "s": 5
+     },
+     {
+      "t": "Stocks to watch: ITC, Lupin, NBCC, SBI, Dr Reddy's, Bosch, Ola Electric",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-itc-lupin-nbcc-sbi-dr-reddy-s-bosch-ola-electric-126110300104_1.html",
+      "s": -3
      }
     ]
    }
   ],
   "negative": [
    {
-    "symbol": "BANKBARODA",
-    "score": -5.4,
-    "signal": "NEG NEWS, price holding",
-    "price": 245.16,
-    "chg": 2.75,
-    "volx": 2.11,
-    "above20": true,
-    "news": [
-     {
-      "t": "Stocks to watch: RIL, Jio Platforms, NTPC, Muthoot Finance, Bank of Baroda",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-ril-jio-platforms-ntpc-muthoot-finance-bank-of-baroda-126110200060_1.html",
-      "s": -3
-     },
-     {
-      "t": "Bank of Baroda shares in focus as NSE stake sale aids 36% profit growth in Q2. What are Nomura, other brokerages saying? - The Economic Times",
-      "l": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVXFHX19PeWFxQ3NRNkhnSmI0Zkk1VEI5TUhrRnp4RzRBT0ZGYm9WZFVRcVZIRWUzNTNSY0tCUVRyRmRRWXRKMzBIaDVlZmtpbkZpTG5iU0twRGtpYVhWLVZfX29vaFhwMko2UU02OWFyQ0N0MkoyN1V4clh4VkF4UWpVZk1EZGtYckgzMUFJMmhFM1FvMjhpbTloVE1RVlFMQkctbWo2eFdXaTF6MXR4NG1xLUJFVVdaYTgzNzQwdDRzOERvZEREcXhWMHZMMm5uc3ljajJpdlBIZU8tSnpLUjMweklsbWR2eU90MksySWlzTDltM3RLR0FfU2NQRWo0Tkp2bkIwdFdBZTBrRFZjWnpZNWIyNDJ1ZnVjMzVnS0dTR05XM2c?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Bank of Baroda shares surge 5% after strong Q2 results; brokerages bullish, check target prices - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORWxrVVZxRUR6QnZTY0tXT0tySEdhS2tfQktpTndya0I2TXpld3BvbmJSNE05TDRMMXl5Zk5vS3N4WUZZVjRqbS1CRlp3MENXSjVOcGcxdFlYTHMzOGh1MFVaaU1SNHVuNzhCN1JfUWdtYlYwOGtoaE9pWlktdnNtYWptdnc0VUhYQ3R2RlhBSzNyWHNBamxTV05oYldzaGlVbE9PYzhCdW1EWkFMLTdKZ29lQmdic3lIUG5lVThUTFBvMlJhaFRsOUNRbFNZSkNWbjN1REJ6akRWcUVpXzJOcGI3N1d6bnFOYXBCWVZB0gHzAUFVX3lxTE9DLXl3ZWU4TmtXUnk3UlRTaGs3R0VqbVZZNzNsOGpUUThxdWFUVFRwX1lxRy03UEpRRkxzbnRubFFkY2tkUUJGWlhXRWdFQ25aanZyY0E1M3o5ZVZLdmFXZzdrdHU1UWJrVW1ZdXdLMmNIMGpBcU51TTgxS3VUZnhXU2htaEhVSUd3ZGhpSHNpSjBTQllGM2kyLWpEQ0NYT250eWdrRzRmOWZuZmNWaVFmcFc1UTFNbTRTeW81MXNlTDd1c21weVQ2VUZHNXJzMXNpMXpwTlcxSmJ4eERsMzZHUUg0a3J1Z1RZMDB4N1E4bm9Kbw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "SBIN",
-    "score": -4.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 987.0,
-    "chg": 2.61,
-    "volx": 1.11,
-    "above20": true,
-    "news": [
-     {
-      "t": "SBI Q2 Results Preview: PATmay rise up to 25% YoY; NII, margins, deposit growth in focus",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-preview-patmay-rise-up-to-25-yoy-nii-margins-deposit-growth-in-focus/articleshow/135458856.cms",
-      "s": -3
-     },
-     {
-      "t": "SBI-ETF NIFTY BANK Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOGxvLUhWT1Vzd3IxMHhscTBnMmNiSVJVQjFnMmVJNUw0bWVhemhJbU1wYmQxU2Q1cGRwM0RMZFdydXJLLW1Uc0gxdlFJN3JWbHhJRWdfTGdFSXFmR3A1b1czLWpQeFhRMXhNU1pndnExcEh6VTZZS1o0S1lfVmxJT0RBbGNDWUlUckZJRVY2SUNkNjJzVzgzTG0xdlp4cmN4aDFidGhsQ2pGSHQ5R3JYQlRUbXctdXBLVldhLW1rbS1pNXlpbERHdktQVW1TZWVNa1F4dUZuZTE4SEJPNnlmRmR3YkNkb01JYnhGQk9PSFQ2OXJ0bGw2dmxweHhEaWk4bHo4WUx0bmY5Z2t5bHdqTlFDeGVvRjRaU0E?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
     "symbol": "ICICIBANK",
-    "score": -2.7,
-    "signal": "AVOID/SELL",
-    "price": 1387.4,
-    "chg": -0.76,
-    "volx": 0.72,
+    "score": -5.0,
+    "signal": "NEG NEWS, price holding",
+    "price": 1424.5,
+    "chg": 2.67,
+    "volx": 1.42,
     "above20": true,
     "news": [
      {
-      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's price action signals a bearish trend",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-02-nov-2026/liveblog/135443435.cms",
+      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Performance Overview",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-03-nov-2026/liveblog/135480973.cms",
       "s": -3
      },
      {
-      "t": "Coforge, ICICI Bank, KPR Mill: 3 technical ideas by Choice Equity",
-      "l": "https://www.business-standard.com/markets/news/coforge-icici-bank-kpr-mill-3-technical-ideas-by-choice-equity-126110200057_1.html",
+      "t": "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
+      "l": "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html",
+      "s": -3
+     },
+     {
+      "t": "ICICI Bank Share Price - Live NSE: ICICIBANK Stock Price & Chart - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41ZWlLb1o0emplRlRyWWY3MnhuaG1TMzVobHB2ZVk4NGc5aTFkb3FrX2Q4ZjZaanV6V2oySlFPTlZZa05qUnNicW9pNktGdnlxU1BvalA3VjJVUlBqaUtSSmdaMA?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "BSE",
-    "score": -2.1,
-    "signal": "AVOID/SELL",
-    "price": 3490.0,
-    "chg": -0.58,
-    "volx": 0.5,
+    "symbol": "ETERNAL",
+    "score": -3.4,
+    "signal": "NEG NEWS, price holding",
+    "price": 349.45,
+    "chg": 1.58,
+    "volx": 0.74,
     "above20": true,
     "news": [
      {
-      "t": "SBI-ETF NIFTY BANK Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOGxvLUhWT1Vzd3IxMHhscTBnMmNiSVJVQjFnMmVJNUw0bWVhemhJbU1wYmQxU2Q1cGRwM0RMZFdydXJLLW1Uc0gxdlFJN3JWbHhJRWdfTGdFSXFmR3A1b1czLWpQeFhRMXhNU1pndnExcEh6VTZZS1o0S1lfVmxJT0RBbGNDWUlUckZJRVY2SUNkNjJzVzgzTG0xdlp4cmN4aDFidGhsQ2pGSHQ5R3JYQlRUbXctdXBLVldhLW1rbS1pNXlpbERHdktQVW1TZWVNa1F4dUZuZTE4SEJPNnlmRmR3YkNkb01JYnhGQk9PSFQ2OXJ0bGw2dmxweHhEaWk4bHo4WUx0bmY5Z2t5bHdqTlFDeGVvRjRaU0E?oc=5",
+      "t": "Diwali stocks by Motilal Oswal: Eternal, Adani Ports among 10 stocks with upside of up to 40%. See full list",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stocks-by-motilal-oswal-eternal-adani-ports-among-10-stocks-with-upside-of-up-to-40-see-full-list/slideshow/135483770.cms",
+      "s": -3
+     },
+     {
+      "t": "Hunting for Diwali winners? 8 brokerages name 58 stocks with big upside potential; Eternal, L&amp;T among top picks",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/hunting-for-diwali-winners-8-brokerages-name-58-stocks-with-big-upside-potential-eternal-lt-among-top-picks/articleshow/135482521.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ITC",
+    "score": -3.2,
+    "signal": "NEG NEWS, price holding",
+    "price": 273.9,
+    "chg": 2.82,
+    "volx": 1.35,
+    "above20": true,
+    "news": [
+     {
+      "t": "Stocks to watch: ITC, Lupin, NBCC, SBI, Dr Reddy's, Bosch, Ola Electric",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-itc-lupin-nbcc-sbi-dr-reddy-s-bosch-ola-electric-126110300104_1.html",
+      "s": -3
+     },
+     {
+      "t": "Top stocks to watch today: SBI, NSE, ITC, Sun Pharma, IDBI Bank shares in focus on Tuesday, 3 Nov | Full list - Livemint",
+      "l": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbm5sUENKT2N5bGFXb3o5NXhqdUpweTBTOWlRc2RzWU80Tnp0UDlYYXh4NG9McDlTb1dkcmliRGptVG9DbWxjQUNlM3BuOS1tTU1mVHJXdExCaXUxbDJHTjBhZ3FMVlRmVTFBUmxoWnRZRW1aNGs5VmxMaEc1YVBaS0V4VTQxWTV2WVpDd1VOQ1ZNbEdBZU85Q2tQeWlaUEx5QnBvQTA0a1V5eDBjQ01nM1hUR3kzQXpRQndSTlFqNU5TX3o2UFc3VGlER3lzMkpNOUpsZTlveG1uWGdaeVllaFE4bHE2T0RaeS1Lck91OV9LTEFfYVdzRWdyYjlMRmpl0gGGAkFVX3lxTE9zM0FLU0hKWUpseUNyOFR4TE1ETWYwTmpFZ01nQnMzOExaWjZOaFpuMFZIQTRiWUpfbkhoOGZxbmR5T1dINjh2cGZITGdNSWxBV2o0MEtYaGE0UWdOdFFmekFQb3NINFdDSGZ0RDdYeGROX1JTd0tBNjdld2lKRm8wdnpCR3VWaUpaalpoTDVZWWgwLVNqS25xNzJSVUpjNUZ6MUFMRktIY2FpeDRiQlFNTTh0b0R3bWNxeU9kMzZoa3V6RHc0ZHB5bjA4d1M3T3JjVXo4aWpUM1hJRWQtdUFnbnIzMTN6cW5Zc1FmVFhjM0hLNXo2eU54LVJyLTZFeXNYOUVrekE?oc=5",
+      "s": -3
+     },
+     {
+      "t": "ITC Q2 Results: Profit falls 18% to Rs 4,229 crore, revenue rises 5% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM3NuOVNtTmtrMEpqVU9Ield1TUFfelZWREpmaDJ5Z2FkTnp5cVVvWDh4bXN6OU9JWmhhNWVlNnlYNHVudEhmajVXOU1kcWpvY0p4azhzQ0VXWklKQzVEeGNHWU9mSUc1eGUwQ1RFYXlaX1BQcmMyM3VHbWp6aGxDSU4xWGYxZE44WjRRY1A2d0JWa1dheno1blkyQWdkSkxiNFpjY0Q0Q0F1LW1CVW1wR0xMNTZLZEY5Q3ZDZUN0aXBJZzBudnVGc3kwX2ltbldIVzlsMGJ5WTNLbWlZMUHSAd4BQVVfeXFMUDNzbjlTbU5razBKalVPSHpXdU1BX3pWVkRKZmgyeWdhZE56eXFVb1g4eG1zejlPSVpoYTVlZTZ5WDR1bnRIZmo1VzlNZHFqb2NKeGs4c0NFV1pJSkM1RHhjR1lPZklHNXhlMENURWF5Wl9QUHJjMjN1R21qemhsQ0lOMVhmMWROOFo0UWNQNndCVmtXYXp6NW5ZMkFnZEpMYjRaY2NENENBdS1tQlVtcEdMTDU2S2RGOUN2Q2VDdGlwSWcwbnZ1RnN5MF9pbW5XSFc5bDBieVkzS21pWTFB?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "HDFCBANK",
+    "score": -2.5,
+    "signal": "NEG NEWS, price holding",
+    "price": 725.5,
+    "chg": 3.64,
+    "volx": 1.42,
+    "above20": true,
+    "news": [
+     {
+      "t": "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
+      "l": "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html",
       "s": -3
      }
     ]
    },
    {
     "symbol": "AXISBANK",
+    "score": -2.5,
+    "signal": "NEG NEWS, price holding",
+    "price": 1232.7,
+    "chg": 1.96,
+    "volx": 1.09,
+    "above20": true,
+    "news": [
+     {
+      "t": "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
+      "l": "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ADANIPORTS",
+    "score": -1.7,
+    "signal": "NEUTRAL",
+    "price": 1866.9,
+    "chg": 0.7,
+    "volx": 1.1,
+    "above20": true,
+    "news": [
+     {
+      "t": "Diwali stocks by Motilal Oswal: Eternal, Adani Ports among 10 stocks with upside of up to 40%. See full list",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stocks-by-motilal-oswal-eternal-adani-ports-among-10-stocks-with-upside-of-up-to-40-see-full-list/slideshow/135483770.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "MEESHO",
     "score": -1.4,
     "signal": "NEUTRAL",
-    "price": 1209.0,
-    "chg": -0.66,
-    "volx": 0.37,
+    "price": 222.9,
+    "chg": 0.31,
+    "volx": 0.3,
     "above20": false,
     "news": [
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank's Daily Performance and SMA Insights",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-02-nov-2026/liveblog/135443558.cms",
+      "t": "Meesho Q2FY27 Results: Net loss narrows 68% YoY to \u20b91,324 crore - scanx.trade",
+      "l": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalBMX09SYkVJcENHQ3RTWnZKSXlYeDNUc2c2dlo3V3VMUEl1elRfWDRYeDFlT1BVTEpuVGxvWGJHRnNNSGE1UDdWdTlZZmVna25va2FJZVFuSkJucnFfU2tUdGNnNEhzSTl3U3d0OGtsMlpIN0Y0c0FqejFHREhJbXd4ZmN6X1U0SUU1djdualBBXzhVQkE4X0ZfVW1XdVU2UTNMU1NSRjB5VU1WbmJzREVJMFhrRlBMTmNjM1dsTVA?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "NTPC",
-    "score": -1.3,
+    "symbol": "LUPIN",
+    "score": -1.4,
     "signal": "NEUTRAL",
-    "price": 323.0,
-    "chg": 2.13,
-    "volx": 1.54,
+    "price": 2015.9,
+    "chg": 0.97,
+    "volx": 1.59,
     "above20": true,
     "news": [
      {
-      "t": "Stocks to watch: RIL, Jio Platforms, NTPC, Muthoot Finance, Bank of Baroda",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-ril-jio-platforms-ntpc-muthoot-finance-bank-of-baroda-126110200060_1.html",
+      "t": "Stocks to watch: ITC, Lupin, NBCC, SBI, Dr Reddy's, Bosch, Ola Electric",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-itc-lupin-nbcc-sbi-dr-reddy-s-bosch-ola-electric-126110300104_1.html",
       "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "MUTHOOTFIN",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 2514.7,
-    "chg": 4.41,
-    "volx": 3.92,
-    "above20": false,
-    "news": [
-     {
-      "t": "Stocks to watch: RIL, Jio Platforms, NTPC, Muthoot Finance, Bank of Baroda",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-ril-jio-platforms-ntpc-muthoot-finance-bank-of-baroda-126110200060_1.html",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "COFORGE",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 2099.0,
-    "chg": 2.64,
-    "volx": 1.3,
-    "above20": true,
-    "news": [
-     {
-      "t": "Coforge, ICICI Bank, KPR Mill: 3 technical ideas by Choice Equity",
-      "l": "https://www.business-standard.com/markets/news/coforge-icici-bank-kpr-mill-3-technical-ideas-by-choice-equity-126110200057_1.html",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "POLICYBZR",
-    "score": -1.2,
-    "signal": "NEUTRAL",
-    "price": 931.0,
-    "chg": -6.91,
-    "volx": 2.55,
-    "above20": false,
-    "news": [
-     {
-      "t": "PB Fintech slumps 7% as ad spends bite in Q2; analysts say worst priced in",
-      "l": "https://www.business-standard.com/markets/news/pb-fintech-share-price-slumps-7-as-ad-spends-bite-in-q2-analysts-say-worst-priced-in-126110200402_1.html",
-      "s": -2
      }
     ]
    }
