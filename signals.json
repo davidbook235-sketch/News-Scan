@@ -1,5 +1,5 @@
 {
- "updated": "04 Nov 2026 17:29 IST",
+ "updated": "05 Nov 2026 17:38 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
@@ -16,19 +16,19 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 311.0,
-   "stop": 295.58,
-   "risk": 15.42,
-   "t1": 334.13,
-   "t2": 357.26,
-   "rsi": 66.1,
-   "volx": 1.73,
-   "rs": 11.8,
-   "date": "2026-11-04",
+   "entry": 317.0,
+   "stop": 301.4,
+   "risk": 15.6,
+   "t1": 340.4,
+   "t2": 363.79,
+   "rsi": 69.4,
+   "volx": 1.52,
+   "rs": 13.2,
+   "date": "2026-11-05",
    "news": ""
   },
   {
-   "symbol": "GRASIM",
+   "symbol": "AUROPHARMA",
    "setup": "Breakout",
    "score": 5,
    "checks": {
@@ -38,125 +38,59 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 3138.0,
-   "stop": 3006.07,
-   "risk": 131.93,
-   "t1": 3335.9,
-   "t2": 3533.79,
-   "rsi": 64.3,
-   "volx": 2.19,
-   "rs": 3.0,
-   "date": "2026-11-04",
+   "entry": 1785.0,
+   "stop": 1694.73,
+   "risk": 90.27,
+   "t1": 1920.41,
+   "t2": 2055.82,
+   "rsi": 68.0,
+   "volx": 3.51,
+   "rs": 11.0,
+   "date": "2026-11-05",
    "news": ""
   },
   {
-   "symbol": "MEESHO",
-   "setup": "Pullback",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": false,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 224.55,
-   "stop": 214.18,
-   "risk": 10.37,
-   "t1": 240.1,
-   "t2": 255.66,
-   "rsi": 51.5,
-   "volx": 0.39,
-   "rs": 19.7,
-   "date": "2026-11-04",
-   "news": ""
-  },
-  {
-   "symbol": "LGEINDIA",
-   "setup": "Pullback",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": false,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 1692.1,
-   "stop": 1645.7,
-   "risk": 46.4,
-   "t1": 1761.69,
-   "t2": 1831.29,
-   "rsi": 50.8,
-   "volx": 1.19,
-   "rs": 12.4,
-   "date": "2026-11-04",
-   "news": ""
-  },
-  {
-   "symbol": "UNIONBANK",
-   "setup": "Pullback",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": false,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 183.89,
-   "stop": 179.15,
-   "risk": 4.74,
-   "t1": 191.0,
-   "t2": 198.11,
-   "rsi": 57.1,
-   "volx": 0.77,
-   "rs": 8.3,
-   "date": "2026-11-04",
-   "news": ""
-  },
-  {
-   "symbol": "TITAN",
+   "symbol": "MAHABANK",
    "setup": "Breakout",
-   "score": 4,
+   "score": 5,
    "checks": {
     "Trend": true,
-    "RelStrength": false,
+    "RelStrength": true,
     "Volume": true,
     "Momentum": true,
     "Setup": true
    },
-   "entry": 4754.4,
-   "stop": 4540.34,
-   "risk": 214.06,
-   "t1": 5075.48,
-   "t2": 5396.57,
-   "rsi": 64.9,
-   "volx": 1.65,
-   "rs": -1.0,
-   "date": "2026-11-04",
+   "entry": 85.1,
+   "stop": 79.7,
+   "risk": 5.4,
+   "t1": 93.21,
+   "t2": 101.31,
+   "rsi": 59.7,
+   "volx": 2.2,
+   "rs": 7.8,
+   "date": "2026-11-05",
    "news": ""
   },
   {
-   "symbol": "TORNTPHARM",
-   "setup": "Pullback",
-   "score": 4,
+   "symbol": "JSWSTEEL",
+   "setup": "Breakout",
+   "score": 5,
    "checks": {
     "Trend": true,
-    "RelStrength": false,
+    "RelStrength": true,
     "Volume": true,
     "Momentum": true,
     "Setup": true
    },
-   "entry": 4738.5,
-   "stop": 4515.51,
-   "risk": 222.99,
-   "t1": 5072.99,
-   "t2": 5407.48,
-   "rsi": 55.3,
-   "volx": 1.83,
-   "rs": -3.1,
-   "date": "2026-11-04",
+   "entry": 1355.6,
+   "stop": 1290.23,
+   "risk": 65.37,
+   "t1": 1453.66,
+   "t2": 1551.72,
+   "rsi": 67.8,
+   "volx": 1.99,
+   "rs": 2.3,
+   "date": "2026-11-05",
    "news": ""
   }
  ],
@@ -164,107 +98,59 @@
  "news": {
   "positive": [
    {
-    "symbol": "ADANIPOWER",
-    "score": 4.9,
+    "symbol": "BSE",
+    "score": 3.8,
     "signal": "BUY WATCH",
-    "price": 201.71,
-    "chg": 3.18,
-    "volx": 0.94,
+    "price": 3790.0,
+    "chg": 5.23,
+    "volx": 2.89,
     "above20": true,
     "news": [
      {
-      "t": "Bhel bags orders worth up to \u20b928,000 cr from Adani Power for four projects - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1oyQnZIekpTdGpLeTF3RzM0bUFxcFAtWXZRdkxtdG8xQmxOLVFUWWw5Yno0aXdIRXhLNzJpZ0R3cmpZZ0lRZVJlbjdyRXRNMWhZQWdJelpTaDNaclhJTVFIeGRNaXFXaUZDMXBPTENGejItUUxHa0tBamotSkY5NExMR0hFS2c3S3A1YWhaT1ppODFFbTY3QTRfeFc3ZFZUNFRrVm5aNDExa3pZZEVnemdnUERuUlV2Yjl3dXV1SllHUGZOZkJIS0I1U01WbnduNDZfUDBkQXpmeGd6czE00gHfAUFVX3lxTE9zWjJCdkh6SlN0akt5MXdHMzRtQXFwUC1ZdlF2TG10bzFCbE4tUVRZbDliejRpd0hFeEs3MmlnRHdyallnSVFlUmVuN3JFdE0xaFlBZ0l6WlNoM1pyWElNUUh4ZE1pcVdpRkMxcE9MQ0Z6Mi1RTEdrS0Fqai1KRjk0TExHSEVLZzdLcDVhaFpPWmk4MUVtNjdBNF94VzdkVlQ0VGtWblo0MTFrellkRWd6Z2dQRG5SVXZiOXd1dXVKWUdQZk5mQkhLQjVTTVZud240Nl9QMGRBemZ4Z3pzMTQ?oc=5",
+      "t": "BSE Share Price Live - Stock rallies 6% after Q2 FY27 | Net profit rises 45% to \u20b9809 Crore - India Infoline",
+      "l": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaU14bGludGNoTnRLMWF1STk1WWEtUnFQZzIxckhhdzdhekdqczNXd1pVM01IR0xmM2dtSXZSSVZHTnphTVZfM1pUWl9QQW91LUlfaFAxaVRtdWtzZlh6S2k5aTF0RGFwN1ZlbjFqSjY3c2d2OVpHWC1FOElYVUhVNTl3Vi1mTGZsekt6V3l3SVpQUENDTXNrd1kyUFdSdXVOX1NkVlB6WEd4M1pxdnpVbXJMVERSeWVrUnZDcDdtYjhLaWdsU3hF?oc=5",
+      "s": 3
+     },
+     {
+      "t": "Capital Markets index soars 4%; MOFSL, Groww, 360 ONE, BSE zoom up to 7%",
+      "l": "https://www.business-standard.com/markets/news/capital-markets-index-soars-4-mofsl-groww-360-one-bse-zoom-up-to-7-126110500617_1.html",
+      "s": 2
+     },
+     {
+      "t": "Sensex Today Rallies 1,484 Points | Nifty Above 24,400 | BSE Auto Index Up 3.5% - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3ZzdzNTWmV1SmZ6dU9XZ3EzcE5UUWZEdTY3UUllM2ZpUWxGUEVxUEw3emJiUUFRakwtZS1jZ09DN2pCTGJGbUtFdUdDNjdsUDQzczRwV3Q0YURGZ2tuNXFHQlhpbFZGeHdCM0tYY2Z2V2d0QmZyOVQ3b01ydmQ3Mk9yT0hUQVFvd0VuNnB0TGNlb3gycWhtS1lxd0k5bXpLRDRNWENIUTFQWlFyQnpaalJnWWF2OEdaMTZBTXZ5V3BIcWZDWGhqWVJSM2JEQQ?oc=5",
+      "s": 1
+     }
+    ]
+   },
+   {
+    "symbol": "LGEINDIA",
+    "score": 2.9,
+    "signal": "BUY WATCH",
+    "price": 1778.5,
+    "chg": 5.11,
+    "volx": 9.55,
+    "above20": true,
+    "news": [
+     {
+      "t": "LG Electronics India Q2 Results: Net profit jumps 27% YoY to Rs 489 crore; stock climbs 5% - The Economic Times",
+      "l": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUE1yWVlZMXBuN2NTb1IzZG9UbUxvdkZ6eHZlODh6YkJQMXF6OGdJSDhOMnFGN3hqN2tEX3hGNUlQcU9qS2hGUXh0UWJYTFMxa1JfSy1OdVAxS1Ntbmhjd3djWEZ0dFdTZ0JfT0dwU2hEcGFJaGVGR0dxdUlpUXowZ3dKUGlGeG5ZU3B5enZ4NUxENnNudjY0VzUtUk5wcmtLOWZLRzZLTFBQS25VR0VnX0RTV25hLXpRRWswbExNMVBxcVhtMWxEMWRvVUFOTzNNaExvTGlwbjBLVUV5dUNHck5Pa29Fa3I1dHfSAe8BQVVfeXFMT1F1TXczNEhTY0stdUx5TVQ2aHZHVjhkcDBZQjB2R0dnRzh0d2NLNEcxZEp0aVpoSGlPQXRNeW85UU9oWGxQVzBKZFZPMXdpblhWRThoTGc2bGlXOEU4aGlDQjR1QkxscFNud2liV0F5ZThtQVV4UkowMTlzM3FJN1VPbGhCbElzb3hVaEVYVEZqaWU4U2FVaGhnQU80WDlfTV9WTEhFaEZDM3YzcDdsMUtjQ3paMkl4dlk3eFlVUmRoR0s4cVdiOGxNR2pqYWRmaUk1SnlNaDN0Y3lkcTVzY3QwWFctTFFQZVJXR1BDZ1E?oc=5",
       "s": 5
-     },
-     {
-      "t": "BHEL rallies 6% on securing large project works from Adani Power",
-      "l": "https://www.business-standard.com/markets/news/bhel-rallies-6-on-securing-large-project-works-from-adani-power-126110400467_1.html",
-      "s": 1
-     },
-     {
-      "t": "BHEL rallies 6% on securing orders worth \u20b928,000 cr from Adani Power - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTltdUp3Rmk4SjhuRjIzWTRibjdoQ0xEWnNmQlNMclhqb2dNOVBaMUNXTW94b1M4dnVuWEtsX3VjbXZVOHFWbG1EWTFFYUxPY3ZwR1VqZlRZaUhtTUxNZnMyVzdObHgyeElhQ3owc0VvaWxETExSTnBqYVpSenpWQlZZUXlsWlc4NU5vY1dvUjNuM08wc2hRQWtMd3dtbk1aT2o0c1FCZE1PS1loSmxYdFZkQVVmTjZPOThWTXF6WXp1Q29qWkVBb1czd2M2MUtKbm0w0gHTAUFVX3lxTFBVOW11SndGaThKOG5GMjNZNGJuN2hDTERac2ZCU0xyWGpvZ005UFoxQ1dNb3hvUzh2dW5YS2xfdWNtdlU4cVZsbURZMUVhTE9jdnBHVWpmVFlpSG1NTE1mczJXN05seDJ4SWFDejBzRW9pbERMTFJOcGphWlJ6elZCVllReWxaVzg1Tm9jV29SM24zTzBzaFFBa0x3d21uTVpPajRzUUJkTU9LWWhKbFh0VmRBVWZONk85OFZNcXpZenVDb2paRUFvVzN3YzYxS0pubTA?oc=5",
-      "s": 1
      }
     ]
    },
    {
-    "symbol": "BEL",
-    "score": 3.4,
-    "signal": "BUY WATCH",
-    "price": 398.0,
-    "chg": 4.71,
-    "volx": 2.27,
-    "above20": true,
-    "news": [
-     {
-      "t": "Bharat Electronics shares gain 3% as Motilal raises target price after Q2; Elara Capital upgrades to Buy",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-shares-gain-3-as-motilal-raises-target-price-after-q2-elara-capital-upgrades-to-buy/articleshow/135524961.cms",
-      "s": 6
-     }
-    ]
-   },
-   {
-    "symbol": "ADANIPORTS",
-    "score": 1.3,
+    "symbol": "COALINDIA",
+    "score": 1.6,
     "signal": "NEUTRAL",
-    "price": 1910.0,
-    "chg": 2.31,
-    "volx": 1.29,
-    "above20": true,
+    "price": 394.3,
+    "chg": -1.34,
+    "volx": 1.88,
+    "above20": false,
     "news": [
      {
-      "t": "Adani Ports, Bosch, Divi's Labs, Marico, Welspun Living hit record highs",
-      "l": "https://www.business-standard.com/markets/news/adani-ports-bosch-divi-s-labs-marico-welspun-living-hit-record-highs-126110400669_1.html",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "BOSCHLTD",
-    "score": 1.3,
-    "signal": "NEUTRAL",
-    "price": 50925.0,
-    "chg": 2.58,
-    "volx": 2.05,
-    "above20": true,
-    "news": [
-     {
-      "t": "Adani Ports, Bosch, Divi's Labs, Marico, Welspun Living hit record highs",
-      "l": "https://www.business-standard.com/markets/news/adani-ports-bosch-divi-s-labs-marico-welspun-living-hit-record-highs-126110400669_1.html",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "MARICO",
-    "score": 1.3,
-    "signal": "NEUTRAL",
-    "price": 890.0,
-    "chg": 1.32,
-    "volx": 2.56,
-    "above20": true,
-    "news": [
-     {
-      "t": "Adani Ports, Bosch, Divi's Labs, Marico, Welspun Living hit record highs",
-      "l": "https://www.business-standard.com/markets/news/adani-ports-bosch-divi-s-labs-marico-welspun-living-hit-record-highs-126110400669_1.html",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "ITC",
-    "score": 1.1,
-    "signal": "NEUTRAL",
-    "price": 280.0,
-    "chg": 2.23,
-    "volx": 1.9,
-    "above20": true,
-    "news": [
-     {
-      "t": "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPS1JmQ0dpQ2htY1lneS1WVHhNWTNMYlhVMlowWGNSTC1nUFE5MXFsanlxM0o5a3hFbTlOTjhiaVF3dVd4ZVlBV0RVazRNRndIVlFJVnllcG1JUGtJWVFYb1lZTlRSZndTcE1sQnphQ3ZyZ09jcjRQQjRuRGFhNGFzbGtNR1Q5OC1XM0pEVTlzRmU4eUhFM21CQVBzSGt2aVpqc0MtWUFRejBtOFR3NjF0UjVtbUVfdzN1OGdkTWlPVTNiTjVmRE5Xc3BYMFp1b2dpQnM0R0JDWVh6WFBwNUdnMjBnNVltQUo0T2xCRURPa3pVdEY5Wk54MUVfRWQ0T0NySTRuVElFSHl3dHUt0gGSAkFVX3lxTE1HYTczYmJYcFUzRkl1UmpTa0pWYzdZZm82dmZJVC1zOGNpeVFtdnM3dWNpMnpHY3h0R010cm9ELVRLU0xzV09ZUjlSaEYwbWNHRTFjZHlEd1Y0UmJDN3BWSEFPMkc1WU1TQjRXeG52OGJtVWlTV0pObGtrQnBqSlZxamIxdG5iZnIxR0NDdm9nTGVvbnVGZTQwS281Y0xqS0tUb3lfS0gyX19CcmdJZXBkdUh3eXNKVEg4X3RoaGpYT19yUzdjcXRLNmhxOW8yb3N1R0hOTllReFIyazFzWmRDdkJXYVNXYm15aTVCYVI4SXcxdXhycWNQb3NEa1E3emZzbEdwSXo3Y2hDVThGckpES0E?oc=5",
+      "t": "Mahanadi Coalfields gets Sebi approval for IPO; Coal India to offload 66.18 crore shares via OFS - Fortune India",
+      "l": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR2cwSXQ3THdvS19jckNCMGJaLUxWWWttVDNhNlZWS0lqdUVMSGhhMU5Xc3J4NHRoM2JxUHY4YmhYTjltakNlS3h0SFdWWHJWTGJPQk1qeEtCVXVyWUxsTFluQmhCcEJCelJsd0Z2aFFhWE5EM3cyWG83RnM2UWpYMHh5Y1p4TVFmSDczV3F0aDF1YTlLLXRWLTV5OTFjT1VscnF5bGlzSEx3Q01Pb3VoR2d3aGMwdWs4RHBuU2dra0tDM3RWNnZNSG5yTXhjWFZTYXoyMnVvYnM2d9IB5wFBVV95cUxPSHVhSXpaQTRWaUlxWkV0MGtEbHhGNzJjcklpQjJTNlVfdW1iV0NydjB0T0FjQjRxamhMT3EzcFh2RXE0Y1YyekNycS1JSE5sRVVhVm9pU1RkVmhETnN4OEJ0YUJtaXU5R0VQZGxlem5aNzRFcUxMWmpUMy1HU2dIT0hzbzFsU2NlZjQ1NlZYY09MbndNRVB1SExKWXAtRnVSN2xzcllhZHVjcVpaeG9GMWZOVERTdWZ4UzhNWFJRV1lTRlJGZXYtRTM0MzhWUU1NYUMxMk1FQmE4LTBDcS1hQlBSdlRoY2c?oc=5",
       "s": 2
      }
     ]
@@ -272,87 +158,172 @@
   ],
   "negative": [
    {
-    "symbol": "HDFCBANK",
-    "score": -2.8,
+    "symbol": "ICICIBANK",
+    "score": -5.5,
     "signal": "NEG NEWS, price holding",
-    "price": 736.7,
-    "chg": 1.54,
-    "volx": 1.75,
+    "price": 1500.0,
+    "chg": 5.33,
+    "volx": 3.07,
     "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank experiences a notable uptick in share price",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-04-nov-2026/liveblog/135520287.cms",
+      "t": "ICICI Bank Share Price Live Updates: ICICI Bank Experiences Notable Price Increase",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-05-nov-2026/liveblog/135556739.cms",
       "s": -3
      },
      {
-      "t": "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell? - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOajdDbWVLeEtJV3ZWcE8tZy02Zk01cGI4eU5GeDYzaVp0R2xsVkoxX0ZORVg2YTE1aHBKendISzFiTW9mRk1HX01SaXltaVdsWW9nRUt2TEV4b0hBRmY1S0pPcGNxVkM4clRTUGxueEtlZFh4RXljUjFXcWxPdHg5bVg0Z2lhc0hmY2pkS0xQRDBiMkdtaWVQaW5PNjMtSEJ1Sm9maVNJZlp4akRiZ3JWQlQ2eE94dlpIQWhDZFBUY0QxcG1LNjNyTHZQTTdwbWJkSXNvdW9WOWxuNElhZnJTaEVhWTRKOVlvX0c1eDVfeHhac2JuZGdfSDV5UEkyQVc2eFAw0gGIAkFVX3lxTE0zTWJXOWhQcFQ0cFlCdjBUTGI3ZUlFT3ZRV01ueWNqWnpvVVhJcGZoUHdrcVlNYWkyeW14TUNyM3VicXh2cXZsZ3laa3ZLcWVaMEJkQUFWcVZEbl9nV0FiZ1IzWlhnbjJhaG9XQ1EtbVRGUzZFMEZpUGF6T0ppS0JhcVdyTkM5ckRISVEzNk5hM1BBY1NZQlloUHUwdHRoOGFfRVBGZWlVdEtWVGlhbE92WnVMZDdPakM5WHZFRFVCOXRZeHo2STNWZl9OaWV0VF85UVpubzJrZjNFUG16Qm1NWXhsUVowdndBS3hlQjRzQXVZbWtCOTJMajRvTlh1VjMxbHFOV1JHTg?oc=5",
+      "t": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for... - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREswVEtSYXZ6UFRZbWxPc3NFT2IwRUJDaXBzWGZwOXRNeTJfeC1NSXREY05CMWVTUnlBakhsc1ExcThSTFBpZDA0SGJWWUZVRVI4WDFFcGdQVThlaW1VaFhLZDJQVHhWNm12c0piMHA0eWhGT2huQXlhOGU5NElXVG9HTDhpY1NyRjZUU3J3U21IY1NlSWU4cU1UYlFWMmptd2lDMmpleF9PWVlUZVVFVjV2SlBvTEs3VV9WRVJrWGlGV0RMSVB4Xzh3SkNldWhFcEtzSmdwTDlYdkZjYWZBOWtZZ0ZINTJfalBpbEpMWlg0Wll4NkdDc0xNN0k2dUtqZGZscGhucmo4NW9GZjNMX2dOaVk2M0tISjZhQ1RRLTRLcHZNZHM0UkcyOXByblF0b3fSAbcCQVVfeXFMTUNuaXd2MHRzbEJpSTRnUEZSVEpkbG13TjBjSWVoc0ZITEI2WUJLM2phbzIxTFpnV09mbTJrbWhqa2Nvb0ZDUldyQy11Uzl3bmo2TXRudkVvN2oyXzlTWk5ZbGhxTnBMZjRtWlFrWDJ3eTRDa0xlQ2h1Y09LNjZMT3JHNGdQbjV3bXh6TV9UdGVXMlkyd1VPZUxnc3hhSGlrc3JuMnpuWmRSMlU1NURRWG5WZEM1WEV1enFocnRYc2lxQ05XSkh2U0FwOHF3LThaWHBfUVFVajFkVkpGZmJQc0ZFQU50blRNZF9GM1N3MkcwUFNoeC1DYmdRRGR4czE1ZWdXNXVPQW03MnlpTjVnYmhFMklVbmlEbVFsbGRyWHpfZ1lMaE5sX0prcEZSZ2Jad05PeTlsOTQ?oc=5",
+      "s": -3
+     },
+     {
+      "t": "ICICI Bank shares near 52-week high as allotments signal employee scheme activity - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDYxclVZdGxfNjdCVlZYYzB1QTdFSjFuWEFwSlBoaHgyS295bE5McUx0MHJZMEl2clZYbk1jNVNQb3JjQUJZUHEwbEhkN0JTOFBWQ3plcU5kZ3Vqd2JVdW5KU0wyNGV2TXVDS0JpbFVBV0wyek5LTWhxUXdEaFZ2RXlGQzFBQm90Q3RnT2hWT0thZlI5SnNiNGltY0w0RHRvOW04bDBLbkxFRE9BUWRLRHQ0cXluTTNLU0czRXBuYk42dWlYM1BoZzQ5ZXZvTEt5QjZ1WQ?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "INDUSINDBK",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 865.15,
-    "chg": 0.98,
-    "volx": 0.58,
-    "above20": true,
+    "symbol": "PIIND",
+    "score": -3.1,
+    "signal": "AVOID/SELL",
+    "price": 1770.0,
+    "chg": -19.07,
+    "volx": 30.1,
+    "above20": false,
     "news": [
      {
-      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Market Performance",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-04-nov-2026/liveblog/135522861.cms",
-      "s": -3
+      "t": "PI Industries Shares Crash 10% To 52-Week Low After Q2 Profit Plunges 70%, Margins Nearly Halve - NDTV Profit",
+      "l": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM0tPYUJ0X3p6QXVUVVlIVU5pVVg1TmZBcldfdHMwZ2pTdW1pQWpZbmZ5bGNsYmdWa0tkNTU4Nm1HOHRZbWpHenpLV3gyYVNWVUxVbTBGR0s1YlUwdE55UjBza2g0Tkt0QTJUbGhQNTZiNU8zTk4zOWxDMENCZ0lpM1drVThlTlNxaThKZ3NCc0IwaUFmRE1GVlkzNGk1R050R0Z0c3hhUm01YVh2aGtzQS00MFpXRkZWNzVRRDRQMjBkLWxrMHVhZTIxbFdZVTViVEFvbHhEajNWOEczbzJLTF9ETTBOQTN5eGNPS2hBSnhiUmpmYnBTRFlWVHlwQkdGYnY1V2pKZ9IBjwJBVV95cUxQN280b3JybG5CVzVfTWl4MmpVNm9NSHlYREk1SEdEUXdHenhvdEEyYlFfU0U4TVJ4TGZvaXVaMjIzRTBaNXV6enVyeERaMUlwOER1RUJGaHVqM1dhc3dQdEo0SGg3eWVlT3pBa2RzLUlWN1FpVzBJVlN2SUtpaWlmTTY5WGw4LV9IM3RzWEktNy1kUmE1ekVzbUplR1NveGd6OGI5S1VsbWFJd002d0ktTVVFT2l4NDM3bGZXQmVQMUxELUx1Q3VKUDRPUGFYZFcwQTU5OU80ZWdHS2xhQXAxaEVtQVdPZXhrOGJfY0Y2cTBaS2l1YzViSUVJWEU3aF9IYTk4N25FUWlNcmtvZDRz?oc=5",
+      "s": -6
      }
     ]
    },
    {
-    "symbol": "ICICIBANK",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 1424.1,
-    "chg": -0.03,
-    "volx": 0.84,
+    "symbol": "TATASTEEL",
+    "score": -2.2,
+    "signal": "NEG NEWS, price holding",
+    "price": 182.0,
+    "chg": 1.15,
+    "volx": 1.34,
     "above20": true,
     "news": [
      {
-      "t": "Diwali dhamaka stocks: Eternal, ICICI Bank, among 10 with upside of up to 34%",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-dhamaka-stocks-eternal-icici-bank-among-10-with-upside-of-up-to-34/slideshow/135523989.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "ETERNAL",
-    "score": -1.6,
-    "signal": "NEUTRAL",
-    "price": 344.5,
-    "chg": -1.42,
-    "volx": 0.82,
-    "above20": true,
-    "news": [
-     {
-      "t": "Diwali dhamaka stocks: Eternal, ICICI Bank, among 10 with upside of up to 34%",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-dhamaka-stocks-eternal-icici-bank-among-10-with-upside-of-up-to-34/slideshow/135523989.cms",
+      "t": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for... - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREswVEtSYXZ6UFRZbWxPc3NFT2IwRUJDaXBzWGZwOXRNeTJfeC1NSXREY05CMWVTUnlBakhsc1ExcThSTFBpZDA0SGJWWUZVRVI4WDFFcGdQVThlaW1VaFhLZDJQVHhWNm12c0piMHA0eWhGT2huQXlhOGU5NElXVG9HTDhpY1NyRjZUU3J3U21IY1NlSWU4cU1UYlFWMmptd2lDMmpleF9PWVlUZVVFVjV2SlBvTEs3VV9WRVJrWGlGV0RMSVB4Xzh3SkNldWhFcEtzSmdwTDlYdkZjYWZBOWtZZ0ZINTJfalBpbEpMWlg0Wll4NkdDc0xNN0k2dUtqZGZscGhucmo4NW9GZjNMX2dOaVk2M0tISjZhQ1RRLTRLcHZNZHM0UkcyOXByblF0b3fSAbcCQVVfeXFMTUNuaXd2MHRzbEJpSTRnUEZSVEpkbG13TjBjSWVoc0ZITEI2WUJLM2phbzIxTFpnV09mbTJrbWhqa2Nvb0ZDUldyQy11Uzl3bmo2TXRudkVvN2oyXzlTWk5ZbGhxTnBMZjRtWlFrWDJ3eTRDa0xlQ2h1Y09LNjZMT3JHNGdQbjV3bXh6TV9UdGVXMlkyd1VPZUxnc3hhSGlrc3JuMnpuWmRSMlU1NURRWG5WZEM1WEV1enFocnRYc2lxQ05XSkh2U0FwOHF3LThaWHBfUVFVajFkVkpGZmJQc0ZFQU50blRNZF9GM1N3MkcwUFNoeC1DYmdRRGR4czE1ZWdXNXVPQW03MnlpTjVnYmhFMklVbmlEbVFsbGRyWHpfZ1lMaE5sX0prcEZSZ2Jad05PeTlsOTQ?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "RELIANCE",
-    "score": -1.4,
-    "signal": "NEUTRAL",
-    "price": 1311.0,
-    "chg": 0.24,
+    "score": -2.2,
+    "signal": "NEG NEWS, price holding",
+    "price": 1313.4,
+    "chg": 0.18,
     "volx": 0.97,
     "above20": true,
     "news": [
      {
-      "t": "Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell? - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOajdDbWVLeEtJV3ZWcE8tZy02Zk01cGI4eU5GeDYzaVp0R2xsVkoxX0ZORVg2YTE1aHBKendISzFiTW9mRk1HX01SaXltaVdsWW9nRUt2TEV4b0hBRmY1S0pPcGNxVkM4clRTUGxueEtlZFh4RXljUjFXcWxPdHg5bVg0Z2lhc0hmY2pkS0xQRDBiMkdtaWVQaW5PNjMtSEJ1Sm9maVNJZlp4akRiZ3JWQlQ2eE94dlpIQWhDZFBUY0QxcG1LNjNyTHZQTTdwbWJkSXNvdW9WOWxuNElhZnJTaEVhWTRKOVlvX0c1eDVfeHhac2JuZGdfSDV5UEkyQVc2eFAw0gGIAkFVX3lxTE0zTWJXOWhQcFQ0cFlCdjBUTGI3ZUlFT3ZRV01ueWNqWnpvVVhJcGZoUHdrcVlNYWkyeW14TUNyM3VicXh2cXZsZ3laa3ZLcWVaMEJkQUFWcVZEbl9nV0FiZ1IzWlhnbjJhaG9XQ1EtbVRGUzZFMEZpUGF6T0ppS0JhcVdyTkM5ckRISVEzNk5hM1BBY1NZQlloUHUwdHRoOGFfRVBGZWlVdEtWVGlhbE92WnVMZDdPakM5WHZFRFVCOXRZeHo2STNWZl9OaWV0VF85UVpubzJrZjNFUG16Qm1NWXhsUVowdndBS3hlQjRzQXVZbWtCOTJMajRvTlh1VjMxbHFOV1JHTg?oc=5",
+      "t": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for... - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREswVEtSYXZ6UFRZbWxPc3NFT2IwRUJDaXBzWGZwOXRNeTJfeC1NSXREY05CMWVTUnlBakhsc1ExcThSTFBpZDA0SGJWWUZVRVI4WDFFcGdQVThlaW1VaFhLZDJQVHhWNm12c0piMHA0eWhGT2huQXlhOGU5NElXVG9HTDhpY1NyRjZUU3J3U21IY1NlSWU4cU1UYlFWMmptd2lDMmpleF9PWVlUZVVFVjV2SlBvTEs3VV9WRVJrWGlGV0RMSVB4Xzh3SkNldWhFcEtzSmdwTDlYdkZjYWZBOWtZZ0ZINTJfalBpbEpMWlg0Wll4NkdDc0xNN0k2dUtqZGZscGhucmo4NW9GZjNMX2dOaVk2M0tISjZhQ1RRLTRLcHZNZHM0UkcyOXByblF0b3fSAbcCQVVfeXFMTUNuaXd2MHRzbEJpSTRnUEZSVEpkbG13TjBjSWVoc0ZITEI2WUJLM2phbzIxTFpnV09mbTJrbWhqa2Nvb0ZDUldyQy11Uzl3bmo2TXRudkVvN2oyXzlTWk5ZbGhxTnBMZjRtWlFrWDJ3eTRDa0xlQ2h1Y09LNjZMT3JHNGdQbjV3bXh6TV9UdGVXMlkyd1VPZUxnc3hhSGlrc3JuMnpuWmRSMlU1NURRWG5WZEM1WEV1enFocnRYc2lxQ05XSkh2U0FwOHF3LThaWHBfUVFVajFkVkpGZmJQc0ZFQU50blRNZF9GM1N3MkcwUFNoeC1DYmdRRGR4czE1ZWdXNXVPQW03MnlpTjVnYmhFMklVbmlEbVFsbGRyWHpfZ1lMaE5sX0prcEZSZ2Jad05PeTlsOTQ?oc=5",
       "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ETERNAL",
+    "score": -2.2,
+    "signal": "NEG NEWS, price holding",
+    "price": 358.3,
+    "chg": 4.01,
+    "volx": 1.36,
+    "above20": true,
+    "news": [
+     {
+      "t": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for... - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREswVEtSYXZ6UFRZbWxPc3NFT2IwRUJDaXBzWGZwOXRNeTJfeC1NSXREY05CMWVTUnlBakhsc1ExcThSTFBpZDA0SGJWWUZVRVI4WDFFcGdQVThlaW1VaFhLZDJQVHhWNm12c0piMHA0eWhGT2huQXlhOGU5NElXVG9HTDhpY1NyRjZUU3J3U21IY1NlSWU4cU1UYlFWMmptd2lDMmpleF9PWVlUZVVFVjV2SlBvTEs3VV9WRVJrWGlGV0RMSVB4Xzh3SkNldWhFcEtzSmdwTDlYdkZjYWZBOWtZZ0ZINTJfalBpbEpMWlg0Wll4NkdDc0xNN0k2dUtqZGZscGhucmo4NW9GZjNMX2dOaVk2M0tISjZhQ1RRLTRLcHZNZHM0UkcyOXByblF0b3fSAbcCQVVfeXFMTUNuaXd2MHRzbEJpSTRnUEZSVEpkbG13TjBjSWVoc0ZITEI2WUJLM2phbzIxTFpnV09mbTJrbWhqa2Nvb0ZDUldyQy11Uzl3bmo2TXRudkVvN2oyXzlTWk5ZbGhxTnBMZjRtWlFrWDJ3eTRDa0xlQ2h1Y09LNjZMT3JHNGdQbjV3bXh6TV9UdGVXMlkyd1VPZUxnc3hhSGlrc3JuMnpuWmRSMlU1NURRWG5WZEM1WEV1enFocnRYc2lxQ05XSkh2U0FwOHF3LThaWHBfUVFVajFkVkpGZmJQc0ZFQU50blRNZF9GM1N3MkcwUFNoeC1DYmdRRGR4czE1ZWdXNXVPQW03MnlpTjVnYmhFMklVbmlEbVFsbGRyWHpfZ1lMaE5sX0prcEZSZ2Jad05PeTlsOTQ?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "INDIGO",
+    "score": -1.5,
+    "signal": "NEUTRAL",
+    "price": 5420.0,
+    "chg": 5.43,
+    "volx": 2.87,
+    "above20": true,
+    "news": [
+     {
+      "t": "JK Tyre, IndiGo shares jump over 5% as crude oil plunges; aviation, paint and oil marketing stocks rally - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMDMwallIX1A2QVd0aXlDN2UySFN3bVVfd0xSV2dIR3czcDJja3NSemJuSHM5YnFhYm80YVJ4anRsR252dExzWFBPVVBObHFxWG9nOGExVHE1WUhMTjV1VnJHc04ySTJJOWxzZXJuQXc0Qlg0TjBTNV9LQVpCR3lPLXNHYmYxenU2aVZMZE9jSXFqWWtfWUkzbDVubmZGeEFIbHRDbEk0bFoxSjJ4YWp0OG9leE1hcXlyZm5KQ0tqTm9FdHpnMy1mT2lKajNNbXFJQkNJQ3k0cTdxMkxoZ0ZiTW53ZTktR0pzeUtfSnpvek9WcXlwWHo1atIB_gFBVV95cUxPWlNYRXl4MF81MHBMbEJTQkc1S2drd19ydnAxTUF0b2lQOHp3VXJQYl9CNWNQTEJaYWpuWnZucnJ3aXRpYTYtU3hSODVILVJWYjIxS2E3WDM0YmxGRFJaYVVjZzhzaHJOeWctRXgwOEt6X0dqZ2NoS2F6Wmwzc2ZPdjZqdjB2eDhlaWI1ZHpQTjJqTEhHMVBiVHJ6M3BPODZFY2psUWtEMG5oLUdpX1BvWDMyekhqWjZaamhhd0ZDSW04UWhCQjhWZVRvMkpNTnE5TDZEVFRmUk9xLWdEN2VKeHBJNGpub0h1ZW9OUFRQOFdMZWh1ZlhhM3BUTkVnUQ?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "AXISBANK",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 1280.0,
+    "chg": 3.9,
+    "volx": 1.05,
+    "above20": true,
+    "news": [
+     {
+      "t": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Market Performance",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-05-nov-2026/liveblog/135556633.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "INDUSINDBK",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 911.45,
+    "chg": 5.35,
+    "volx": 3.46,
+    "above20": true,
+    "news": [
+     {
+      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank Sees Significant Price Surge",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-05-nov-2026/liveblog/135557166.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "HDFCBANK",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 760.0,
+    "chg": 3.16,
+    "volx": 2.17,
+    "above20": true,
+    "news": [
+     {
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-05-nov-2026/liveblog/135557239.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "MARUTI",
+    "score": -1.1,
+    "signal": "NEUTRAL",
+    "price": 12652.0,
+    "chg": 5.48,
+    "volx": 2.59,
+    "above20": true,
+    "news": [
+     {
+      "t": "TaMo CV, Ashok Leyland, Maruti rally up to 8% as crude oil price tumbles",
+      "l": "https://www.business-standard.com/markets/news/tamo-cv-ashok-leyland-maruti-rally-up-to-8-as-crude-oil-price-tumbles-126110500463_1.html",
+      "s": -2
      }
     ]
    }
