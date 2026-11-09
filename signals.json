@@ -1,34 +1,34 @@
 {
- "updated": "06 Nov 2026 17:29 IST",
+ "updated": "09 Nov 2026 18:14 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 249,
  "swing": [
   {
-   "symbol": "ZYDUSLIFE",
-   "setup": "Pullback",
-   "score": 4,
+   "symbol": "GLAXO",
+   "setup": "Breakout",
+   "score": 5,
    "checks": {
     "Trend": true,
     "RelStrength": true,
-    "Volume": false,
+    "Volume": true,
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1197.9,
-   "stop": 1163.09,
-   "risk": 34.81,
-   "t1": 1250.12,
-   "t2": 1302.34,
-   "rsi": 56.4,
-   "volx": 1.07,
-   "rs": 6.5,
-   "date": "2026-11-06",
+   "entry": 2710.0,
+   "stop": 2537.33,
+   "risk": 172.67,
+   "t1": 2969.0,
+   "t2": 3228.0,
+   "rsi": 61.2,
+   "volx": 13.68,
+   "rs": 2.3,
+   "date": "2026-11-09",
    "news": ""
   },
   {
-   "symbol": "BAJAJ-AUTO",
+   "symbol": "OBEROIRLTY",
    "setup": "Breakout",
    "score": 4,
    "checks": {
@@ -38,15 +38,15 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 10900.0,
-   "stop": 10373.95,
-   "risk": 526.05,
-   "t1": 11689.08,
-   "t2": 12478.15,
-   "rsi": 60.9,
-   "volx": 1.85,
-   "rs": -7.8,
-   "date": "2026-11-06",
+   "entry": 1775.0,
+   "stop": 1679.6,
+   "risk": 95.4,
+   "t1": 1918.1,
+   "t2": 2061.2,
+   "rsi": 61.9,
+   "volx": 3.53,
+   "rs": -1.8,
+   "date": "2026-11-09",
    "news": ""
   }
  ],
@@ -54,301 +54,248 @@
  "news": {
   "positive": [
    {
-    "symbol": "BHARTIARTL",
-    "score": 2.1,
+    "symbol": "LT",
+    "score": 3.1,
     "signal": "BUY WATCH",
-    "price": 2107.2,
-    "chg": 2.45,
-    "volx": 1.76,
+    "price": 4185.0,
+    "chg": 1.63,
+    "volx": 1.41,
     "above20": true,
     "news": [
      {
-      "t": "Bharti Airtel Q2 results: Profit jumps 31% to \u20b98,888 crore, ARPU up \u20b9271 crore, telco stock rallies 121% in 3 yrs - IndiaIPO",
-      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRllWM2QyQVIzMl9CMHhka0E2cWRzVEZWcTVoSWFLLWtpUkhKSkltMFBhRWFBRDZDMU5WRTdGVE5oSjlzb1RRYW1YMVFoQjRkM3ZXMHRwdVJGRlBFSGc4TG5HV01xTFlDMkJ3eFNybGhsRTlrQ001Z053Y2ttaTFCYk1OaC1zaDBNN3VIMm5WLW5palZLVTBWZmtiMFljRi1UZXJ4aE5Qdllyb2h2enNDcXhoSEpRaFhMOHVoVFBhQWxwaksxUjNTZXRid2lyZko1RGo3ajVlMU0?oc=5",
-      "s": 6
+      "t": "L&T bags order worth up to \u20b92,500 crore from Noida Metro Rail Corporation; shares trade higher - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOThwRlhKbElZR004Ym9YaHdxWUJoUFhDS0VqZFJzTjJzaS0yYXN6T1FKMWdXWEc3cFhfRm81d3U1dnBkMkZhb1lndEppRHRVVHFyV1ZieDA4aTFoWUtaa0R6OUxMRHF1Ynl5c1hFLTY0RHlKc1VzU213aDBLMkZYQlFRcU5FQUV3LVJ3RUNHRDRDOU0tRTNxbTRxNWNtVEFoZUNheEtweVptSlB6VGI3LVE2VnNKem1yeFRpRFBFN0tCT3p0UVNjMTQ3VVp3d2tEc0lSUkF2cFA0STByM1VaUXhYOUxNNFFPZklV?oc=5",
+      "s": 5
+     }
+    ]
+   },
+   {
+    "symbol": "UNOMINDA",
+    "score": 2.7,
+    "signal": "BUY WATCH",
+    "price": 1353.8,
+    "chg": 2.1,
+    "volx": 1.52,
+    "above20": true,
+    "news": [
+     {
+      "t": "Uno Minda zooms 26% in November, stock nears record high; here's why",
+      "l": "https://www.business-standard.com/markets/news/uno-minda-zooms-26-in-november-stock-nears-record-high-here-s-why-126110900464_1.html",
+      "s": 2
      },
      {
-      "t": "Airtel gains 3%, nears record high as ARPU growth drives Q2 revenue by 17%",
-      "l": "https://www.business-standard.com/markets/news/airtel-share-price-gains-3-nears-record-high-as-arpu-growth-drives-q2-revenue-by-17-126110600480_1.html",
+      "t": "Uno Minda zooms 26% in November, stock nears record high; here's why - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVFVa1pIZm5vMGhSSnVLdVNpQzlINVpKSFR6cFItcGIzWHd5SFJSZy1MMHB0VlpEMWhiaVlkRmk0LW5oUTJvVVNjNTNqYmxEdXVNMklNT3Y4UWVwTVM5VTd5TUxyWWNvWEthMWM3NzZLOVI4Tlhxc0c0YlZXMXNxWWphRTdWNHVrcHV3RE5FMF9BNVhrVmxyazJldVh0M0QxVGFWN1ZzOXVYOVJpRkxxaVpIWW9mQ2szZF9DZTd6V2pIOGRMMkRoZm9OUErSAdIBQVVfeXFMT2F2aUk2LVhwa3pQUlYwY2tkOHFhVGFQNkpfYmdZTlEtZEM0OS13VnFZZlBaZUJDeWlUN2ZXVmtjTjRNMjJSd0tpQmkzbE9CTW96eHhRTXg5RTI4dWxQckRYclZSXzdHMkxMUG1oZWtLa2k2SjY4UzVxdFdNc1BUWGpjRWxXNVdrMF9nQ3lOVmNlZ0pINEhaaFBnUkpJWkFZdkpRV1k3aWxfMFNMaFh0OC1xVGNvc2VjNlByaGVGU3lVTHJCVVU3TWU0NFdaaVE3eWxR?oc=5",
       "s": 2
      }
     ]
    },
    {
-    "symbol": "M&M",
-    "score": 1.1,
+    "symbol": "BEL",
+    "score": 1.4,
     "signal": "NEUTRAL",
-    "price": 3287.2,
-    "chg": 5.11,
-    "volx": 3.26,
+    "price": 394.55,
+    "chg": -0.37,
+    "volx": 0.84,
     "above20": true,
     "news": [
      {
-      "t": "M&M jumps 5% even as firm cuts tractor outlook; what's behind the rise?",
-      "l": "https://www.business-standard.com/markets/news/m-m-jumps-5-even-as-firm-cuts-tractor-outlook-what-s-behind-the-rise-126110600504_1.html",
+      "t": "Bharat Electronics bags additional orders worth Rs 909 crore - Business Today",
+      "l": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2Zjem1lN1pSU2w5cjMzYzlZSG1rYm1pdVBPRTZ0d0U5LThtbGFuNGxSZ0Y1RE9DUXVOTGJEa3ZxdTBSUWZxSlNLR3dmTVJ3TXg1RUdOMXE0RmtkV3p2ZndIUFRMalQ3R2hPdDAyUE5xQnctcjF6bV9aY1hMWFVZcUNhaDJKZk5uVjhGZFRSQUtQZzNhUTgtNHdWZ21xa1E5T1lXcU9UcVJWWlVjZkVXaGZjZTZrdV9YdVdId2VpTjVIdV9mU25z0gHMAUFVX3lxTE56ZnJYRmU3c01pOFcwOHRZbWdUeEtPLWlaWFpJc2t1VU05a3hTaWh3ZndRdVpJN0tRRTg0TXFkc3FrMzlOWHlwQXo1Z1Q1LUU4cmF2ekJVVHdRZmR3SHNwYXJkX1pEZ3QyZjNnM25VcFV2Sm1rd2dYekJGN0pKN2dPbHBQMWItRkNESnh6ZFA2SjVhQmJhTHNWZ3VJTDJ1ZEtOd0VwT2hxY0ZiR2dfZlM3V1p4dDFzYm84Rm5zU0VLMXlhS2tzUWppQ0NLUg?oc=5",
       "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "BOSCHLTD",
+    "score": 1.2,
+    "signal": "NEUTRAL",
+    "price": 49550.0,
+    "chg": -2.27,
+    "volx": 1.82,
+    "above20": true,
+    "news": [
+     {
+      "t": "Bosch share price falls below Rs 50K mark after stock split, bonus issue and Q2 results - Business Today",
+      "l": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNemFDUUhOYmNhZC1NZmtQM21rMkM0TlotVUhVRkstQ1NuVlViRXJCaWFmWGpyclZlcDdNem9ZZzBrTmtfalZ6eWVIclZlTXJPTnVIZHh3WlpJeXhlelJxTWdUUnc1SmJWMnlTcUtpMTI4MF9jRjdhNmxYODN1NlpoUEUxRXJYaUE4VjFHSmhZMVExeFF2cV9yeTUzWTdIVmFPazVVc20zUFhZTkZEcUFsVHNQbTlId2RseERha0lTRGpmTlg1cmpabUlCOWlJTHNQclphaU8teENvMU9zT09LNlJySExvLXd3NHhSQll30gHzAUFVX3lxTE0yNWpJYlNFRGNLV2tLZXVkdUFMNkVIUHZZWnE1SjBGWDVuNXhfWXJIRWhNeXJiMGVtYzdEZzBjN2ZpNjVyT0FhU2JVOElDTXlYSzVqU29RLVFPWk40OVFRYm9qNDA5VnA3WTFwOVQ5ZFFrOVFlUjNpY0NBY18yYUVsVEwzZm9jYkM4YVZOQXV6YlBXcGNic2w5QkljdXZaSzdjV1RIa04zQWhDZ0RZc0V2ZkZUZDhYbHNvV0JRMWdsOWJ3VVVlMGd3THZCYWxnMWdpUl9SU0U0cnFWR0NfUFhaZXFFNkZpTXNjZVBmaWl3cjRldw?oc=5",
+      "s": 1
+     },
+     {
+      "t": "Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do? - Livemint",
+      "l": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPenFIQjZEUTg1S3hVY3FlVjJBUVg2NnVJR1gwcEZxRWRnOHBVS2FRYkkxRFpxRWxRZk5GVkJpR2x1cURXWDJFZHVSZzRIXzVjSi15bmpzZ2l0QjFPdlRhaDBjb0RZb0N5cWlRbUVPWVlTaFhvcDJCcFUzX3Zwc2R1VGVGYlpSbWxIdTRORy04M25VSkU2bmFPaUJITGU4cjhEZEpvSmExaUtFc205d1dILXkzUUtnN0hrT2FLdTh0Z3dtVmYzUV9WSmJnZ2dyZTV2N1dfOFBfZFZpdlhlM0lQR1lvNXdFd2xaR1NVVFBsSi02OVZMeG1wTVoyTzlNd9IBgwJBVV95cUxPWWh0VEFPVFhESlBGYXNoYmxBLXAwNGhtY1RUa3hKZ2JXbTl4aTdJNVdhMlBoUnF0bWpCSzllSERDVTgwSjVfVzRPekw0XzlqUWtHY19KYXNIaFRvU3BsX3ZLaHV5R21LcUhOendJY1QtRE1EMTF5OHRJdl9HTWhnakZkaFljMHdRbk9QOTVVRHpHVmhER0V3a2dwLVY3U2djS0xVTzU5RnAtMXltWjlrQ19wX0F4cDdQc1ZXd1c2Yk5EM1BQa1ZzRktOYk8zeDdjU21QbTVaRGpyTDVvNXhfeFhtZFVOWmV2WURPaWJoU0Q5R1hxMDlxU19YSjFLVmdTNVFr?oc=5",
+      "s": 1
      }
     ]
    }
   ],
   "negative": [
    {
-    "symbol": "HDFCBANK",
-    "score": -5.6,
+    "symbol": "SBIN",
+    "score": -7.8,
     "signal": "NEG NEWS, price holding",
-    "price": 788.25,
-    "chg": 3.72,
-    "volx": 2.3,
+    "price": 1042.0,
+    "chg": 2.31,
+    "volx": 2.1,
     "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Stock Performance Today",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-06-nov-2026/liveblog/135591146.cms",
+      "t": "PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",
+      "l": "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
       "s": -3
      },
      {
-      "t": "Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPejN5Z0dBRHFUY3JtYlBlWU9talUwNGJ6TUowa3FSY1F5QlRQMFNCSGVkS29sbTNkMF9tbzVfYXRwMHNwRnRBWEVUelJHcURJUFlyWmNabEM2OURneGI2NWl0amI4eUwyZ1U5UVdmaGRrbHN6M3U3RWZZa2hwX0pod0kxZ1dncEFUcHNrZEdHMFltUGs3eGd2LVJoajlhNXQ5Z2pmYXJxRHBQMUVzRmN3RVVrSEdPTXJpSlRsY3Z3ZXdYMzhvRUlDQnlUNXFhUzJqUlJyX0U2ZFd2OWNjU01WcDZCV3R4NHZkaFEwT1hwWmNqc29qSXJWWklEaUhBSEtfTVNFaWl1SVNHSWp3bDBaZUxhMnlZdmdEMENFRDlLTlZ3VngtTmdR0gGsAkFVX3lxTE9MNDgybkJ0ODNEWjluMmE2Umk4NVA2d0c3UFp1LXdoeGE1SlVqd0xTY1E3ek4zajJpclowZk03d1dSb0kyMVVmX3dYSmlhZ1hWZkotYXVaeXJMS19JMkFJczlXTl9yR2IxWmdfbWdpcmZxZWIwbTYwWlZGa1RoVi1DaVptM3gtb0R3SlFseHlQVEhUTHRfNnZJRmlKVzlhTE9sR0JyMHdvTTBWMm9CY2ZqTHFBaFRIQl84SlFDQWdVWjZvZjVwM3N2ZGI4VVQ2ZW16UU9FQzIyU2lMSHlGb2phRGM3d25td3NBcUwwZlNsRkw4cmNaM0t0VG1VcG80cmp4T2JHX3RvQmE1M194RVV5ZWltUWJhcThpaWhRckZhZF9GdHlaRWtDMGpXMg?oc=5",
+      "t": "Market wrap, Nov 9: SENSEX rises 107 pts, NIFTY50 ends at 25,044 as PSU Bank, pharma stocks rally; SBI leads gains - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY3U1MElSQlJrX1NGTFpBOHBUaGthQWdhUUt2b2JNQS1SaGUyMkZ1eU4zQTlIVDNZelgtaUE3NmZWVGxBdFBKcHJPdUJGcjl3VkliYXl2M05RZzVJbUpFcFRQWFNHMHp5MVVYSmQ3R0FlX1Bra0x4YU1fbGg0eHgydmFNMS1YX3R2bXdfN2ROcVZSSkZtR1NJUjlCY1RBcHRTRXRhN2F5VXp6c3NLZERtVFM3Qk50cnV3eGpwR0lhZnFKb2xqWFF5R1FiWEFBT3JDV0VxR3BpUl9wNUtZaDZQYk1YTENxdGxDUUpRNWVOa0lkNFYtU0VSUHlBclpOZw?oc=5",
       "s": -3
      },
      {
-      "t": "HDFC Bank shares rally 16% in 4 sessions, cross \u20b912-lakh-cr market cap - BusinessLine",
-      "l": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblNXWE5DR2EtR1ZBRVFnODdxenU3aTZCUm16bWZOVHhyQ2l3STlYelQyU3NFdDBmdnpvTjF4d2RiSUh3VXlndjR1ZE43REY1d2ZYRDV2UUJfREUwOU90NFgzQTRmekJDUXh3dGI2VUJ4OU9SQUswVTdMM1RPcTc5TzEzdXNFcHc1Vkp3MDVYbVUtbnVxZ2lDMWh5NXJjbkhTT3g3TmxxX2EzTUQ1ZnhaUGdQMWZ5ajJweXVnZFo4eWYtNFBfaE9NZDJfdzBaeDJGem9zTzZCQWVPbmNMOTRQQnlrenhTcE3SAe4BQVVfeXFMT3h6alZmT2xjQkpXOWJsMV8wTmNsaG5OSnVhS3JxTXRpTUgzV2ZiamJUUDBqQkhNWE14clNWSDdUbkljVE8zRm1EYjFtb1ViWHgxTzJSaEFiOXB1dDFvR0VpcVZEU3hGYlEzbUhPV3U1TVFmcmhwdnRiVWh0NWdVeWlOY1VTWEtpVDQ3VUNXSXMtc1ZXMDh0ckVhRnAzUksxYTdzUGplSEo3ZkJwcVJTUE5wNkJFMy0wOTJBd0FxdUR3RW9JOTRIS0VYOVJ4TW9nS1NDd1duVW1mblA1MXViVHdBSlNKREZLUFFIRTZRUQ?oc=5",
+      "t": "Top Gainers & Losers Today, 9 November 2026 at 3:30 PM IST: State Bank of India Leads Gainers - HDFC Sky",
+      "l": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmFnZHVzN1J6LWJ4SWhzWEcwYmx1ellRYnY2WmVINXhfYjJKN3NhR0Z5b0hlM2l5SmN3Rm1zeDQ2WEdEeTRablJyeGhOdkVfTjJvb3oxd0RZY2ZmMWZRUTlFNDdaV2JnWUc5c2t0VW8ySXJ2TGVBMFpKQlRTbGZTTTF3?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "ICICIBANK",
-    "score": -4.0,
+    "symbol": "BANKINDIA",
+    "score": -2.4,
     "signal": "NEG NEWS, price holding",
-    "price": 1571.2,
-    "chg": 4.75,
-    "volx": 2.95,
+    "price": 145.0,
+    "chg": 4.64,
+    "volx": 1.72,
     "above20": true,
     "news": [
      {
-      "t": "ICICI Bank extends rally, soars 10% in 4 days; market cap nears \u20b911 trn",
-      "l": "https://www.business-standard.com/markets/news/icici-bank-extends-rally-soars-10-in-4-days-market-cap-nears-11-trn-126110600622_1.html",
-      "s": -3
-     },
-     {
-      "t": "Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPejN5Z0dBRHFUY3JtYlBlWU9talUwNGJ6TUowa3FSY1F5QlRQMFNCSGVkS29sbTNkMF9tbzVfYXRwMHNwRnRBWEVUelJHcURJUFlyWmNabEM2OURneGI2NWl0amI4eUwyZ1U5UVdmaGRrbHN6M3U3RWZZa2hwX0pod0kxZ1dncEFUcHNrZEdHMFltUGs3eGd2LVJoajlhNXQ5Z2pmYXJxRHBQMUVzRmN3RVVrSEdPTXJpSlRsY3Z3ZXdYMzhvRUlDQnlUNXFhUzJqUlJyX0U2ZFd2OWNjU01WcDZCV3R4NHZkaFEwT1hwWmNqc29qSXJWWklEaUhBSEtfTVNFaWl1SVNHSWp3bDBaZUxhMnlZdmdEMENFRDlLTlZ3VngtTmdR0gGsAkFVX3lxTE9MNDgybkJ0ODNEWjluMmE2Umk4NVA2d0c3UFp1LXdoeGE1SlVqd0xTY1E3ek4zajJpclowZk03d1dSb0kyMVVmX3dYSmlhZ1hWZkotYXVaeXJMS19JMkFJczlXTl9yR2IxWmdfbWdpcmZxZWIwbTYwWlZGa1RoVi1DaVptM3gtb0R3SlFseHlQVEhUTHRfNnZJRmlKVzlhTE9sR0JyMHdvTTBWMm9CY2ZqTHFBaFRIQl84SlFDQWdVWjZvZjVwM3N2ZGI4VVQ2ZW16UU9FQzIyU2lMSHlGb2phRGM3d25td3NBcUwwZlNsRkw4cmNaM0t0VG1VcG80cmp4T2JHX3RvQmE1M194RVV5ZWltUWJhcThpaWhRckZhZF9GdHlaRWtDMGpXMg?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "JUBLFOOD",
-    "score": -2.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 457.2,
-    "chg": 0.15,
-    "volx": 0.85,
-    "above20": true,
-    "news": [
-     {
-      "t": "Jubilant FoodWorks Q2 Revenue Up 12%, Profit Falls - Equitypandit",
-      "l": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYjBjd181Y3NjZ0NrMzRhNzJMYUV0X1hFaXRoOGx6ajNNQ0lCNUhDQXEycGZyeEVnbVZleF9peDlVZVd3RGxPVFNZb29uSHI1bW91UFJZaVVLa1RFV0hMQVl0Y09WY3hHWURPajE4Rmg0RDgwTnJZVkh4ZWJPNWFGcXNPMXY?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "ASTRAL",
-    "score": -2.2,
-    "signal": "AVOID/SELL",
-    "price": 1253.6,
-    "chg": -9.68,
-    "volx": 13.17,
-    "above20": false,
-    "news": [
-     {
-      "t": "Astral share price tumbles over 12% post Q2 earnings",
-      "l": "https://www.business-standard.com/markets/news/astral-share-price-tumbles-over-12-post-q2-earnings-126110600517_1.html",
-      "s": -2
-     },
-     {
-      "t": "Astral share price tumbles over 12% post Q2 earnings - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd21oVDY4aFl3QnlJQTdWOW4wekQ5dDM3NWJDQWlVc2tvWWU1c09fSWRDd1NvNGRVUy1Jb2w3R1hvOWVkYUxhV3JfcWJNLThNWVhENy1vXy1iRFVTdUlQaHE1MXBQYzNxMzhkSE1vYTlrOFJSd3E2aWVWTlRZSlN5SGgxYzBFQlFxTmtDaF9oVlZHVzVqSXdoM2xpTVlaNGpxVjV4SUpyakV1b1VvRFdHQm4tX1VQVlRaT3fSAb8BQVVfeXFMTjZYdGFnOEdDZ1I3T0d6RURwYTRKeWZLNGFNTFI4cWJvdWxvaXktd3JJZTFVTk1iNDl6SEJBSEZYVGJub0ttY09MTlozV0RjQ25uMnlYWnhpQ0p6VU54RVBjZDB6TGpIc3pGemZINDctb3lQU1dhU0hTR1F2M05JRUhWU0xxQkNEVlJNekdENVg5N3gxcFpIcXNqZlRjcTF2bGdkSE9uVElhLUZ2ZXoxZjZTX01nWWpEVEtRLVRUek0?oc=5",
-      "s": -2
-     }
-    ]
-   },
-   {
-    "symbol": "ETERNAL",
-    "score": -2.1,
-    "signal": "NEG NEWS, price holding",
-    "price": 363.15,
-    "chg": 1.35,
-    "volx": 0.92,
-    "above20": true,
-    "news": [
-     {
-      "t": "Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPejN5Z0dBRHFUY3JtYlBlWU9talUwNGJ6TUowa3FSY1F5QlRQMFNCSGVkS29sbTNkMF9tbzVfYXRwMHNwRnRBWEVUelJHcURJUFlyWmNabEM2OURneGI2NWl0amI4eUwyZ1U5UVdmaGRrbHN6M3U3RWZZa2hwX0pod0kxZ1dncEFUcHNrZEdHMFltUGs3eGd2LVJoajlhNXQ5Z2pmYXJxRHBQMUVzRmN3RVVrSEdPTXJpSlRsY3Z3ZXdYMzhvRUlDQnlUNXFhUzJqUlJyX0U2ZFd2OWNjU01WcDZCV3R4NHZkaFEwT1hwWmNqc29qSXJWWklEaUhBSEtfTVNFaWl1SVNHSWp3bDBaZUxhMnlZdmdEMENFRDlLTlZ3VngtTmdR0gGsAkFVX3lxTE9MNDgybkJ0ODNEWjluMmE2Umk4NVA2d0c3UFp1LXdoeGE1SlVqd0xTY1E3ek4zajJpclowZk03d1dSb0kyMVVmX3dYSmlhZ1hWZkotYXVaeXJMS19JMkFJczlXTl9yR2IxWmdfbWdpcmZxZWIwbTYwWlZGa1RoVi1DaVptM3gtb0R3SlFseHlQVEhUTHRfNnZJRmlKVzlhTE9sR0JyMHdvTTBWMm9CY2ZqTHFBaFRIQl84SlFDQWdVWjZvZjVwM3N2ZGI4VVQ2ZW16UU9FQzIyU2lMSHlGb2phRGM3d25td3NBcUwwZlNsRkw4cmNaM0t0VG1VcG80cmp4T2JHX3RvQmE1M194RVV5ZWltUWJhcThpaWhRckZhZF9GdHlaRWtDMGpXMg?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "BSE",
-    "score": -2.1,
-    "signal": "NEG NEWS, price holding",
-    "price": 3800.0,
-    "chg": 0.26,
-    "volx": 1.08,
-    "above20": true,
-    "news": [
-     {
-      "t": "Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPejN5Z0dBRHFUY3JtYlBlWU9talUwNGJ6TUowa3FSY1F5QlRQMFNCSGVkS29sbTNkMF9tbzVfYXRwMHNwRnRBWEVUelJHcURJUFlyWmNabEM2OURneGI2NWl0amI4eUwyZ1U5UVdmaGRrbHN6M3U3RWZZa2hwX0pod0kxZ1dncEFUcHNrZEdHMFltUGs3eGd2LVJoajlhNXQ5Z2pmYXJxRHBQMUVzRmN3RVVrSEdPTXJpSlRsY3Z3ZXdYMzhvRUlDQnlUNXFhUzJqUlJyX0U2ZFd2OWNjU01WcDZCV3R4NHZkaFEwT1hwWmNqc29qSXJWWklEaUhBSEtfTVNFaWl1SVNHSWp3bDBaZUxhMnlZdmdEMENFRDlLTlZ3VngtTmdR0gGsAkFVX3lxTE9MNDgybkJ0ODNEWjluMmE2Umk4NVA2d0c3UFp1LXdoeGE1SlVqd0xTY1E3ek4zajJpclowZk03d1dSb0kyMVVmX3dYSmlhZ1hWZkotYXVaeXJMS19JMkFJczlXTl9yR2IxWmdfbWdpcmZxZWIwbTYwWlZGa1RoVi1DaVptM3gtb0R3SlFseHlQVEhUTHRfNnZJRmlKVzlhTE9sR0JyMHdvTTBWMm9CY2ZqTHFBaFRIQl84SlFDQWdVWjZvZjVwM3N2ZGI4VVQ2ZW16UU9FQzIyU2lMSHlGb2phRGM3d25td3NBcUwwZlNsRkw4cmNaM0t0VG1VcG80cmp4T2JHX3RvQmE1M194RVV5ZWltUWJhcThpaWhRckZhZF9GdHlaRWtDMGpXMg?oc=5",
+      "t": "Top Gainers & Losers Today, 9 November 2026 at 3:30 PM IST: State Bank of India Leads Gainers - HDFC Sky",
+      "l": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmFnZHVzN1J6LWJ4SWhzWEcwYmx1ellRYnY2WmVINXhfYjJKN3NhR0Z5b0hlM2l5SmN3Rm1zeDQ2WEdEeTRablJyeGhOdkVfTjJvb3oxd0RZY2ZmMWZRUTlFNDdaV2JnWUc5c2t0VW8ySXJ2TGVBMFpKQlRTbGZTTTF3?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "YESBANK",
-    "score": -2.0,
-    "signal": "NEG NEWS, price holding",
-    "price": 17.2,
-    "chg": 5.91,
-    "volx": 3.17,
-    "above20": true,
+    "score": -1.9,
+    "signal": "NEUTRAL",
+    "price": 17.03,
+    "chg": -0.99,
+    "volx": 0.75,
+    "above20": false,
     "news": [
      {
-      "t": "Stocks in Focus: PC Jeweller, Vodafone Idea, YES Bank - HDFC Sky",
-      "l": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb3JUOHJGVWU3RnRTT1dpLTVXLXZJUXdpanlMYzVHbDF0SktKYjRGemNYNXRFamd3eVNlaDh1eGZJS1kxT01EdjFFdHJET3Q5c2VTVVRtOFItMTZ4QVFWOTNZTzNqZng2WFFBRkoxTHZWRmxVU0R0WWVEQVRScWp1bjNOY3JJTnduY1VhZi1NMEt1VDIybWdPelZvVm1VOWF3Yl9kOHg4dm9iak9pSG90MVBHc0szNU10Vy0wa19HNkt4ZUw0bWpyU0xLRGhTa2t4OVZvd2hnc05JWjdUQXlsb3owY052LUE?oc=5",
+      "t": "PC Jeweller, Vodafone Idea, YES Bank Shares Fall - HDFC Sky",
+      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkpxbkxXV0pESDlQV2VBUVNMeWVHVzdRSFJHM2V5T0p1cTAxZ3pmU0c2Nk1BSjNBNkVueWRtN0J6bjJqcjJfcFhNbVZqTUppemlRRDlOci1sU0Jtbzd2bFRxV3lNcWpWdXZaczJiLTlHaEt2c0R5b3UxT2JsbkFXMjFramR2S1BaRnpMcWcxaUozNFB1bUtTcjV2UEFiTlhHOUcyYXhaQkRsS015bTVIZVhIUzJvY19BQWVOYUs4ejF1U3owQ0xuWHF3QW1NZHd1MHFBVnd3?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "IDEA",
-    "score": -2.0,
-    "signal": "AVOID/SELL",
-    "price": 12.76,
-    "chg": -1.01,
-    "volx": 0.84,
+    "score": -1.9,
+    "signal": "NEUTRAL",
+    "price": 12.67,
+    "chg": -0.71,
+    "volx": 0.7,
     "above20": true,
     "news": [
      {
-      "t": "Stocks in Focus: PC Jeweller, Vodafone Idea, YES Bank - HDFC Sky",
-      "l": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb3JUOHJGVWU3RnRTT1dpLTVXLXZJUXdpanlMYzVHbDF0SktKYjRGemNYNXRFamd3eVNlaDh1eGZJS1kxT01EdjFFdHJET3Q5c2VTVVRtOFItMTZ4QVFWOTNZTzNqZng2WFFBRkoxTHZWRmxVU0R0WWVEQVRScWp1bjNOY3JJTnduY1VhZi1NMEt1VDIybWdPelZvVm1VOWF3Yl9kOHg4dm9iak9pSG90MVBHc0szNU10Vy0wa19HNkt4ZUw0bWpyU0xLRGhTa2t4OVZvd2hnc05JWjdUQXlsb3owY052LUE?oc=5",
+      "t": "PC Jeweller, Vodafone Idea, YES Bank Shares Fall - HDFC Sky",
+      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkpxbkxXV0pESDlQV2VBUVNMeWVHVzdRSFJHM2V5T0p1cTAxZ3pmU0c2Nk1BSjNBNkVueWRtN0J6bjJqcjJfcFhNbVZqTUppemlRRDlOci1sU0Jtbzd2bFRxV3lNcWpWdXZaczJiLTlHaEt2c0R5b3UxT2JsbkFXMjFramR2S1BaRnpMcWcxaUozNFB1bUtTcjV2UEFiTlhHOUcyYXhaQkRsS015bTVIZVhIUzJvY19BQWVOYUs4ejF1U3owQ0xuWHF3QW1NZHd1MHFBVnd3?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "THERMAX",
+    "symbol": "INDIANB",
     "score": -1.6,
     "signal": "NEUTRAL",
-    "price": 2746.3,
-    "chg": -17.27,
-    "volx": 17.28,
-    "above20": false,
-    "news": [
-     {
-      "t": "Thermax plunges 15%, nears 52-week low on weak Q2 operational performance",
-      "l": "https://www.business-standard.com/markets/news/thermax-plunges-15-nears-52-week-low-on-weak-q2-operational-performance-126110600448_1.html",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "PETRONET",
-    "score": -1.4,
-    "signal": "NEUTRAL",
-    "price": 317.0,
-    "chg": 2.26,
-    "volx": 1.01,
+    "price": 933.7,
+    "chg": 3.51,
+    "volx": 1.88,
     "above20": true,
     "news": [
      {
-      "t": "Trade Spotlight: How should you trade NSE, Bank of Maharashtra, Info Edge, JSW Energy, Petronet LNG, and... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORHNIdmJqeDNtZjdScVFOT0ZlMUNOUEFpUmszTU5FQVJOSTJFNWdjazcwMmN0WHNvM1JMR25DVlNnOEhGWndBSFUwRUtqTHEzalpIY2xjWHdkOGR5YUprNVYzVlpMczhoWDBDZk1hY3N6SjVwdDU4T3hXaTlYSlJNTE5yN0JueE5mZmxCUjJHbEVjRWpCUVNJV3hYd05pWUJHQWx4QVNhOEhhX1VGWjZMWDFlZ3NQcHZFQWpGNUgyYzFYVGRiUTRwb1g3WWdUd2F1QkU5R1VxdTFMWEQxckQzQUdUa1NQbHk5MFNIWmhKOC14UVlVdlROMmM3bXVfdWQ2NG5aLTByZG0zVmNwLW02YVJR0gGXAkFVX3lxTE15bGFpTjhqcmJMQUExODNrRWlRZm1vd00yTHlNWGRPMEdrZ3UyUGdqcVVtV21Hd1k3TzJ2VDU5ajJlcU94WFpCcTlmbUZSY3JGdl83LXJLYmZScHRwMnhQemoxaUc5cU9FamxPZGwwdXpHNWt3VmUyaTZEOGZWQVZESXBqLVpMM1ZUeGJERkw3bnZaTGQtSEZnWVNSRHowaGQ4U2RBVEZNQ2lDaE9JVDMxb0kzRW1tOUR4b0JDSkpkQTFxNnUwNVlMbW01OHlwbU45U3NrdVhHbzFqQlBSYjRXNGJwU25YVUt1Wk1vN2lqUnVnUjIzTWZnNlhuQlRFazNTeURhajQ4aWV2dnFMQWFEYWJra1JyYw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "JSWENERGY",
-    "score": -1.4,
-    "signal": "NEUTRAL",
-    "price": 524.95,
-    "chg": 0.31,
-    "volx": 0.5,
-    "above20": true,
-    "news": [
-     {
-      "t": "Trade Spotlight: How should you trade NSE, Bank of Maharashtra, Info Edge, JSW Energy, Petronet LNG, and... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORHNIdmJqeDNtZjdScVFOT0ZlMUNOUEFpUmszTU5FQVJOSTJFNWdjazcwMmN0WHNvM1JMR25DVlNnOEhGWndBSFUwRUtqTHEzalpIY2xjWHdkOGR5YUprNVYzVlpMczhoWDBDZk1hY3N6SjVwdDU4T3hXaTlYSlJNTE5yN0JueE5mZmxCUjJHbEVjRWpCUVNJV3hYd05pWUJHQWx4QVNhOEhhX1VGWjZMWDFlZ3NQcHZFQWpGNUgyYzFYVGRiUTRwb1g3WWdUd2F1QkU5R1VxdTFMWEQxckQzQUdUa1NQbHk5MFNIWmhKOC14UVlVdlROMmM3bXVfdWQ2NG5aLTByZG0zVmNwLW02YVJR0gGXAkFVX3lxTE15bGFpTjhqcmJMQUExODNrRWlRZm1vd00yTHlNWGRPMEdrZ3UyUGdqcVVtV21Hd1k3TzJ2VDU5ajJlcU94WFpCcTlmbUZSY3JGdl83LXJLYmZScHRwMnhQemoxaUc5cU9FamxPZGwwdXpHNWt3VmUyaTZEOGZWQVZESXBqLVpMM1ZUeGJERkw3bnZaTGQtSEZnWVNSRHowaGQ4U2RBVEZNQ2lDaE9JVDMxb0kzRW1tOUR4b0JDSkpkQTFxNnUwNVlMbW01OHlwbU45U3NrdVhHbzFqQlBSYjRXNGJwU25YVUt1Wk1vN2lqUnVnUjIzTWZnNlhuQlRFazNTeURhajQ4aWV2dnFMQWFEYWJra1JyYw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "MAHABANK",
-    "score": -1.4,
-    "signal": "NEUTRAL",
-    "price": 86.91,
-    "chg": 2.13,
-    "volx": 1.57,
-    "above20": true,
-    "news": [
-     {
-      "t": "Trade Spotlight: How should you trade NSE, Bank of Maharashtra, Info Edge, JSW Energy, Petronet LNG, and... - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORHNIdmJqeDNtZjdScVFOT0ZlMUNOUEFpUmszTU5FQVJOSTJFNWdjazcwMmN0WHNvM1JMR25DVlNnOEhGWndBSFUwRUtqTHEzalpIY2xjWHdkOGR5YUprNVYzVlpMczhoWDBDZk1hY3N6SjVwdDU4T3hXaTlYSlJNTE5yN0JueE5mZmxCUjJHbEVjRWpCUVNJV3hYd05pWUJHQWx4QVNhOEhhX1VGWjZMWDFlZ3NQcHZFQWpGNUgyYzFYVGRiUTRwb1g3WWdUd2F1QkU5R1VxdTFMWEQxckQzQUdUa1NQbHk5MFNIWmhKOC14UVlVdlROMmM3bXVfdWQ2NG5aLTByZG0zVmNwLW02YVJR0gGXAkFVX3lxTE15bGFpTjhqcmJMQUExODNrRWlRZm1vd00yTHlNWGRPMEdrZ3UyUGdqcVVtV21Hd1k3TzJ2VDU5ajJlcU94WFpCcTlmbUZSY3JGdl83LXJLYmZScHRwMnhQemoxaUc5cU9FamxPZGwwdXpHNWt3VmUyaTZEOGZWQVZESXBqLVpMM1ZUeGJERkw3bnZaTGQtSEZnWVNSRHowaGQ4U2RBVEZNQ2lDaE9JVDMxb0kzRW1tOUR4b0JDSkpkQTFxNnUwNVlMbW01OHlwbU45U3NrdVhHbzFqQlBSYjRXNGJwU25YVUt1Wk1vN2lqUnVnUjIzTWZnNlhuQlRFazNTeURhajQ4aWV2dnFMQWFEYWJra1JyYw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "AXISBANK",
-    "score": -1.4,
-    "signal": "NEUTRAL",
-    "price": 1322.9,
-    "chg": 3.35,
-    "volx": 1.32,
-    "above20": true,
-    "news": [
-     {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Performance",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-06-nov-2026/liveblog/135591018.cms",
+      "t": "PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",
+      "l": "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
       "s": -3
      }
     ]
    },
    {
     "symbol": "INDUSINDBK",
-    "score": -1.4,
+    "score": -1.5,
     "signal": "NEUTRAL",
-    "price": 910.25,
-    "chg": -0.13,
-    "volx": 3.09,
+    "price": 895.0,
+    "chg": -1.68,
+    "volx": 0.89,
     "above20": true,
     "news": [
      {
-      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Current Price Update",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-06-nov-2026/liveblog/135591674.cms",
+      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Closes Lower Amid Market Fluctuations",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-09-nov-2026/liveblog/135670809.cms",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "HEROMOTOCO",
+    "symbol": "ICICIBANK",
     "score": -1.3,
     "signal": "NEUTRAL",
-    "price": 5513.0,
-    "chg": -0.02,
-    "volx": 1.34,
+    "price": 1589.0,
+    "chg": 1.13,
+    "volx": 1.82,
     "above20": true,
     "news": [
      {
-      "t": "F&O: Analyst recommends Bull spread strategy on Hero MotoCorp, PNB",
-      "l": "https://www.business-standard.com/markets/news/fno-pick-today-hdfc-securities-analyst-nandish-shah-recommends-bull-spread-strategy-on-hero-motocorp-pnb-126110600096_1.html",
+      "t": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Positive Movement",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-09-nov-2026/liveblog/135668930.cms",
       "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "HDFCBANK",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 798.15,
+    "chg": 1.26,
+    "volx": 1.89,
+    "above20": true,
+    "news": [
+     {
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank Sees Positive Movement Today",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-09-nov-2026/liveblog/135669071.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "AXISBANK",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 1310.7,
+    "chg": -0.92,
+    "volx": 0.69,
+    "above20": true,
+    "news": [
+     {
+      "t": "Axis Bank Share Price Live Updates: Axis Bank  Faces Slight Setback",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-09-nov-2026/liveblog/135669204.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BANKBARODA",
+    "score": -1.2,
+    "signal": "NEUTRAL",
+    "price": 260.01,
+    "chg": 3.88,
+    "volx": 2.12,
+    "above20": true,
+    "news": [
+     {
+      "t": "SBI, PNB, Bank of Baroda: NIFTY PSU Bank index rallies up to 3.7% amid weak market; what\u2019s powering PSU bank stocks? - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRkNzTldJRWsxNzZycHJHaHhnbGJzLTZneVhLOXFDcmlzd0hNUEZLZU10YzhNQ3E2UnFBc3dKR0pOZzh1UU1QcUtfZng3eUxLVjFkV0lTT05oQjk5U1lLOGd5UHRkRmZQUUFoQkVDY1MxeWdOZVlwN19jRzV0R0t3Yk1Ea2tRX0ZRTVZvUGhyblFpekZwd0RaMnZHYWFpY0VRNDlQc2d6Q3F6eHhubXprQUhYYlhJTXRFbEd1X2l1VnIycFhVRWxXRmVZcE5JMjZGTTVSNWJzMUtKa28wRmlENUMzMVBsWmJJbjRvY3dtbEZ0Vi1sR2pGaFBZR3NyUQ?oc=5",
+      "s": -2
      }
     ]
    }
