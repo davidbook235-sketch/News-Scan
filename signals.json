@@ -1,34 +1,34 @@
 {
- "updated": "10 Nov 2026 17:57 IST",
+ "updated": "11 Nov 2026 17:17 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 248,
  "swing": [
   {
-   "symbol": "GLAXO",
+   "symbol": "INDIANB",
    "setup": "Breakout",
-   "score": 5,
+   "score": 4,
    "checks": {
     "Trend": true,
     "RelStrength": true,
     "Volume": true,
-    "Momentum": true,
+    "Momentum": false,
     "Setup": true
    },
-   "entry": 2710.0,
-   "stop": 2537.33,
-   "risk": 172.67,
-   "t1": 2969.0,
-   "t2": 3228.0,
-   "rsi": 61.2,
-   "volx": 13.68,
-   "rs": 2.3,
-   "date": "2026-11-09",
+   "entry": 935.4,
+   "stop": 886.86,
+   "risk": 48.54,
+   "t1": 1008.21,
+   "t2": 1081.03,
+   "rsi": 72.7,
+   "volx": 1.72,
+   "rs": 3.1,
+   "date": "2026-11-11",
    "news": ""
   },
   {
-   "symbol": "OBEROIRLTY",
+   "symbol": "NAM-INDIA",
    "setup": "Breakout",
    "score": 4,
    "checks": {
@@ -38,54 +38,213 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1775.0,
-   "stop": 1679.6,
-   "risk": 95.4,
-   "t1": 1918.1,
-   "t2": 2061.2,
-   "rsi": 61.9,
-   "volx": 3.53,
-   "rs": -1.8,
-   "date": "2026-11-09",
+   "entry": 1088.0,
+   "stop": 1007.51,
+   "risk": 80.49,
+   "t1": 1208.73,
+   "t2": 1329.46,
+   "rsi": 61.2,
+   "volx": 1.6,
+   "rs": -9.1,
+   "date": "2026-11-11",
    "news": ""
   }
  ],
  "exits": [],
  "news": {
-  "positive": [
+  "positive": [],
+  "negative": [
    {
-    "symbol": "RELIANCE",
-    "score": 1.1,
-    "signal": "NEUTRAL",
-    "price": 1324.4,
-    "chg": 0.33,
-    "volx": 0.94,
+    "symbol": "PNB",
+    "score": -5.9,
+    "signal": "NEG NEWS, price holding",
+    "price": 138.48,
+    "chg": 4.77,
+    "volx": 3.41,
     "above20": true,
     "news": [
      {
-      "t": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5",
-      "s": 2
+      "t": "Punjab National Bank among 7 stocks showing White Marubozu pattern",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-7-stocks-showing-white-marubozu-pattern/slideshow/135725226.cms",
+      "s": -3
+     },
+     {
+      "t": "Punjab National Bank share price soars 11% in two days; hits 52-week high",
+      "l": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-soars-11-in-two-days-hits-52-week-high-126111100580_1.html",
+      "s": -3
+     },
+     {
+      "t": "Punjab National Bank share price soars 11% in two days; hits 52-week high - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMURtSmhOMkNCbGdld3lxUTZ2YmNPSF9yV3NUemhvdTFGcU9KclZaNUhCYThiQU5BSkdKZWRVdGNtdWdEMEhSWlRYMzU2VG0zYnRNNm55QW5VWGlsVFVQN1Y1Tm1hbFpoQlk0NEdPanZXRlp3dzJSNmhaWlhoa3EyVjN4RDNuM210YWRWbG12ek1JaWJ4SG8zdUpFVVd4SEVQWGhzNzNDTEszMzMzcGQ1cTBuMFFhdmlUZl9VemdFZjBKXzdYZlpPSWJHbjlJSWw3N0VjYdIB2gFBVV95cUxORE8tOER6djk3UmdXV2NwRFBSMGVHZmt5V040d3lZUEZPdlBIdTNKaFpsYnRxZUV1QmNERktEc1ZXUjBOaEdEdkg5Tk5mNDBMU1N6VFRwakxZWlQwd1FHaTJTYmVjRDBBMjhmZmktanJSVHRmZ01NU0RVbENTT21NTk9nd1NseWdSZ28zR284TkdSMVVaUmdpaURFeDhiUkJ5ai00cE1jUElINU0yb3NKSE0yQ002SzQ5RnZVeHVkSXB3NGJYRUVhQ3EwR01Rc1c3QkxyVkw1WDdIQQ?oc=5",
+      "s": -3
      }
     ]
    },
    {
-    "symbol": "VEDL",
-    "score": 1.1,
-    "signal": "NEUTRAL",
-    "price": 262.0,
-    "chg": 0.1,
-    "volx": 0.83,
+    "symbol": "M&M",
+    "score": -2.7,
+    "signal": "NEG NEWS, price holding",
+    "price": 3465.0,
+    "chg": 5.3,
+    "volx": 1.9,
     "above20": true,
     "news": [
      {
-      "t": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
-      "l": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5",
-      "s": 2
+      "t": "Market Wrap, Nov 11: SENSEX, NIFTY50 rise 1% as banking stocks rally; NIFTY Smallcap 100 outshines, M&M top gainers - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWGFuTHNzM1RCdHoxSDlFeWxQaFFvNk1ha1gwRk94MzRteGtMTUllMVFjTFUybS1ZNTZQNHEtY0JmZ0ZsQXhfdlp6RGdXVjN6T2hoSm5zTzZEZ1pfaFJ1bV81R3pfNF9BMDhhOTNoR09xYkx1RTZQUUItQmpCeHd5LXJicmhYZ0N3M1FaMmFGTWVtaXpkcUhJV2pMQ0pSSFZ2UFA5SVBpaDBGVmNxVWRTXzJEa1ZxR1JoZUZHdVpxOUJ5RUNPTFJ2bTZmMm9ZbEJ2NW5xWTI0cDZzUjVhUXF2eWtyajlFNHp2TGFmaUttWWZCMkNxN2U2aXF6ZXBjMGV4UEs4?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ICICIBANK",
+    "score": -2.6,
+    "signal": "AVOID/SELL",
+    "price": 1571.6,
+    "chg": -1.1,
+    "volx": 1.8,
+    "above20": true,
+    "news": [
+     {
+      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Today",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-11-nov-2026/liveblog/135723758.cms",
+      "s": -3
+     },
+     {
+      "t": "Sensex Today Trades Rallies 1,179 Points | Nifty Above 25,350 | Bajaj Finance & ICICI Bank Top Gainers - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa2pzSm1LNGRjeVNmMFRaNGNua0NzNGROai1zdl9paTliZUNJRDFhZkhjMzRCQlBjb2p3bUpfOV9PSkotRkh6cWJJT1NHaklUblAxa2x1blBzbWFYZ2YxZ2pfMmN5X0Fla3drMHJkR2diemVhSG82ZXB6Y2E1dkhZX3pqNEhMb1Nnb1NLU2xvclU5ZXhCSDRrLXF4c3l0ZlRIZFA4dlVXS25zMGZ3d2lOdUJZdy0yMHoyWUVjaVJXQnVrT2xKVlJENnlnYm4tLWtMRS13WkFiQWdIanVVbXRUUFp3SkYxdVpHclpVTHExaw?oc=5",
+      "s": -2
+     }
+    ]
+   },
+   {
+    "symbol": "COCHINSHIP",
+    "score": -2.1,
+    "signal": "AVOID/SELL",
+    "price": 1202.0,
+    "chg": -6.82,
+    "volx": 10.43,
+    "above20": false,
+    "news": [
+     {
+      "t": "Cochin Shipyard Share Price Falls 6.46% After Q2 FY27 Net Profit Drops to \u20b954 Crore - India Infoline",
+      "l": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdm85dXR1RElRMEY5SUVEYVFGTTBFU2U3WHpnY0RqUjZNTVo2TDdlMS1lSW1LZUkxNlJsOWIwV0xvLTBXNVlUSHVTcGtvYzRlMGMydW5KTnZEZ2N5eGZEbm4wMXVSRmlxaTRSOWpSU2YtRElFWHJDSk1zaTlTdV85QUlkcGFYMGdTaDFONy1sWlFUd2lSZW1YT3BHZ3ZlakR5UkZ5WFc3eTJLUEdZenFVRXBDanpMWmNCel9xdUZxMG4wZEdU?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "YESBANK",
+    "score": -2.1,
+    "signal": "NEG NEWS, price holding",
+    "price": 17.24,
+    "chg": 1.23,
+    "volx": 1.08,
+    "above20": true,
+    "news": [
+     {
+      "t": "NSE Most Active Stocks: Jyoti Structures, Vi, YES Bank - HDFC Sky",
+      "l": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1NpMm9nNzEwU3hpVHctZFFkWTRxbEZKM3FKZGpyRnBzYko0dHVFMHk5WVpjODBJck5NNmk4THpfT1RMa0RMZk5uTzVPSzV5V0VUNWhBdnJWemx6SjRwNW9lVVN2SnZTeUVNNmVWU2pkLXBoUDd0RlJBS0M1ZUszRE01TC1nT3FCeHRBNV9IeEd6cEZWR1lYS051RExaUjNNemtmN1p4SzAwNzhqR1VCajJOaG1BbW5VZFlpUElGNm1LUQ?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "UNIONBANK",
+    "score": -1.5,
+    "signal": "NEUTRAL",
+    "price": 202.19,
+    "chg": 2.63,
+    "volx": 1.92,
+    "above20": true,
+    "news": [
+     {
+      "t": "Union Bank of India among 5 stocks closing above VWAP",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-5-stocks-closing-above-vwap/slideshow/135725070.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BANKINDIA",
+    "score": -1.5,
+    "signal": "NEUTRAL",
+    "price": 150.6,
+    "chg": 3.86,
+    "volx": 2.27,
+    "above20": true,
+    "news": [
+     {
+      "t": "Union Bank of India among 5 stocks closing above VWAP",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-5-stocks-closing-above-vwap/slideshow/135725070.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "AXISBANK",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 1336.4,
+    "chg": 1.96,
+    "volx": 1.75,
+    "above20": true,
+    "news": [
+     {
+      "t": "Axis Bank Share Price Live Updates: Axis Bank's Performance Overview",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-11-nov-2026/liveblog/135723764.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "RELIANCE",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 1335.4,
+    "chg": 0.83,
+    "volx": 0.82,
+    "above20": true,
+    "news": [
+     {
+      "t": "RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback - NDTV Profit",
+      "l": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR25TSU1vSEl5ZjV6MWdVWE8tODNxbkVJX25SSUJ2c01jY3lmbGNhTmtVQkQycmljVE9tMTZJdEhNeTdwNEw5c0I3X09GNVc5Q2k5c00tcXlrb3ZZeDQ1UG5NampDeGFKLVdGUzhuOWwwUVpBVFRqTTVpb1N4b2l1U29EZ1YwZDVLVGVldi1RVTM4ZmtTcmQzY3BrcUQzVjNYUVpDUWFwajJoMUs5NndVM3k1cmRPWlc0RWJibnV6ZzFLN1BTMF9Ka090dnVhbzVYbW1uLXJJMzRqUzBBenR4Nm5idjJoRXNnSkwwYmtiNWlpMzZETjh1Q1E0TWVJUy0xRWFWY9IBjAJBVV95cUxNLV9uOTdwSThaMUZfdjNvemM0WlRoZlFGOEJrV0JkRkZ6YzNLRzRnby1GWTh4TDJWdmRtcWQzdHIyMmZLb0tub1ZhU2ptcGlRMUxQLXNOZ3RmeGlLcGJtSXBuZWtkYUlISG02dk5uZG1TNFZVSE84UkdqSGRjWHp5OWNxYjlIYzNkZjY1ZWUtUUFiNk1jdmZKZUdZNGpmZm1vaXVQVm9YTVIxcW1mYllCYzhiby1sMTVTaERDR29VX052a1BJYUF0MDZZUmc3NHJIbmZKUWhpblNxR3laRXVua1F6a3R0SXNCNE1Fa1N5NVVCQ3hRbF9uMlZuRnFxbzRDc185cFk4X081azFi?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "HDFCBANK",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 806.6,
+    "chg": 1.06,
+    "volx": 1.54,
+    "above20": true,
+    "news": [
+     {
+      "t": "RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback - NDTV Profit",
+      "l": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR25TSU1vSEl5ZjV6MWdVWE8tODNxbkVJX25SSUJ2c01jY3lmbGNhTmtVQkQycmljVE9tMTZJdEhNeTdwNEw5c0I3X09GNVc5Q2k5c00tcXlrb3ZZeDQ1UG5NampDeGFKLVdGUzhuOWwwUVpBVFRqTTVpb1N4b2l1U29EZ1YwZDVLVGVldi1RVTM4ZmtTcmQzY3BrcUQzVjNYUVpDUWFwajJoMUs5NndVM3k1cmRPWlc0RWJibnV6ZzFLN1BTMF9Ka090dnVhbzVYbW1uLXJJMzRqUzBBenR4Nm5idjJoRXNnSkwwYmtiNWlpMzZETjh1Q1E0TWVJUy0xRWFWY9IBjAJBVV95cUxNLV9uOTdwSThaMUZfdjNvemM0WlRoZlFGOEJrV0JkRkZ6YzNLRzRnby1GWTh4TDJWdmRtcWQzdHIyMmZLb0tub1ZhU2ptcGlRMUxQLXNOZ3RmeGlLcGJtSXBuZWtkYUlISG02dk5uZG1TNFZVSE84UkdqSGRjWHp5OWNxYjlIYzNkZjY1ZWUtUUFiNk1jdmZKZUdZNGpmZm1vaXVQVm9YTVIxcW1mYllCYzhiby1sMTVTaERDR29VX052a1BJYUF0MDZZUmc3NHJIbmZKUWhpblNxR3laRXVua1F6a3R0SXNCNE1Fa1N5NVVCQ3hRbF9uMlZuRnFxbzRDc185cFk4X081azFi?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BAJFINANCE",
+    "score": -1.1,
+    "signal": "NEUTRAL",
+    "price": 1078.8,
+    "chg": 1.31,
+    "volx": 0.96,
+    "above20": true,
+    "news": [
+     {
+      "t": "Sensex Today Trades Rallies 1,179 Points | Nifty Above 25,350 | Bajaj Finance & ICICI Bank Top Gainers - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa2pzSm1LNGRjeVNmMFRaNGNua0NzNGROai1zdl9paTliZUNJRDFhZkhjMzRCQlBjb2p3bUpfOV9PSkotRkh6cWJJT1NHaklUblAxa2x1blBzbWFYZ2YxZ2pfMmN5X0Fla3drMHJkR2diemVhSG82ZXB6Y2E1dkhZX3pqNEhMb1Nnb1NLU2xvclU5ZXhCSDRrLXF4c3l0ZlRIZFA4dlVXS25zMGZ3d2lOdUJZdy0yMHoyWUVjaVJXQnVrT2xKVlJENnlnYm4tLWtMRS13WkFiQWdIanVVbXRUUFp3SkYxdVpHclpVTHExaw?oc=5",
+      "s": -2
      }
     ]
    }
-  ],
-  "negative": []
+  ]
  }
 }
