@@ -1,34 +1,34 @@
 {
- "updated": "11 Nov 2026 17:17 IST",
+ "updated": "12 Nov 2026 18:01 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
- "scanned": 248,
+ "scanned": 249,
  "swing": [
   {
-   "symbol": "INDIANB",
+   "symbol": "SAIL",
    "setup": "Breakout",
-   "score": 4,
+   "score": 5,
    "checks": {
     "Trend": true,
     "RelStrength": true,
     "Volume": true,
-    "Momentum": false,
+    "Momentum": true,
     "Setup": true
    },
-   "entry": 935.4,
-   "stop": 886.86,
-   "risk": 48.54,
-   "t1": 1008.21,
-   "t2": 1081.03,
-   "rsi": 72.7,
-   "volx": 1.72,
-   "rs": 3.1,
-   "date": "2026-11-11",
+   "entry": 177.7,
+   "stop": 165.76,
+   "risk": 11.94,
+   "t1": 195.61,
+   "t2": 213.53,
+   "rsi": 59.0,
+   "volx": 1.86,
+   "rs": 0.7,
+   "date": "2026-11-12",
    "news": ""
   },
   {
-   "symbol": "NAM-INDIA",
+   "symbol": "OBEROIRLTY",
    "setup": "Breakout",
    "score": 4,
    "checks": {
@@ -38,145 +38,114 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1088.0,
-   "stop": 1007.51,
-   "risk": 80.49,
-   "t1": 1208.73,
-   "t2": 1329.46,
-   "rsi": 61.2,
-   "volx": 1.6,
-   "rs": -9.1,
-   "date": "2026-11-11",
+   "entry": 1817.0,
+   "stop": 1713.98,
+   "risk": 103.02,
+   "t1": 1971.53,
+   "t2": 2126.05,
+   "rsi": 64.5,
+   "volx": 2.44,
+   "rs": -2.0,
+   "date": "2026-11-12",
    "news": ""
   }
  ],
  "exits": [],
  "news": {
-  "positive": [],
-  "negative": [
+  "positive": [
    {
-    "symbol": "PNB",
-    "score": -5.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 138.48,
-    "chg": 4.77,
-    "volx": 3.41,
+    "symbol": "HINDCOPPER",
+    "score": 2.8,
+    "signal": "BUY WATCH",
+    "price": 446.15,
+    "chg": 2.25,
+    "volx": 4.95,
     "above20": true,
     "news": [
      {
-      "t": "Punjab National Bank among 7 stocks showing White Marubozu pattern",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-7-stocks-showing-white-marubozu-pattern/slideshow/135725226.cms",
-      "s": -3
-     },
-     {
-      "t": "Punjab National Bank share price soars 11% in two days; hits 52-week high",
-      "l": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-soars-11-in-two-days-hits-52-week-high-126111100580_1.html",
-      "s": -3
-     },
-     {
-      "t": "Punjab National Bank share price soars 11% in two days; hits 52-week high - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMURtSmhOMkNCbGdld3lxUTZ2YmNPSF9yV3NUemhvdTFGcU9KclZaNUhCYThiQU5BSkdKZWRVdGNtdWdEMEhSWlRYMzU2VG0zYnRNNm55QW5VWGlsVFVQN1Y1Tm1hbFpoQlk0NEdPanZXRlp3dzJSNmhaWlhoa3EyVjN4RDNuM210YWRWbG12ek1JaWJ4SG8zdUpFVVd4SEVQWGhzNzNDTEszMzMzcGQ1cTBuMFFhdmlUZl9VemdFZjBKXzdYZlpPSWJHbjlJSWw3N0VjYdIB2gFBVV95cUxORE8tOER6djk3UmdXV2NwRFBSMGVHZmt5V040d3lZUEZPdlBIdTNKaFpsYnRxZUV1QmNERktEc1ZXUjBOaEdEdkg5Tk5mNDBMU1N6VFRwakxZWlQwd1FHaTJTYmVjRDBBMjhmZmktanJSVHRmZ01NU0RVbENTT21NTk9nd1NseWdSZ28zR284TkdSMVVaUmdpaURFeDhiUkJ5ai00cE1jUElINU0yb3NKSE0yQ002SzQ5RnZVeHVkSXB3NGJYRUVhQ3EwR01Rc1c3QkxyVkw1WDdIQQ?oc=5",
-      "s": -3
+      "t": "Hindustan Copper shares soar 7% as profit surges nearly threefold YoY to \u20b9518 crore, EBITDA margin expands - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOGVLemVTdUdxbmxadFZ5dVRSY3Q0bjBKX0ptQ01NQlViamUxeDkxdnVycXVHWVh3a20wOGdwZDk1SXI4UG91MXFfcjVxallyZGhxeXN0LTM1Ujk1M1dYMVNaNUQwSnFOamtnR2syRXo1Zjh0SUsweEtTWm9qaVk0MUdLdWZsVHYyam45VV91dUw0dzFNUnE2ejZxSGtyYTdfR2hLeVBnWDNUOGo1Z3RTUzRocjduZ1Y4Y0FtUUs1a3N5YjlFNzB6YXlwTExXeHJ0ODdUM25XVG9USXhXV3lKRjFoWEJQbjVEbVZtcW1BbF9Qb21JN0E?oc=5",
+      "s": 5
      }
     ]
    },
    {
-    "symbol": "M&M",
-    "score": -2.7,
-    "signal": "NEG NEWS, price holding",
-    "price": 3465.0,
-    "chg": 5.3,
-    "volx": 1.9,
+    "symbol": "DLF",
+    "score": 2.7,
+    "signal": "BUY WATCH",
+    "price": 769.3,
+    "chg": 3.59,
+    "volx": 1.66,
     "above20": true,
     "news": [
      {
-      "t": "Market Wrap, Nov 11: SENSEX, NIFTY50 rise 1% as banking stocks rally; NIFTY Smallcap 100 outshines, M&M top gainers - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWGFuTHNzM1RCdHoxSDlFeWxQaFFvNk1ha1gwRk94MzRteGtMTUllMVFjTFUybS1ZNTZQNHEtY0JmZ0ZsQXhfdlp6RGdXVjN6T2hoSm5zTzZEZ1pfaFJ1bV81R3pfNF9BMDhhOTNoR09xYkx1RTZQUUItQmpCeHd5LXJicmhYZ0N3M1FaMmFGTWVtaXpkcUhJV2pMQ0pSSFZ2UFA5SVBpaDBGVmNxVWRTXzJEa1ZxR1JoZUZHdVpxOUJ5RUNPTFJ2bTZmMm9ZbEJ2NW5xWTI0cDZzUjVhUXF2eWtyajlFNHp2TGFmaUttWWZCMkNxN2U2aXF6ZXBjMGV4UEs4?oc=5",
-      "s": -3
+      "t": "Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high",
+      "l": "https://www.business-standard.com/markets/news/realty-index-surges-4-oberoi-sobha-lodha-up-5-dlf-nears-52-week-high-126111200602_1.html",
+      "s": 4
      }
     ]
    },
    {
-    "symbol": "ICICIBANK",
-    "score": -2.6,
-    "signal": "AVOID/SELL",
-    "price": 1571.6,
-    "chg": -1.1,
-    "volx": 1.8,
-    "above20": true,
-    "news": [
-     {
-      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Today",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-11-nov-2026/liveblog/135723758.cms",
-      "s": -3
-     },
-     {
-      "t": "Sensex Today Trades Rallies 1,179 Points | Nifty Above 25,350 | Bajaj Finance & ICICI Bank Top Gainers - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa2pzSm1LNGRjeVNmMFRaNGNua0NzNGROai1zdl9paTliZUNJRDFhZkhjMzRCQlBjb2p3bUpfOV9PSkotRkh6cWJJT1NHaklUblAxa2x1blBzbWFYZ2YxZ2pfMmN5X0Fla3drMHJkR2diemVhSG82ZXB6Y2E1dkhZX3pqNEhMb1Nnb1NLU2xvclU5ZXhCSDRrLXF4c3l0ZlRIZFA4dlVXS25zMGZ3d2lOdUJZdy0yMHoyWUVjaVJXQnVrT2xKVlJENnlnYm4tLWtMRS13WkFiQWdIanVVbXRUUFp3SkYxdVpHclpVTHExaw?oc=5",
-      "s": -2
-     }
-    ]
-   },
-   {
-    "symbol": "COCHINSHIP",
-    "score": -2.1,
-    "signal": "AVOID/SELL",
-    "price": 1202.0,
-    "chg": -6.82,
-    "volx": 10.43,
+    "symbol": "PAGEIND",
+    "score": 1.6,
+    "signal": "NEUTRAL",
+    "price": 31850.0,
+    "chg": -12.91,
+    "volx": 16.04,
     "above20": false,
     "news": [
      {
-      "t": "Cochin Shipyard Share Price Falls 6.46% After Q2 FY27 Net Profit Drops to \u20b954 Crore - India Infoline",
-      "l": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdm85dXR1RElRMEY5SUVEYVFGTTBFU2U3WHpnY0RqUjZNTVo2TDdlMS1lSW1LZUkxNlJsOWIwV0xvLTBXNVlUSHVTcGtvYzRlMGMydW5KTnZEZ2N5eGZEbm4wMXVSRmlxaTRSOWpSU2YtRElFWHJDSk1zaTlTdV85QUlkcGFYMGdTaDFONy1sWlFUd2lSZW1YT3BHZ3ZlakR5UkZ5WFc3eTJLUEdZenFVRXBDanpMWmNCel9xdUZxMG4wZEdU?oc=5",
-      "s": -3
+      "t": "Page Industries hits 10% lower circuit post Q2 show; \u20b9150 dividend declared",
+      "l": "https://www.business-standard.com/markets/news/page-industries-hits-10-lower-circuit-post-q2-show-150-dividend-declared-126111200894_1.html",
+      "s": 1
+     },
+     {
+      "t": "Page Industries hits 10% lower circuit post Q2 show; \u20b9150 dividend declared - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOVZ6aHZPX2kxQzl1ZDFwRDBvdWNCRThTZmZoWUo0VUlxUUlwSkx6dGxSUXNYeFNESTBRaGJNUkxXUkE4dnR1eEJtSWFXazRMemlzT1pPbzd6NDB2VGV2V21HMFdmbWlTdnZOejEzeWZlT3NJT2NLbVUwWWhZam5nWndvY0NnNEhkLTl1ZGxtV3FYaS1jTXNmS0ZiYXpmUFR2LUc4UHg0SU92ZzRiNWhQNi00YW1VLWdubEpubFBXb2N3WUxHcC1qa1o2UFN2R3h6bUZFWTN30gHbAUFVX3lxTFBiRUVGRDRmSlFlRjRNVUNwQm94WXViTFVBUS1MRW80Y1F4bjBIeTlMVFFEeFFMTHQzbFJidkhEbkY3eWNRZ19KYjEtQWI4X3pWdWIwcGZ5VWRUSG5kOFZ2T2M5ODl2b0Jla0NqNzhsQm9kUjNFeEVrRUg1X2s5dlF6aGVUeHJVeW55OVVtUDFqZ3d4VmNhMXJ0c3BkamNyUFpOZndaY2E0R3FHSWxtX0ZlcTI4Ynk4bFU4UWtVa1dWOXNXbHA1U1E4cGVxcmpvV3JFRjAtZnJKdTc0cw?oc=5",
+      "s": 1
      }
     ]
-   },
+   }
+  ],
+  "negative": [
    {
-    "symbol": "YESBANK",
-    "score": -2.1,
+    "symbol": "HDFCBANK",
+    "score": -6.4,
     "signal": "NEG NEWS, price holding",
-    "price": 17.24,
-    "chg": 1.23,
-    "volx": 1.08,
+    "price": 812.3,
+    "chg": 0.71,
+    "volx": 1.0,
     "above20": true,
     "news": [
      {
-      "t": "NSE Most Active Stocks: Jyoti Structures, Vi, YES Bank - HDFC Sky",
-      "l": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1NpMm9nNzEwU3hpVHctZFFkWTRxbEZKM3FKZGpyRnBzYko0dHVFMHk5WVpjODBJck5NNmk4THpfT1RMa0RMZk5uTzVPSzV5V0VUNWhBdnJWemx6SjRwNW9lVVN2SnZTeUVNNmVWU2pkLXBoUDd0RlJBS0M1ZUszRE01TC1nT3FCeHRBNV9IeEd6cEZWR1lYS051RExaUjNNemtmN1p4SzAwNzhqR1VCajJOaG1BbW5VZFlpUElGNm1LUQ?oc=5",
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-livestock-price-today-live-updates-12-nov-2026/liveblog/135753001.cms",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",
+      "l": "https://www.business-standard.com/markets/news/hdfc-bank-18-other-fallen-angels-could-be-d-st-s-next-winners-elara-126111200555_1.html",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWJfQmNWSTZxTUhZR1J5TDg2WUFqenlFOTN1YXVrR2xETW83X1dHMkFlSEFyQ2VXWXB3VnNjR0w4S2lkVzVmQ0htcGRXbjllUUNDa0E4TnBrcnpodHpBTGJpYUpfT3hFSTNnM09vbG9YdXRHQkludkhDTVlfb1dJYkhDZDBQVzRWelVCUVlIa2tCRUptZUltOW9WVktTNnN4ZmVGV3VoQ1FWa21fSFpwRHpjQ2dHS2JBNlNkaDFsY2E2T29UR3lvbFZOUVdFWEHSAdQBQVVfeXFMT0dDOEU5QlRZTFNoUGRjWThQZURKUGZWRVJyMks4T3VZbDVFelN2M1N6aEJxcTVFd2R3OUtXRWRRVmZsVWRuNDV6c1YtOVlRQUlBOTRXNGkydmlNdkZPV0lLVWhWLUtXWnRlVXNWUnpSMmktdmVDa2FpaUtpSndPRnZocmJqWGo2Sk5XNXFWUWxKbDJDMlNjb2NFWlVqUU9vV21sVXZwTWFYeElvaDJud2ZqaTFqRjhZaEJXRGo3Zm5hUkNwMDdJb3dONWtDNzhZbm5URGs?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "UNIONBANK",
-    "score": -1.5,
-    "signal": "NEUTRAL",
-    "price": 202.19,
-    "chg": 2.63,
-    "volx": 1.92,
-    "above20": true,
+    "symbol": "BDL",
+    "score": -2.2,
+    "signal": "AVOID/SELL",
+    "price": 1055.1,
+    "chg": -4.08,
+    "volx": 5.43,
+    "above20": false,
     "news": [
      {
-      "t": "Union Bank of India among 5 stocks closing above VWAP",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-5-stocks-closing-above-vwap/slideshow/135725070.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "BANKINDIA",
-    "score": -1.5,
-    "signal": "NEUTRAL",
-    "price": 150.6,
-    "chg": 3.86,
-    "volx": 2.27,
-    "above20": true,
-    "news": [
-     {
-      "t": "Union Bank of India among 5 stocks closing above VWAP",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-5-stocks-closing-above-vwap/slideshow/135725070.cms",
+      "t": "Bharat Dynamics Q2 FY27 results: Net profit drops 15% YoY; revenue increases to \u20b91,664 crore - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMkt0dXlLSUtndEVEeXVMR2xWM2pMS1JVNU10OXZDaFYyTl82cUpxaHBmeGtwOEVqUlFFYUIxTHFabFQ3YXZ5ZTNIY2lIcmQtMFIwUG5rS0RVaDNtMF9vRmJua19KUVRKUDhaTXF0Q3E1MWs4NEdZcnFjeXZkeUMwZUVaRUJsUDNIdExEN1VFSXN5allBR1Rxbkx3el9Gb3Iza1ZZTWVOblNqZnJvR2VwZEg0OVZoVUFLcmxfdUJMYmMzVlR4aXZMQjNSODh6eWp2MWgxbGQ1NWZvaDY0MlA2Wk9ZTmwxZw?oc=5",
       "s": -3
      }
     ]
@@ -185,63 +154,47 @@
     "symbol": "AXISBANK",
     "score": -1.4,
     "signal": "NEUTRAL",
-    "price": 1336.4,
-    "chg": 1.96,
-    "volx": 1.75,
+    "price": 1342.9,
+    "chg": 0.49,
+    "volx": 1.07,
     "above20": true,
     "news": [
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank's Performance Overview",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-11-nov-2026/liveblog/135723764.cms",
+      "t": "Axis Bank Share Price Live Updates: Axis Bank  Price Movement Analysis",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-12-nov-2026/liveblog/135753254.cms",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "RELIANCE",
+    "symbol": "INDUSINDBK",
     "score": -1.3,
     "signal": "NEUTRAL",
-    "price": 1335.4,
-    "chg": 0.83,
-    "volx": 0.82,
+    "price": 931.35,
+    "chg": 3.48,
+    "volx": 0.98,
     "above20": true,
     "news": [
      {
-      "t": "RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback - NDTV Profit",
-      "l": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR25TSU1vSEl5ZjV6MWdVWE8tODNxbkVJX25SSUJ2c01jY3lmbGNhTmtVQkQycmljVE9tMTZJdEhNeTdwNEw5c0I3X09GNVc5Q2k5c00tcXlrb3ZZeDQ1UG5NampDeGFKLVdGUzhuOWwwUVpBVFRqTTVpb1N4b2l1U29EZ1YwZDVLVGVldi1RVTM4ZmtTcmQzY3BrcUQzVjNYUVpDUWFwajJoMUs5NndVM3k1cmRPWlc0RWJibnV6ZzFLN1BTMF9Ka090dnVhbzVYbW1uLXJJMzRqUzBBenR4Nm5idjJoRXNnSkwwYmtiNWlpMzZETjh1Q1E0TWVJUy0xRWFWY9IBjAJBVV95cUxNLV9uOTdwSThaMUZfdjNvemM0WlRoZlFGOEJrV0JkRkZ6YzNLRzRnby1GWTh4TDJWdmRtcWQzdHIyMmZLb0tub1ZhU2ptcGlRMUxQLXNOZ3RmeGlLcGJtSXBuZWtkYUlISG02dk5uZG1TNFZVSE84UkdqSGRjWHp5OWNxYjlIYzNkZjY1ZWUtUUFiNk1jdmZKZUdZNGpmZm1vaXVQVm9YTVIxcW1mYllCYzhiby1sMTVTaERDR29VX052a1BJYUF0MDZZUmc3NHJIbmZKUWhpblNxR3laRXVua1F6a3R0SXNCNE1Fa1N5NVVCQ3hRbF9uMlZuRnFxbzRDc185cFk4X081azFi?oc=5",
+      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Current Market Performance",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-12-nov-2026/liveblog/135753045.cms",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "HDFCBANK",
+    "symbol": "ICICIBANK",
     "score": -1.3,
     "signal": "NEUTRAL",
-    "price": 806.6,
-    "chg": 1.06,
-    "volx": 1.54,
+    "price": 1590.0,
+    "chg": 1.17,
+    "volx": 0.94,
     "above20": true,
     "news": [
      {
-      "t": "RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback - NDTV Profit",
-      "l": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR25TSU1vSEl5ZjV6MWdVWE8tODNxbkVJX25SSUJ2c01jY3lmbGNhTmtVQkQycmljVE9tMTZJdEhNeTdwNEw5c0I3X09GNVc5Q2k5c00tcXlrb3ZZeDQ1UG5NampDeGFKLVdGUzhuOWwwUVpBVFRqTTVpb1N4b2l1U29EZ1YwZDVLVGVldi1RVTM4ZmtTcmQzY3BrcUQzVjNYUVpDUWFwajJoMUs5NndVM3k1cmRPWlc0RWJibnV6ZzFLN1BTMF9Ka090dnVhbzVYbW1uLXJJMzRqUzBBenR4Nm5idjJoRXNnSkwwYmtiNWlpMzZETjh1Q1E0TWVJUy0xRWFWY9IBjAJBVV95cUxNLV9uOTdwSThaMUZfdjNvemM0WlRoZlFGOEJrV0JkRkZ6YzNLRzRnby1GWTh4TDJWdmRtcWQzdHIyMmZLb0tub1ZhU2ptcGlRMUxQLXNOZ3RmeGlLcGJtSXBuZWtkYUlISG02dk5uZG1TNFZVSE84UkdqSGRjWHp5OWNxYjlIYzNkZjY1ZWUtUUFiNk1jdmZKZUdZNGpmZm1vaXVQVm9YTVIxcW1mYllCYzhiby1sMTVTaERDR29VX052a1BJYUF0MDZZUmc3NHJIbmZKUWhpblNxR3laRXVua1F6a3R0SXNCNE1Fa1N5NVVCQ3hRbF9uMlZuRnFxbzRDc185cFk4X081azFi?oc=5",
+      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Market Value",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-12-nov-2026/liveblog/135753052.cms",
       "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "BAJFINANCE",
-    "score": -1.1,
-    "signal": "NEUTRAL",
-    "price": 1078.8,
-    "chg": 1.31,
-    "volx": 0.96,
-    "above20": true,
-    "news": [
-     {
-      "t": "Sensex Today Trades Rallies 1,179 Points | Nifty Above 25,350 | Bajaj Finance & ICICI Bank Top Gainers - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa2pzSm1LNGRjeVNmMFRaNGNua0NzNGROai1zdl9paTliZUNJRDFhZkhjMzRCQlBjb2p3bUpfOV9PSkotRkh6cWJJT1NHaklUblAxa2x1blBzbWFYZ2YxZ2pfMmN5X0Fla3drMHJkR2diemVhSG82ZXB6Y2E1dkhZX3pqNEhMb1Nnb1NLU2xvclU5ZXhCSDRrLXF4c3l0ZlRIZFA4dlVXS25zMGZ3d2lOdUJZdy0yMHoyWUVjaVJXQnVrT2xKVlJENnlnYm4tLWtMRS13WkFiQWdIanVVbXRUUFp3SkYxdVpHclpVTHExaw?oc=5",
-      "s": -2
      }
     ]
    }
