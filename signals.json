@@ -1,13 +1,13 @@
 {
- "updated": "12 Nov 2026 18:01 IST",
+ "updated": "13 Nov 2026 17:33 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 249,
  "swing": [
   {
-   "symbol": "SAIL",
-   "setup": "Breakout",
+   "symbol": "LGEINDIA",
+   "setup": "Pullback",
    "score": 5,
    "checks": {
     "Trend": true,
@@ -16,19 +16,19 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 177.7,
-   "stop": 165.76,
-   "risk": 11.94,
-   "t1": 195.61,
-   "t2": 213.53,
-   "rsi": 59.0,
-   "volx": 1.86,
-   "rs": 0.7,
-   "date": "2026-11-12",
+   "entry": 1745.4,
+   "stop": 1692.03,
+   "risk": 53.37,
+   "t1": 1825.46,
+   "t2": 1905.52,
+   "rsi": 55.0,
+   "volx": 1.32,
+   "rs": 7.7,
+   "date": "2026-11-13",
    "news": ""
   },
   {
-   "symbol": "OBEROIRLTY",
+   "symbol": "GVT&D",
    "setup": "Breakout",
    "score": 4,
    "checks": {
@@ -38,15 +38,15 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1817.0,
-   "stop": 1713.98,
-   "risk": 103.02,
-   "t1": 1971.53,
-   "t2": 2126.05,
-   "rsi": 64.5,
-   "volx": 2.44,
-   "rs": -2.0,
-   "date": "2026-11-12",
+   "entry": 4420.0,
+   "stop": 4060.32,
+   "risk": 359.68,
+   "t1": 4959.52,
+   "t2": 5499.04,
+   "rsi": 60.8,
+   "volx": 1.96,
+   "rs": -2.3,
+   "date": "2026-11-13",
    "news": ""
   }
  ],
@@ -54,55 +54,18 @@
  "news": {
   "positive": [
    {
-    "symbol": "HINDCOPPER",
-    "score": 2.8,
-    "signal": "BUY WATCH",
-    "price": 446.15,
-    "chg": 2.25,
-    "volx": 4.95,
-    "above20": true,
-    "news": [
-     {
-      "t": "Hindustan Copper shares soar 7% as profit surges nearly threefold YoY to \u20b9518 crore, EBITDA margin expands - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOGVLemVTdUdxbmxadFZ5dVRSY3Q0bjBKX0ptQ01NQlViamUxeDkxdnVycXVHWVh3a20wOGdwZDk1SXI4UG91MXFfcjVxallyZGhxeXN0LTM1Ujk1M1dYMVNaNUQwSnFOamtnR2syRXo1Zjh0SUsweEtTWm9qaVk0MUdLdWZsVHYyam45VV91dUw0dzFNUnE2ejZxSGtyYTdfR2hLeVBnWDNUOGo1Z3RTUzRocjduZ1Y4Y0FtUUs1a3N5YjlFNzB6YXlwTExXeHJ0ODdUM25XVG9USXhXV3lKRjFoWEJQbjVEbVZtcW1BbF9Qb21JN0E?oc=5",
-      "s": 5
-     }
-    ]
-   },
-   {
-    "symbol": "DLF",
-    "score": 2.7,
-    "signal": "BUY WATCH",
-    "price": 769.3,
-    "chg": 3.59,
-    "volx": 1.66,
-    "above20": true,
-    "news": [
-     {
-      "t": "Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high",
-      "l": "https://www.business-standard.com/markets/news/realty-index-surges-4-oberoi-sobha-lodha-up-5-dlf-nears-52-week-high-126111200602_1.html",
-      "s": 4
-     }
-    ]
-   },
-   {
-    "symbol": "PAGEIND",
-    "score": 1.6,
+    "symbol": "IDEA",
+    "score": 1.0,
     "signal": "NEUTRAL",
-    "price": 31850.0,
-    "chg": -12.91,
-    "volx": 16.04,
+    "price": 12.57,
+    "chg": -3.08,
+    "volx": 1.28,
     "above20": false,
     "news": [
      {
-      "t": "Page Industries hits 10% lower circuit post Q2 show; \u20b9150 dividend declared",
-      "l": "https://www.business-standard.com/markets/news/page-industries-hits-10-lower-circuit-post-q2-show-150-dividend-declared-126111200894_1.html",
-      "s": 1
-     },
-     {
-      "t": "Page Industries hits 10% lower circuit post Q2 show; \u20b9150 dividend declared - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOVZ6aHZPX2kxQzl1ZDFwRDBvdWNCRThTZmZoWUo0VUlxUUlwSkx6dGxSUXNYeFNESTBRaGJNUkxXUkE4dnR1eEJtSWFXazRMemlzT1pPbzd6NDB2VGV2V21HMFdmbWlTdnZOejEzeWZlT3NJT2NLbVUwWWhZam5nWndvY0NnNEhkLTl1ZGxtV3FYaS1jTXNmS0ZiYXpmUFR2LUc4UHg0SU92ZzRiNWhQNi00YW1VLWdubEpubFBXb2N3WUxHcC1qa1o2UFN2R3h6bUZFWTN30gHbAUFVX3lxTFBiRUVGRDRmSlFlRjRNVUNwQm94WXViTFVBUS1MRW80Y1F4bjBIeTlMVFFEeFFMTHQzbFJidkhEbkY3eWNRZ19KYjEtQWI4X3pWdWIwcGZ5VWRUSG5kOFZ2T2M5ODl2b0Jla0NqNzhsQm9kUjNFeEVrRUg1X2s5dlF6aGVUeHJVeW55OVVtUDFqZ3d4VmNhMXJ0c3BkamNyUFpOZndaY2E0R3FHSWxtX0ZlcTI4Ynk4bFU4UWtVa1dWOXNXbHA1U1E4cGVxcmpvV3JFRjAtZnJKdTc0cw?oc=5",
-      "s": 1
+      "t": "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2",
+      "l": "https://www.business-standard.com/markets/news/vodafone-idea-share-price-declines-3-5-on-wider-than-expected-loss-in-q2-126111300408_1.html",
+      "s": 2
      }
     ]
    }
@@ -110,42 +73,69 @@
   "negative": [
    {
     "symbol": "HDFCBANK",
-    "score": -6.4,
-    "signal": "NEG NEWS, price holding",
-    "price": 812.3,
-    "chg": 0.71,
-    "volx": 1.0,
+    "score": -3.1,
+    "signal": "AVOID/SELL",
+    "price": 804.0,
+    "chg": -1.02,
+    "volx": 0.59,
     "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-livestock-price-today-live-updates-12-nov-2026/liveblog/135753001.cms",
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Weekly Performance Overview",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-13-nov-2026/liveblog/135787827.cms",
       "s": -3
      },
      {
-      "t": "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",
-      "l": "https://www.business-standard.com/markets/news/hdfc-bank-18-other-fallen-angels-could-be-d-st-s-next-winners-elara-126111200555_1.html",
-      "s": -3
-     },
-     {
-      "t": "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWJfQmNWSTZxTUhZR1J5TDg2WUFqenlFOTN1YXVrR2xETW83X1dHMkFlSEFyQ2VXWXB3VnNjR0w4S2lkVzVmQ0htcGRXbjllUUNDa0E4TnBrcnpodHpBTGJpYUpfT3hFSTNnM09vbG9YdXRHQkludkhDTVlfb1dJYkhDZDBQVzRWelVCUVlIa2tCRUptZUltOW9WVktTNnN4ZmVGV3VoQ1FWa21fSFpwRHpjQ2dHS2JBNlNkaDFsY2E2T29UR3lvbFZOUVdFWEHSAdQBQVVfeXFMT0dDOEU5QlRZTFNoUGRjWThQZURKUGZWRVJyMks4T3VZbDVFelN2M1N6aEJxcTVFd2R3OUtXRWRRVmZsVWRuNDV6c1YtOVlRQUlBOTRXNGkydmlNdkZPV0lLVWhWLUtXWnRlVXNWUnpSMmktdmVDa2FpaUtpSndPRnZocmJqWGo2Sk5XNXFWUWxKbDJDMlNjb2NFWlVqUU9vV21sVXZwTWFYeElvaDJud2ZqaTFqRjhZaEJXRGo3Zm5hUkNwMDdJb3dONWtDNzhZbm5URGs?oc=5",
+      "t": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXgyYUNZcWVlQjN0YkdmT1FJOHk0QkNXTERyaGVhc2dZMmNJaEpUOHd3cnNIMVF0Z2drOHJ4MnZhemZKOURldWVXZDVsaGdwUThzQVBoR3c1OWxjb2x6YVA5clVQUlpWNm56S2NHaTB3NXQxay1TeGpNeGlpUmRELS1zdzR6RTNyYk95UWJya3ZGWmg2LS13Q21qOGl0SWVpS3hseXFlNDdhN3dNRTQ3Vml4encycjAyZmFheXBaRG52R0ZBMnVSemhOQ1BSaGN3ZHdRNkFGUlNBdw?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "BDL",
-    "score": -2.2,
+    "symbol": "GRASIM",
+    "score": -2.4,
     "signal": "AVOID/SELL",
-    "price": 1055.1,
-    "chg": -4.08,
-    "volx": 5.43,
+    "price": 3034.0,
+    "chg": -2.6,
+    "volx": 2.59,
     "above20": false,
     "news": [
      {
-      "t": "Bharat Dynamics Q2 FY27 results: Net profit drops 15% YoY; revenue increases to \u20b91,664 crore - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMkt0dXlLSUtndEVEeXVMR2xWM2pMS1JVNU10OXZDaFYyTl82cUpxaHBmeGtwOEVqUlFFYUIxTHFabFQ3YXZ5ZTNIY2lIcmQtMFIwUG5rS0RVaDNtMF9vRmJua19KUVRKUDhaTXF0Q3E1MWs4NEdZcnFjeXZkeUMwZUVaRUJsUDNIdExEN1VFSXN5allBR1Rxbkx3el9Gb3Iza1ZZTWVOblNqZnJvR2VwZEg0OVZoVUFLcmxfdUJMYmMzVlR4aXZMQjNSODh6eWp2MWgxbGQ1NWZvaDY0MlA2Wk9ZTmwxZw?oc=5",
+      "t": "Grasim Industries Q2 FY27 results: Firm reports net loss of \u20b9234 crore YoY; revenue grows to \u20b950,105 crore - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcGhvOHpzemc2QXc2OU9GM25wa3hpbUxFWmlVbzNualVNQlVZM0lOVlpnU3lDQTVSVFM4alhXSmY4b3d3eVRnTXViYk9tdG8tN0Jvd1lGWUhmcjF5NTNkbHlFazF1Tm5yUy1OakJRal9rUnRaREtUTEFJeDZ2N0MzbzY4U0RWLWhwa1dWdTMxZDZrN1BzRGgwcjVLdVdWdHdDY3QwUGNEWWpzdWhSX1JCeDRPTXExNXl3eFRodjNUOVFKekR1X1hacGVGNFI1MlpGbWlVZi04dlFxUmIwTjlELWhNVkF5OXdsXzVzWEpLYkZxamduRzI5RA?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "IRCTC",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 457.7,
+    "chg": -2.81,
+    "volx": 1.6,
+    "above20": true,
+    "news": [
+     {
+      "t": "IRCTC Q2 Profit Falls 23% on Rail Neer GST Provision - Equitypandit",
+      "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnI4Vm9NUEp0akRPMVhLMGJia2w1YXlqcGY0R3pLXzZFeWJqYTgweVJHZDVaRG8xVWpXSHJoblZRZnV1OENabkw5WGN1RzE3SUNnUThGQURfWEQteWFRc0UtRGxheTdVR3RTcGFQYkVfUUM2Z2QxMlJXWjdjMUtsS2g1cXZsZjJz?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "TITAN",
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 4844.9,
+    "chg": -1.56,
+    "volx": 0.66,
+    "above20": true,
+    "news": [
+     {
+      "t": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXgyYUNZcWVlQjN0YkdmT1FJOHk0QkNXTERyaGVhc2dZMmNJaEpUOHd3cnNIMVF0Z2drOHJ4MnZhemZKOURldWVXZDVsaGdwUThzQVBoR3c1OWxjb2x6YVA5clVQUlpWNm56S2NHaTB3NXQxay1TeGpNeGlpUmRELS1zdzR6RTNyYk95UWJya3ZGWmg2LS13Q21qOGl0SWVpS3hseXFlNDdhN3dNRTQ3Vml4encycjAyZmFheXBaRG52R0ZBMnVSemhOQ1BSaGN3ZHdRNkFGUlNBdw?oc=5",
       "s": -3
      }
     ]
@@ -154,46 +144,30 @@
     "symbol": "AXISBANK",
     "score": -1.4,
     "signal": "NEUTRAL",
-    "price": 1342.9,
-    "chg": 0.49,
-    "volx": 1.07,
+    "price": 1331.0,
+    "chg": -0.89,
+    "volx": 0.58,
     "above20": true,
     "news": [
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank  Price Movement Analysis",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-12-nov-2026/liveblog/135753254.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "INDUSINDBK",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 931.35,
-    "chg": 3.48,
-    "volx": 0.98,
-    "above20": true,
-    "news": [
-     {
-      "t": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Current Market Performance",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-12-nov-2026/liveblog/135753045.cms",
+      "t": "Axis Bank Share Price Live Updates: Axis Bank  Daily and Weekly Returns",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-13-nov-2026/liveblog/135787285.cms",
       "s": -3
      }
     ]
    },
    {
     "symbol": "ICICIBANK",
-    "score": -1.3,
+    "score": -1.4,
     "signal": "NEUTRAL",
-    "price": 1590.0,
-    "chg": 1.17,
-    "volx": 0.94,
+    "price": 1583.6,
+    "chg": -0.4,
+    "volx": 0.64,
     "above20": true,
     "news": [
      {
-      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Market Value",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-12-nov-2026/liveblog/135753052.cms",
+      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Trading Status",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-13-nov-2026/liveblog/135787540.cms",
       "s": -3
      }
     ]
