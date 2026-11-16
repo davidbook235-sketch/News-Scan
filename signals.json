@@ -1,35 +1,13 @@
 {
- "updated": "13 Nov 2026 17:33 IST",
+ "updated": "16 Nov 2026 18:07 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
- "scanned": 249,
+ "scanned": 248,
  "swing": [
   {
-   "symbol": "LGEINDIA",
+   "symbol": "EMBASSY",
    "setup": "Pullback",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 1745.4,
-   "stop": 1692.03,
-   "risk": 53.37,
-   "t1": 1825.46,
-   "t2": 1905.52,
-   "rsi": 55.0,
-   "volx": 1.32,
-   "rs": 7.7,
-   "date": "2026-11-13",
-   "news": ""
-  },
-  {
-   "symbol": "GVT&D",
-   "setup": "Breakout",
    "score": 4,
    "checks": {
     "Trend": true,
@@ -38,136 +16,184 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 4420.0,
-   "stop": 4060.32,
-   "risk": 359.68,
-   "t1": 4959.52,
-   "t2": 5499.04,
-   "rsi": 60.8,
-   "volx": 1.96,
-   "rs": -2.3,
+   "entry": 423.61,
+   "stop": 415.12,
+   "risk": 8.49,
+   "t1": 436.35,
+   "t2": 449.08,
+   "rsi": 56.6,
+   "volx": 1.44,
+   "rs": -5.6,
    "date": "2026-11-13",
+   "news": ""
+  },
+  {
+   "symbol": "GRASIM",
+   "setup": "Pullback",
+   "score": 4,
+   "checks": {
+    "Trend": true,
+    "RelStrength": false,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 3084.4,
+   "stop": 2994.43,
+   "risk": 89.97,
+   "t1": 3219.35,
+   "t2": 3354.31,
+   "rsi": 52.6,
+   "volx": 1.3,
+   "rs": -9.0,
+   "date": "2026-11-16",
    "news": ""
   }
  ],
  "exits": [],
  "news": {
-  "positive": [
-   {
-    "symbol": "IDEA",
-    "score": 1.0,
-    "signal": "NEUTRAL",
-    "price": 12.57,
-    "chg": -3.08,
-    "volx": 1.28,
-    "above20": false,
-    "news": [
-     {
-      "t": "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2",
-      "l": "https://www.business-standard.com/markets/news/vodafone-idea-share-price-declines-3-5-on-wider-than-expected-loss-in-q2-126111300408_1.html",
-      "s": 2
-     }
-    ]
-   }
-  ],
+  "positive": [],
   "negative": [
    {
-    "symbol": "HDFCBANK",
-    "score": -3.1,
-    "signal": "AVOID/SELL",
-    "price": 804.0,
-    "chg": -1.02,
-    "volx": 0.59,
+    "symbol": "MEESHO",
+    "score": -1.9,
+    "signal": "NEUTRAL",
+    "price": 251.19,
+    "chg": -2.29,
+    "volx": 1.23,
     "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Weekly Performance Overview",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-13-nov-2026/liveblog/135787827.cms",
-      "s": -3
-     },
-     {
-      "t": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXgyYUNZcWVlQjN0YkdmT1FJOHk0QkNXTERyaGVhc2dZMmNJaEpUOHd3cnNIMVF0Z2drOHJ4MnZhemZKOURldWVXZDVsaGdwUThzQVBoR3c1OWxjb2x6YVA5clVQUlpWNm56S2NHaTB3NXQxay1TeGpNeGlpUmRELS1zdzR6RTNyYk95UWJya3ZGWmg2LS13Q21qOGl0SWVpS3hseXFlNDdhN3dNRTQ3Vml4encycjAyZmFheXBaRG52R0ZBMnVSemhOQ1BSaGN3ZHdRNkFGUlNBdw?oc=5",
+      "t": "SoftBank Offloads 7.6 Cr Meesho Shares In Rs 1,885 Cr Block Deal - TradingView",
+      "l": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnc5SWw2a2ZSU2xtTE03QlA4VVRzbkc0OFF4alhRTy05MnN6REpiS2dFcjhqRzJJZk1wQk1aQmphOWhON1ZHYkRMdlNMUXZ1VVY1YkpoU05hQm8zUlZkdmM1RkdpNGlXUTNiSTNqQS1BRW9wWlVkeFAta29vUjVpVGZDVDNwTmlYRF8tTVI0eU1IbzAyYWFyX1AxMm43SzBwSl9KSmdNc0NhVUU5elllcDgwbDhMZHlURjY5NGpn?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "GRASIM",
-    "score": -2.4,
-    "signal": "AVOID/SELL",
-    "price": 3034.0,
-    "chg": -2.6,
-    "volx": 2.59,
+    "symbol": "LAURUSLABS",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 2220.0,
+    "chg": -8.42,
+    "volx": 2.65,
     "above20": false,
     "news": [
      {
-      "t": "Grasim Industries Q2 FY27 results: Firm reports net loss of \u20b9234 crore YoY; revenue grows to \u20b950,105 crore - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcGhvOHpzemc2QXc2OU9GM25wa3hpbUxFWmlVbzNualVNQlVZM0lOVlpnU3lDQTVSVFM4alhXSmY4b3d3eVRnTXViYk9tdG8tN0Jvd1lGWUhmcjF5NTNkbHlFazF1Tm5yUy1OakJRal9rUnRaREtUTEFJeDZ2N0MzbzY4U0RWLWhwa1dWdTMxZDZrN1BzRGgwcjVLdVdWdHdDY3QwUGNEWWpzdWhSX1JCeDRPTXExNXl3eFRodjNUOVFKekR1X1hacGVGNFI1MlpGbWlVZi04dlFxUmIwTjlELWhNVkF5OXdsXzVzWEpLYkZxamduRzI5RA?oc=5",
+      "t": "Laurus Labs shares crash 9% as promoters sell shares worth Rs 500 crore - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2syV29uaU01TnphRFZPbGgxdlJJZk5fSFFLYlJZMWtzZG51NkVfc3J6ZVJWXzRxOEp2MUFXT2tsaUJBUG40bVA3YWV4Z3I0MWpQa29BenlpSXJ6RVg3Z0Z2aWluUm1WeXF1ekVDZm8tRTFhME9JTWloSnJpNEd3ZzU2X3Nvd2d6ajQ2UjNSX1E3TG1VSm5ya0F1cS1HS1RCOVRZcC05ZngxNGltRlRuNVo5U1FKdk5jeVBON0NhS2F4TmFTRl9rVzBxLWVzTnlYc1HSAdcBQVVfeXFMTmZRSjdxTzQtMDg0TGY1VmN6MGc4WmZJYVFPY1drdFpRUldmbi1pSFdOZ3ZNbnFOQ1RrVFFSTDh3TFJoZUR3R1Q0SjZITXFTT3g2bmpGdkNhM1NqbGo1eFhyVW5TWHFGd0VhRVNVSTlZWXUzc21ZMll2ampLSUkyVV90QUR3eGVrdjZnWklMeU41eWRud3BMaV9CNmR1OWNDLWs3c0VncFoxMmJoZl9sMEk2VkNGaHJzdEdJRmtFWU81QzJVVUw0VjhWVlMxbURXR3J0NHg3Zjg?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "IRCTC",
-    "score": -1.8,
+    "symbol": "YESBANK",
+    "score": -1.7,
     "signal": "NEUTRAL",
-    "price": 457.7,
-    "chg": -2.81,
-    "volx": 1.6,
+    "price": 18.02,
+    "chg": 3.44,
+    "volx": 0.93,
     "above20": true,
     "news": [
      {
-      "t": "IRCTC Q2 Profit Falls 23% on Rail Neer GST Provision - Equitypandit",
-      "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnI4Vm9NUEp0akRPMVhLMGJia2w1YXlqcGY0R3pLXzZFeWJqYTgweVJHZDVaRG8xVWpXSHJoblZRZnV1OENabkw5WGN1RzE3SUNnUThGQURfWEQteWFRc0UtRGxheTdVR3RTcGFQYkVfUUM2Z2QxMlJXWjdjMUtsS2g1cXZsZjJz?oc=5",
+      "t": "YES Bank shares gain amid review petition in SC over Rs 8,415 crore AT-1 bonds ruling - Business Today",
+      "l": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONmlTT2NsRFJyU3dSb2lIMWtLc3RoOUJIUDR0Y2dUano4UVF0c2o5dnZKWnh1cjFSQm56NkZvXzFMdjhpekx4dmhxcVRCZ2d5MWs1UVdXVDZFX1c3YmNnWGZpcVo4YU9fZDNMYnEwbnpTcEtTTktjbXBRYVRpQlh2ZlRQcWtIbXVpTzZ3al9qMzJ3cVFUeEJaZGpmR1RKUHM2Tlp5OTU1MzllT2piS2VZTnQyTlQxODItMXFPT1lKQlhVMXVnOUtMMllGRjRXZWMybGZ4aWdVdk9IOU8tZkdNQlYtTzBhMUHSAewBQVVfeXFMTlQzZUpQQUVSRTRtdnNPckVrZ3ZJeXhZY3RUeUdObHFFa1E0MVdzM0RyR3ZnM0NQQkJBWW5jRklkMDhHRGkyeUZJSTB0T1k5MXl6TUstRW51NXgxdzJOcFNoUkxtZkNHbFZObDhRS1ZOMFVZdTJ2TmNBV3lKdEFJQzBUN2hoa1NWNkVDNFFuZC00aGNLN1gzOTNHalFoV3l4aGdBRnVJcUl4NXB2V2F5VV9IYWxZaTJ5YXM4MVJmTHNZb0tTRlFzUW1PaFFBVDE4eXJpVk9ab2hZWmRqb3ItTkpwLWl6WHk4STZQelk?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "TITAN",
-    "score": -1.6,
+    "symbol": "TMCV",
+    "score": -1.5,
     "signal": "NEUTRAL",
-    "price": 4844.9,
-    "chg": -1.56,
+    "price": 428.25,
+    "chg": -1.22,
     "volx": 0.66,
     "above20": true,
     "news": [
      {
-      "t": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXgyYUNZcWVlQjN0YkdmT1FJOHk0QkNXTERyaGVhc2dZMmNJaEpUOHd3cnNIMVF0Z2drOHJ4MnZhemZKOURldWVXZDVsaGdwUThzQVBoR3c1OWxjb2x6YVA5clVQUlpWNm56S2NHaTB3NXQxay1TeGpNeGlpUmRELS1zdzR6RTNyYk95UWJya3ZGWmg2LS13Q21qOGl0SWVpS3hseXFlNDdhN3dNRTQ3Vml4encycjAyZmFheXBaRG52R0ZBMnVSemhOQ1BSaGN3ZHdRNkFGUlNBdw?oc=5",
+      "t": "Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target",
+      "l": "https://www.business-standard.com/markets/news/tata-motors-pv-shares-plunge-9-after-q2-results-brokerages-cut-target-126111600451_1.html",
       "s": -3
      }
     ]
    },
    {
     "symbol": "AXISBANK",
-    "score": -1.4,
+    "score": -1.3,
     "signal": "NEUTRAL",
-    "price": 1331.0,
-    "chg": -0.89,
-    "volx": 0.58,
+    "price": 1342.4,
+    "chg": 0.86,
+    "volx": 0.76,
     "above20": true,
     "news": [
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank  Daily and Weekly Returns",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-13-nov-2026/liveblog/135787285.cms",
+      "t": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Performance",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-16-nov-2026/liveblog/135870481.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "HDFCBANK",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 816.5,
+    "chg": 1.55,
+    "volx": 0.69,
+    "above20": true,
+    "news": [
+     {
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Market Activity Today",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-16-nov-2026/liveblog/135870632.cms",
       "s": -3
      }
     ]
    },
    {
     "symbol": "ICICIBANK",
-    "score": -1.4,
+    "score": -1.3,
     "signal": "NEUTRAL",
-    "price": 1583.6,
-    "chg": -0.4,
-    "volx": 0.64,
+    "price": 1585.0,
+    "chg": 0.09,
+    "volx": 0.56,
     "above20": true,
     "news": [
      {
-      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Trading Status",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-13-nov-2026/liveblog/135787540.cms",
+      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Movement Today",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-16-nov-2026/liveblog/135870794.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "SBIN",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 1090.5,
+    "chg": 0.97,
+    "volx": 1.13,
+    "above20": true,
+    "news": [
+     {
+      "t": "State Bank of India Share Price Live Updates: Announcement under Regulation 30 (LODR)-Updates on Acquisition",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-16-nov-2026/liveblog/135870828.cms",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BANKINDIA",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 152.97,
+    "chg": -0.73,
+    "volx": 1.23,
+    "above20": true,
+    "news": [
+     {
+      "t": "State Bank of India Share Price Live Updates: Announcement under Regulation 30 (LODR)-Updates on Acquisition",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-16-nov-2026/liveblog/135870828.cms",
       "s": -3
      }
     ]
