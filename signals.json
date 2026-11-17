@@ -1,151 +1,267 @@
 {
- "updated": "16 Nov 2026 18:07 IST",
+ "updated": "17 Nov 2026 18:34 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
- "scanned": 248,
+ "scanned": 249,
  "swing": [
   {
-   "symbol": "EMBASSY",
+   "symbol": "ZYDUSLIFE",
    "setup": "Pullback",
    "score": 4,
    "checks": {
     "Trend": true,
-    "RelStrength": false,
-    "Volume": true,
+    "RelStrength": true,
+    "Volume": false,
     "Momentum": true,
     "Setup": true
    },
-   "entry": 423.61,
-   "stop": 415.12,
-   "risk": 8.49,
-   "t1": 436.35,
-   "t2": 449.08,
-   "rsi": 56.6,
-   "volx": 1.44,
-   "rs": -5.6,
-   "date": "2026-11-13",
+   "entry": 1204.2,
+   "stop": 1172.34,
+   "risk": 31.86,
+   "t1": 1251.99,
+   "t2": 1299.78,
+   "rsi": 56.0,
+   "volx": 0.36,
+   "rs": 1.9,
+   "date": "2026-11-17",
    "news": ""
   },
   {
-   "symbol": "GRASIM",
+   "symbol": "BOSCHLTD",
    "setup": "Pullback",
    "score": 4,
    "checks": {
     "Trend": true,
-    "RelStrength": false,
-    "Volume": true,
+    "RelStrength": true,
+    "Volume": false,
     "Momentum": true,
     "Setup": true
    },
-   "entry": 3084.4,
-   "stop": 2994.43,
-   "risk": 89.97,
-   "t1": 3219.35,
-   "t2": 3354.31,
-   "rsi": 52.6,
-   "volx": 1.3,
-   "rs": -9.0,
-   "date": "2026-11-16",
+   "entry": 49085.0,
+   "stop": 47787.61,
+   "risk": 1297.39,
+   "t1": 51031.08,
+   "t2": 52977.16,
+   "rsi": 54.7,
+   "volx": 0.61,
+   "rs": 0.0,
+   "date": "2026-11-17",
    "news": ""
   }
  ],
  "exits": [],
  "news": {
-  "positive": [],
+  "positive": [
+   {
+    "symbol": "DLF",
+    "score": 2.1,
+    "signal": "BUY WATCH",
+    "price": 765.95,
+    "chg": 1.48,
+    "volx": 1.05,
+    "above20": true,
+    "news": [
+     {
+      "t": "Nifty Realty index surges 14% in November; DLF hits 52-week high",
+      "l": "https://www.business-standard.com/markets/news/nifty-realty-index-surges-14-in-november-dlf-hits-52-week-high-126111700239_1.html",
+      "s": 2
+     },
+     {
+      "t": "Nifty Realty index surges 14% in November; DLF hits 52-week high - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcThfOVlYRlEtX2pGWTdZQXNxZzgtd2EzaXFUVnVRWkp0VTdycmZCajcxdWNPS1FlRlRfNVM3alY1NDlsVmNTanZpaWtJZU9GbFRvdXVNTHdSbFlmeVcwaEk0YldPdFU1THZXMHFsR2d4elMyTzQ3bHZRWFJtSld3UEpaNEhMdnVxam5ORW5wOFVxNU5WRWVzb0d4LTB6bnJtS1YwaW82empaWkpHRXBZYjRPaElJMUNwQ1ZFcTRLYWpFNmF5cko5MNIBzgFBVV95cUxNQ250YkpjUDRvSmQ0RHY0U0NWdUN2R1JSaWZHRGM2bHIwWUVjTXFHaFNFR0thX2xJc012akQ2ZWkzdy1ZTUszdXhmZ3c4bUpTdHQyYTFpY3hJeGpWaXd2c3ZqRHhoX0o3YXdMMzdPYTVHNnRjN2JSSkp6Zi1PVDk1N0dIVjZKUl9Dc2k0MTBCc0pobW9SNEtHNXpoSXd6Mkd0MmRBZ3Jac2pwOGxieGtIUHVmMGVIMGhDVG5WT1hQOUFVRjFyaEViemVFem5LUQ?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "EICHERMOT",
+    "score": 1.5,
+    "signal": "NEUTRAL",
+    "price": 7828.0,
+    "chg": 3.01,
+    "volx": 1.39,
+    "above20": true,
+    "news": [
+     {
+      "t": "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
+      "l": "https://www.business-standard.com/markets/news/eicher-motors-jumps-3-stock-top-gainer-in-nifty-auto-brokerages-upbeat-126111700622_1.html",
+      "s": 2
+     }
+    ]
+   }
+  ],
   "negative": [
    {
-    "symbol": "MEESHO",
-    "score": -1.9,
-    "signal": "NEUTRAL",
-    "price": 251.19,
-    "chg": -2.29,
-    "volx": 1.23,
-    "above20": true,
-    "news": [
-     {
-      "t": "SoftBank Offloads 7.6 Cr Meesho Shares In Rs 1,885 Cr Block Deal - TradingView",
-      "l": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnc5SWw2a2ZSU2xtTE03QlA4VVRzbkc0OFF4alhRTy05MnN6REpiS2dFcjhqRzJJZk1wQk1aQmphOWhON1ZHYkRMdlNMUXZ1VVY1YkpoU05hQm8zUlZkdmM1RkdpNGlXUTNiSTNqQS1BRW9wWlVkeFAta29vUjVpVGZDVDNwTmlYRF8tTVI0eU1IbzAyYWFyX1AxMm43SzBwSl9KSmdNc0NhVUU5elllcDgwbDhMZHlURjY5NGpn?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "LAURUSLABS",
-    "score": -1.8,
-    "signal": "NEUTRAL",
-    "price": 2220.0,
-    "chg": -8.42,
-    "volx": 2.65,
-    "above20": false,
-    "news": [
-     {
-      "t": "Laurus Labs shares crash 9% as promoters sell shares worth Rs 500 crore - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2syV29uaU01TnphRFZPbGgxdlJJZk5fSFFLYlJZMWtzZG51NkVfc3J6ZVJWXzRxOEp2MUFXT2tsaUJBUG40bVA3YWV4Z3I0MWpQa29BenlpSXJ6RVg3Z0Z2aWluUm1WeXF1ekVDZm8tRTFhME9JTWloSnJpNEd3ZzU2X3Nvd2d6ajQ2UjNSX1E3TG1VSm5ya0F1cS1HS1RCOVRZcC05ZngxNGltRlRuNVo5U1FKdk5jeVBON0NhS2F4TmFTRl9rVzBxLWVzTnlYc1HSAdcBQVVfeXFMTmZRSjdxTzQtMDg0TGY1VmN6MGc4WmZJYVFPY1drdFpRUldmbi1pSFdOZ3ZNbnFOQ1RrVFFSTDh3TFJoZUR3R1Q0SjZITXFTT3g2bmpGdkNhM1NqbGo1eFhyVW5TWHFGd0VhRVNVSTlZWXUzc21ZMll2ampLSUkyVV90QUR3eGVrdjZnWklMeU41eWRud3BMaV9CNmR1OWNDLWs3c0VncFoxMmJoZl9sMEk2VkNGaHJzdEdJRmtFWU81QzJVVUw0VjhWVlMxbURXR3J0NHg3Zjg?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
     "symbol": "YESBANK",
-    "score": -1.7,
-    "signal": "NEUTRAL",
-    "price": 18.02,
-    "chg": 3.44,
-    "volx": 0.93,
+    "score": -5.7,
+    "signal": "AVOID/SELL",
+    "price": 17.85,
+    "chg": -0.94,
+    "volx": 0.64,
     "above20": true,
     "news": [
      {
-      "t": "YES Bank shares gain amid review petition in SC over Rs 8,415 crore AT-1 bonds ruling - Business Today",
-      "l": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONmlTT2NsRFJyU3dSb2lIMWtLc3RoOUJIUDR0Y2dUano4UVF0c2o5dnZKWnh1cjFSQm56NkZvXzFMdjhpekx4dmhxcVRCZ2d5MWs1UVdXVDZFX1c3YmNnWGZpcVo4YU9fZDNMYnEwbnpTcEtTTktjbXBRYVRpQlh2ZlRQcWtIbXVpTzZ3al9qMzJ3cVFUeEJaZGpmR1RKUHM2Tlp5OTU1MzllT2piS2VZTnQyTlQxODItMXFPT1lKQlhVMXVnOUtMMllGRjRXZWMybGZ4aWdVdk9IOU8tZkdNQlYtTzBhMUHSAewBQVVfeXFMTlQzZUpQQUVSRTRtdnNPckVrZ3ZJeXhZY3RUeUdObHFFa1E0MVdzM0RyR3ZnM0NQQkJBWW5jRklkMDhHRGkyeUZJSTB0T1k5MXl6TUstRW51NXgxdzJOcFNoUkxtZkNHbFZObDhRS1ZOMFVZdTJ2TmNBV3lKdEFJQzBUN2hoa1NWNkVDNFFuZC00aGNLN1gzOTNHalFoV3l4aGdBRnVJcUl4NXB2V2F5VV9IYWxZaTJ5YXM4MVJmTHNZb0tTRlFzUW1PaFFBVDE4eXJpVk9ab2hZWmRqb3ItTkpwLWl6WHk4STZQelk?oc=5",
+      "t": "Yes Bank among 4 stocks showing RSI Trending Up",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-4-stocks-showing-rsi-trending-up/slideshow/135909214.cms",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-urban-company-bse-tata-group-hzl-yes-bank-ihcl-126111700078_1.html",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3dYUURkaDlXZHJqOUpCaGFhd1hWUndTd1dPYXZabWFia3I2SW9rcHBpQklFMU1xWU1BekNPZHByNjl2QnZfUUJ2LTBNY3NNbTFlZHZwRVBNUXhWX2s2cGk0Y3JqdGkydUxYRFVQbHAtZzgxQU5DWHA0ZDl0dDNTeWNoaXBsUGtwZ1RiUnZJVnJhYVVTYm90b2FLRTVOSHVqRUJZcmQxaklBQldOcVpXSWNDeDVjS3E3ZTk5UkZjaXl4LXc3T3pITNIBzgFBVV95cUxOU295d3BoMk1IY1JwRXYyRldfVGlOcld4N1RVMUF1ZHduNXpPN082QzNnRjRfQmk0T29sMXhSNHVDdjRVelp1Ym81RXZmcjdwc2FNWVBUZmFmUVNveng3YWFUX1ZDNHJtWXd3S2Myc0JfSVRHbHQ2d2Iyejdvcy1hdzJUREJiNEVQZk1oVE10SUdja3pSX19DelZkMURXOHpLSk5ualIzY1FFQTlndDg3UkROdkxmb2lzTURIZjVQdmltbVI3b1p2VG1GNE1RUQ?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "TMCV",
-    "score": -1.5,
-    "signal": "NEUTRAL",
-    "price": 428.25,
-    "chg": -1.22,
-    "volx": 0.66,
+    "symbol": "INDUSINDBK",
+    "score": -3.3,
+    "signal": "NEG NEWS, price holding",
+    "price": 931.0,
+    "chg": 1.8,
+    "volx": 1.07,
     "above20": true,
     "news": [
      {
-      "t": "Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target",
-      "l": "https://www.business-standard.com/markets/news/tata-motors-pv-shares-plunge-9-after-q2-results-brokerages-cut-target-126111600451_1.html",
+      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908102.cms",
       "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "AXISBANK",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 1342.4,
-    "chg": 0.86,
-    "volx": 0.76,
-    "above20": true,
-    "news": [
+     },
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Performance",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-16-nov-2026/liveblog/135870481.cms",
+      "t": "IndusInd Bank, Mastercard join hands for cross-border payments; stock rises 1.2% - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVUp6cWZRZ3l3SU5qUmtDXzZ0MVAtY1FWemlYdDZCcjFOTTZZa01TOWdNVUNwZTBickQ0TC16dnpZSlpEdVZOR2hrNEhOdzlpSi12VVR6Qi05R3U5LWZHdTFoZnVzSHlWaHdIb25jM3QwbnJra2h6Tld0X1ZlalQ3WU9nal96VV9CUkZrWUt2cm1pQWhfRExHMEtkZkgwOGFFaW5CaXZ5LU1xQ1lKR3BqSWhqVDRqZ1dseUh2ZkVwcC1IYURPejZCTU5pczRrbEg0bVZ3ZXgtVFdZQnlYc2x4bFlnSUJwYzlfaUY00gHyAUFVX3lxTE90Nnc0dWFfRl9OeUdxcnRsUXJPN3l3Q2ZLaWRQbjV1OFFRWWJYYTVtWFM0QVRWYUEtREtZRGNUSGJ5Qk9NeS1JaUdrODUyTFh4UXFDRHZQSnVmZ195MWRWWkd6dkw4aGNxdG0wSTJ1b1BxbURJMm5lMFBiWE8ydC1NcTZHVXVUZ3duUGU5ckRrQjc3ZTB0TGFkTVUtQ3piS3U1ZUdRenYxVG1VaWNGZTFtLXgyVGpQR21MTzhFakVsUW1WUVdWTkhpSEFCVmtMaFN5NzJJd2swS0Y1ak96dlJsZmNhbWp3WTZPSV9RMklFNXNB?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "HDFCBANK",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 816.5,
-    "chg": 1.55,
-    "volx": 0.69,
+    "score": -3.2,
+    "signal": "AVOID/SELL",
+    "price": 814.95,
+    "chg": -0.19,
+    "volx": 0.9,
     "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank's Market Activity Today",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-16-nov-2026/liveblog/135870632.cms",
+      "t": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-17-nov-2026/liveblog/135908470.cms",
+      "s": -3
+     },
+     {
+      "t": "M&M, Airtel, TechM, HDFC Bank lead Nifty's 3100 pts rally; more steam left?",
+      "l": "https://www.business-standard.com/markets/news/m-m-airtel-techm-hdfc-bank-lead-nifty-s-3100-pts-rally-more-steam-left-126111700263_1.html",
+      "s": -3
+     },
+     {
+      "t": "Honasa Consumer, HDFC Bank: Two stock ideas by Shrikant Chouhan - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMURWT3l5MlZGYjZvb1ZoNkVsOEZ0a2owYk8yWm5QdnltcWdydGFhLXVtcFdpSExlWHh1ZGduOFpfNEJRTHdTb016WDFEY1JFVldSSWJPdFZEYmxmekNCRW9UdnAwRUNHYXlxRHV4SFlZdng3YzVDbnBzT2FnMjJ6M1pBWkV0dVBrSTR2WWdIZGh4YVdtdFFLcE1lNXozOFpaQzk5Q2lyMi1ZcHRMZ09EaXpXaFBkSXE2bER2azhFclNsU05fMWw40gHMAUFVX3lxTE5ZcTRDVVZ3cGxSN0g2RGozcmpVQlV1aFNBaVllV3M4U3BVMXE4WUhfaEZFbGx4VWJsNkppSGVHOXNZMzNDOW1qREoyNG1kbUI1c1dyVWJIWDdCdDBaSERCekxnLWNPZEdIREdtVE9VTFJqT0lrNXFKR1dNOVJxNkpRalpNVERaTllSdFg3NEozN1J1dW9XdUE0THhnQTcySm5hMkVsbkFXdmZ5WUdneE1qNUFudVI4cXJNQi1GN0RwRTNxMVgxTDVFY2g0dw?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BSE",
+    "score": -2.5,
+    "signal": "AVOID/SELL",
+    "price": 3864.9,
+    "chg": -0.58,
+    "volx": 2.02,
+    "above20": true,
+    "news": [
+     {
+      "t": "Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-urban-company-bse-tata-group-hzl-yes-bank-ihcl-126111700078_1.html",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3dYUURkaDlXZHJqOUpCaGFhd1hWUndTd1dPYXZabWFia3I2SW9rcHBpQklFMU1xWU1BekNPZHByNjl2QnZfUUJ2LTBNY3NNbTFlZHZwRVBNUXhWX2s2cGk0Y3JqdGkydUxYRFVQbHAtZzgxQU5DWHA0ZDl0dDNTeWNoaXBsUGtwZ1RiUnZJVnJhYVVTYm90b2FLRTVOSHVqRUJZcmQxaklBQldOcVpXSWNDeDVjS3E3ZTk5UkZjaXl4LXc3T3pITNIBzgFBVV95cUxOU295d3BoMk1IY1JwRXYyRldfVGlOcld4N1RVMUF1ZHduNXpPN082QzNnRjRfQmk0T29sMXhSNHVDdjRVelp1Ym81RXZmcjdwc2FNWVBUZmFmUVNveng3YWFUX1ZDNHJtWXd3S2Myc0JfSVRHbHQ2d2Iyejdvcy1hdzJUREJiNEVQZk1oVE10SUdja3pSX19DelZkMURXOHpLSk5ualIzY1FFQTlndDg3UkROdkxmb2lzTURIZjVQdmltbVI3b1p2VG1GNE1RUQ?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "PNB",
+    "score": -2.0,
+    "signal": "NEUTRAL",
+    "price": 150.0,
+    "chg": 3.74,
+    "volx": 1.72,
+    "above20": true,
+    "news": [
+     {
+      "t": "Punjab National Bank share price zooms 31% in 1 month; hits 8-year high",
+      "l": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-zooms-31-in-1-month-hits-8-year-high-126111700500_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ETERNAL",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 375.05,
+    "chg": 1.06,
+    "volx": 1.06,
+    "above20": true,
+    "news": [
+     {
+      "t": "Eternal among 5 stocks hitting 52-week highs; stock rallies up to 15% in a month",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-15-in-a-month/slideshow/135924700.cms",
+      "s": -2
+     }
+    ]
+   },
+   {
+    "symbol": "BANKINDIA",
+    "score": -1.7,
+    "signal": "NEUTRAL",
+    "price": 159.28,
+    "chg": 4.12,
+    "volx": 2.08,
+    "above20": true,
+    "news": [
+     {
+      "t": "Bank of India Share Price Today Up 4% - Equitymaster",
+      "l": "https://news.google.com/rss/articles/CBMingJBVV95cUxQenF6WVc5RDY2Tk82VXUtNVItLVlHQjZjWUptSVBOTE1aV3g1VXUzYTF2bkhiakxocWwyNlRQR2N5N1I2Ym5OaEsyd2tlNWNDeDlRY2hjMnJYX0VlWjM4eEh2TFdScEY2cHZIajVFY0tjVjFETkFyV1BtZHRPNXZUN1JfeXp4WmVkN1hBeVZSQXN5ckxBLXp0T3ZFV1d4NGhneXRIY1hySGR6cTFpZmFiNEZ2d2ZOWi1uUl9VcnJlN2JVdUp1Y05ibF9UdXdxa1VmRS15V1BXQmNVLU5lSmk1SmlFY1loVHNCTnluNVNrTWgybW9YbUFFeUhzV3VXMER4SU1DZ1NBMTlPYWZDXzlJMXV0V0tTMGZBaDh1ZGln?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "M&M",
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 3399.0,
+    "chg": 1.8,
+    "volx": 0.86,
+    "above20": true,
+    "news": [
+     {
+      "t": "M&M, Airtel, TechM, HDFC Bank lead Nifty's 3100 pts rally; more steam left?",
+      "l": "https://www.business-standard.com/markets/news/m-m-airtel-techm-hdfc-bank-lead-nifty-s-3100-pts-rally-more-steam-left-126111700263_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BHARTIARTL",
+    "score": -1.6,
+    "signal": "NEUTRAL",
+    "price": 2138.3,
+    "chg": -0.71,
+    "volx": 0.66,
+    "above20": true,
+    "news": [
+     {
+      "t": "M&M, Airtel, TechM, HDFC Bank lead Nifty's 3100 pts rally; more steam left?",
+      "l": "https://www.business-standard.com/markets/news/m-m-airtel-techm-hdfc-bank-lead-nifty-s-3100-pts-rally-more-steam-left-126111700263_1.html",
       "s": -3
      }
     ]
@@ -154,46 +270,14 @@
     "symbol": "ICICIBANK",
     "score": -1.3,
     "signal": "NEUTRAL",
-    "price": 1585.0,
-    "chg": 0.09,
-    "volx": 0.56,
+    "price": 1598.7,
+    "chg": 0.86,
+    "volx": 0.87,
     "above20": true,
     "news": [
      {
-      "t": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Movement Today",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-16-nov-2026/liveblog/135870794.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "SBIN",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 1090.5,
-    "chg": 0.97,
-    "volx": 1.13,
-    "above20": true,
-    "news": [
-     {
-      "t": "State Bank of India Share Price Live Updates: Announcement under Regulation 30 (LODR)-Updates on Acquisition",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-16-nov-2026/liveblog/135870828.cms",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "BANKINDIA",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 152.97,
-    "chg": -0.73,
-    "volx": 1.23,
-    "above20": true,
-    "news": [
-     {
-      "t": "State Bank of India Share Price Live Updates: Announcement under Regulation 30 (LODR)-Updates on Acquisition",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-16-nov-2026/liveblog/135870828.cms",
+      "t": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-17-nov-2026/liveblog/135908104.cms",
       "s": -3
      }
     ]
