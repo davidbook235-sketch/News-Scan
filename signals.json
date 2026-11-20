@@ -1,13 +1,13 @@
 {
- "updated": "19 Nov 2026 18:18 IST",
+ "updated": "20 Nov 2026 18:12 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 249,
  "swing": [
   {
-   "symbol": "FLUOROCHEM",
-   "setup": "Breakout",
+   "symbol": "TECHM",
+   "setup": "Pullback",
    "score": 5,
    "checks": {
     "Trend": true,
@@ -16,19 +16,63 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 4978.6,
-   "stop": 4631.9,
-   "risk": 346.7,
-   "t1": 5498.65,
-   "t2": 6018.71,
-   "rsi": 66.3,
-   "volx": 2.78,
-   "rs": 0.9,
-   "date": "2026-11-19",
+   "entry": 1746.2,
+   "stop": 1689.25,
+   "risk": 56.95,
+   "t1": 1831.63,
+   "t2": 1917.06,
+   "rsi": 52.1,
+   "volx": 1.34,
+   "rs": 3.6,
+   "date": "2026-11-20",
    "news": ""
   },
   {
-   "symbol": "PERSISTENT",
+   "symbol": "PAYTM",
+   "setup": "Pullback",
+   "score": 5,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 1740.0,
+   "stop": 1649.47,
+   "risk": 90.53,
+   "t1": 1875.8,
+   "t2": 2011.59,
+   "rsi": 47.8,
+   "volx": 1.7,
+   "rs": 2.7,
+   "date": "2026-11-20",
+   "news": ""
+  },
+  {
+   "symbol": "DLF",
+   "setup": "Breakout",
+   "score": 4,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": true,
+    "Momentum": false,
+    "Setup": true
+   },
+   "entry": 785.0,
+   "stop": 747.47,
+   "risk": 37.53,
+   "t1": 841.29,
+   "t2": 897.58,
+   "rsi": 73.7,
+   "volx": 1.59,
+   "rs": 10.0,
+   "date": "2026-11-20",
+   "news": ""
+  },
+  {
+   "symbol": "LTTS",
    "setup": "Pullback",
    "score": 4,
    "checks": {
@@ -38,42 +82,42 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 5880.0,
-   "stop": 5725.14,
-   "risk": 154.86,
-   "t1": 6112.28,
-   "t2": 6344.57,
-   "rsi": 50.0,
-   "volx": 0.77,
-   "rs": 2.4,
-   "date": "2026-11-19",
+   "entry": 4082.5,
+   "stop": 3955.32,
+   "risk": 127.18,
+   "t1": 4273.27,
+   "t2": 4464.05,
+   "rsi": 54.6,
+   "volx": 0.61,
+   "rs": 8.7,
+   "date": "2026-11-20",
    "news": ""
   },
   {
-   "symbol": "ZYDUSLIFE",
-   "setup": "Pullback",
+   "symbol": "ULTRACEMCO",
+   "setup": "Breakout",
    "score": 4,
    "checks": {
     "Trend": true,
     "RelStrength": true,
-    "Volume": false,
-    "Momentum": true,
+    "Volume": true,
+    "Momentum": false,
     "Setup": true
    },
-   "entry": 1202.9,
-   "stop": 1172.87,
-   "risk": 30.03,
-   "t1": 1247.94,
-   "t2": 1292.99,
-   "rsi": 55.5,
-   "volx": 0.42,
-   "rs": 2.2,
-   "date": "2026-11-19",
+   "entry": 12939.0,
+   "stop": 12408.5,
+   "risk": 530.5,
+   "t1": 13734.75,
+   "t2": 14530.51,
+   "rsi": 75.7,
+   "volx": 1.96,
+   "rs": 5.9,
+   "date": "2026-11-20",
    "news": ""
   },
   {
-   "symbol": "LGEINDIA",
-   "setup": "Pullback",
+   "symbol": "APOLLOHOSP",
+   "setup": "Breakout",
    "score": 4,
    "checks": {
     "Trend": true,
@@ -82,15 +126,59 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1716.2,
-   "stop": 1661.72,
-   "risk": 54.48,
-   "t1": 1797.92,
-   "t2": 1879.64,
-   "rsi": 50.7,
-   "volx": 1.67,
-   "rs": -1.6,
-   "date": "2026-11-19",
+   "entry": 9200.0,
+   "stop": 8759.67,
+   "risk": 440.33,
+   "t1": 9860.49,
+   "t2": 10520.98,
+   "rsi": 70.5,
+   "volx": 2.68,
+   "rs": -2.0,
+   "date": "2026-11-20",
+   "news": ""
+  },
+  {
+   "symbol": "ADANIPOWER",
+   "setup": "Breakout",
+   "score": 4,
+   "checks": {
+    "Trend": true,
+    "RelStrength": false,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 211.95,
+   "stop": 202.47,
+   "risk": 9.48,
+   "t1": 226.17,
+   "t2": 240.39,
+   "rsi": 64.2,
+   "volx": 1.73,
+   "rs": -3.3,
+   "date": "2026-11-20",
+   "news": ""
+  },
+  {
+   "symbol": "BAJAJHLDNG",
+   "setup": "Breakout",
+   "score": 4,
+   "checks": {
+    "Trend": true,
+    "RelStrength": false,
+    "Volume": true,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 11669.0,
+   "stop": 11040.33,
+   "risk": 628.67,
+   "t1": 12612.01,
+   "t2": 13555.02,
+   "rsi": 63.7,
+   "volx": 1.5,
+   "rs": -4.0,
+   "date": "2026-11-20",
    "news": ""
   }
  ],
@@ -98,97 +186,17 @@
  "news": {
   "positive": [
    {
-    "symbol": "ITC",
-    "score": 1.3,
+    "symbol": "NH",
+    "score": 1.1,
     "signal": "NEUTRAL",
-    "price": 301.0,
-    "chg": 1.48,
-    "volx": 1.23,
+    "price": 1943.7,
+    "chg": 3.77,
+    "volx": 4.64,
     "above20": true,
     "news": [
      {
-      "t": "ITC share price tops \u20b9300-mark after 6-month gap; jumps 19% from Oct low",
-      "l": "https://www.business-standard.com/markets/news/itc-share-price-tops-300-mark-after-6-month-gap-jumps-19-from-oct-low-126111900484_1.html",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "BHARATFORG",
-    "score": 1.3,
-    "signal": "NEUTRAL",
-    "price": 1729.2,
-    "chg": 2.65,
-    "volx": 1.67,
-    "above20": false,
-    "news": [
-     {
-      "t": "SENSEX jumps over 400 pts, NIFTY trades above 25,300 in noon deals; LT Foods, Bharat Forge, Physicswallah among buzzing stocks - Upstox",
-      "l": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUERjdXFpQnpld1Ftd0RHbXBxNVpkMlE0Um1Ob1lnN2ZUdDhZQ1FpcjcxN0oxUVhLTktuMG9DTVNtT0RvWENuRmtoODJRMjRlWXh4SmpwMDNOcENXUmNNZWw1Y3pNWjBZdzJWRXBleWF3dTJpQVExQ0E1UXl2QjYyOTRKM2hwdy1NcmFINGhOR09kN1FpV2d6YndlUWMxQkwtR05SdFpoRk5ZLTRtTDhncExQdWpzNm42dVhfLXhXNUVHZHMtdTBBTm9XN0VYNlRhMzJvYkxwRHRTX29YYk5kNGxVN0p3Z3VSUEdOeVVneUFubTBTQUgwa0VfZFhBQ1R6VkVBOEdjMlJRLUdDUEE?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "EICHERMOT",
-    "score": 1.0,
-    "signal": "NEUTRAL",
-    "price": 8058.5,
-    "chg": 4.66,
-    "volx": 1.59,
-    "above20": true,
-    "news": [
-     {
-      "t": "Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6% - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN21KNmJoLVNDaTBMM2pBS2lZZFNRMktzMUpUTlNNZzNxZWJTV1QycWV6UmVpQjNQRUlCeDZtZ3lxYXlHNmV4LUR2eVNEQXhDYXZNbTh1RkFLM0gzSG40clZqMGhkdzhVTUY0Q1BWck94R3EzdmJkSjg4S3J2Z1VDV0xHamZBbVE1TkMyMzRQUzM3TFpJYjJhWXRmTUlxbU5kV0dpcTVkRzBkaWtaNDBfcVYyU0ZlN2gzSW5lZ2l4RkloMVRuOXZ2OFNHdHI3WU9pMVpORThYOURBaTNnMG1IZG9rNVlqalU20gHuAUFVX3lxTFAzcVVIdzFRWWlLX3hDNjRyZjJ3b3VxR3NWQVJtNE1LaEJ1VGNDdWFQVzFvb21DNklmV2xhZTN1V1FxVFlDYjVwLTQ4U1NyUVNzaGgzaWVEalZRY2NMdVZvY1BYb092dFJDdW1oQmk2OVBGZlNXNl8wU3JpS1U0aTBqU1ZtV1R6dFZWcEYwMC1Bd0xJWVQ4TDdVZFV0SU8yZkkyeF9LX0d5anM2RHdHUUFoSmtWczBYNloyRFpkWUE2ZnhDRHdXOTJFTUZ0SnNlVGlnUnZsQVVEQmw5RnpvUHVWV1RfazF6R0VNWGpsYlE?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "M&M",
-    "score": 1.0,
-    "signal": "NEUTRAL",
-    "price": 3509.0,
-    "chg": 4.46,
-    "volx": 1.63,
-    "above20": true,
-    "news": [
-     {
-      "t": "Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6% - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN21KNmJoLVNDaTBMM2pBS2lZZFNRMktzMUpUTlNNZzNxZWJTV1QycWV6UmVpQjNQRUlCeDZtZ3lxYXlHNmV4LUR2eVNEQXhDYXZNbTh1RkFLM0gzSG40clZqMGhkdzhVTUY0Q1BWck94R3EzdmJkSjg4S3J2Z1VDV0xHamZBbVE1TkMyMzRQUzM3TFpJYjJhWXRmTUlxbU5kV0dpcTVkRzBkaWtaNDBfcVYyU0ZlN2gzSW5lZ2l4RkloMVRuOXZ2OFNHdHI3WU9pMVpORThYOURBaTNnMG1IZG9rNVlqalU20gHuAUFVX3lxTFAzcVVIdzFRWWlLX3hDNjRyZjJ3b3VxR3NWQVJtNE1LaEJ1VGNDdWFQVzFvb21DNklmV2xhZTN1V1FxVFlDYjVwLTQ4U1NyUVNzaGgzaWVEalZRY2NMdVZvY1BYb092dFJDdW1oQmk2OVBGZlNXNl8wU3JpS1U0aTBqU1ZtV1R6dFZWcEYwMC1Bd0xJWVQ4TDdVZFV0SU8yZkkyeF9LX0d5anM2RHdHUUFoSmtWczBYNloyRFpkWUE2ZnhDRHdXOTJFTUZ0SnNlVGlnUnZsQVVEQmw5RnpvUHVWV1RfazF6R0VNWGpsYlE?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "MARUTI",
-    "score": 1.0,
-    "signal": "NEUTRAL",
-    "price": 13589.0,
-    "chg": 7.58,
-    "volx": 2.39,
-    "above20": true,
-    "news": [
-     {
-      "t": "Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6% - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN21KNmJoLVNDaTBMM2pBS2lZZFNRMktzMUpUTlNNZzNxZWJTV1QycWV6UmVpQjNQRUlCeDZtZ3lxYXlHNmV4LUR2eVNEQXhDYXZNbTh1RkFLM0gzSG40clZqMGhkdzhVTUY0Q1BWck94R3EzdmJkSjg4S3J2Z1VDV0xHamZBbVE1TkMyMzRQUzM3TFpJYjJhWXRmTUlxbU5kV0dpcTVkRzBkaWtaNDBfcVYyU0ZlN2gzSW5lZ2l4RkloMVRuOXZ2OFNHdHI3WU9pMVpORThYOURBaTNnMG1IZG9rNVlqalU20gHuAUFVX3lxTFAzcVVIdzFRWWlLX3hDNjRyZjJ3b3VxR3NWQVJtNE1LaEJ1VGNDdWFQVzFvb21DNklmV2xhZTN1V1FxVFlDYjVwLTQ4U1NyUVNzaGgzaWVEalZRY2NMdVZvY1BYb092dFJDdW1oQmk2OVBGZlNXNl8wU3JpS1U0aTBqU1ZtV1R6dFZWcEYwMC1Bd0xJWVQ4TDdVZFV0SU8yZkkyeF9LX0d5anM2RHdHUUFoSmtWczBYNloyRFpkWUE2ZnhDRHdXOTJFTUZ0SnNlVGlnUnZsQVVEQmw5RnpvUHVWV1RfazF6R0VNWGpsYlE?oc=5",
-      "s": 2
-     }
-    ]
-   },
-   {
-    "symbol": "TMCV",
-    "score": 1.0,
-    "signal": "NEUTRAL",
-    "price": 445.85,
-    "chg": 0.46,
-    "volx": 0.82,
-    "above20": true,
-    "news": [
-     {
-      "t": "Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6% - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN21KNmJoLVNDaTBMM2pBS2lZZFNRMktzMUpUTlNNZzNxZWJTV1QycWV6UmVpQjNQRUlCeDZtZ3lxYXlHNmV4LUR2eVNEQXhDYXZNbTh1RkFLM0gzSG40clZqMGhkdzhVTUY0Q1BWck94R3EzdmJkSjg4S3J2Z1VDV0xHamZBbVE1TkMyMzRQUzM3TFpJYjJhWXRmTUlxbU5kV0dpcTVkRzBkaWtaNDBfcVYyU0ZlN2gzSW5lZ2l4RkloMVRuOXZ2OFNHdHI3WU9pMVpORThYOURBaTNnMG1IZG9rNVlqalU20gHuAUFVX3lxTFAzcVVIdzFRWWlLX3hDNjRyZjJ3b3VxR3NWQVJtNE1LaEJ1VGNDdWFQVzFvb21DNklmV2xhZTN1V1FxVFlDYjVwLTQ4U1NyUVNzaGgzaWVEalZRY2NMdVZvY1BYb092dFJDdW1oQmk2OVBGZlNXNl8wU3JpS1U0aTBqU1ZtV1R6dFZWcEYwMC1Bd0xJWVQ4TDdVZFV0SU8yZkkyeF9LX0d5anM2RHdHUUFoSmtWczBYNloyRFpkWUE2ZnhDRHdXOTJFTUZ0SnNlVGlnUnZsQVVEQmw5RnpvUHVWV1RfazF6R0VNWGpsYlE?oc=5",
+      "t": "BSE Hospitals index soars 3%; Apollo, Max, Narayana Hrudayalaya surge 5%",
+      "l": "https://www.business-standard.com/markets/news/bse-hospitals-index-soars-3-apollo-max-narayana-hrudayalaya-surge-5-126112000298_1.html",
       "s": 2
      }
     ]
@@ -196,92 +204,176 @@
   ],
   "negative": [
    {
-    "symbol": "IDFCFIRSTB",
-    "score": -2.3,
-    "signal": "NEG NEWS, price holding",
-    "price": 86.05,
-    "chg": 4.37,
-    "volx": 2.34,
-    "above20": true,
-    "news": [
-     {
-      "t": "IDFC FIRST BANK Share Price Today Up 5% - Equitymaster",
-      "l": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQY0ZvdDNtOFJyUHRhTnliRGVXMlpfS2phV2hXdEpZNE9HX190VFRuRVdHcEc1YzdlNFJOTnk4QmJFMldjeUVBU3ZKb3VxckZSWTB6b0UtYWJUMDRNeldoeG5RakNZVlJ2SmRrVTc4ZVViV0s1TVpTSWtNUnU1NVhTWVZDNTBhVDZ2WC1kbV93bFFnR3IzZUhmbjc2bXZ2Y2xUZXdMbDl5VkJ2VVprTmUxaEZXb0NIMDVjY2VwcW9jZC0zY3JHMVphaDRPVHpYVTFjX2gwcjgwQWczMkJab1ZDWjVCZG13ZlYxTnJpWVJvRTZ1Y0RnTjJHR19YVjl2U3Bfa0lHcFdLVS1zTldLc0F6QVFRNFM3MHU3V2xDa3gyMVI?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "POLICYBZR",
-    "score": -1.9,
-    "signal": "NEUTRAL",
-    "price": 1015.0,
-    "chg": -1.95,
-    "volx": 1.58,
-    "above20": false,
-    "news": [
-     {
-      "t": "PB Fintech shares slide over 6% after co-founder Alok Bansal steps down",
-      "l": "https://www.business-standard.com/markets/news/pb-fintech-shares-slide-over-6-after-co-founder-alok-bansal-steps-down-126111900475_1.html",
-      "s": -3
-     }
-    ]
-   },
-   {
     "symbol": "HDFCBANK",
-    "score": -1.9,
-    "signal": "NEUTRAL",
-    "price": 821.8,
-    "chg": 1.69,
-    "volx": 0.62,
+    "score": -7.9,
+    "signal": "NEG NEWS, price holding",
+    "price": 846.0,
+    "chg": 2.94,
+    "volx": 1.82,
     "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-19-nov-2026/liveblog/135975925.cms",
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-20-nov-2026/liveblog/136013420.cms",
       "s": -3
      },
      {
-      "t": "Goldman Sachs names 22 \u2018high-growth\u2019 stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
-      "s": -1
+      "t": "HDFC Bank regains \u20b913 trillion market-cap; stock hits 8-month high",
+      "l": "https://www.business-standard.com/markets/news/hdfc-bank-regains-13-trillion-market-cap-stock-hits-8-month-high-126112000503_1.html",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank regains \u20b913 trillion market-cap; stock hits 8-month high - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUNHVUdUT2FOaTlyektTRHNwTUI2RjhZRV9YVDZ2bmpGYUo5TFhucV81SUFZZmZIQ1dTTEVhR2hfQzRZdklfdXBWa215X2FaVzhyZDhPMDZRSi1WNEtZVUNnQVRKOEk3UFNhakFkWkdJRExmWkcyNlNNVE5KWGQyQXlMMXhCU1BHdlAtX3BEUlphVTkzbVdvSWd4Vkg1X1BVWlBvRkhYUUVUald5S2hYTlBzS0d4VHlYQ216VWtUdzYwTXlTUXdGUjQySdIB0AFBVV95cUxOX1duRFJzZDBjZlhDQkFuWU5QWjFCUndGM296TzVDS21fOHA2RmN4dkN0Q0xtaUxYNFZmQU9XbHhYdlVnZ2YxYUpmR3ZHbkg4Nlg0allUS2JjYm1OR3BDLUZEQmRMdUZ5SkYxWDBFam9qd1prUFFYQnljYTE0RmtJY3YxUnVvVFpyeHJ0OGF0NzBCbWZlTkhBNEEydnZjQ3ZZZmdfN2REYzNzSFlnWFR1RktzYUxJOFFpV2NYYVVBWXB2S1pFUGN3QnRkbkgtUHBB?oc=5",
+      "s": -3
      }
     ]
    },
    {
     "symbol": "INDUSINDBK",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 923.65,
-    "chg": 1.29,
-    "volx": 1.38,
+    "score": -3.9,
+    "signal": "NEG NEWS, price holding",
+    "price": 1003.0,
+    "chg": 8.59,
+    "volx": 6.04,
     "above20": true,
     "news": [
      {
       "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-19-nov-2026/liveblog/135975883.cms",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-20-nov-2026/liveblog/136013258.cms",
+      "s": -3
+     },
+     {
+      "t": "IndusInd Bank shares jump 8% on volume surge, near 52-week high",
+      "l": "https://www.business-standard.com/markets/news/indusind-bank-shares-jump-8-on-volume-surge-near-52-week-high-126112000682_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ICICIBANK",
+    "score": -3.9,
+    "signal": "NEG NEWS, price holding",
+    "price": 1640.0,
+    "chg": 1.93,
+    "volx": 1.09,
+    "above20": true,
+    "news": [
+     {
+      "t": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-20-nov-2026/liveblog/136013270.cms",
+      "s": -3
+     },
+     {
+      "t": "Nifty Bank at new high, tops 64,000; HDFC, ICICI Bank soar up to 21% in Nov - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGpOamhFUktDYk4xTlNQVFRaWko4WFN0RFNQTlA3RFdDdTFTRDYwRy1hRG9hc0FOQ1RHa1FrVjY2YzVZRDNzMjRrQklQMjFKOXAxQVRQMW45dFVNSnhVdktqa3FhRkpmYUdBbW8tR2dGclR0ZlhyY1lva1cwMkZTUGpCOV9HOWEzOXNkNnVZdWQwNWo1Sm1lVkJRd0hzUE9vdTBWc3B4YmtDdmdJOERQYkV4LXl2cEZPWll3WUpJRWlMZmdYRzdncVo1Rmo2VVVPR0xULUJB0gHbAUFVX3lxTFB0OVY5VkJKQWs3VHZPT1NRX0tCYmx1NEpjVjJXUjZyS1QyN19zVU50TXVKb29UQ1p3X01ITGk3dEExa3lUNENlS2lFNmwzcmdYSEQxTTRQUFNYQlkyWDFzUnpvai1QNU1wOHlUOWJSR1VVRDhhZW80Q2lXYTZhb25JQzc2SGk3RDFPS3Z0SzJWS1doeVNBU2ItRGs5cV8xNHo4WENhNmFHT255Ukgtc21ibm1EQzQxMmlsX3ZOOVpkNzV0SEJVSXctbzVWcFRFTE1oeEYycV9abndnSQ?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Nifty Bank at new high, tops 64,000; HDFC, ICICI Bank soar up to 21% in Nov",
+      "l": "https://www.business-standard.com/markets/news/nifty-bank-hits-new-high-hdfc-bank-icici-bank-rally-up-to-21-in-november-126112000367_1.html",
+      "s": -1
+     }
+    ]
+   },
+   {
+    "symbol": "AXISBANK",
+    "score": -2.8,
+    "signal": "NEG NEWS, price holding",
+    "price": 1446.0,
+    "chg": 4.72,
+    "volx": 3.23,
+    "above20": true,
+    "news": [
+     {
+      "t": "Axis Bank Share Price Live Updates: Axis Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-livestock-price-today-live-updates-20-nov-2026/liveblog/136013459.cms",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "MARUTI",
+    "score": -2.3,
+    "signal": "NEG NEWS, price holding",
+    "price": 14011.0,
+    "chg": 3.11,
+    "volx": 2.64,
+    "above20": true,
+    "news": [
+     {
+      "t": "Zee Business. . Stock In Action BirlaSoft \u0914\u0930 Coforge \u092e\u0947\u0902 \u0936\u093e\u0928\u0926\u093e\u0930 \u0924\u0947\u091c\u0940, \u0906\u0917\u0947 \u0915\u094d\u092f\u093e? NSE \u092e\u0947\u0902 \u091c\u093e\u0930\u0940 \u0939\u0948 \u092e\u091c\u092c\u0942\u0924\u0940, \u0915\u094d\u092f\u093e \u0915\u0930\u0947\u0902? Maruti \u0914\u0930 Hyundai \u0928\u0947 \u0915\u0948\u0938\u0947 \u0915\u093f\u092f\u093e \u0915\u092e\u093e\u0932? HDFC Bank \u0915\u094d\u092f\u094b\u0902 \u092c\u0928\u093e \u0930\u0949\u0915\u0947\u091f? Union Bank \u092e\u0947\u0902 \u0905\u092d\u0940 \u092d\u0940 \u0916\u0930\u0940\u0926\u093e\u0930 - Facebook",
+      "l": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQYk8wb2czVVFXMmRfeFV1cjR6anVHV25BMGlyc2NIbHVnNTUwbDdRNzltYkU1RGlZWDdVRDI0U3IzQllsQmxSallqYTZmazJ1MjVYS3VpZkN4RG1FejA0eVpPUEJMRUVHRHltd2k2ZFlxWDZvWHJIZk84ODUxNXM3Wkk0cnUtNVZRN1hUX2pObUxqVGZPdkdVbHgtN25DRTNzN0ZsbGVfc0c3bElPWks2dDk1aW1OQnhYMHljellIbHBiWEh2ZUxNT3dlVE5vQTRmMnBLODlrN1ktRjNSajVQd2lxLXROVGdMVm5ld3ZadU1MQzB0MnRwcDJQM3Mxa3dodlcxamhDZHpvNFlZRld1UW9YVk1yaFVDVDJrNHVMekttSlJzMVBpQlRHVW1MdzNjOHk4RFNOR1c2QVF0b1FackFOSXhTbVQ2Uk43YkVSUkxSblNWX3g3STRSVnRralBsM1dSOGJlX0ZDam9UQ2dwSk1rVkxfTnpsd2FoR1p1SXBVVllYM1VsVDNtZkhONjNRTy1Ja2xPVmpxN0E4S3Y0R01qVzBOTFpfNlV0YUszU2Rxa1p6ZFZSRHNuN25DS1k3NlktR3VoV0FLOHozb09UYW9taGlwUm43NlF1eGNrZjNyaE9ucXdzRDBZOGVoaTdmeF94N004NTJxWkZ3bVhzaDlaaHVWUDVJd29IZGpqaWd4RUZTNGk3eXZLTXZyZ3pmalJPRl93UHRXRnFWb09qSk1xVkdLTVJPdWZlN1ZSZHZ5X0VQbzE0TmI4WDN3SjJCSVROc2s3aw?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "COFORGE",
+    "score": -2.3,
+    "signal": "NEG NEWS, price holding",
+    "price": 2086.7,
+    "chg": 2.24,
+    "volx": 3.51,
+    "above20": true,
+    "news": [
+     {
+      "t": "Zee Business. . Stock In Action BirlaSoft \u0914\u0930 Coforge \u092e\u0947\u0902 \u0936\u093e\u0928\u0926\u093e\u0930 \u0924\u0947\u091c\u0940, \u0906\u0917\u0947 \u0915\u094d\u092f\u093e? NSE \u092e\u0947\u0902 \u091c\u093e\u0930\u0940 \u0939\u0948 \u092e\u091c\u092c\u0942\u0924\u0940, \u0915\u094d\u092f\u093e \u0915\u0930\u0947\u0902? Maruti \u0914\u0930 Hyundai \u0928\u0947 \u0915\u0948\u0938\u0947 \u0915\u093f\u092f\u093e \u0915\u092e\u093e\u0932? HDFC Bank \u0915\u094d\u092f\u094b\u0902 \u092c\u0928\u093e \u0930\u0949\u0915\u0947\u091f? Union Bank \u092e\u0947\u0902 \u0905\u092d\u0940 \u092d\u0940 \u0916\u0930\u0940\u0926\u093e\u0930 - Facebook",
+      "l": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQYk8wb2czVVFXMmRfeFV1cjR6anVHV25BMGlyc2NIbHVnNTUwbDdRNzltYkU1RGlZWDdVRDI0U3IzQllsQmxSallqYTZmazJ1MjVYS3VpZkN4RG1FejA0eVpPUEJMRUVHRHltd2k2ZFlxWDZvWHJIZk84ODUxNXM3Wkk0cnUtNVZRN1hUX2pObUxqVGZPdkdVbHgtN25DRTNzN0ZsbGVfc0c3bElPWks2dDk1aW1OQnhYMHljellIbHBiWEh2ZUxNT3dlVE5vQTRmMnBLODlrN1ktRjNSajVQd2lxLXROVGdMVm5ld3ZadU1MQzB0MnRwcDJQM3Mxa3dodlcxamhDZHpvNFlZRld1UW9YVk1yaFVDVDJrNHVMekttSlJzMVBpQlRHVW1MdzNjOHk4RFNOR1c2QVF0b1FackFOSXhTbVQ2Uk43YkVSUkxSblNWX3g3STRSVnRralBsM1dSOGJlX0ZDam9UQ2dwSk1rVkxfTnpsd2FoR1p1SXBVVllYM1VsVDNtZkhONjNRTy1Ja2xPVmpxN0E4S3Y0R01qVzBOTFpfNlV0YUszU2Rxa1p6ZFZSRHNuN25DS1k3NlktR3VoV0FLOHozb09UYW9taGlwUm43NlF1eGNrZjNyaE9ucXdzRDBZOGVoaTdmeF94N004NTJxWkZ3bVhzaDlaaHVWUDVJd29IZGpqaWd4RUZTNGk3eXZLTXZyZ3pmalJPRl93UHRXRnFWb09qSk1xVkdLTVJPdWZlN1ZSZHZ5X0VQbzE0TmI4WDN3SjJCSVROc2s3aw?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "SBIN",
-    "score": -1.2,
+    "score": -1.7,
     "signal": "NEUTRAL",
-    "price": 1156.0,
-    "chg": 1.85,
-    "volx": 1.64,
+    "price": 1165.1,
+    "chg": 0.79,
+    "volx": 1.03,
     "above20": true,
     "news": [
      {
-      "t": "SBI Funds, Punjab National Bank enter into distribution partnership",
-      "l": "https://www.business-standard.com/markets/news/sbi-funds-punjab-national-bank-enter-into-distribution-partnership-126111801508_1.html",
+      "t": "SBI, PNB, 3 other PSBs zoom up to 27% in Nov; here's what tech analysts say",
+      "l": "https://www.business-standard.com/markets/news/sbi-pnb-3-other-psu-bank-stocks-rally-up-to-27-in-nov-here-s-what-tech-analysts-say-126112000334_1.html",
       "s": -3
-     },
+     }
+    ]
+   },
+   {
+    "symbol": "VOLTAS",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 1235.0,
+    "chg": -0.16,
+    "volx": 1.21,
+    "above20": true,
+    "news": [
      {
-      "t": "PSU Bank index nears record high; SBI, PNB, BoI rally up 27% in November",
-      "l": "https://www.business-standard.com/markets/news/psu-bank-index-nears-record-high-sbi-pnb-boi-rally-up-27-in-november-126111900399_1.html",
-      "s": -1
+      "t": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "NLCINDIA",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 233.79,
+    "chg": -0.48,
+    "volx": 0.99,
+    "above20": false,
+    "news": [
+     {
+      "t": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
+      "s": -3
      }
     ]
    }
