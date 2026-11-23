@@ -1,13 +1,13 @@
 {
- "updated": "20 Nov 2026 18:12 IST",
+ "updated": "23 Nov 2026 19:51 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
  "scanned": 249,
  "swing": [
   {
-   "symbol": "TECHM",
-   "setup": "Pullback",
+   "symbol": "PERSISTENT",
+   "setup": "Breakout",
    "score": 5,
    "checks": {
     "Trend": true,
@@ -16,108 +16,20 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 1746.2,
-   "stop": 1689.25,
-   "risk": 56.95,
-   "t1": 1831.63,
-   "t2": 1917.06,
-   "rsi": 52.1,
-   "volx": 1.34,
-   "rs": 3.6,
-   "date": "2026-11-20",
+   "entry": 6282.5,
+   "stop": 5933.73,
+   "risk": 348.77,
+   "t1": 6805.66,
+   "t2": 7328.81,
+   "rsi": 67.9,
+   "volx": 2.1,
+   "rs": 6.1,
+   "date": "2026-11-23",
    "news": ""
   },
   {
-   "symbol": "PAYTM",
+   "symbol": "TORNTPHARM",
    "setup": "Pullback",
-   "score": 5,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 1740.0,
-   "stop": 1649.47,
-   "risk": 90.53,
-   "t1": 1875.8,
-   "t2": 2011.59,
-   "rsi": 47.8,
-   "volx": 1.7,
-   "rs": 2.7,
-   "date": "2026-11-20",
-   "news": ""
-  },
-  {
-   "symbol": "DLF",
-   "setup": "Breakout",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": false,
-    "Setup": true
-   },
-   "entry": 785.0,
-   "stop": 747.47,
-   "risk": 37.53,
-   "t1": 841.29,
-   "t2": 897.58,
-   "rsi": 73.7,
-   "volx": 1.59,
-   "rs": 10.0,
-   "date": "2026-11-20",
-   "news": ""
-  },
-  {
-   "symbol": "LTTS",
-   "setup": "Pullback",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": false,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 4082.5,
-   "stop": 3955.32,
-   "risk": 127.18,
-   "t1": 4273.27,
-   "t2": 4464.05,
-   "rsi": 54.6,
-   "volx": 0.61,
-   "rs": 8.7,
-   "date": "2026-11-20",
-   "news": ""
-  },
-  {
-   "symbol": "ULTRACEMCO",
-   "setup": "Breakout",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": true,
-    "Volume": true,
-    "Momentum": false,
-    "Setup": true
-   },
-   "entry": 12939.0,
-   "stop": 12408.5,
-   "risk": 530.5,
-   "t1": 13734.75,
-   "t2": 14530.51,
-   "rsi": 75.7,
-   "volx": 1.96,
-   "rs": 5.9,
-   "date": "2026-11-20",
-   "news": ""
-  },
-  {
-   "symbol": "APOLLOHOSP",
-   "setup": "Breakout",
    "score": 4,
    "checks": {
     "Trend": true,
@@ -126,59 +38,15 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 9200.0,
-   "stop": 8759.67,
-   "risk": 440.33,
-   "t1": 9860.49,
-   "t2": 10520.98,
-   "rsi": 70.5,
-   "volx": 2.68,
-   "rs": -2.0,
-   "date": "2026-11-20",
-   "news": ""
-  },
-  {
-   "symbol": "ADANIPOWER",
-   "setup": "Breakout",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": false,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 211.95,
-   "stop": 202.47,
-   "risk": 9.48,
-   "t1": 226.17,
-   "t2": 240.39,
-   "rsi": 64.2,
+   "entry": 4763.7,
+   "stop": 4572.47,
+   "risk": 191.23,
+   "t1": 5050.55,
+   "t2": 5337.39,
+   "rsi": 56.7,
    "volx": 1.73,
-   "rs": -3.3,
-   "date": "2026-11-20",
-   "news": ""
-  },
-  {
-   "symbol": "BAJAJHLDNG",
-   "setup": "Breakout",
-   "score": 4,
-   "checks": {
-    "Trend": true,
-    "RelStrength": false,
-    "Volume": true,
-    "Momentum": true,
-    "Setup": true
-   },
-   "entry": 11669.0,
-   "stop": 11040.33,
-   "risk": 628.67,
-   "t1": 12612.01,
-   "t2": 13555.02,
-   "rsi": 63.7,
-   "volx": 1.5,
-   "rs": -4.0,
-   "date": "2026-11-20",
+   "rs": -9.4,
+   "date": "2026-11-23",
    "news": ""
   }
  ],
@@ -186,194 +54,241 @@
  "news": {
   "positive": [
    {
-    "symbol": "NH",
-    "score": 1.1,
-    "signal": "NEUTRAL",
-    "price": 1943.7,
-    "chg": 3.77,
-    "volx": 4.64,
+    "symbol": "DALBHARAT",
+    "score": 2.3,
+    "signal": "WATCH",
+    "price": 1564.4,
+    "chg": -0.87,
+    "volx": 0.58,
     "above20": true,
     "news": [
      {
-      "t": "BSE Hospitals index soars 3%; Apollo, Max, Narayana Hrudayalaya surge 5%",
-      "l": "https://www.business-standard.com/markets/news/bse-hospitals-index-soars-3-apollo-max-narayana-hrudayalaya-surge-5-126112000298_1.html",
+      "t": "Dalmia Bharat pares losses to trade flat after \u20b9700-cr buyback announcement",
+      "l": "https://www.business-standard.com/markets/news/dalmia-bharat-pares-losses-to-trade-flat-after-700-cr-buyback-announcement-126112300559_1.html",
       "s": 2
+     },
+     {
+      "t": "Dalmia Bharat buyback: Board approves share repurchase plan of up to \u20b9700 crore; check details - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVU9jb1NRczk2dU1Vc1h6eWRrRzBlRVFGNFpQdzF2cTZlNEFEcnJUSWxWQkRFS01UNnZvOUVmOTdqNUNPcU5iblJ6cDVxVmxHUU1YUWsxUU1BbjR5SmpfWUxDWG15MUVvbk9rb2xlOTcxNW9fVHgySHdEVFV1Mi1kVXNhemRjeUhOX1NWMExOQlNjeVdUNXE0emJQeUdjN1BiZUxuS1RlZlA1UWVWV1ZSeVhxRTJZeUtyN1FvMGRvRUVoLVEzVWNrSFg5YnZZbVgwWHhtM093dDFnUk9WX2FTUERQaXo?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "TECHM",
+    "score": 1.3,
+    "signal": "NEUTRAL",
+    "price": 1777.5,
+    "chg": 1.79,
+    "volx": 1.34,
+    "above20": true,
+    "news": [
+     {
+      "t": "Tech Mahindra announces 1:1 bonus issue of equity shares - Business Upturn",
+      "l": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY09ybWxUSzlnVEVyN2llbVA1eXU1Vk4zTUQ5THdmTm82eVBKTHl5d0NCdjRsWno0RlgwdFZvdWx3TXYyNlhzcC1iaVN4NFpfRWJSNXBDZ1djbTV5bkwwSEE4M19GX21BSklyREVtR1ZBcmRKQlpCMnhidG8zYkhaWkdna0NOa1NEUm9XNm9jZkpheU9ra2RJTA?oc=5",
+      "s": 1
+     },
+     {
+      "t": "Tech Mahindra fixes 30 November as record date for 1:1 bonus issue; bonus shares to trade from 2 December - Business Upturn",
+      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaEhzdnA0WTQzREVTV0RjdXlhc09BXzFocHQ1c2gxempnVVZzT3BDb1Y0N1pMTzdMeXdZY3lyZ0V4TFVyQ29qOExWN0xvQk5oR0E4QnkxZ3EyWjhJSUpOQnhkazhRSnMyLTlXYUViMWRiMU1JdDQtZmdtbWdPN2dOT1dMUnVVSVdlbjU0Qm5wS0NJUzZGOTd0RXNlUk95THZ5R3RxbUtKT0FrOGQ4N1hBY0oyUVRGWFR2UEVaV0gyaGVsOXI5U0N5c3F0NkRKY25JZE56bTY0eEE?oc=5",
+      "s": 1
      }
     ]
    }
   ],
   "negative": [
    {
-    "symbol": "HDFCBANK",
-    "score": -7.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 846.0,
-    "chg": 2.94,
-    "volx": 1.82,
+    "symbol": "INDUSINDBK",
+    "score": -2.9,
+    "signal": "AVOID/SELL",
+    "price": 963.0,
+    "chg": -3.99,
+    "volx": 0.97,
     "above20": true,
     "news": [
      {
-      "t": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-20-nov-2026/liveblog/136013420.cms",
+      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-today-live-23-nov-2026/liveblog/136089510.cms",
       "s": -3
      },
      {
-      "t": "HDFC Bank regains \u20b913 trillion market-cap; stock hits 8-month high",
-      "l": "https://www.business-standard.com/markets/news/hdfc-bank-regains-13-trillion-market-cap-stock-hits-8-month-high-126112000503_1.html",
+      "t": "IndusInd Bank down 1% after terminating ex-CEO Kathpalia, invoking clawback",
+      "l": "https://www.business-standard.com/markets/news/indusind-bank-down-1-after-terminating-ex-ceo-kathpalia-invoking-clawback-126112300170_1.html",
       "s": -3
      },
      {
-      "t": "HDFC Bank regains \u20b913 trillion market-cap; stock hits 8-month high - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUNHVUdUT2FOaTlyektTRHNwTUI2RjhZRV9YVDZ2bmpGYUo5TFhucV81SUFZZmZIQ1dTTEVhR2hfQzRZdklfdXBWa215X2FaVzhyZDhPMDZRSi1WNEtZVUNnQVRKOEk3UFNhakFkWkdJRExmWkcyNlNNVE5KWGQyQXlMMXhCU1BHdlAtX3BEUlphVTkzbVdvSWd4Vkg1X1BVWlBvRkhYUUVUald5S2hYTlBzS0d4VHlYQ216VWtUdzYwTXlTUXdGUjQySdIB0AFBVV95cUxOX1duRFJzZDBjZlhDQkFuWU5QWjFCUndGM296TzVDS21fOHA2RmN4dkN0Q0xtaUxYNFZmQU9XbHhYdlVnZ2YxYUpmR3ZHbkg4Nlg0allUS2JjYm1OR3BDLUZEQmRMdUZ5SkYxWDBFam9qd1prUFFYQnljYTE0RmtJY3YxUnVvVFpyeHJ0OGF0NzBCbWZlTkhBNEEydnZjQ3ZZZmdfN2REYzNzSFlnWFR1RktzYUxJOFFpV2NYYVVBWXB2S1pFUGN3QnRkbkgtUHBB?oc=5",
+      "t": "Stocks to watch November 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies and more - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPb1UzTUxxb0pKcVpuSk5CYWw0TXNLSWFKX2l3cHBCNUNzVVQ0NzhneWdORnBJTk5jdUkwRm5WdUl6ZmtaVkRqNlNfRmxIOW5ybGwzaFpBT1Vva0MybUhuYTJteGFwRVNOSDBPMXo2aFdzTWR1SzBabmNyVTJxNS1FZlRZdGR5Mk9nXzg2Q29acS12OVVjZHRzUG9ZZGlmblBJb0ZnTTNhZm5vaFFqVVFKZ0Jjb1FyVWF5QnVvV0o4RFpXeDNrNFFnaGxwS0c4aElMNW4xTnUyZk5lX2hyam02cUZpWDBlcWJaQTRGd3VtdHJ6SVJZM0t0bm8tRXpVWHNPVGhzMWs3VDlGemJ3UGNCeW5Fa3FXMXRWY0IxMlZTOHNLdVZHeDZYX2tnRWF5LU15dkJJMVNmSlVqX2daUHhxYWphWjV4TnlhUVY2djhEN0R3VkxOM1h3VDBwN3lzSzlL0gHnAkFVX3lxTE9iWFlKZjZUV19BbEIzaHJMc1VaN3pTd3pqN093NnU5SmhfZkxyRFFiZUU3V3dKUnBPbEFLc0M5WDlmOUxmeDJmNWk0Mk8tNGdJZ3RkN2JZNE1ncHYtdklUMThOVzE5SXBoMXRURFV6T1hZME9Xa20zM1NrYWU0Zl9tN3VyM0tfQzJyZTk2ck1qZEpiMjFhdk5Ld3l5QkJwMmtPTzUtQzJKYzM0UUJwLXdWX1VhdFA1alRSX2d0dU83ajRlQ2NZM3I2b05MU0Rwdm9XRW1KVE1xSGUwZl8zT1hfTDVGYXNDUnh1UXdPMzFzWXJ3WW5YLVNwUWlkNlgyUi1CV1NRX1hBMzZoZmZkSUE2R29CdUdDVlJrdVRTY00zenBIdThla1dfTzRXaml2MnNiMVhWbjI4eGN1R1o4eVQxRGYyWjdWS2lxQXp5OFJLMTJvRkJ2X0FkNmlVVDhZRzZ6SncxY19Z?oc=5",
       "s": -3
      }
     ]
    },
    {
-    "symbol": "INDUSINDBK",
-    "score": -3.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 1003.0,
-    "chg": 8.59,
-    "volx": 6.04,
-    "above20": true,
+    "symbol": "APLAPOLLO",
+    "score": -2.6,
+    "signal": "AVOID/SELL",
+    "price": 1670.0,
+    "chg": -21.29,
+    "volx": 27.93,
+    "above20": false,
     "news": [
      {
-      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-20-nov-2026/liveblog/136013258.cms",
+      "t": "Why Is APL Apollo Tubes Share Price Falling Today? Stock Crashes Nearly 18% After Tata Steel Deal - Kotak Neo",
+      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGZ2clk4d2d1MkRidWZNaENMVjhVY2JNLW9Bal9NS0dabm5kcTRjT3IxWXRnQzB3aTFQVDRCWkloMzJ1QkJGOXVteGtYQ1ZXUmEza0NQZ3pLdm9qN2t6VjdNeXJTaDExNlgxRTk2V2NiMGxsenh6Y3pGUTJKRDY4RV9UY1JmNkZITVUtWDZzSlNZRUtkSkxQN3VkV3JmVVhMZ29rQThBR3I2cFhKOVVYWk51VkMtWjB1TFdOMWNibmNoSWd2YzNNeUk3enA0Y2ZNWTlqSzEzeGVHS2s?oc=5",
       "s": -3
      },
      {
-      "t": "IndusInd Bank shares jump 8% on volume surge, near 52-week high",
-      "l": "https://www.business-standard.com/markets/news/indusind-bank-shares-jump-8-on-volume-surge-near-52-week-high-126112000682_1.html",
+      "t": "Stocks to watch November 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies and more - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPb1UzTUxxb0pKcVpuSk5CYWw0TXNLSWFKX2l3cHBCNUNzVVQ0NzhneWdORnBJTk5jdUkwRm5WdUl6ZmtaVkRqNlNfRmxIOW5ybGwzaFpBT1Vva0MybUhuYTJteGFwRVNOSDBPMXo2aFdzTWR1SzBabmNyVTJxNS1FZlRZdGR5Mk9nXzg2Q29acS12OVVjZHRzUG9ZZGlmblBJb0ZnTTNhZm5vaFFqVVFKZ0Jjb1FyVWF5QnVvV0o4RFpXeDNrNFFnaGxwS0c4aElMNW4xTnUyZk5lX2hyam02cUZpWDBlcWJaQTRGd3VtdHJ6SVJZM0t0bm8tRXpVWHNPVGhzMWs3VDlGemJ3UGNCeW5Fa3FXMXRWY0IxMlZTOHNLdVZHeDZYX2tnRWF5LU15dkJJMVNmSlVqX2daUHhxYWphWjV4TnlhUVY2djhEN0R3VkxOM1h3VDBwN3lzSzlL0gHnAkFVX3lxTE9iWFlKZjZUV19BbEIzaHJMc1VaN3pTd3pqN093NnU5SmhfZkxyRFFiZUU3V3dKUnBPbEFLc0M5WDlmOUxmeDJmNWk0Mk8tNGdJZ3RkN2JZNE1ncHYtdklUMThOVzE5SXBoMXRURFV6T1hZME9Xa20zM1NrYWU0Zl9tN3VyM0tfQzJyZTk2ck1qZEpiMjFhdk5Ld3l5QkJwMmtPTzUtQzJKYzM0UUJwLXdWX1VhdFA1alRSX2d0dU83ajRlQ2NZM3I2b05MU0Rwdm9XRW1KVE1xSGUwZl8zT1hfTDVGYXNDUnh1UXdPMzFzWXJ3WW5YLVNwUWlkNlgyUi1CV1NRX1hBMzZoZmZkSUE2R29CdUdDVlJrdVRTY00zenBIdThla1dfTzRXaml2MnNiMVhWbjI4eGN1R1o4eVQxRGYyWjdWS2lxQXp5OFJLMTJvRkJ2X0FkNmlVVDhZRzZ6SncxY19Z?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "WAAREEENER",
+    "score": -2.1,
+    "signal": "AVOID/SELL",
+    "price": 2390.0,
+    "chg": -2.89,
+    "volx": 0.73,
+    "above20": false,
+    "news": [
+     {
+      "t": "Stocks to watch November 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies and more - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPb1UzTUxxb0pKcVpuSk5CYWw0TXNLSWFKX2l3cHBCNUNzVVQ0NzhneWdORnBJTk5jdUkwRm5WdUl6ZmtaVkRqNlNfRmxIOW5ybGwzaFpBT1Vva0MybUhuYTJteGFwRVNOSDBPMXo2aFdzTWR1SzBabmNyVTJxNS1FZlRZdGR5Mk9nXzg2Q29acS12OVVjZHRzUG9ZZGlmblBJb0ZnTTNhZm5vaFFqVVFKZ0Jjb1FyVWF5QnVvV0o4RFpXeDNrNFFnaGxwS0c4aElMNW4xTnUyZk5lX2hyam02cUZpWDBlcWJaQTRGd3VtdHJ6SVJZM0t0bm8tRXpVWHNPVGhzMWs3VDlGemJ3UGNCeW5Fa3FXMXRWY0IxMlZTOHNLdVZHeDZYX2tnRWF5LU15dkJJMVNmSlVqX2daUHhxYWphWjV4TnlhUVY2djhEN0R3VkxOM1h3VDBwN3lzSzlL0gHnAkFVX3lxTE9iWFlKZjZUV19BbEIzaHJMc1VaN3pTd3pqN093NnU5SmhfZkxyRFFiZUU3V3dKUnBPbEFLc0M5WDlmOUxmeDJmNWk0Mk8tNGdJZ3RkN2JZNE1ncHYtdklUMThOVzE5SXBoMXRURFV6T1hZME9Xa20zM1NrYWU0Zl9tN3VyM0tfQzJyZTk2ck1qZEpiMjFhdk5Ld3l5QkJwMmtPTzUtQzJKYzM0UUJwLXdWX1VhdFA1alRSX2d0dU83ajRlQ2NZM3I2b05MU0Rwdm9XRW1KVE1xSGUwZl8zT1hfTDVGYXNDUnh1UXdPMzFzWXJ3WW5YLVNwUWlkNlgyUi1CV1NRX1hBMzZoZmZkSUE2R29CdUdDVlJrdVRTY00zenBIdThla1dfTzRXaml2MnNiMVhWbjI4eGN1R1o4eVQxRGYyWjdWS2lxQXp5OFJLMTJvRkJ2X0FkNmlVVDhZRzZ6SncxY19Z?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Stocks to Watch Today, November 23, 2026: Waaree Energies, Ujjivan Small Finance Bank, Sharda Motor, Raksan Transformers and Ashoka Buildcon - scanx.trade",
+      "l": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1dHTjA2eWRfRV9vMlNCSU9id19aNWs5WlgyNm5BblFNbzBKcnU2LWVYbjY3OHZaRXFsQ2JNMDdwc3g3NVVvR3U1djZQcjJRTXNmX2VDYjU3M2hCYVhHd3hSM1FjX20tdnBYXzJTZmVsWGFJRGZDOFU5WHlGY0tDQjRUZ0hId180aHFKNFBSNDlTMXZXSHZhdy1INF9vWU5kZlg1N1lWUC1tWklud1JwOU5XUEhTUld5Q0NJWg?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "COCHINSHIP",
+    "score": -1.9,
+    "signal": "NEUTRAL",
+    "price": 1090.0,
+    "chg": -3.11,
+    "volx": 1.26,
+    "above20": false,
+    "news": [
+     {
+      "t": "Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg",
+      "l": "https://www.business-standard.com/markets/news/stocks-at-52-week-low-tata-power-cochin-shipyard-apl-apollo-aadhar-housing-126112300552_1.html",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "TATASTEEL",
+    "score": -1.8,
+    "signal": "NEUTRAL",
+    "price": 163.0,
+    "chg": -8.43,
+    "volx": 6.91,
+    "above20": false,
+    "news": [
+     {
+      "t": "Why Is APL Apollo Tubes Share Price Falling Today? Stock Crashes Nearly 18% After Tata Steel Deal - Kotak Neo",
+      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGZ2clk4d2d1MkRidWZNaENMVjhVY2JNLW9Bal9NS0dabm5kcTRjT3IxWXRnQzB3aTFQVDRCWkloMzJ1QkJGOXVteGtYQ1ZXUmEza0NQZ3pLdm9qN2t6VjdNeXJTaDExNlgxRTk2V2NiMGxsenh6Y3pGUTJKRDY4RV9UY1JmNkZITVUtWDZzSlNZRUtkSkxQN3VkV3JmVVhMZ29rQThBR3I2cFhKOVVYWk51VkMtWjB1TFdOMWNibmNoSWd2YzNNeUk3enA0Y2ZNWTlqSzEzeGVHS2s?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch November 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies and more - BusinessLine",
+      "l": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPb1UzTUxxb0pKcVpuSk5CYWw0TXNLSWFKX2l3cHBCNUNzVVQ0NzhneWdORnBJTk5jdUkwRm5WdUl6ZmtaVkRqNlNfRmxIOW5ybGwzaFpBT1Vva0MybUhuYTJteGFwRVNOSDBPMXo2aFdzTWR1SzBabmNyVTJxNS1FZlRZdGR5Mk9nXzg2Q29acS12OVVjZHRzUG9ZZGlmblBJb0ZnTTNhZm5vaFFqVVFKZ0Jjb1FyVWF5QnVvV0o4RFpXeDNrNFFnaGxwS0c4aElMNW4xTnUyZk5lX2hyam02cUZpWDBlcWJaQTRGd3VtdHJ6SVJZM0t0bm8tRXpVWHNPVGhzMWs3VDlGemJ3UGNCeW5Fa3FXMXRWY0IxMlZTOHNLdVZHeDZYX2tnRWF5LU15dkJJMVNmSlVqX2daUHhxYWphWjV4TnlhUVY2djhEN0R3VkxOM1h3VDBwN3lzSzlL0gHnAkFVX3lxTE9iWFlKZjZUV19BbEIzaHJMc1VaN3pTd3pqN093NnU5SmhfZkxyRFFiZUU3V3dKUnBPbEFLc0M5WDlmOUxmeDJmNWk0Mk8tNGdJZ3RkN2JZNE1ncHYtdklUMThOVzE5SXBoMXRURFV6T1hZME9Xa20zM1NrYWU0Zl9tN3VyM0tfQzJyZTk2ck1qZEpiMjFhdk5Ld3l5QkJwMmtPTzUtQzJKYzM0UUJwLXdWX1VhdFA1alRSX2d0dU83ajRlQ2NZM3I2b05MU0Rwdm9XRW1KVE1xSGUwZl8zT1hfTDVGYXNDUnh1UXdPMzFzWXJ3WW5YLVNwUWlkNlgyUi1CV1NRX1hBMzZoZmZkSUE2R29CdUdDVlJrdVRTY00zenBIdThla1dfTzRXaml2MnNiMVhWbjI4eGN1R1o4eVQxRGYyWjdWS2lxQXp5OFJLMTJvRkJ2X0FkNmlVVDhZRzZ6SncxY19Z?oc=5",
+      "s": -3
+     },
+     {
+      "t": "Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-waaree-adani-energy-maruti-indusind-bank-126112300090_1.html",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "INDIANB",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 933.0,
+    "chg": -1.79,
+    "volx": 1.18,
+    "above20": true,
+    "news": [
+     {
+      "t": "3 Indian Bank Stocks Facing Margin Pressure As RBI Rates Stay High - Simply Wall St",
+      "l": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0lvc2g4N1NlU1JNaW1qOVFucjNMRlhneEZlVUZJQjBibUFMU1EtSTRXcGpkcEwwNWg3M0xZbkg2UW9qeXl5ZVFCOWlUUC1jcTI2NnIwZWJQbjRqaGs1RmxNTWp5XzZJRWtHMnRkYnV6UENLVTRfeXIyR1MwRGxnR09lV01XUkhINklRaUY3MkZCb1J3eHRnd1l0MFVWRU1ROHRybW9SV3g3UFpoeFdRdkNPNmNrRWRHSHZaNW9ZeUp6U2gxajk0WnVCd3lHSFFDbThTStIB2gFBVV95cUxPRV9rYmNOcXJjaFA4RElYQzVIVy1RMVd3SHgzOTE3X0xmMXZRNjl4dDNwZ1dwTlhlSGpvNUJ2RVRZYzdBOTVVYXZCVDc2aEZTa19OVXpUZzltM2h5Ym1id3VRblJjYTcydWx6OEpiWUhHMXJSODVUVGFjOEFqUWQ4ZmhKeS1xS2xiVXdKbEFBWTZBU0hFcGxOTFVXYkw4R1g2UU5BNnEtdmNIMkVWOWZmcF8wN1ZWcjlyUlJKd3BWUUF2RTNvN1ktb3F2d0ZsdXE0Q3RqektYSE9fQQ?oc=5",
       "s": -3
      }
     ]
    },
    {
     "symbol": "ICICIBANK",
-    "score": -3.9,
-    "signal": "NEG NEWS, price holding",
-    "price": 1640.0,
-    "chg": 1.93,
-    "volx": 1.09,
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 1585.5,
+    "chg": -3.32,
+    "volx": 1.34,
     "above20": true,
     "news": [
      {
       "t": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-20-nov-2026/liveblog/136013270.cms",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-23-nov-2026/liveblog/136089435.cms",
       "s": -3
-     },
+     }
+    ]
+   },
+   {
+    "symbol": "HDFCBANK",
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 817.8,
+    "chg": -3.33,
+    "volx": 1.43,
+    "above20": true,
+    "news": [
      {
-      "t": "Nifty Bank at new high, tops 64,000; HDFC, ICICI Bank soar up to 21% in Nov - Business Standard",
-      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGpOamhFUktDYk4xTlNQVFRaWko4WFN0RFNQTlA3RFdDdTFTRDYwRy1hRG9hc0FOQ1RHa1FrVjY2YzVZRDNzMjRrQklQMjFKOXAxQVRQMW45dFVNSnhVdktqa3FhRkpmYUdBbW8tR2dGclR0ZlhyY1lva1cwMkZTUGpCOV9HOWEzOXNkNnVZdWQwNWo1Sm1lVkJRd0hzUE9vdTBWc3B4YmtDdmdJOERQYkV4LXl2cEZPWll3WUpJRWlMZmdYRzdncVo1Rmo2VVVPR0xULUJB0gHbAUFVX3lxTFB0OVY5VkJKQWs3VHZPT1NRX0tCYmx1NEpjVjJXUjZyS1QyN19zVU50TXVKb29UQ1p3X01ITGk3dEExa3lUNENlS2lFNmwzcmdYSEQxTTRQUFNYQlkyWDFzUnpvai1QNU1wOHlUOWJSR1VVRDhhZW80Q2lXYTZhb25JQzc2SGk3RDFPS3Z0SzJWS1doeVNBU2ItRGs5cV8xNHo4WENhNmFHT255Ukgtc21ibm1EQzQxMmlsX3ZOOVpkNzV0SEJVSXctbzVWcFRFTE1oeEYycV9abndnSQ?oc=5",
+      "t": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-23-nov-2026/liveblog/136089447.cms",
       "s": -3
-     },
-     {
-      "t": "Nifty Bank at new high, tops 64,000; HDFC, ICICI Bank soar up to 21% in Nov",
-      "l": "https://www.business-standard.com/markets/news/nifty-bank-hits-new-high-hdfc-bank-icici-bank-rally-up-to-21-in-november-126112000367_1.html",
-      "s": -1
      }
     ]
    },
    {
     "symbol": "AXISBANK",
-    "score": -2.8,
-    "signal": "NEG NEWS, price holding",
-    "price": 1446.0,
-    "chg": 4.72,
-    "volx": 3.23,
+    "score": -1.3,
+    "signal": "NEUTRAL",
+    "price": 1388.6,
+    "chg": -3.97,
+    "volx": 1.5,
     "above20": true,
     "news": [
      {
-      "t": "Axis Bank Share Price Live Updates: Axis Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-livestock-price-today-live-updates-20-nov-2026/liveblog/136013459.cms",
-      "s": -3
-     },
-     {
-      "t": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
+      "t": "Axis Bank Share Price Highlights: Axis Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-23-nov-2026/liveblog/136089569.cms",
       "s": -3
      }
     ]
    },
    {
     "symbol": "MARUTI",
-    "score": -2.3,
-    "signal": "NEG NEWS, price holding",
-    "price": 14011.0,
-    "chg": 3.11,
-    "volx": 2.64,
-    "above20": true,
-    "news": [
-     {
-      "t": "Zee Business. . Stock In Action BirlaSoft \u0914\u0930 Coforge \u092e\u0947\u0902 \u0936\u093e\u0928\u0926\u093e\u0930 \u0924\u0947\u091c\u0940, \u0906\u0917\u0947 \u0915\u094d\u092f\u093e? NSE \u092e\u0947\u0902 \u091c\u093e\u0930\u0940 \u0939\u0948 \u092e\u091c\u092c\u0942\u0924\u0940, \u0915\u094d\u092f\u093e \u0915\u0930\u0947\u0902? Maruti \u0914\u0930 Hyundai \u0928\u0947 \u0915\u0948\u0938\u0947 \u0915\u093f\u092f\u093e \u0915\u092e\u093e\u0932? HDFC Bank \u0915\u094d\u092f\u094b\u0902 \u092c\u0928\u093e \u0930\u0949\u0915\u0947\u091f? Union Bank \u092e\u0947\u0902 \u0905\u092d\u0940 \u092d\u0940 \u0916\u0930\u0940\u0926\u093e\u0930 - Facebook",
-      "l": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQYk8wb2czVVFXMmRfeFV1cjR6anVHV25BMGlyc2NIbHVnNTUwbDdRNzltYkU1RGlZWDdVRDI0U3IzQllsQmxSallqYTZmazJ1MjVYS3VpZkN4RG1FejA0eVpPUEJMRUVHRHltd2k2ZFlxWDZvWHJIZk84ODUxNXM3Wkk0cnUtNVZRN1hUX2pObUxqVGZPdkdVbHgtN25DRTNzN0ZsbGVfc0c3bElPWks2dDk1aW1OQnhYMHljellIbHBiWEh2ZUxNT3dlVE5vQTRmMnBLODlrN1ktRjNSajVQd2lxLXROVGdMVm5ld3ZadU1MQzB0MnRwcDJQM3Mxa3dodlcxamhDZHpvNFlZRld1UW9YVk1yaFVDVDJrNHVMekttSlJzMVBpQlRHVW1MdzNjOHk4RFNOR1c2QVF0b1FackFOSXhTbVQ2Uk43YkVSUkxSblNWX3g3STRSVnRralBsM1dSOGJlX0ZDam9UQ2dwSk1rVkxfTnpsd2FoR1p1SXBVVllYM1VsVDNtZkhONjNRTy1Ja2xPVmpxN0E4S3Y0R01qVzBOTFpfNlV0YUszU2Rxa1p6ZFZSRHNuN25DS1k3NlktR3VoV0FLOHozb09UYW9taGlwUm43NlF1eGNrZjNyaE9ucXdzRDBZOGVoaTdmeF94N004NTJxWkZ3bVhzaDlaaHVWUDVJd29IZGpqaWd4RUZTNGk3eXZLTXZyZ3pmalJPRl93UHRXRnFWb09qSk1xVkdLTVJPdWZlN1ZSZHZ5X0VQbzE0TmI4WDN3SjJCSVROc2s3aw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "COFORGE",
-    "score": -2.3,
-    "signal": "NEG NEWS, price holding",
-    "price": 2086.7,
-    "chg": 2.24,
-    "volx": 3.51,
-    "above20": true,
-    "news": [
-     {
-      "t": "Zee Business. . Stock In Action BirlaSoft \u0914\u0930 Coforge \u092e\u0947\u0902 \u0936\u093e\u0928\u0926\u093e\u0930 \u0924\u0947\u091c\u0940, \u0906\u0917\u0947 \u0915\u094d\u092f\u093e? NSE \u092e\u0947\u0902 \u091c\u093e\u0930\u0940 \u0939\u0948 \u092e\u091c\u092c\u0942\u0924\u0940, \u0915\u094d\u092f\u093e \u0915\u0930\u0947\u0902? Maruti \u0914\u0930 Hyundai \u0928\u0947 \u0915\u0948\u0938\u0947 \u0915\u093f\u092f\u093e \u0915\u092e\u093e\u0932? HDFC Bank \u0915\u094d\u092f\u094b\u0902 \u092c\u0928\u093e \u0930\u0949\u0915\u0947\u091f? Union Bank \u092e\u0947\u0902 \u0905\u092d\u0940 \u092d\u0940 \u0916\u0930\u0940\u0926\u093e\u0930 - Facebook",
-      "l": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQYk8wb2czVVFXMmRfeFV1cjR6anVHV25BMGlyc2NIbHVnNTUwbDdRNzltYkU1RGlZWDdVRDI0U3IzQllsQmxSallqYTZmazJ1MjVYS3VpZkN4RG1FejA0eVpPUEJMRUVHRHltd2k2ZFlxWDZvWHJIZk84ODUxNXM3Wkk0cnUtNVZRN1hUX2pObUxqVGZPdkdVbHgtN25DRTNzN0ZsbGVfc0c3bElPWks2dDk1aW1OQnhYMHljellIbHBiWEh2ZUxNT3dlVE5vQTRmMnBLODlrN1ktRjNSajVQd2lxLXROVGdMVm5ld3ZadU1MQzB0MnRwcDJQM3Mxa3dodlcxamhDZHpvNFlZRld1UW9YVk1yaFVDVDJrNHVMekttSlJzMVBpQlRHVW1MdzNjOHk4RFNOR1c2QVF0b1FackFOSXhTbVQ2Uk43YkVSUkxSblNWX3g3STRSVnRralBsM1dSOGJlX0ZDam9UQ2dwSk1rVkxfTnpsd2FoR1p1SXBVVllYM1VsVDNtZkhONjNRTy1Ja2xPVmpxN0E4S3Y0R01qVzBOTFpfNlV0YUszU2Rxa1p6ZFZSRHNuN25DS1k3NlktR3VoV0FLOHozb09UYW9taGlwUm43NlF1eGNrZjNyaE9ucXdzRDBZOGVoaTdmeF94N004NTJxWkZ3bVhzaDlaaHVWUDVJd29IZGpqaWd4RUZTNGk3eXZLTXZyZ3pmalJPRl93UHRXRnFWb09qSk1xVkdLTVJPdWZlN1ZSZHZ5X0VQbzE0TmI4WDN3SjJCSVROc2s3aw?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "SBIN",
-    "score": -1.7,
+    "score": -1.0,
     "signal": "NEUTRAL",
-    "price": 1165.1,
-    "chg": 0.79,
-    "volx": 1.03,
+    "price": 14010.0,
+    "chg": -0.01,
+    "volx": 1.83,
     "above20": true,
     "news": [
      {
-      "t": "SBI, PNB, 3 other PSBs zoom up to 27% in Nov; here's what tech analysts say",
-      "l": "https://www.business-standard.com/markets/news/sbi-pnb-3-other-psu-bank-stocks-rally-up-to-27-in-nov-here-s-what-tech-analysts-say-126112000334_1.html",
+      "t": "SENSEX crashes over 1,100 points, NIFTY below 25,500; Maruti Suzuki, Sterling & Wilson among buzzing stocks - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUENUcElPSF93VzlmcE9pVkhpNjY1NllSaERNdXI3R1lwNGdrM0dYNXhXaXl5M0cta01INU5wRlZiSkM0LXRqZjhpSlBlQkFsOFo3R0JTNEpCdzJiUDBQanZDU25jVzVULXRtSTNFOXBhSzF3bVNUVy1ELVhSdHRnLVNORDZubDZvaW5NdkpuWV9ONzdRZnZsbmZjSWVCamlsTTRtUWkydnBqMEdpOVdlUEdrLXpLWUpiZDlfU084OHdyN250Z3NGcGpqVUNmcmJpdjdSamZ0LWpjSlpsaGlleFpZUGkwLUxFOEpKeXJBVVo5cVJVSmpBOQ?oc=5",
       "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "VOLTAS",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 1235.0,
-    "chg": -0.16,
-    "volx": 1.21,
-    "above20": true,
-    "news": [
+     },
      {
-      "t": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "NLCINDIA",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 233.79,
-    "chg": -0.48,
-    "volx": 0.99,
-    "above20": false,
-    "news": [
-     {
-      "t": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
-      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
-      "s": -3
+      "t": "Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank",
+      "l": "https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-waaree-adani-energy-maruti-indusind-bank-126112300090_1.html",
+      "s": 2
      }
     ]
    }
