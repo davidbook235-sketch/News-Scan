@@ -1,12 +1,12 @@
 {
- "updated": "25 Nov 2026 19:37 IST",
+ "updated": "26 Nov 2026 19:14 IST",
  "market_ok": true,
  "capital": 100000.0,
  "slots": 5,
- "scanned": 249,
+ "scanned": 248,
  "swing": [
   {
-   "symbol": "INDIGO",
+   "symbol": "BAJAJHLDNG",
    "setup": "Breakout",
    "score": 5,
    "checks": {
@@ -16,15 +16,37 @@
     "Momentum": true,
     "Setup": true
    },
-   "entry": 5720.0,
-   "stop": 5419.59,
-   "risk": 300.41,
-   "t1": 6170.62,
-   "t2": 6621.23,
-   "rsi": 69.0,
-   "volx": 1.74,
-   "rs": 5.5,
-   "date": "2026-11-25",
+   "entry": 11933.0,
+   "stop": 11236.88,
+   "risk": 696.12,
+   "t1": 12977.18,
+   "t2": 14021.36,
+   "rsi": 65.4,
+   "volx": 2.0,
+   "rs": 1.1,
+   "date": "2026-11-26",
+   "news": ""
+  },
+  {
+   "symbol": "PAYTM",
+   "setup": "Pullback",
+   "score": 4,
+   "checks": {
+    "Trend": true,
+    "RelStrength": true,
+    "Volume": false,
+    "Momentum": true,
+    "Setup": true
+   },
+   "entry": 1768.9,
+   "stop": 1650.43,
+   "risk": 118.47,
+   "t1": 1946.6,
+   "t2": 2124.3,
+   "rsi": 51.1,
+   "volx": 0.42,
+   "rs": 2.1,
+   "date": "2026-11-26",
    "news": ""
   }
  ],
@@ -32,203 +54,181 @@
  "news": {
   "positive": [
    {
-    "symbol": "TATACONSUM",
-    "score": 1.9,
-    "signal": "NEUTRAL",
-    "price": 1185.8,
-    "chg": 4.66,
-    "volx": 1.8,
+    "symbol": "SIEMENS",
+    "score": 5.5,
+    "signal": "WATCH",
+    "price": 3576.6,
+    "chg": -0.13,
+    "volx": 1.1,
     "above20": true,
     "news": [
      {
-      "t": "Tata Consumer Products Share Price Jumps 4.66 Percent, NSE Nifty Closes 470 Points Higher - topnews.in",
-      "l": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU0FWS1ZQdXcydjhmaUVvdGpOX0NjV2dVckxRSGZoY0VsTVZDVEk2cmlLNE9SSS1ydVpSdnA5NzdSTkpWVGIyZU9Fc0hIdlB1Y1VlakZRRjR6bTN2MzBnNkZ1dHpoT0xZYXBORlBScWI3NHYyWjN2cjZtcmV3bThJRG5MMHFUemc3OVAxM3QyRFh6bElFc2g1SzNRU3hNNER3Tmw1MzV3eGpna1pPcFF5eUtsTEs?oc=5",
+      "t": "Siemens Energy jumps 9% as Sept qtr PAT rises 81%; \u20b912 dividend declared",
+      "l": "https://www.business-standard.com/markets/news/siemens-energy-jumps-9-as-sept-qtr-pat-rises-81-12-dividend-declared-126112600125_1.html",
+      "s": 3
+     },
+     {
+      "t": "Siemens Energy jumps 9% as Sept qtr PAT rises 81%; \u20b912 dividend declared - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmNndnhyVGtKMS1JRzR3dFJwY1NpSm41NkhsaEU2dGlMcGFtSFgzd1k4R09rX3RSZ1pjempadV92bTZfY1JEcHRFaGlHaHBHa3RPaUVLd3NjUEx1SndtaUVOQ3BnbHRjNjZEUXNWa2owLTgzYUkxdzhkX3VBdFhCNTNkblNIWHhHeTZwR21ZeDAyT0EzeUlaRWdZbVJIY3I4ZVhxc1FXZGpadkdfOVppMDB6LUlJWmdHTWVoMmNHaENDRUEtWjN4Y1ZwVm1JOHot0gHWAUFVX3lxTE5FU3RSdnVqSlphSklhbVBJY0ZNN1JXZV9ldG0tQnNrdWRVTEJBODNrTWpVcWhYXzQwVG9uZkhjX2hrMzRiWG4tUjZGOFBWRlpmcXpvdnpralVhbjRjTXRtckQ4Ulo3Znh2bXVGZEdNb1BRYlgwam1qbVRuTE9ybXpHQU9ELU1ZOUI4VjZhMEUzS0wxQzlHTHpvMFlvNGpDY3JPMDhlVUQ4VGllVk9NeC15TDlKTnkzY3dWZzI5blk1X1BTY0Ntc3RjOU1aZXhFYl9tVU0ydmc?oc=5",
+      "s": 3
+     },
+     {
+      "t": "Siemens Energy India Limited FY26 profit rises 61.9% to Rs 1,781 crore - Multibagg AI",
+      "l": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0t0ZWstWDBuWXd2UWwtMjNGV1lUdkZjdE9hT2FHWG5jTEZIMXBFOUp2dDV4ekI0ei1IS08xXzNJQ29PMEwxalNuOEdjNkdUaXU5bWMzdW9JWi1CcFIwcmE5cGcwSjhWaVBtUGYydmhDajJ1Q2c5eEZRclVWSWprNk9VZEo2OU1VbFh0YXN6dEdrdDhzSnJ1eW4xLWFSaV84ZjR3a3huSnQ5aVh2S3BpTlNZTjc?oc=5",
       "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "BSE",
+    "score": 3.7,
+    "signal": "BUY WATCH",
+    "price": 3990.4,
+    "chg": 5.7,
+    "volx": 1.67,
+    "above20": true,
+    "news": [
+     {
+      "t": "BSE shares gain 3%, hit 4-month high on HDFC Securities' upgrade to 'Buy'",
+      "l": "https://www.business-standard.com/markets/news/bse-shares-gain-3-hit-4-month-high-on-hdfc-securities-upgrade-to-buy-126112600196_1.html",
+      "s": 2
+     },
+     {
+      "t": "NSE surges 33% in 2 months since listing, BSE extend gains to over 6% in 2 days; here\u2019s how you should... - Moneycontrol.com",
+      "l": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNmZIZ20xalpGWVR3NFNtSkx2RS1NeGkzZUoydzlTSU1icmVsQ0NjYXFnNHNUOWxSemw2QVY5QnljMXN0QzlKSkMyaFNZN1FIOERJUkp6Wm9jSDltcjVucEVnbG8tWEl4akoySGdJdnppdThxNEp4ZUJMRnROaTlmV2pmazAwUkRhY0EyU3JTRGFtQ1lZTXlDaGIwSm15QzdlTVpVOTBac0JSemIyZkxFa2RjRjlNcXlsVW9leXFNRDE1ajlqMVMydU1OVUxadGlwNmlQV0tSeFdLeGtaSzJUSU1kUGc4MnVCRjVUdXhYcThocGV3YllLNmtMS2N4NHgzbDYyMDdtLVZ3UmJuUmlxN182dGtBbmNC0gGeAkFVX3lxTE5KVVA4M010Y25MMFIwVTRGTzY0U2V6cXQtbER1TU9EWER5TnJRa1BtLVVuTHB6R3VSUGZGdDJqQ1BVMEptLTRfdlV2azltRUpuOXpZMG9TV0Vwd1c2a09haERsYlpxbms0ZWpCWUVObWtiSHNkcmR0cDEyQkdteGJUYy1aQzEtc2J3ZUsxUWdmd1JMeXVhMi01alVEck5NYnRjc1BfaV8za3pGc19PTXlja0E4Vk1qRkdhMzB1NGkzOFNMRUJIOXdjWGRicjFvNXAtdHh3b04xdk5QYmxBRDctZ0ticXhHUjFxR0tUclI4a0dDVlg2TktJZjllYk45Q3RKamRmSHBZOEplVkpCcG02b0Qya01scWMzQWthWnc?oc=5",
+      "s": 2
+     },
+     {
+      "t": "BSE shares gain 3%, hit 4-month high on HDFC Securities' upgrade to 'Buy' - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDRncXRLLVFtTmRsWUhLWnFqQnlLa0g3MUUtNG5VakpWLTZNYUV1SUpETzdQNnJ0dmI1VUIzMC1nOTZvS0RDLTVDajR5R2FweGxQVVlfTHhIalFLOVJTZE5FY1I1c1JhamJLNk1pVVVQY1J3MjJBQ1k4ZGROX3d2dVdSM18td2NVWnZBZUNIckRPOG5zYUZKeGhaTmcxZ0xjN2lSTmV0REl5NDEyT1NYMXFKWFI5Rmk0MUQ3QWRheS1oN1ZkLUI5eHIxamxwX3pQ0gHWAUFVX3lxTE9KaERqNUxpcjFuZVJ3cUdkWWhCZmhiZkpJQU5zeEJ3a1VvVEU0LS1NaFJIaERLT29sLWNEV05HYzRCOTBEc1FhWjFMSWozcjlkMVZ0TW9ZQW1ieTgwTGU2WXFkb0I2UHpoUUFIaXRxay1MSEFKXzVPeFhkX2lTTllDaGdkWDJ1aFBNMWY0U0RJbkpudGVQUkstLVhKNUliYXczU3RiLVBpY3QyajkwTVhiUDExRUpENmJrbElaWGZVai00TDM5d3dlOFZNQTkzaE5JUGhlVmc?oc=5",
+      "s": 2
+     }
+    ]
+   },
+   {
+    "symbol": "ENRIN",
+    "score": 1.8,
+    "signal": "NEUTRAL",
+    "price": 3058.0,
+    "chg": 2.96,
+    "volx": 5.89,
+    "above20": true,
+    "news": [
+     {
+      "t": "Siemens Energy India Limited FY26 profit rises 61.9% to Rs 1,781 crore - Multibagg AI",
+      "l": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0t0ZWstWDBuWXd2UWwtMjNGV1lUdkZjdE9hT2FHWG5jTEZIMXBFOUp2dDV4ekI0ei1IS08xXzNJQ29PMEwxalNuOEdjNkdUaXU5bWMzdW9JWi1CcFIwcmE5cGcwSjhWaVBtUGYydmhDajJ1Q2c5eEZRclVWSWprNk9VZEo2OU1VbFh0YXN6dEdrdDhzSnJ1eW4xLWFSaV84ZjR3a3huSnQ5aVh2S3BpTlNZTjc?oc=5",
+      "s": 2
+     },
+     {
+      "t": "Siemens Energy India surges over 7% after strong quarterly results - Daijiworld",
+      "l": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmNWFFX1RhMS1jd19UNGhEOGxOLXFQZlNiUTQ4dG9fejByT2p4aW9pS3pMbjU1ZTFuSWd4MVFXZzNTU1dvdHZ1TXE0ckhQVk9XZXZVUmFteFI1cUJqUnVTNnBEZVliR0pubEw0cVdCajNUTmVSMlFj?oc=5",
+      "s": 2
+     },
+     {
+      "t": "Siemens Energy India Q4 Results: Profit zooms 82% as new orders nearly double; declares \u20b912 dividend - CNBC TV18 - LinkedIn",
+      "l": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYV8tVWloRWFjemJDaWZqeW5udG9iSENBMTRlTlFZUXBnYm1xbjRINzZrc053a3EybWxjaDE1SFp2a296ejhVNGRMNlZhQlgtNzdna0xFdENTcDdqSjQ4YXpTaE1TWkVheGF4U29lclBKNkdTdmYwWm5PLU1JR0pSVUhNQmxCSzlQcE5lc1dPNmxLYmMxeVBhWkNtM2VFZU52cUpBSG9KcXFrNnNpdmhZYjhnUzdvLWNqeWdv?oc=5",
+      "s": 1
      }
     ]
    }
   ],
   "negative": [
    {
-    "symbol": "ICICIBANK",
-    "score": -5.1,
+    "symbol": "HDFCBANK",
+    "score": -4.9,
     "signal": "NEG NEWS, price holding",
-    "price": 1640.0,
-    "chg": 3.44,
-    "volx": 1.1,
+    "price": 862.0,
+    "chg": 1.87,
+    "volx": 1.68,
+    "above20": true,
+    "news": [
+     {
+      "t": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-26-nov-2026/liveblog/136181934.cms",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+      "l": "https://www.business-standard.com/markets/news/hdfc-bank-share-price-hdfc-bank-vaults-30-from-oct-low-surpasses-airtel-in-market-cap-ranking-126112600392_1.html",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWEMyaE5fV1JHZmlCQUhhUW9xdW5EbGpfRnhTYkt3bW1xaEFaT1BxN1FtUmRLRU0wREs1Q1cwczlOMmxZaVQxZXdsUXQtb1JJRDZ0WjFFY0JwejJqWGlKeEMyTlpEV3dRdktwTFIwMS1sSGpmYmxId0YxVklhWFRxWUVqeGJkZ21sdFRJci1xNmYzb1gtLTBqWTN6SW40Mk12aVRWWmVtY2FWeGo1S3dLeVR4cHZfZFpLemFLa2QwQWttb0FJVGJyamVYYkZZYnJZWS0yTGdMbVBnZUhsSGVuZ3o5LUd4ZjdpdXdkRU1ua3luUdIB9wFBVV95cUxQeGh0Sk9XX25INGx5bHU2OVpzTmo0dnVjQTBCMm53bjVNQjhWTnZCZm5DWFpNMEdpSHdGbWJ0YU9YbEx1d0t3ZFRzVkl3QWhZMF9CekpmcWhiM1NkdWpWXzVrbF9oZjVta1k3Mk5UbmxRQnZ2SDRzTnNPdk5qT210QUVWTmdYSld4bFYtWFlBWTV4ZzJWOTlJOHhoeXRxb2JwZU1WTTFjRWVfZ2FPSlJtdzlvSkRNOHpfMXlsRmdVUUVJckcwT241UFhfTWtUZGpaM0x6LThIS0RqUU1qZW5raVhkbEgxeG1OSmFqX1ZqXzZUOWpSMER3?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "BHARTIARTL",
+    "score": -3.2,
+    "signal": "AVOID/SELL",
+    "price": 2102.5,
+    "chg": -0.71,
+    "volx": 0.44,
+    "above20": true,
+    "news": [
+     {
+      "t": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+      "l": "https://www.business-standard.com/markets/news/hdfc-bank-share-price-hdfc-bank-vaults-30-from-oct-low-surpasses-airtel-in-market-cap-ranking-126112600392_1.html",
+      "s": -3
+     },
+     {
+      "t": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking - Business Standard",
+      "l": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWEMyaE5fV1JHZmlCQUhhUW9xdW5EbGpfRnhTYkt3bW1xaEFaT1BxN1FtUmRLRU0wREs1Q1cwczlOMmxZaVQxZXdsUXQtb1JJRDZ0WjFFY0JwejJqWGlKeEMyTlpEV3dRdktwTFIwMS1sSGpmYmxId0YxVklhWFRxWUVqeGJkZ21sdFRJci1xNmYzb1gtLTBqWTN6SW40Mk12aVRWWmVtY2FWeGo1S3dLeVR4cHZfZFpLemFLa2QwQWttb0FJVGJyamVYYkZZYnJZWS0yTGdMbVBnZUhsSGVuZ3o5LUd4ZjdpdXdkRU1ua3luUdIB9wFBVV95cUxQeGh0Sk9XX25INGx5bHU2OVpzTmo0dnVjQTBCMm53bjVNQjhWTnZCZm5DWFpNMEdpSHdGbWJ0YU9YbEx1d0t3ZFRzVkl3QWhZMF9CekpmcWhiM1NkdWpWXzVrbF9oZjVta1k3Mk5UbmxRQnZ2SDRzTnNPdk5qT210QUVWTmdYSld4bFYtWFlBWTV4ZzJWOTlJOHhoeXRxb2JwZU1WTTFjRWVfZ2FPSlJtdzlvSkRNOHpfMXlsRmdVUUVJckcwT241UFhfTWtUZGpaM0x6LThIS0RqUU1qZW5raVhkbEgxeG1OSmFqX1ZqXzZUOWpSMER3?oc=5",
+      "s": -3
+     }
+    ]
+   },
+   {
+    "symbol": "ICICIBANK",
+    "score": -2.1,
+    "signal": "AVOID/SELL",
+    "price": 1611.0,
+    "chg": -1.77,
+    "volx": 0.87,
     "above20": true,
     "news": [
      {
       "t": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-25-nov-2026/liveblog/136148214.cms",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-26-nov-2026/liveblog/136178672.cms",
       "s": -3
      },
      {
-      "t": "HDFC Bank, ICICI Bank, Axis Bank shares surge; banking index zooms 18% in a month: What should investors do? - Business Today",
-      "l": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3pRUnk4N3BIV0RDbjBPQnM1bGVFY0UxdkVIWXlnZDNNbmJFdkVFZjl4UndxQjc1Wkt6eF9XX1Rsa2RQeURCa1MwUGpGenVCaVdYZHdtdWphekRRUjc4VDUzeVJNNFRXTmNmenM4NkpSYUpTRnY2NmhYWVZINFBvekR0dUltV193T3FjaDBMaFVkei01anBzdzBqVXdsNnBEeG5Rc3VBenAxdV9yTGtaT3V3djFIWEpuek9iOHhGY2dlYU1raElVcEMwMllFQkd4WmdRQWlfOVNEU0cyR2hjdk91ODhnaVBBR281WkpfdlNLam5VeVhubWVpZ3JiR1nSAYQCQVVfeXFMTkxUSUd3bTVCY1lkc1BvTVAwdFppdFo1V1JIV3lTTXNpcGlxeGQ4YkhKdFRhZFRQMmF3QTdJWTN2b0RwOWt4dk1xSzR0WWx4aF9pY3dWc3ZwLVg4RTN2bXNIMTk2RjBER3BfeFNWLUc5RzJnZF95YjZDbGJmUUdjQ1FSTjBiamF6WEM2V0dEOTRhODlrOXphMFIzMDNEdmFmQ2p0aEVFcXJ3ek9rd25XeUhuS2k3bkt3QmtLblVubHJET0dIT3ZobXRzMkNnck9QZkt4TDQxUXhRVGszRGZDazU5bUZOVmdGdlhhY3Rkd2VRcnJGWmN6aFdWY1ltQ2pCVHkwcHo?oc=5",
-      "s": -3
-     },
+      "t": "MCX, ICICI Bank, Laurus Labs: 8 stocks that hit record highs on November 26; here\u2019s what charts show - Upstox",
+      "l": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeDQxdUttb1drZHFxRVpyd0ZVMnBmMzF0anFtbUh1dXk0ak5IY1VEZno4MkdpTUptOGJuTmxyVEF5LUJoQVNOWnJQMy1lbE1Dekt5dzQ5ZlJzU1Y4THllaHZJNXFzT2tRV3dKR3c5eXFPMnFkQUJqVmpKUi1aaFAxZzBhWUtxNWZidHFIMmVzYW1SN0VRQlNLTkF1eU1kcVIyZTluODAxb1RCRzFvYlZYRDFDaVE1WDU1ejVtQTc0U3c1TEQxdlNVdndBVTJrTkdkZEU1ZkFSaFpSZDlUTVRjZUpmVXQ1ZW5GdU1B?oc=5",
+      "s": -1
+     }
+    ]
+   },
+   {
+    "symbol": "INDUSINDBK",
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 966.1,
+    "chg": -0.78,
+    "volx": 0.57,
+    "above20": true,
+    "news": [
      {
-      "t": "ICICI Bank, Titan, Eternal: BofA Names 11 Stocks For India's Consumption Revival - NDTV Profit",
-      "l": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVDFkUjk4ZVdXOXR3Z1hybnNLTTZxZ01kc0hndi1sd3ZrRTZGU3RzT1RvSDN6TDVXTHJ5SjR6VnIzcVVSNE9mTHk3QlBJcTNya1NSWDRzbXhNUWFvYURVblJyODY5SDJTNmc3VWFqLW1ZYzJTdzhoeWpIMHN6cGlRSm5raDIxSjhpclRpbFVWLWp5ZmhTRnVmU2pFSE1fX0ltV3U1bmZsZDg1SEszMjRXSTBjTlpHdjN4RGxDcUpjNFY2UmIzWDhDeGJpMWJVWUM1dHR0azJnNWpqbko4bXJZek5DY1RBdjFZWHc4NHFqNWU0ZFcxNUhqNFduNDktU25HMUxkSW1OVThkVlZ2Q0xN0gGXAkFVX3lxTE1vMmlOZEJvZ1ZGclk1NVlkUEJMdE05RzhZV1hCWC1RM1hqU0haMVF2Y0M4eW9Ka1BzWkhmalAzOWxwa0NaZmZqbnpLcnBJS2JiV0pPZmkwM1NsQmx6bWhOMWdWcU1VaHNBOFhjYXdXTFhhZTAyTW01TTBLUHEzQTNTREV0djdYRDNNOEx6aFQ5Q0U1UTV3MWJTR0xNSjVNUnVQeFBfMi1DMzJacGh3V0YtY3VrckNkUFFselpsb0FoU1BWLUEtemVzU0E2U3RKcVpTal9lcXBTZmJBaW9LX2dtemZKWmdGc2JuU3dJQlg5V1dSaG9paE9BUGhTSlRyYndOTE1mUjRhWVZGUWNCOWN4R0pVRmlFVQ?oc=5",
+      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-26-nov-2026/liveblog/136178715.cms",
       "s": -3
      }
     ]
    },
    {
     "symbol": "AXISBANK",
-    "score": -4.2,
-    "signal": "NEG NEWS, price holding",
-    "price": 1418.1,
-    "chg": 2.12,
-    "volx": 1.31,
+    "score": -1.4,
+    "signal": "NEUTRAL",
+    "price": 1408.0,
+    "chg": -0.71,
+    "volx": 1.17,
     "above20": true,
     "news": [
      {
       "t": "Axis Bank Share Price Highlights: Axis Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-25-nov-2026/liveblog/136148258.cms",
-      "s": -3
-     },
-     {
-      "t": "HDFC Bank, ICICI Bank, Axis Bank shares surge; banking index zooms 18% in a month: What should investors do? - Business Today",
-      "l": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3pRUnk4N3BIV0RDbjBPQnM1bGVFY0UxdkVIWXlnZDNNbmJFdkVFZjl4UndxQjc1Wkt6eF9XX1Rsa2RQeURCa1MwUGpGenVCaVdYZHdtdWphekRRUjc4VDUzeVJNNFRXTmNmenM4NkpSYUpTRnY2NmhYWVZINFBvekR0dUltV193T3FjaDBMaFVkei01anBzdzBqVXdsNnBEeG5Rc3VBenAxdV9yTGtaT3V3djFIWEpuek9iOHhGY2dlYU1raElVcEMwMllFQkd4WmdRQWlfOVNEU0cyR2hjdk91ODhnaVBBR281WkpfdlNLam5VeVhubWVpZ3JiR1nSAYQCQVVfeXFMTkxUSUd3bTVCY1lkc1BvTVAwdFppdFo1V1JIV3lTTXNpcGlxeGQ4YkhKdFRhZFRQMmF3QTdJWTN2b0RwOWt4dk1xSzR0WWx4aF9pY3dWc3ZwLVg4RTN2bXNIMTk2RjBER3BfeFNWLUc5RzJnZF95YjZDbGJmUUdjQ1FSTjBiamF6WEM2V0dEOTRhODlrOXphMFIzMDNEdmFmQ2p0aEVFcXJ3ek9rd25XeUhuS2k3bkt3QmtLblVubHJET0dIT3ZobXRzMkNnck9QZkt4TDQxUXhRVGszRGZDazU5bUZOVmdGdlhhY3Rkd2VRcnJGWmN6aFdWY1ltQ2pCVHkwcHo?oc=5",
-      "s": -3
-     },
-     {
-      "t": "Stock Of The Day Buy Axis Bank Futures: SL 1380 Tgt 1415, 1430, 1445 After correction Axis bank near strong support level Buy L&T Fin Futures: SL 268 Tgt 276, 279, 283 After correction L&T Fin near strong support level Sell Polycab Futures: SL 7600 Tgt 74 - Facebook",
-      "l": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZmMxNnpLMFNZYnFveVhqdUtjWVZlRnRlbi1aTWpfRDNneWZRMllkc2FOU0Q5aGJDd2NMTGJaam0wa3ctM0xPcjN0R2lvRTF6SzRWNGZQWGhoaWVIOTkzVkhvQ29mN0ZiWXRDcmNaTkNkX0N0Y29BaUM3cGlZbFVkTjVELXBnY1M1V1AwVkxCZTFSMVBIU3Y5SEpZT0xiOC1IdHJPRTc4Wm01dUF2N3BySFRYNU5GNllxVmQ0YThWdEVOQTRsLTNsdFlFMlZRU2Z4TzBLRXlCcFU4U0lwYTY2WjZn?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "TATASTEEL",
-    "score": -4.0,
-    "signal": "AVOID/SELL",
-    "price": 159.3,
-    "chg": -2.27,
-    "volx": 4.29,
-    "above20": false,
-    "news": [
-     {
-      "t": "APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows",
-      "l": "https://www.business-standard.com/markets/news/apl-apollo-crashes-29-since-tata-steel-deal-sg-mart-sg-finserve-hit-lows-126112500175_1.html",
-      "s": -3
-     },
-     {
-      "t": "APL Apollo Tubes shares end nearly 12% lower, crash 30% in two sessions amid Tata Steel deal concerns - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOFU2OVVZNnlsTm9JLTlCSm5MakpuWXh6ZDNCdWlsZUd5eF9UYzU0STBQNzFfbGZLdmtmV3B2dU9pWUJyNWEzLUktdTJtdi1XTzRoNkNKNFJrLVh3S0lFaExqVVBQWDFTd2NZYms0c3U5dDhjSGxueVBTcHJfdVBpZ1BXYVNnLTFmMy0zaGFUWDZaN2dFU1ZQT3p5cWlPZEs5a1E5Zm1ra0hZLXRkUzRNc0ViNndmbXV5dXRfTndTMnl4VERuUnhhM0tJTlpTd3VGeDVqQm9FcjZXdTZ2MGNUUzRuYWkzZ2w0a1RhOTNCS0N3ODlLcDdjNzMxamfSAYICQVVfeXFMT0VTbC0xNVhhNjRtVzczcUZ2bDdfbTdtRmRKYkdEc0d3akdPTW1OaHlBanFNVHBQaVVDdU5pZzNsalJQVzRmQmtMd2lUYUZMZVp1anctbW50T3FxLTNMb0kwSE0zamt5cEp0MDVtbGtJYjN0SFlNQ2FoUUNOUDc0TEh6U3dySDNNTnNzOE9MSlREdGlYY0x0UU01MmhMWjBwNDlaZVhPWE5CclhmZXUzem1QLVlFZWRBMG5Rc185cnNJNl84N0d3aDN5N0JqN2lRMWNHSE1lbkpnX09DT3Q3VU1sQjk0c0ZUbUE1dlRhNjVKX2tudW1UbnZQQlQ5eFJiUTFR?oc=5",
-      "s": -3
-     },
-     {
-      "t": "APL Apollo Plunges 20% To 52-Week Low: Is The Rs 28,000-Crore Tata Steel Deal Too Expensive? - NDTV Profit",
-      "l": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOY3JORllxSmYxM0ppUjBjejJrVkQ3MVJCbjh1c0NHRVZ2bkZmYTNZd2RGV3Jud3ZrX1RhYWkzeXJUXzZSdThHNTBiMkhmLVIwVF9LTUo1bWJ4SHB6MC0xRzJsV2JsaVY2dzNWUVZlZTgtbmtaOGRXX2RLRW84NmxoZVkzN3FtaXVWOW9XcHNvRFZxR0FTZllvdURCTnlReDNGZ2JQNHYxVDJOYklBcWRwbll4NEhvUlNIT1pUS0pxMGt2ajY4dE5hWmNjekhHd2MzWFlpZV85NVlHcTBBYjVUZEprZVdrNENrRWpHMVJIb2xVQlRzODBqMWtKbkJvMHJReDhsbXZQa0R0QdIBkgJBVV95cUxQckxEeGRBaEh5TzBsemJlcVR6U21OcWplbF9GaFJ0ZnhtU3Y1UkJPV19UMHBJdnU1NnFOZWZFUzBLQW9kVlV3SUk4UTh0UXdZRk1vbFBCQ2tBbVZDbDYyaGRMTE1MNnFJY1h3ZnFyZW5GNzB4UXhsLVhFZ2hjRXNTdVhoQVVFMXd1clN2eVItM3RtS0hucldMM2Z0azgwM2xIZ2N1UHktd0FwTzQ1eWFjVU5IYWRaMFlHQWN6aEtsMFR0cVNjb0VsYmRqYThsMVhNd3JsV281bVJGbHJrdTkycFRGM2N6WG15U3hVSzBDdlFPYXZDd09rR0NrMzhwcW9yRlRVYTBkcWtHZjd4UHl5ZVRB?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "BANKINDIA",
-    "score": -3.7,
-    "signal": "NEG NEWS, price holding",
-    "price": 159.89,
-    "chg": 0.55,
-    "volx": 0.76,
-    "above20": true,
-    "news": [
-     {
-      "t": "Central Bank of India accepts resignation of company secretary - scanx.trade",
-      "l": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3hHQWRSc3NVejFnQlk2TnhXVm9pVnIzSC1IcHg2R2lxRFJSQmpWTF9fd2laMFlVUFlqUFJ0c183QlBVV0RJSGQyQmtFOUdhYW1oQ2lUVlhOVVZZcVFvZ2sycjVxZzhjaHZvbmk3WWtRTDh4cTk3Wkgya08wRF9hZlQyNEV1SVhlRWpBTGRwa09QRlJnRGE2eFJNbU9lQmNraWV0R2RCN0VlR2IyQmMzbXk2QQ?oc=5",
-      "s": -5
-     }
-    ]
-   },
-   {
-    "symbol": "INDUSINDBK",
-    "score": -3.5,
-    "signal": "NEG NEWS, price holding",
-    "price": 973.7,
-    "chg": 1.11,
-    "volx": 0.46,
-    "above20": true,
-    "news": [
-     {
-      "t": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-25-nov-2026/liveblog/136148240.cms",
-      "s": -3
-     },
-     {
-      "t": "IndusInd Bank Share Price Recovers Slightly After Monday's Selling; NSE Nifty up by 1.66 Percent - TopNews",
-      "l": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT09KbWR6eDVUN1E4X2VrQk5zMDFHVHlQMzkwMHJMaFZ5Mm50blpkVkg0ZWRGV0RfQ3ZQbno2WV9vcXJlQ2xKdjFoc3QyOWZIckhoMEdLblFPM2Zuai1wdkJIQVQxMFZSYlc4QjFOem5BcnpocndsWG5HTDE0ajA0c3lybXRiMUtGM0F5Y1g0Rnp3WV8zQmxZYmtqWVBSU015Z093ZGxwQndXYnV0YjlBdlFtZ3g?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "HDFCBANK",
-    "score": -3.0,
-    "signal": "NEG NEWS, price holding",
-    "price": 846.2,
-    "chg": 3.47,
-    "volx": 1.18,
-    "above20": true,
-    "news": [
-     {
-      "t": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
-      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-25-nov-2026/liveblog/136148180.cms",
-      "s": -3
-     },
-     {
-      "t": "HDFC Bank, ICICI Bank, Axis Bank shares surge; banking index zooms 18% in a month: What should investors do? - Business Today",
-      "l": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZ3pRUnk4N3BIV0RDbjBPQnM1bGVFY0UxdkVIWXlnZDNNbmJFdkVFZjl4UndxQjc1Wkt6eF9XX1Rsa2RQeURCa1MwUGpGenVCaVdYZHdtdWphekRRUjc4VDUzeVJNNFRXTmNmenM4NkpSYUpTRnY2NmhYWVZINFBvekR0dUltV193T3FjaDBMaFVkei01anBzdzBqVXdsNnBEeG5Rc3VBenAxdV9yTGtaT3V3djFIWEpuek9iOHhGY2dlYU1raElVcEMwMllFQkd4WmdRQWlfOVNEU0cyR2hjdk91ODhnaVBBR281WkpfdlNLam5VeVhubWVpZ3JiR1nSAYQCQVVfeXFMTkxUSUd3bTVCY1lkc1BvTVAwdFppdFo1V1JIV3lTTXNpcGlxeGQ4YkhKdFRhZFRQMmF3QTdJWTN2b0RwOWt4dk1xSzR0WWx4aF9pY3dWc3ZwLVg4RTN2bXNIMTk2RjBER3BfeFNWLUc5RzJnZF95YjZDbGJmUUdjQ1FSTjBiamF6WEM2V0dEOTRhODlrOXphMFIzMDNEdmFmQ2p0aEVFcXJ3ek9rd25XeUhuS2k3bkt3QmtLblVubHJET0dIT3ZobXRzMkNnck9QZkt4TDQxUXhRVGszRGZDazU5bUZOVmdGdlhhY3Rkd2VRcnJGWmN6aFdWY1ltQ2pCVHkwcHo?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "HINDZINC",
-    "score": -2.1,
-    "signal": "AVOID/SELL",
-    "price": 519.7,
-    "chg": -1.75,
-    "volx": 1.0,
-    "above20": false,
-    "news": [
-     {
-      "t": "Hindustan Zinc, MCX shares fall up to 2% as silver prices crash to 14-month low - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTUEyM3pQRk5YMWNMUE9udndRcE03aTBJSUFLVlpoODhkTzNrcUFja19Gd3JsZGFUZF9iSWtjOEJzODltUVIxb1c3aFpfdndGOTBLODZib0FKTDZkaWhMWWFFeVhIemV1U3BhUmNpTFY3TVNLZEx4a2w5b0Yzc3NmSDBQZHk0MzI4c0dFVlFLcXZlQ3JIc3BscFctX0JsRm1RTjVjT215ZEloMExldUhGRjR0Tjl2VXQzbUxKRTdVeWdBS1VVTmxkSk1Jc1d6c1E1cGlTV1B2NkNWZ9IB3wFBVV95cUxPM3RUYUNyVGZvTmZBYjJfRU5DS0FoblczcUFhSGNwY3laaF9hdHFGZEg2VXZ0RXI2aDdZdXdfS21DSmVLTjdsTUl6eGVWMUlPT2MtQVRucUpLbXJNVDlwdjZHWGllM0FVOHRtY0EtYWlqeWdRbkU4X2tEX1JSdGVoQ092SnlNclA1cUl2V1VLQnUtMjIxX3RJRGdSOEozeHFBVkFGa2s3OWhxVEl4YVpZWjV3ZTlKdXFCSDE5UHNqUzE4Y2hoRk5NMk10LWRiRFF5RGV3ajNOVW9WYUhhbXpr?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "APLAPOLLO",
-    "score": -1.3,
-    "signal": "NEUTRAL",
-    "price": 1476.0,
-    "chg": -11.62,
-    "volx": 20.48,
-    "above20": false,
-    "news": [
-     {
-      "t": "APL Apollo Tubes shares end nearly 12% lower, crash 30% in two sessions amid Tata Steel deal concerns - Moneycontrol.com",
-      "l": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOFU2OVVZNnlsTm9JLTlCSm5MakpuWXh6ZDNCdWlsZUd5eF9UYzU0STBQNzFfbGZLdmtmV3B2dU9pWUJyNWEzLUktdTJtdi1XTzRoNkNKNFJrLVh3S0lFaExqVVBQWDFTd2NZYms0c3U5dDhjSGxueVBTcHJfdVBpZ1BXYVNnLTFmMy0zaGFUWDZaN2dFU1ZQT3p5cWlPZEs5a1E5Zm1ra0hZLXRkUzRNc0ViNndmbXV5dXRfTndTMnl4VERuUnhhM0tJTlpTd3VGeDVqQm9FcjZXdTZ2MGNUUzRuYWkzZ2w0a1RhOTNCS0N3ODlLcDdjNzMxamfSAYICQVVfeXFMT0VTbC0xNVhhNjRtVzczcUZ2bDdfbTdtRmRKYkdEc0d3akdPTW1OaHlBanFNVHBQaVVDdU5pZzNsalJQVzRmQmtMd2lUYUZMZVp1anctbW50T3FxLTNMb0kwSE0zamt5cEp0MDVtbGtJYjN0SFlNQ2FoUUNOUDc0TEh6U3dySDNNTnNzOE9MSlREdGlYY0x0UU01MmhMWjBwNDlaZVhPWE5CclhmZXUzem1QLVlFZWRBMG5Rc185cnNJNl84N0d3aDN5N0JqN2lRMWNHSE1lbkpnX09DT3Q3VU1sQjk0c0ZUbUE1dlRhNjVKX2tudW1UbnZQQlQ5eFJiUTFR?oc=5",
-      "s": -3
-     }
-    ]
-   },
-   {
-    "symbol": "ETERNAL",
-    "score": -1.1,
-    "signal": "NEUTRAL",
-    "price": 371.7,
-    "chg": 2.65,
-    "volx": 1.24,
-    "above20": true,
-    "news": [
-     {
-      "t": "ICICI Bank, Titan, Eternal: BofA Names 11 Stocks For India's Consumption Revival - NDTV Profit",
-      "l": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVDFkUjk4ZVdXOXR3Z1hybnNLTTZxZ01kc0hndi1sd3ZrRTZGU3RzT1RvSDN6TDVXTHJ5SjR6VnIzcVVSNE9mTHk3QlBJcTNya1NSWDRzbXhNUWFvYURVblJyODY5SDJTNmc3VWFqLW1ZYzJTdzhoeWpIMHN6cGlRSm5raDIxSjhpclRpbFVWLWp5ZmhTRnVmU2pFSE1fX0ltV3U1bmZsZDg1SEszMjRXSTBjTlpHdjN4RGxDcUpjNFY2UmIzWDhDeGJpMWJVWUM1dHR0azJnNWpqbko4bXJZek5DY1RBdjFZWHc4NHFqNWU0ZFcxNUhqNFduNDktU25HMUxkSW1OVThkVlZ2Q0xN0gGXAkFVX3lxTE1vMmlOZEJvZ1ZGclk1NVlkUEJMdE05RzhZV1hCWC1RM1hqU0haMVF2Y0M4eW9Ka1BzWkhmalAzOWxwa0NaZmZqbnpLcnBJS2JiV0pPZmkwM1NsQmx6bWhOMWdWcU1VaHNBOFhjYXdXTFhhZTAyTW01TTBLUHEzQTNTREV0djdYRDNNOEx6aFQ5Q0U1UTV3MWJTR0xNSjVNUnVQeFBfMi1DMzJacGh3V0YtY3VrckNkUFFselpsb0FoU1BWLUEtemVzU0E2U3RKcVpTal9lcXBTZmJBaW9LX2dtemZKWmdGc2JuU3dJQlg5V1dSaG9paE9BUGhTSlRyYndOTE1mUjRhWVZGUWNCOWN4R0pVRmlFVQ?oc=5",
+      "l": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-26-nov-2026/liveblog/136178746.cms",
       "s": -3
      }
     ]
